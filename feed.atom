@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T16:14:34.246Z</updated>
+    <updated>2021-07-09T17:17:39.433Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[免税利用の入国者報告を要請　14日間待機違反で厚労省(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a482fce74b607416a6b7ffefe5383041053aeb3e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a482fce74b607416a6b7ffefe5383041053aeb3e?source=rss"/>
+        <updated>2021-07-09T17:00:01.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナの水際対策で政府が求める入国後14日間待機を巡り、厚生労働省が免税制度が利用できる全国のドラッグストアなどに対し、利用客のパスポート記載の入国日を確認してもらい、待機期間中と分かれば同省に]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愛知県図書館で学校の記念誌など５８冊切り取られる　(CBCテレビ)]]></title>
         <id>https://news.yahoo.co.jp/articles/ba77bd3031f10fe4439a5e53ddec2857d4ca3e27?source=rss</id>
@@ -1050,6 +1060,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[トイレの花子さんは3回ノックして呼びかけたら出てくるけど2回目でやめたらどうなるの？→デバッガーの皆さんが花子さん発動条件を検証し始める - Togetter]]></title>
+        <id>https://togetter.com/li/1742620</id>
+        <link href="https://togetter.com/li/1742620"/>
+        <updated>2021-07-09T11:13:29.000Z</updated>
+        <summary type="html"><![CDATA[真弓創 @nofun1978 「女子トイレの一番奥の扉を３回ノックして、花子さん遊びましょって３回言うと花子さんが出て来るんだけど、順番や制限時間は定められていないの。２回ノックして３回名前を呼んで放置しておけば、誰かが扉を１回ノックしただけで花子さんが出てくるってわけ」 「デバッカーみたいなことをするな」 2...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[7月のサンダル最旬ガイド【前編】(GQ JAPAN)]]></title>
         <id>https://news.yahoo.co.jp/articles/55aaedbdd5aec533a8ab7613a1c7a3144bca13a3?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/55aaedbdd5aec533a8ab7613a1c7a3144bca13a3?source=rss"/>
@@ -1384,6 +1404,16 @@ AV機器やキッチン家電、ゲームソフトなど様々なアイテムが
         <summary type="html"><![CDATA[ソニーは、独自の立体音響技術「360 Reality Audio」に対応するワイヤレススピーカー「SRS-RA5000」について、予想を大幅に上回る注文が入っているため納期が長くなっていることを発表し]]></summary>
         <author>
             <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「USB3.0」「USB3.1（Gen1）」「USB3.2（Gen1）」は“名前が違うだけで同じ規格”　バッファロー「お客さまの困惑は知っている」 - ねとらぼ]]></title>
+        <id>https://nlab.itmedia.co.jp/nl/articles/2107/06/news107.html</id>
+        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/06/news107.html"/>
+        <updated>2021-07-09T10:36:34.000Z</updated>
+        <summary type="html"><![CDATA[「USB3.2だと思って購入したのに、パッケージにUSB3.0と書いてあったから返品した」――。AmazonでUSBハブを購入しようとすると、こんな低評価レビューを見かけます。 ところが、PC周辺機器メーカーのバッファローによると「USB3.0」「USB3.1（Gen1）」「USB3.2（Gen1）」は“名称が違うだけで同じ規格”であり、“通信速度や...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -2282,6 +2312,16 @@ PC周辺機器のサンワダイレクトから、下に長～いエクセルや
         <summary type="html"><![CDATA[新横浜駅で発生した人身事故の影響で、東海道新幹線は東京～静岡駅間、静岡～新大阪駅間の上り線(東京方面行)の運転を見合わせていましたが、18:28頃、運転を再開しました。なお、ダイヤが乱れています。]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融機関に“働きかけ”要請「お願いしないことに」官房長官 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210709/k10013130101000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210709/k10013130101000.html"/>
+        <updated>2021-07-09T09:38:40.000Z</updated>
+        <summary type="html"><![CDATA[飲食店に対する酒の提供停止などの要請をめぐり西村経済再生担当大臣が、金融機関に事業者への働きかけを行ってもらう考えを示したことについて、自民党の森山国会対策委員長は、9日午後、林幹事長代理とともに、総理大臣官邸を訪れ、加藤官房長官と会談しました。 この中で、森山氏らは「大臣の発言は非常に重いものな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
