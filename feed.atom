@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T18:12:23.938Z</updated>
+    <updated>2021-07-09T19:07:16.857Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県薩摩地方で　線状降水帯による非常に激しい雨(tenki.jp)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2b037a9083a79f80f72129c0820b819f469b03f3?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2b037a9083a79f80f72129c0820b819f469b03f3?source=rss"/>
+        <updated>2021-07-09T19:00:11.000Z</updated>
+        <summary type="html"><![CDATA[10日、鹿児島県薩摩地方では、「線状降水帯」によって、非常に激しい雨が同じ場所で降り続いています。命に危険が及ぶ土砂災害や洪水による災害発生の危険度が、急激に高まっています。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県に「線状降水帯」発生　1時間約120ミリの猛烈な雨で「記録的短時間大雨情報」も発表　身の安全を図る行動を(ウェザーマップ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c351e1d644e102080a57ccb8984ec34afdbf737d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c351e1d644e102080a57ccb8984ec34afdbf737d?source=rss"/>
+        <updated>2021-07-09T18:57:05.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県の薩摩地方では、『線状降水帯』による非常に激しい雨が同じ場所で降り続いている。命に危険が及ぶ土砂災害や洪水による災害発生の危険度が急激に高まっているとして、気象庁は、午前3時半頃に「顕著な大雨]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県に記録的短時間大雨情報 120ミリの大雨も…(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/22669cfae8954df072c4499cd31ad77aa12569e0?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/22669cfae8954df072c4499cd31ad77aa12569e0?source=rss"/>
+        <updated>2021-07-09T18:51:27.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は鹿児島県に記録的短時間大雨情報を出しました。
+
+　さつま町付近で10日午前3時15分までの1時間に約120ミリの大雨が降っているとみられます。
+
+　災害の発生につながるような猛烈な雨です。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県に顕著な大雨に関する気象情報(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/bef9d36129adbeabcfe1b13b4c594e9a65d7702e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/bef9d36129adbeabcfe1b13b4c594e9a65d7702e?source=rss"/>
+        <updated>2021-07-09T18:50:18.000Z</updated>
+        <summary type="html"><![CDATA[10日午前3時29分、気象庁が鹿児島県に顕著な大雨に関する情報を発表しました。
+
+　鹿児島県では、線状降水帯による非常に激しい雨が同じ場所で降り続いていて、命に危険が及ぶ土砂災害や洪水による災害発生]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県で線状降水帯による大雨 災害発生に厳重警戒(ウェザーニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3521a48789d7854b3f2766329d98adedaea503a3?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3521a48789d7854b3f2766329d98adedaea503a3?source=rss"/>
+        <updated>2021-07-09T18:40:58.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県では雨が降り続き、大雨災害発生の危険性が高まっています。
+
+鹿児島地方気象台は今日10日(土)3時29分に、薩摩地方で線状降水帯による非常に激しい雨が同じ場所で降り続いているとして「顕著]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県で一時間約120ミリ「記録的短時間大雨情報」(tenki.jp)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a17895ccc969a13bf1cbd59803090321b4628934?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a17895ccc969a13bf1cbd59803090321b4628934?source=rss"/>
+        <updated>2021-07-09T18:38:05.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県さつま町付近では、10日3時までの1時間に約120ミリの猛烈な雨が降ったとみられ、「記録的短時間大雨情報」が発表されました。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県で1時間に約120mmの猛烈な雨　記録的短時間大雨情報(ウェザーニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d78d60bdd6f84d0317d62442eb2af41ee3cd71fe?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d78d60bdd6f84d0317d62442eb2af41ee3cd71fe?source=rss"/>
+        <updated>2021-07-09T18:23:37.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県で局地的に雨が強まっています。
+
+気象庁は、さつま町付近で3時00分までの1時間に約120mmの猛烈な雨が降ったとみられるとして、記録的短時間大雨情報を発表しました。
+
+鹿児島県付近では今日1]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〔記録雨〕鹿児島県(奄美地方除く)さつま町付近で1時間に約120mmの猛烈な雨か(7/10)(レスキューナウニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/657b330cf3fa11a625015cfe40516ebdefdd1787?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/657b330cf3fa11a625015cfe40516ebdefdd1787?source=rss"/>
+        <updated>2021-07-09T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[気象庁のレーダー解析によると、10日03:00までの1時間に、鹿児島県(奄美地方除く)さつま町付近で約120mmの猛烈な雨が降った模様です。気象庁は鹿児島県(奄美地方除く)に記録的短時間大雨情報を発表]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為替相場　　10日（日本時間　3時）(共同通信)]]></title>
         <id>https://news.yahoo.co.jp/articles/67c3282d14daa62b32d54aebe72d4ea9d32dc198?source=rss</id>
@@ -1746,6 +1838,16 @@ AV機器やキッチン家電、ゲームソフトなど様々なアイテムが
         <summary type="html"><![CDATA[ブガッティ東京から、ブガッディ「シロン ノワール」が、2名の特別なカスタマーにデリバリーされた。]]></summary>
         <author>
             <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シティポップの世界的ブームの背景 かれらの日本という国への目線 - インタビュー : Kompass（コンパス） ミュージックガイドマガジン by Spotify&CINRA]]></title>
+        <id>https://kompass.cinra.net/article/202107-citypop_ymmts</id>
+        <link href="https://kompass.cinra.net/article/202107-citypop_ymmts"/>
+        <updated>2021-07-09T10:10:02.000Z</updated>
+        <summary type="html"><![CDATA[シティポップの世界的ブームの背景 かれらの日本という国への目線 テキスト・編集 山元翔一（CINRA.NET編集部） イラスト：アボット奥谷 「シティポップ」にまつわる言説はとても複雑だ。そもそも音楽的な定義が曖昧で、その反面なんとなくの風景やビジュアル、イメージを想起させてしまう言葉の魔力も理由としてあるだ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
