@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.asahi.com/articles/ASP794G71P79UTFL002.html",
+          "author": null,
+          "description": "田村憲久厚生労働相は9日の閣議後会見で、緊急事態宣言下で開く東京オリンピックについて「コロナと闘う五輪にしていきたい」と話した。これまで政権は五輪を「ウイルスに打ち勝った証し」（菅義偉首相）などと位置づけてきたが、開幕直前になっても東京で感染が拡大し、日常生活を制限する宣言を出すまでに至った状況を...",
+          "link": "https://www.asahi.com/articles/ASP794G71P79UTFL002.html",
+          "publishedOn": "2021-07-09T05:34:56.000Z",
+          "wordCount": 213,
+          "title": "ウイルスに打ち勝った証し→コロナと闘う五輪に　厚労相 [新型コロナウイルス]：朝日新聞デジタル"
+        },
+        {
           "id": "https://nordot.app/786081204047101952",
           "author": null,
           "description": "西村康稔経済再生担当相は9日の閣議後記者会見で、酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう方針について、真面目に取り組んでいる事業者との「不公平感の解消」のためだと説明し、発言を撤回しなかった。立憲民主党の安住淳国対委員長は「単に脅して締め付けようとしている。国民...",
@@ -29,6 +38,15 @@
           "publishedOn": "2021-07-09T04:34:05.000Z",
           "wordCount": 42,
           "title": "西村氏、不公平解消が目的　酒提供で金融機関要請 ｜ 共同通信"
+        },
+        {
+          "id": "https://www.sankei.com/article/20210709-CW77C5TWTJO4NEBLBAVC2JAF2E/",
+          "author": null,
+          "description": "西村康稔経済再生担当相（春名中撮影）西村康稔経済再生担当相は９日の記者会見で、新型コロナウイルス特別措置法に基づく休業命令などに応じない飲食店に関し、融資元の金融機関を通じて働きかけるとの方針に関して「金融機関には引き続き事業者の資金繰り支援に万全を期してもらうということで、何度もわれわれは要請...",
+          "link": "https://www.sankei.com/article/20210709-CW77C5TWTJO4NEBLBAVC2JAF2E/",
+          "publishedOn": "2021-07-09T03:06:10.000Z",
+          "wordCount": 54,
+          "title": "西村担当相「融資制限の趣旨ではない」 - 産経ニュース"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210709/k10013129001000.html",
@@ -343,6 +361,141 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/75bfe5638f91cb03ba2db858dd909940fbbad792?source=rss",
+          "author": null,
+          "description": "パスチャーは、「TikTokとInstagramリールの比較」に関する調査結果を発表した。10代～20代女性を中心に約1万2千人から回答を得ている。\n\n「TikTok」は動画投稿型のSNSアプリで、累",
+          "link": "https://news.yahoo.co.jp/articles/75bfe5638f91cb03ba2db858dd909940fbbad792?source=rss",
+          "publishedOn": "2021-07-09T07:06:10.000Z",
+          "wordCount": 72,
+          "title": "10代～20代女性の「TikTokとInstagramリールの使い分け」、“暇つぶし視聴派”が多いのはTikTok【パスチャー調べ】(Web担当者Forum)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a0b5349c42bdfb63eb084cbbef646ff350fc3ad8?source=rss",
+          "author": null,
+          "description": "「新車の契約破棄にやって来た少女の話」と投稿された漫画が話題です。2人のお子さんを育てながら漫画家デビューを目指すみこまるさん（@micomalu）がTwitterに漫画を投稿したところ、250回近く",
+          "link": "https://news.yahoo.co.jp/articles/a0b5349c42bdfb63eb084cbbef646ff350fc3ad8?source=rss",
+          "publishedOn": "2021-07-09T07:04:49.000Z",
+          "wordCount": 86,
+          "title": "「こんな車いりません」とお怒りの小学生の女の子。 その理由に「わかる…」と共感の嵐。(BuzzFeed Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ecd8269d9a3dc8713bf7b52ecbc532d40abca466?source=rss",
+          "author": null,
+          "description": "7月8日電通グループと、三井住友フィナンシャルグループ（以下、SMBCグループ）は、金融ビッグデータを活用した広告・マーケティングサービス事業を営む合弁会社「SMBCデジタルマーケティング」を設立し",
+          "link": "https://news.yahoo.co.jp/articles/ecd8269d9a3dc8713bf7b52ecbc532d40abca466?source=rss",
+          "publishedOn": "2021-07-09T07:01:27.000Z",
+          "wordCount": 96,
+          "title": "電通グループと三井住友フィナンシャルグループ、合弁会社「SMBCデジタルマーケティング」設立(MarkeZine)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ff9ae2893675a3a9e12edbe684bef3bedf1c6b5d?source=rss",
+          "author": null,
+          "description": "現在利用中のPCが「Windows 11」へアップグレードできるかどうかをチェックしてくれるツール「ReadySunValley」が、7月4日にv0.20.2へとアップデートされた。このバージョンで",
+          "link": "https://news.yahoo.co.jp/articles/ff9ae2893675a3a9e12edbe684bef3bedf1c6b5d?source=rss",
+          "publishedOn": "2021-07-09T07:00:00.000Z",
+          "wordCount": 91,
+          "title": "「Windows 11」へ更新できない原因を調査する「ReadySunValley」、UIを一新(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0155bc8511cbb189e13b68a4a339d48a8d54219a?source=rss",
+          "author": null,
+          "description": "アバーメディア・テクノロジーズは4Kウェブカメラ「LIVE STREAMER CAM 513（PW513）」を発売する。",
+          "link": "https://news.yahoo.co.jp/articles/0155bc8511cbb189e13b68a4a339d48a8d54219a?source=rss",
+          "publishedOn": "2021-07-09T07:00:00.000Z",
+          "wordCount": 87,
+          "title": "AVerMedia、ソニー製撮像素子を搭載した4K高画質ウェブカメラ「LIVE STREAMER CAM 513」発表(アスキー)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5ce57833f26afb6e4e095b72f3aff539df3658c7?source=rss",
+          "author": null,
+          "description": "エムエスアイコンピュータージャパンは7月9日に、「ゴジラ」とのコラボレーションモデルとして、NVIDIA GeForce RTX 3070を搭載したグラフィックスカード「GeForce RTX 30",
+          "link": "https://news.yahoo.co.jp/articles/5ce57833f26afb6e4e095b72f3aff539df3658c7?source=rss",
+          "publishedOn": "2021-07-09T07:00:00.000Z",
+          "wordCount": 140,
+          "title": "MSIとゴジラがコラボ！　1000本限定で「GeForce RTX 3070 SUPRIM SE 8G LHR × GODZILLA」を発売(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cb75f1e0f8aa053e5ae7139f55b760ee04ff66b2?source=rss",
+          "author": null,
+          "description": "日本情報通信（NI＋C）は7月9日、国の「地方創生人材支援制度」と「地域活性化起業人制度」を活用して、長野県駒ヶ根市と「行政デジタル推進」の協力・連携に関して合意し、デジタル技術に係る専門人材の派遣",
+          "link": "https://news.yahoo.co.jp/articles/cb75f1e0f8aa053e5ae7139f55b760ee04ff66b2?source=rss",
+          "publishedOn": "2021-07-09T06:55:00.000Z",
+          "wordCount": 80,
+          "title": "NI＋C、長野県駒ヶ根市と行政デジタル推進で連携(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a0230ce172bb4a0531754c7cba5dbf0472b28353?source=rss",
+          "author": null,
+          "description": "メディロムは、24時間365日充電不要の活動量計「MOTHER Bracelet」の先行予約をクラウドファンディングサイト「Makuake」で開始した。\n\n　本製品は、健康状態を把握する上で重要な5",
+          "link": "https://news.yahoo.co.jp/articles/a0230ce172bb4a0531754c7cba5dbf0472b28353?source=rss",
+          "publishedOn": "2021-07-09T06:47:00.000Z",
+          "wordCount": 89,
+          "title": "体温で発電、24時間365日充電不要の活動量計「MOTHER Bracelet」(CNET Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/37cd6cf8bf770c0ef7eb00c8cf898e37e8e4969f?source=rss",
+          "author": null,
+          "description": "2021年7月9日、カプコンの新作RPG『モンスターハンターストーリーズ2　～破滅の翼～』［Nintendo Switch／PC（Steam）］が発売した。それを記念して、発売記念の「カプコンTV！特",
+          "link": "https://news.yahoo.co.jp/articles/37cd6cf8bf770c0ef7eb00c8cf898e37e8e4969f?source=rss",
+          "publishedOn": "2021-07-09T06:45:00.000Z",
+          "wordCount": 191,
+          "title": "『モンハンストーリーズ2』本日発売！冒険に役立つ無料のアイテムパックも配信中(アスキー)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4968a2316b197faeb769586c109955944499b2db?source=rss",
+          "author": null,
+          "description": "JR東日本は、総武線新小岩駅南口旧駅舎の跡地に、地上6階建て「(仮称)新小岩駅南口駅ビル」の建設に着手する。7月中旬から2023年12月までの工期で、'23年冬の開業を予定する。\n\n建物の1・2階は商",
+          "link": "https://news.yahoo.co.jp/articles/4968a2316b197faeb769586c109955944499b2db?source=rss",
+          "publishedOn": "2021-07-09T06:37:33.000Z",
+          "wordCount": 76,
+          "title": "新小岩駅南口に新駅ビル。23年冬開業。商業・スポーツ・行政施設(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/00766e3e0c5f8f2464ae78d81244f329bd5ecab1?source=rss",
+          "author": null,
+          "description": "PCショップ「FRONTIER」を経営するインバースネットは7月9日、MSIと共同開発を行ったコラボ設計のゲーミングデスクトップPC「FRONTIER Powered by MSI」シリーズを発表、",
+          "link": "https://news.yahoo.co.jp/articles/00766e3e0c5f8f2464ae78d81244f329bd5ecab1?source=rss",
+          "publishedOn": "2021-07-09T06:31:09.000Z",
+          "wordCount": 107,
+          "title": "インバースネット、MSI製パーツを採用したコラボ設計のゲーミングデスクトップPCを発売(ITmedia PC USER)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f982e4374da3a3279eda6974ab0bbb7452785744?source=rss",
+          "author": null,
+          "description": "TISは、5Gを含めた新技術の研究・実証のための共創型ラボと最新デジタル技術を体感できる場所としてラボとショールームで構成される「TIS DIGITAL Innovation Center」を豊洲オ",
+          "link": "https://news.yahoo.co.jp/articles/f982e4374da3a3279eda6974ab0bbb7452785744?source=rss",
+          "publishedOn": "2021-07-09T06:30:00.000Z",
+          "wordCount": 82,
+          "title": "TIS、ビジネス共創を促進するラボ・ショールームをオープン(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b990608f890b645a27d9450d3b69afcca574687a?source=rss",
+          "author": null,
+          "description": "アシックスジャパンは、子ども靴「SUKU2（スクスク）」シリーズから、ポケモン公式ベビーブランド「モンポケ」のピカチュウをイメージした「monpoké（モンポケ）コレクション」を、アシックスオンライ",
+          "link": "https://news.yahoo.co.jp/articles/b990608f890b645a27d9450d3b69afcca574687a?source=rss",
+          "publishedOn": "2021-07-09T06:30:00.000Z",
+          "wordCount": 92,
+          "title": "アシックス、ピカチュウとコラボした子ども靴　脱ぎ履きしやすい1本ベルト(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6ab992fe23387e7fc8f7aacdb7704d55ced547d5?source=rss",
+          "author": null,
+          "description": "ディースリー・パブリッシャーは、2021年7月15日発売予定の『地球防衛軍2 for Nintendo Switch』の特典紹介ムービーを7月8日に公開した。映像では、初回特典や店舗特典などをプレイシ",
+          "link": "https://news.yahoo.co.jp/articles/6ab992fe23387e7fc8f7aacdb7704d55ced547d5?source=rss",
+          "publishedOn": "2021-07-09T06:25:00.000Z",
+          "wordCount": 184,
+          "title": "『地球防衛軍2 for Nintendo Switch』の購入特典紹介ムービーを公開！(アスキー)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0fe44a1e0c155b1dc4e3742aa3d80548ceb63b62?source=rss",
+          "author": null,
+          "description": "NTTコミュニケーションズ（NTT Com）と三菱UFJニコスは、NTT Com開発のAI対話型エンジンを搭載したAI自動音声応答ソリューション「COTOHA Voice DX Premium」を三",
+          "link": "https://news.yahoo.co.jp/articles/0fe44a1e0c155b1dc4e3742aa3d80548ceb63b62?source=rss",
+          "publishedOn": "2021-07-09T06:09:00.000Z",
+          "wordCount": 96,
+          "title": "NTT Com、三菱UFJニコスが債権回収の電話応対業務にAI自動音声応答を導入(BCN)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/6bfbea1b226237567081bab39821040f7de892b4?source=rss",
           "author": null,
@@ -1026,6 +1179,240 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/0be21f392d2242f866985f14e40ada76d4f7cad0?source=rss",
+          "author": null,
+          "description": "「1年5か月ぶりに外で飲んだビールのおいしいこと！　思わず次の日も足を運んでしまいました。特典が使えるのは1日1回ですが、期間中は回数無制限なので、続けて行っても大丈夫なんです」",
+          "link": "https://news.yahoo.co.jp/articles/0be21f392d2242f866985f14e40ada76d4f7cad0?source=rss",
+          "publishedOn": "2021-07-09T07:05:07.000Z",
+          "wordCount": 71,
+          "title": "接種したらサービスを受けられる「ワクチン特典」　地域密着型に注目(NEWSポストセブン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/59b2095345da365b42dc17c6cf5f1adc97bc40a6?source=rss",
+          "author": null,
+          "description": "明日10日(土)の関東や東海は変わりやすい天気で、にわか雨があったり、日差しが届いたりとなります。\n\n日差しと暖かな空気で気温が上昇し、東京では今年一番の32℃まで上がる予想です。一方、急な雨の可能性",
+          "link": "https://news.yahoo.co.jp/articles/59b2095345da365b42dc17c6cf5f1adc97bc40a6?source=rss",
+          "publishedOn": "2021-07-09T07:04:45.000Z",
+          "wordCount": 70,
+          "title": "明日は日差し届き東京は今年一番の暑さ　急な雨にも注意(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e1aa5d49534d4cc3bc44b43aafe82b0035d06e3a?source=rss",
+          "author": null,
+          "description": "三重県四日市市の貸コンテナで拳銃の銃弾を所持したとして、暴力団幹部の男が逮捕されました。\n\n　愛知県警に逮捕されたのは、山口組弘道会傘下の暴力団幹部・白井富久容疑者(52)で6月、三重県四日市市内の",
+          "link": "https://news.yahoo.co.jp/articles/e1aa5d49534d4cc3bc44b43aafe82b0035d06e3a?source=rss",
+          "publishedOn": "2021-07-09T07:02:21.000Z",
+          "wordCount": 68,
+          "title": "貸コンテナから「拳銃の実弾」見つかる…4発所持した疑いで山口組弘道会傘下の暴力団幹部の男逮捕(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b23cd634b62e0a5f08c80e3e223f2a4483edc6b7?source=rss",
+          "author": null,
+          "description": "気象庁は9日、「エルニーニョ監視速報」を発表しました。エルニーニョ現象もラニーニャ現象も発生していない平常の状態であるとみられ、今後、秋にかけて平常の状態が続く可能性が高くなっています。",
+          "link": "https://news.yahoo.co.jp/articles/b23cd634b62e0a5f08c80e3e223f2a4483edc6b7?source=rss",
+          "publishedOn": "2021-07-09T07:00:32.000Z",
+          "wordCount": 85,
+          "title": "エルニーニョ監視速報　秋にかけて平常の状態が続く可能性が高い　日本への影響は(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/013504c860d4423cdde1bd080676b28e1db830a1?source=rss",
+          "author": null,
+          "description": "厚生労働省は9日、検疫所における滞在国・地域別の陽性検体数などの新型コロナウイルスの検査実績を更新した。6月20日から26日までの1週間の外国籍者の陽性検体数は、2週連続で増加した。総検体数に占める",
+          "link": "https://news.yahoo.co.jp/articles/013504c860d4423cdde1bd080676b28e1db830a1?source=rss",
+          "publishedOn": "2021-07-09T07:00:00.000Z",
+          "wordCount": 67,
+          "title": "外国籍コロナ陽性が2週連続で増加 - 厚労省が空港検疫の検査実績を更新(医療介護ＣＢニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/20f02bf17a881362ba7def91513958cbd0b80d64?source=rss",
+          "author": null,
+          "description": "愛知県豊橋市で9日午前、トラックが衝突した電柱が折れ、周辺の約400世帯が停電しました。\n\n　道路の方へ傾いた電柱…。2mほどの高さで折れていて、中の電線がむき出しになっています。\n\n　9日午前11",
+          "link": "https://news.yahoo.co.jp/articles/20f02bf17a881362ba7def91513958cbd0b80d64?source=rss",
+          "publishedOn": "2021-07-09T06:58:03.000Z",
+          "wordCount": 73,
+          "title": "2m程の高さで折れる…大型トラックが電柱に衝突 中の電線がむき出しに 周辺約400世帯一時停電(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ac635ffa03aa1c9b08512d636325632dc0eef437?source=rss",
+          "author": null,
+          "description": "中高年うつの増加や家庭崩壊、過労死、収入減、突然のポストオフや早期退職、リストラなど、頑張りすぎて心身ともにダメージを負ったり、いくら頑張っても報われない状況が常態化して久しい日本のサラリーマン。た",
+          "link": "https://news.yahoo.co.jp/articles/ac635ffa03aa1c9b08512d636325632dc0eef437?source=rss",
+          "publishedOn": "2021-07-09T06:55:02.000Z",
+          "wordCount": 69,
+          "title": "頑張りすぎない脳を作る3つのトレーニング法。「メタ認知」で無駄な頑張りに気づく(週刊SPA!)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7cf715051b088617948b8e85f23262686030d1e0?source=rss",
+          "author": null,
+          "description": "東京の温泉施設は若い客で溢れ、“空前のサウナブーム”といわれている。ブームをさらに加速させるかのごとく、新しいサウナも続々誕生している。そこで今回は「最高のサウナとは何か」を探るべく都内の銭湯を訪れて",
+          "link": "https://news.yahoo.co.jp/articles/7cf715051b088617948b8e85f23262686030d1e0?source=rss",
+          "publishedOn": "2021-07-09T06:54:03.000Z",
+          "wordCount": 77,
+          "title": "サウナは銭湯を救うのか？ 従来の半額の200円に設定。若いサウナー増加で売上アップ(週刊SPA!)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3936806db3717d662cf33dcbf917596120582f84?source=rss",
+          "author": null,
+          "description": "戦極MCBATTLE主宰・MC正社員が、MCバトルのシーンやヒップホップをビジネスやカルチャー面から語る本連載。\n\n　プレイヤーとして、そして大会のオーガナイザーとして、日本のMCバトルシーンを牽引し",
+          "link": "https://news.yahoo.co.jp/articles/3936806db3717d662cf33dcbf917596120582f84?source=rss",
+          "publishedOn": "2021-07-09T06:52:03.000Z",
+          "wordCount": 75,
+          "title": "スポーツ化と商業化の進むMCバトル。MC漢は社会に“コマ扱い”されないために「ヒップホップ連盟」の設立を目指す＜ダメリーマン成り上がり道＃45＞(週刊SPA!)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0629a225763c645b421a97ecbb684e8a032c0b89?source=rss",
+          "author": null,
+          "description": "梅雨前線の活動が活発な状態が続いています。明日10日(土)も西日本を中心に断続的に強い雨が降り、特に九州の東シナ海側では「線状降水帯」形成のリスクがあります。\nまた、梅雨前線は明後日11日(日)にかけ",
+          "link": "https://news.yahoo.co.jp/articles/0629a225763c645b421a97ecbb684e8a032c0b89?source=rss",
+          "publishedOn": "2021-07-09T06:51:18.000Z",
+          "wordCount": 70,
+          "title": "明日10日(土)は九州で「線状降水帯」形成のおそれ　大雨に厳重警戒(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b843c928edfdac7bbef8e3ac1a98e01d064f6e26?source=rss",
+          "author": null,
+          "description": "東京地検特捜部は9日、約1億3700万円を脱税したとして、法人税法違反などの罪で、人気アニメ「鬼滅の刃」の制作会社「ユーフォーテーブル」の近藤光社長（51）を在宅起訴し、法人としての同社を起訴した。",
+          "link": "https://news.yahoo.co.jp/articles/b843c928edfdac7bbef8e3ac1a98e01d064f6e26?source=rss",
+          "publishedOn": "2021-07-09T06:49:32.000Z",
+          "wordCount": 61,
+          "title": "「鬼滅の刃」制作会社社長を在宅起訴(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e333ce5925d608676e5515946b9bc12a6bd7c641?source=rss",
+          "author": null,
+          "description": "東京都の小池百合子知事は９日に都庁で開いた定例会見で、上野動物園で６月２３日に生まれたジャイアントパンダの双子の赤ちゃんは、１頭が雄で１頭が雌と判明したことを明らかにした。\n\n都によると、８日時点で雄",
+          "link": "https://news.yahoo.co.jp/articles/e333ce5925d608676e5515946b9bc12a6bd7c641?source=rss",
+          "publishedOn": "2021-07-09T06:48:21.000Z",
+          "wordCount": 59,
+          "title": "小池都知事、パンダの双子は「オスとメス」(サンケイスポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e39209c5d1491785abe0eb31012e91a565be4730?source=rss",
+          "author": null,
+          "description": "東京都の小池百合子知事は９日に都庁で開いた定例会見で、取り沙汰されている国政復帰について「頭の片隅にもありません」と否定した。\n\n自民党の二階俊博幹事長が今月、小池氏について「国会に戻るなら大歓迎」と",
+          "link": "https://news.yahoo.co.jp/articles/e39209c5d1491785abe0eb31012e91a565be4730?source=rss",
+          "publishedOn": "2021-07-09T06:44:25.000Z",
+          "wordCount": 60,
+          "title": "小池都知事、国政復帰は「頭の片隅にもない」(サンケイスポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/075b846769b41a4a549de0b3e6dc00aff3d02e4f?source=rss",
+          "author": null,
+          "description": "梅雨前線や暖かく湿った空気の影響で、7月に入り激しい雨が降りやすくなっています。この先はゲリラ豪雨による影響も心配です。\n\n道路が冠水してしまうと、普段通り慣れている道でも、危険な事態に陥ることがあり",
+          "link": "https://news.yahoo.co.jp/articles/075b846769b41a4a549de0b3e6dc00aff3d02e4f?source=rss",
+          "publishedOn": "2021-07-09T06:43:13.000Z",
+          "wordCount": 71,
+          "title": "いつもの道路に潜む危険　冠水時の注意点とは(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5b581e0867c48dee33e4307044a07d391f54c1ce?source=rss",
+          "author": null,
+          "description": "東海地方では、7月1日～8日までの雨量が、多くの地点で平年の7月(1か月)の雨量を上回りました。\n現在、東海地方は広い範囲で雨や雷雨となっています。この後も、雨の降り方に注意・警戒して下さい。",
+          "link": "https://news.yahoo.co.jp/articles/5b581e0867c48dee33e4307044a07d391f54c1ce?source=rss",
+          "publishedOn": "2021-07-09T06:39:16.000Z",
+          "wordCount": 83,
+          "title": "東海地方　平年の7月(1か月)の雨量を上回る地点が多数　現在、雷雲が通過中(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6704ec83b4819a7bd92458ee7f5949ef8650e089?source=rss",
+          "author": null,
+          "description": "東京都の小池百合子知事は９日、都庁で定例会見を開き、無免許の状態で人身事故を起こし都民ファーストの会を除名された木下富美子都議について「政治の信頼を欠くものにつながっていくのは残念」と話した。\n\n木下",
+          "link": "https://news.yahoo.co.jp/articles/6704ec83b4819a7bd92458ee7f5949ef8650e089?source=rss",
+          "publishedOn": "2021-07-09T06:39:09.000Z",
+          "wordCount": 61,
+          "title": "小池都知事、無免許疑いの都議に「残念」「新会派…驚いた」(サンケイスポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a7929bd1b360609c7a24d609e7d4b94a00b92179?source=rss",
+          "author": null,
+          "description": "大分県は9日、新たに3人の新型コロナウイルス感染を発表した。",
+          "link": "https://news.yahoo.co.jp/articles/a7929bd1b360609c7a24d609e7d4b94a00b92179?source=rss",
+          "publishedOn": "2021-07-09T06:38:10.000Z",
+          "wordCount": 63,
+          "title": "【速報】大分県で新たに3人感染　新型コロナ(西日本新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1d9c6e7e51ea3141a40f220f70c0b927fdeb2b4e?source=rss",
+          "author": null,
+          "description": "東京都の小池百合子都知事が９日、定例会見を行い、東京、神奈川、千葉、埼玉の１都３県の首都圏会場が全て無観客開催となった東京五輪について「観客も大会の大きな役割を担っている。無観客は極めて異例なことに",
+          "link": "https://news.yahoo.co.jp/articles/1d9c6e7e51ea3141a40f220f70c0b927fdeb2b4e?source=rss",
+          "publishedOn": "2021-07-09T06:36:16.000Z",
+          "wordCount": 62,
+          "title": "小池百合子都知事、史上初の無観客五輪に「無観客を超えて、世界が観客だというような大会につながっていければ」(スポーツ報知)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c85429dc953e37b08f2e134aeb66d782e4206b4d?source=rss",
+          "author": null,
+          "description": "高橋 敏",
+          "link": "https://news.yahoo.co.jp/articles/c85429dc953e37b08f2e134aeb66d782e4206b4d?source=rss",
+          "publishedOn": "2021-07-09T06:33:01.000Z",
+          "wordCount": 66,
+          "title": "幕末のアウトロー:激動の時代に散った裏社会のあだ花(nippon.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3adf682aa0ec171f1bf03d45c29eefa0a5dfb65e?source=rss",
+          "author": null,
+          "description": "この週末も雨が続く見込みです。すでに大雨となっている所では、引き続き土砂災害などに警戒が必要です。\n　来週は全国的に晴れて「梅雨明け」の発表があるかもしれません。「大雨」の後は「暑さ」にお気を付けく",
+          "link": "https://news.yahoo.co.jp/articles/3adf682aa0ec171f1bf03d45c29eefa0a5dfb65e?source=rss",
+          "publishedOn": "2021-07-09T06:32:49.000Z",
+          "wordCount": 80,
+          "title": "【動画解説】日曜まで大雨警戒 来週は梅雨明けか　晴れると気温上昇 猛暑日の可能性も(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b7f2147531736223404b0f238c374612c9cb8687?source=rss",
+          "author": null,
+          "description": "加藤勝信官房長官は９日の記者会見で、西村康稔経済再生担当相が緊急事態宣言中に政府の要請に応じず酒類提供を続ける飲食店の情報を取引先の金融機関に提供する考えを示したことについて釈明した。\n\n加藤氏は「飲",
+          "link": "https://news.yahoo.co.jp/articles/b7f2147531736223404b0f238c374612c9cb8687?source=rss",
+          "publishedOn": "2021-07-09T06:32:27.000Z",
+          "wordCount": 59,
+          "title": "加藤長官、西村氏発言「融資制限ではない」(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/be3d23500eae73002bd9cc08b3e07efc230cb9e4?source=rss",
+          "author": null,
+          "description": "東京都の小池百合子知事は９日の記者会見で、政界で取り沙汰される国政復帰の可能性について、「知事職にあって新型コロナウイルス対策や東京五輪・パラリンピック（開催準備の）の真っただ中にある。（国政復帰は）",
+          "link": "https://news.yahoo.co.jp/articles/be3d23500eae73002bd9cc08b3e07efc230cb9e4?source=rss",
+          "publishedOn": "2021-07-09T06:31:20.000Z",
+          "wordCount": 62,
+          "title": "小池知事、国政復帰「頭の片隅にもない」(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e51ec72d9d165bd876f9ddc8f20fd180d936f4c5?source=rss",
+          "author": null,
+          "description": "東京都の小池百合子都知事が9日、都庁で行われた定例会見に出席。開幕が今月23日に迫った東京五輪について、中止の判断はないとの見方を示した。\n\n　8日夜に行われた国際オリンピック委員会（IOC）、国際",
+          "link": "https://news.yahoo.co.jp/articles/e51ec72d9d165bd876f9ddc8f20fd180d936f4c5?source=rss",
+          "publishedOn": "2021-07-09T06:26:51.000Z",
+          "wordCount": 63,
+          "title": "小池都知事、5者協議で五輪中止はないとの方針確認　「IOC、国、私どもも同じ気持ち」(ENCOUNT)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d07df36ae2d3f8d05971066507b839b19ada679e?source=rss",
+          "author": null,
+          "description": "気象庁は9日（金）、エルニーニョ監視速報を発表した。\n　エルニーニョ現象もラニーニャ現象も発生していない、平常の状態となっているとみられ、今後、秋にかけて平常の状態が続く可能性が高い（70％）。",
+          "link": "https://news.yahoo.co.jp/articles/d07df36ae2d3f8d05971066507b839b19ada679e?source=rss",
+          "publishedOn": "2021-07-09T06:23:33.000Z",
+          "wordCount": 76,
+          "title": "秋にかけて平常の状態である可能性高い　エルニーニョ監視速報(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fea5a2e47c20987a88dcac53e23077ebd03232cf?source=rss",
+          "author": null,
+          "description": "中国地方ではここ数日、断続的に激しい雨が降っていて、記録的な大雨となっているところがあります。\n広島や山口、島根、鳥取には土砂災害警戒情報が出ているところがあり、土砂災害の発生や河川の氾濫に厳重な警戒",
+          "link": "https://news.yahoo.co.jp/articles/fea5a2e47c20987a88dcac53e23077ebd03232cf?source=rss",
+          "publishedOn": "2021-07-09T06:17:42.000Z",
+          "wordCount": 67,
+          "title": "動画　大雨情報 　広島は引き続き土砂災害等に警戒(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/158c2fb25093eaec541d6515851dfe7682b54873?source=rss",
+          "author": null,
+          "description": "孤独死で発見が遅れた場合、周囲のダメージを原状回復するために「特殊清掃」が必要になる。異様な臭いが漂う現場を、黙々と片付ける作業員たちは、どのような思いを抱いているのか。高級マンションの一室で特殊清掃",
+          "link": "https://news.yahoo.co.jp/articles/158c2fb25093eaec541d6515851dfe7682b54873?source=rss",
+          "publishedOn": "2021-07-09T06:16:28.000Z",
+          "wordCount": 71,
+          "title": "「風呂場での熱中症で孤独死」高級マンションの特殊清掃を手がけた作業員の思い(プレジデントオンライン)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/e13b474f1b4fbce5bcaf504417d84b95e5df4c2c?source=rss",
           "author": null,
           "description": "埼玉県はこのほど、「埼玉県5か年計画大綱」（2022－26年度）を公表した。大綱は次期5か年計画の素案となるもので、「地域で高齢者が安心して暮らせる社会づくり」などの施策が盛り込まれている。【新井哉",
@@ -1599,6 +1986,249 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/5906f7303ea1a56087722d33f6fe75b8e088c9d7?source=rss",
+          "author": null,
+          "description": "日本航空（JAL/JL、9201）グループのJALペイメント・ポートと住信SBIネット銀行は7月9日、マイル会員向け銀行サービス「JAL NEOBANK（JALネオバンク）」で住宅ローンの取扱を開始",
+          "link": "https://news.yahoo.co.jp/articles/5906f7303ea1a56087722d33f6fe75b8e088c9d7?source=rss",
+          "publishedOn": "2021-07-09T07:08:00.000Z",
+          "wordCount": 85,
+          "title": "JAL、マイル貯まる住宅ローン　JMB会員向け「NEOBANK」、期間限定でFLY ONも(Aviation Wire)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8f308c1976a81b168902d61ed6979d208ead161e?source=rss",
+          "author": null,
+          "description": "前回の記事（https://www.coindeskjapan.com/115597/）に引き続き、本記事では以下8社の金融機関およびシンクタンクの為替相場見通しをまとめる。\n\n三井住友銀行\nYJFX",
+          "link": "https://news.yahoo.co.jp/articles/8f308c1976a81b168902d61ed6979d208ead161e?source=rss",
+          "publishedOn": "2021-07-09T07:04:49.000Z",
+          "wordCount": 83,
+          "title": "【為替】米ドル円の見通し、FX各社などの最新予測まとめ（7月第2号）(CoinDesk Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f1d01652c53179c039ec5079552087511b9121c2?source=rss",
+          "author": null,
+          "description": "「末は博士か大臣か」―かつては、子どもの将来に期待を込める言葉だった。ところが、今や、博士になっても、大学内でポストが得られず、期付きの不安定な研究職を転々とする「高学歴ワーキングプア」になりかねない",
+          "link": "https://news.yahoo.co.jp/articles/f1d01652c53179c039ec5079552087511b9121c2?source=rss",
+          "publishedOn": "2021-07-09T07:03:32.000Z",
+          "wordCount": 77,
+          "title": "【Japan Data】大学院生の16%は借金300万円以上！？ : 深刻な高学歴ワーキングプア問題(nippon.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/878e9e70dc3bd7c369c5f41a0b7ab09493ed0be2?source=rss",
+          "author": null,
+          "description": "----------\nセクハラ、モラハラ、ジタハラ、パタハラ……。中年男性の人生を破滅に導く罠、それが「無自覚ハラスメント」だ。著書『捨てられる男たち』を出版したジャーナリストの奥田祥子氏は、長年にわ",
+          "link": "https://news.yahoo.co.jp/articles/878e9e70dc3bd7c369c5f41a0b7ab09493ed0be2?source=rss",
+          "publishedOn": "2021-07-09T07:01:56.000Z",
+          "wordCount": 76,
+          "title": "「家内が不貞を働いていた」…妻を家庭に縛りつけたかったエリート銀行員の「大誤算」(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6d655c819b9da5d24b6b498bca0af1180c29559b?source=rss",
+          "author": null,
+          "description": "不動産経済研究所によると、東京23区内で4月に販売された新築マンションの平均価格は1億180万円と1億円を突破した。\n\n　今年4月はたまたま高額物件の発売が集中したという特殊要因があるが、前年の20",
+          "link": "https://news.yahoo.co.jp/articles/6d655c819b9da5d24b6b498bca0af1180c29559b?source=rss",
+          "publishedOn": "2021-07-09T07:01:42.000Z",
+          "wordCount": 72,
+          "title": "新築マンションの平均価格がついに1億円を突破！コロナ禍で押し上げた「4者」の正体(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/92bf7b1325ce217cfc1bb4c9667529d60b3b5226?source=rss",
+          "author": null,
+          "description": "ループ・ジャパンは、繰り返し使用できる容器を使った循環型ショッピングプラットフォーム「Loop(ループ)」の新たな取り組みとして、EC販売を8月31日から開始し、風味調味料や醤油、コーヒーなどを販売す",
+          "link": "https://news.yahoo.co.jp/articles/92bf7b1325ce217cfc1bb4c9667529d60b3b5226?source=rss",
+          "publishedOn": "2021-07-09T07:00:59.000Z",
+          "wordCount": 68,
+          "title": "“繰り返し使える容器”で調味料やジュース・コーヒー販売、「ループ(Loop)」通販サイトに味の素・味の素AGF・キッコーマンらが参画(食品産業新聞社ニュースWEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/20912451bcfa760ef3c43cba4a03add52b955d0c?source=rss",
+          "author": null,
+          "description": "コロナ禍でも年収が「億超え」を果たしたサラリーマンは350人以上いるという（東京商工リサーチ調べ）。本誌・週刊ポストは上位200人を調査。いったいどんな人たちなのか、何人かその素顔を覗いてみよう。",
+          "link": "https://news.yahoo.co.jp/articles/20912451bcfa760ef3c43cba4a03add52b955d0c?source=rss",
+          "publishedOn": "2021-07-09T07:00:57.000Z",
+          "wordCount": 75,
+          "title": "億超えサラリーマンたちの素顔　妻が元アナ、息子がお笑い芸人のケースも(マネーポストWEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d1294b20ff270335337f2860b0e1812f20622864?source=rss",
+          "author": null,
+          "description": "「アシックス（ASICS）」は、アスリートのパフォーマンスとブランドテクノロジーを体験できる期間限定施設「アシックス エクスペリエンス トーキョー（ASICS EXPERIENCE TOKYO）」を7",
+          "link": "https://news.yahoo.co.jp/articles/d1294b20ff270335337f2860b0e1812f20622864?source=rss",
+          "publishedOn": "2021-07-09T07:00:10.000Z",
+          "wordCount": 91,
+          "title": "「アシックス」が原宿に期間限定スポーツ体験施設　石川佳純との“バーチャルラリー対決”や3次元足型測定機など(WWDJAPAN.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/41701fa03c77bf96dc19a76625c6b6e874eba4e9?source=rss",
+          "author": null,
+          "description": "マーベル・スタジオが贈る初めてのオリジナルアニメシリーズ「ホワット・イフ…?」の邦題と、Disney+での日本配信日が8月11日に決定。最新映像となる予告編とキービジュアルも解禁された。\n\n製作総指揮",
+          "link": "https://news.yahoo.co.jp/articles/41701fa03c77bf96dc19a76625c6b6e874eba4e9?source=rss",
+          "publishedOn": "2021-07-09T07:00:00.000Z",
+          "wordCount": 85,
+          "title": "マーベル最新作「ホワット・イフ…?」アニメでDisney+配信(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a7cc5ee7063d6bbb190eff57ce5f6dca8ae4fc4e?source=rss",
+          "author": null,
+          "description": "日産自動車は英国における電気自動車（EV）戦略を修正し、10億ポンド（約1500億円）共同出資し、新たなEV関連生産拠点を建設すると発表したとブルームバーグが報じた。\n\n日産は7月1日、北部サンダーラ",
+          "link": "https://news.yahoo.co.jp/articles/a7cc5ee7063d6bbb190eff57ce5f6dca8ae4fc4e?source=rss",
+          "publishedOn": "2021-07-09T07:00:00.000Z",
+          "wordCount": 68,
+          "title": "日産、中国「エンビジョン」と共同で英国にEVと車載電池の生産拠点を整備(36Kr Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bcb678afacdd8612fb2a04e78b0160145785dc16?source=rss",
+          "author": null,
+          "description": "厚生労働省は9日、新型コロナウイルス感染拡大に関連した解雇や雇い止めで仕事を失った人は、8日時点で見込みを含めて11万13人になったと明らかにした。昨年度に比べて増加ペースは鈍化し、企業に従業員の雇",
+          "link": "https://news.yahoo.co.jp/articles/bcb678afacdd8612fb2a04e78b0160145785dc16?source=rss",
+          "publishedOn": "2021-07-09T06:53:03.000Z",
+          "wordCount": 69,
+          "title": "コロナ関連の解雇11万人超に　増加ペースは鈍化(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2d97c336e69b5da5e751490b8027403cde2d5877?source=rss",
+          "author": null,
+          "description": "日本マクドナルドは7月9日、「マクドナルド」公式サイトで「マクドナルド検定」を開始した。\n \n日本マクドナルド50周年記念で実施するサービス。親子で参加できる「こども検定」と、“難易度高め”な「大人検",
+          "link": "https://news.yahoo.co.jp/articles/2d97c336e69b5da5e751490b8027403cde2d5877?source=rss",
+          "publishedOn": "2021-07-09T06:47:50.000Z",
+          "wordCount": 65,
+          "title": "「マクドナルド検定」全問正解“マクドナルドマスター”にマックカードをプレゼント、ほんのハッピーセット“ミニ図鑑”に参考情報(食品産業新聞社ニュースWEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e352e9427cf796889fa3f3528c580f0afd69c422?source=rss",
+          "author": null,
+          "description": "東京証券取引所は９日、令和４年４月の市場再編に向け、各企業に対して新市場区分の上場維持基準に適合しているかどうかの一次判定結果を通知した。結果を受け、各企業は９～１２月末の期間に、希望する市場区分を申",
+          "link": "https://news.yahoo.co.jp/articles/e352e9427cf796889fa3f3528c580f0afd69c422?source=rss",
+          "publishedOn": "2021-07-09T06:46:11.000Z",
+          "wordCount": 71,
+          "title": "プライム市場上場維持合否を通知　東証３市場再編で一次判定(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fdc302c7311d0b5c6980844f735d9ca7d6cc74f2?source=rss",
+          "author": null,
+          "description": "日本航空は9日、マイレージサービスの会員向けに住宅ローンの取り扱いを始めた。3千万人を超える会員基盤を活用し、借入金額に応じて最大8万マイルを付与するなどサービスを充実させる。LGBT（性的少数者）",
+          "link": "https://news.yahoo.co.jp/articles/fdc302c7311d0b5c6980844f735d9ca7d6cc74f2?source=rss",
+          "publishedOn": "2021-07-09T06:42:35.000Z",
+          "wordCount": 70,
+          "title": "日航、会員向けに住宅ローン　借入金額に応じマイル付与(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c90d5c77dfa6fbd57ea73513623e2545d3765ffc?source=rss",
+          "author": null,
+          "description": "日本ケンタッキー・フライド・チキンは、全国店舗にて「ドリンク全サイズ100円」キャンペーンを7月14日（水）から27日（火）まで開催する。\n\nキャンペーン期間中は、単品のドリンク全サイズ（S/M/L）",
+          "link": "https://news.yahoo.co.jp/articles/c90d5c77dfa6fbd57ea73513623e2545d3765ffc?source=rss",
+          "publishedOn": "2021-07-09T06:39:33.000Z",
+          "wordCount": 74,
+          "title": "ケンタッキー、ドリンク全サイズが100円に！7/14から(PHILE WEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fa0688d75f6e1934c5e4bbf3b3d5fb604d7b6043?source=rss",
+          "author": null,
+          "description": "カインズが、ライフスタイルDIYショップ「Style Factory ららぽーと立川立飛店」を7月22日にオープンする。同業態での出店は4店舗目で、東京都内では初めてとなる。アンバサダー制度の導入や",
+          "link": "https://news.yahoo.co.jp/articles/fa0688d75f6e1934c5e4bbf3b3d5fb604d7b6043?source=rss",
+          "publishedOn": "2021-07-09T06:39:16.000Z",
+          "wordCount": 94,
+          "title": "カインズ、「Style Factory」東京初出店　ワークマンプラスとのコラボなどで利用シーンを提案(ITmedia ビジネスオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1d60e1f26af2ead653d2099c84017afadce59fcd?source=rss",
+          "author": null,
+          "description": "爽やかな気分になれるレモン味が恋しくなる季節になりました。\n\n僕は暑くなるとレモンスカッシュやレモンシャーベットをよく口にするのですが、ある日、カルディで簡単に作れるレモン商品が幅広くラインナップされ",
+          "link": "https://news.yahoo.co.jp/articles/1d60e1f26af2ead653d2099c84017afadce59fcd?source=rss",
+          "publishedOn": "2021-07-09T06:33:10.000Z",
+          "wordCount": 81,
+          "title": "あ～～～最高！カルディだらけのレモンパーティーが楽しすぎる。レモンの底知れぬ魅力を知りました(ハフポスト日本版)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6f0c8afb9218c86a065aab91904409315c83a936?source=rss",
+          "author": null,
+          "description": "国土交通省鉄道局が2021年7月9日（金）、都市鉄道における2020年度の混雑率について発表。三大都市圏ではコロナ禍を受け、大幅に低下したことが明らかになりました。\n\n　東京圏は107％、大阪圏は1",
+          "link": "https://news.yahoo.co.jp/articles/6f0c8afb9218c86a065aab91904409315c83a936?source=rss",
+          "publishedOn": "2021-07-09T06:33:00.000Z",
+          "wordCount": 81,
+          "title": "三大都市圏の鉄道混雑率 2020年度ほぼ100％まで減少 最混雑は「日暮里・舎人」に(乗りものニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d990f48632f79f26acd163feab86be0ba8fe45bf?source=rss",
+          "author": null,
+          "description": "住友ゴムは、DUNLOP（ダンロップ）ブランドの新SUV用スタッドレスタイヤ「WINTER MAXX SJ8＋（ウインターマックスSJ8プラス）を8月1日から順次発売します。サイズは15インチから2",
+          "link": "https://news.yahoo.co.jp/articles/d990f48632f79f26acd163feab86be0ba8fe45bf?source=rss",
+          "publishedOn": "2021-07-09T06:30:31.000Z",
+          "wordCount": 83,
+          "title": "氷上ブレーキ性能14％アップ！ SUV用スタッドレス ダンロップ「ウインターマックスSJ8＋」登場(くるまのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/16156c02ee763ec69369038d515ad854a9878ee0?source=rss",
+          "author": null,
+          "description": "NEXCO中日本は、大雨によるのり面崩壊で7月3日より通行止めが続いている東名高速（上り線）・裾野IC～沼津ICについて、7月9日（金）18時頃に2車線のうち1車線で一般車両の通行が可能となる見込みだ",
+          "link": "https://news.yahoo.co.jp/articles/16156c02ee763ec69369038d515ad854a9878ee0?source=rss",
+          "publishedOn": "2021-07-09T06:30:03.000Z",
+          "wordCount": 66,
+          "title": "東名上り・裾野IC-沼津IC、1車線通行可能に…7月9日18時頃より(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f0b3ca8fa724596815797e4c0fdbe635101a6f5e?source=rss",
+          "author": null,
+          "description": "春秋航空日本（SPRING JAPAN、SJO/IJ）と京成電鉄は、「コラボクリアファイルプレゼントキャンペーン」を7月16日から8月31日まで開催する。\n\n　春秋航空日本は、成田行き全便の機内でス",
+          "link": "https://news.yahoo.co.jp/articles/f0b3ca8fa724596815797e4c0fdbe635101a6f5e?source=rss",
+          "publishedOn": "2021-07-09T06:30:00.000Z",
+          "wordCount": 85,
+          "title": "春秋航空日本と京成、クリアファイルキャンペーン　ライナー券と地下鉄乗り放題切符(Aviation Wire)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6e1494c2a4dadac8bd9861e469fa5bf9373cd23e?source=rss",
+          "author": null,
+          "description": "米国発の音声SNS「Clubhouse」が2021年初頭の日本を席巻した。一時の熱狂はすっかり去ったようにも見えるが、音声メディア関係者は「Clubhouseの体験は復活する」と声をそろえる。『サラリ",
+          "link": "https://news.yahoo.co.jp/articles/6e1494c2a4dadac8bd9861e469fa5bf9373cd23e?source=rss",
+          "publishedOn": "2021-07-09T06:16:32.000Z",
+          "wordCount": 85,
+          "title": "中国では「朗読で月収数千万円」しゃべるだけで稼げるSNS新時代がくる(プレジデントオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4f298b79de7f129fba454a9d62d8b4a084c102dc?source=rss",
+          "author": null,
+          "description": "JR東日本は7月9日、東京オリンピック向けに首都圏21線区で終電後に計画していた臨時列車の運行を中止すると発表した。\n\n7月8日、国際オリンピック委員会（IOC）、国際パラリンピック委員会（IPC）、",
+          "link": "https://news.yahoo.co.jp/articles/4f298b79de7f129fba454a9d62d8b4a084c102dc?source=rss",
+          "publishedOn": "2021-07-09T06:15:03.000Z",
+          "wordCount": 64,
+          "title": "東京オリンピック2020の終電後臨時列車は中止に…首都圏以外の競技会場向けは今後調整(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/686867f6b750504096a26fd887f350ed401986e4?source=rss",
+          "author": null,
+          "description": "9日の東京株式市場の日経平均株価（225種）は続落した。新型コロナウイルス変異株「デルタ株」の世界的な流行で内外経済の先行きに不安が高まり、売りが先行した。ただ、午後に入って割安感がある銘柄が買い戻",
+          "link": "https://news.yahoo.co.jp/articles/686867f6b750504096a26fd887f350ed401986e4?source=rss",
+          "publishedOn": "2021-07-09T06:12:20.000Z",
+          "wordCount": 72,
+          "title": "東証続落、177円安　世界的なデルタ株流行に不安感(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/61c2970d15dca7c25e5d88fa3154011ca347a4bb?source=rss",
+          "author": null,
+          "description": "西村経済再生担当大臣は酒の提供を続ける飲食店に対して、取引先の金融機関を通じて働き掛けたいと発言したことについて釈明しました。\n\n　西村経済再生担当大臣：「日常のコミュニケーションのなかで感染防止策",
+          "link": "https://news.yahoo.co.jp/articles/61c2970d15dca7c25e5d88fa3154011ca347a4bb?source=rss",
+          "publishedOn": "2021-07-09T06:11:46.000Z",
+          "wordCount": 74,
+          "title": "酒提供停止「金融機関から働き掛け」西村大臣が釈明(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/01474390ba77dff2350ab5954447fd4ea7db6f56?source=rss",
+          "author": null,
+          "description": "花王の衣料用洗剤アタックは、ユニクロとコラボレーションした『毎日着る服を、長く着たい服に。』プロジェクトとして全国のユニクロ店舗で、アーティスト・長場雄さんとコラボレーションした限定デザインのアタック",
+          "link": "https://news.yahoo.co.jp/articles/01474390ba77dff2350ab5954447fd4ea7db6f56?source=rss",
+          "publishedOn": "2021-07-09T06:10:16.000Z",
+          "wordCount": 69,
+          "title": "ユニクロで3,000円以上購入の50万名に限定デザインのアタックZEROを配布　『毎日着る服を、長く着たい服に。』プロジェクト(AMP［アンプ］)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bc140a203062665d9a5695d53e50fc29a4ba1bb8?source=rss",
+          "author": null,
+          "description": "Ankerグループ日本法人、アンカー・ジャパンは、充電のグローバル・リーディングブランド「Anker」から、独自技術である「Anker GaN II」を搭載した第二弾製品「Anker Nano II",
+          "link": "https://news.yahoo.co.jp/articles/bc140a203062665d9a5695d53e50fc29a4ba1bb8?source=rss",
+          "publishedOn": "2021-07-09T06:10:09.000Z",
+          "wordCount": 138,
+          "title": "アンカー・ジャパン、「Anker GaN II」搭載の第二弾製品「Anker Nano II 65W / 30W」を販売開始(AMP［アンプ］)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/0e55a1958b1a374b713e18c19cf2f2e7e8a654d0?source=rss",
           "author": null,
