@@ -49,6 +49,15 @@
           "title": "トイレの花子さんは3回ノックして呼びかけたら出てくるけど2回目でやめたらどうなるの？→デバッガーの皆さんが花子さん発動条件を検証し始める - Togetter"
         },
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/09/news145.html",
+          "author": null,
+          "description": "企業のプレスリリース配信サービス「PR TIMES」が不正アクセスを受け、公開前の情報258件が流出した。7月9日時点でインサイダー情報の流出は確認していないという。 PR TIMES社（東京都港区）は7月9日、同社が運営する、会員企業の発表を配信するWebサイト「PR TIMES」で当時未発表だった画像ファイルやPDFファイルなど...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/09/news145.html",
+          "publishedOn": "2021-07-09T10:49:01.000Z",
+          "wordCount": 149,
+          "title": "企業のお知らせ配信サイト「PR TIMES」で漏えい　発表前の情報258件に不正アクセスの痕跡 - ITmedia NEWS"
+        },
+        {
           "id": "https://nlab.itmedia.co.jp/nl/articles/2107/06/news107.html",
           "author": null,
           "description": "「USB3.2だと思って購入したのに、パッケージにUSB3.0と書いてあったから返品した」――。AmazonでUSBハブを購入しようとすると、こんな低評価レビューを見かけます。 ところが、PC周辺機器メーカーのバッファローによると「USB3.0」「USB3.1（Gen1）」「USB3.2（Gen1）」は“名称が違うだけで同じ規格”であり、“通信速度や...",
@@ -56,6 +65,15 @@
           "publishedOn": "2021-07-09T10:36:34.000Z",
           "wordCount": 280,
           "title": "「USB3.0」「USB3.1（Gen1）」「USB3.2（Gen1）」は“名前が違うだけで同じ規格”　バッファロー「お客さまの困惑は知っている」 - ねとらぼ"
+        },
+        {
+          "id": "https://fjii.blog.fc2.com/blog-entry-3037.html?sp",
+          "author": null,
+          "description": "Author:F爺・小島剛一 F国(= フランス)に住む日本人の爺さん。 専門は、言語学(特にトルコ語、ザザ語、ラズ語など)、民族学、日本語文法、作曲・編曲、合唱指揮など。 詳しいことは「Catégories」欄の「自己紹介」という記事に。",
+          "link": "https://fjii.blog.fc2.com/blog-entry-3037.html?sp",
+          "publishedOn": "2021-07-09T10:27:22.000Z",
+          "wordCount": 95,
+          "title": "「ひろゆき」がF爺・小島剛一を「勉強不足の高齢者」呼ばわりしていた(本編) - F爺・小島剛一のブログ"
         },
         {
           "id": "https://anond.hatelabo.jp/20210707211559",
@@ -604,6 +622,33 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/9fd16ab56fab72aa271648c770ef84974a3a2003?source=rss",
+          "author": null,
+          "description": "テープが収納力と携帯性を手にしました。\n\n最近借りた機材を返送したり、フリマアプリで売れたものを発送したりで梱包テープをよく使うんですが、意外と使わない時の置き場に困るんですよね。引き出しには入らない",
+          "link": "https://news.yahoo.co.jp/articles/9fd16ab56fab72aa271648c770ef84974a3a2003?source=rss",
+          "publishedOn": "2021-07-09T21:00:02.000Z",
+          "wordCount": 77,
+          "title": "テープは円である必要はない。引き出しにもポケットにも入るポータブル梱包テープ(ギズモード・ジャパン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0bdac45c3b117ce2a9da06deae6b2ba9bc269939?source=rss",
+          "author": null,
+          "description": "本誌既報のとおり、NTTドコモ、KDDI、ソフトバンクの3社は今年8月以降、宮崎県えびの市に臨時の携帯ショップを開設することが明らかになった。\n\n　同市には携帯電話の販売代理店がないため、3社が持ち",
+          "link": "https://news.yahoo.co.jp/articles/0bdac45c3b117ce2a9da06deae6b2ba9bc269939?source=rss",
+          "publishedOn": "2021-07-09T21:00:00.000Z",
+          "wordCount": 89,
+          "title": "市区町村の約半数は、キャリアショップがまったくない「空白地域」(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1f74a7d286ba77a06768a25518a7086d4f6faa31?source=rss",
+          "author": null,
+          "description": "総務省は9日、「競争ルールの検証に関するWG 第22回」を開催した。\n\n　同日発表された「競争ルールの検証に関する報告書2021（案）」が共有される場となった。\n\n　報告書案では、中途解約の違約金で",
+          "link": "https://news.yahoo.co.jp/articles/1f74a7d286ba77a06768a25518a7086d4f6faa31?source=rss",
+          "publishedOn": "2021-07-09T21:00:00.000Z",
+          "wordCount": 126,
+          "title": "総務省が携帯業界の競争促進に向けた報告書案、端末販売拒否やスイッチング円滑化への取組みなど(Impress Watch)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a76ed3b993de046956bd54b10ad17426f9384670?source=rss",
           "author": null,
@@ -2258,6 +2303,294 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/2591bfcfc74cc39a708fd46b59b1589a3396bd17?source=rss",
+          "author": null,
+          "description": "世界的な「嫌煙権運動」の高まりもあって、先進国での喫煙者は減少傾向だ。\n\n　例えば、1966年の成人男性の平均喫煙率 83.7％と比較すると、2019年は27.1％で53年の間に約57ポイント減少し",
+          "link": "https://news.yahoo.co.jp/articles/2591bfcfc74cc39a708fd46b59b1589a3396bd17?source=rss",
+          "publishedOn": "2021-07-09T21:02:19.000Z",
+          "wordCount": 77,
+          "title": "「スマホ中毒」、タバコに取って代わったその強烈な毒性の正体(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/842fd290474c1d7b1731a44aab3968ec3fc86734?source=rss",
+          "author": null,
+          "description": "・明日も強雨や大雨に注意\n・来週は梅雨明けの兆し\n・不快な蒸し暑さ続く",
+          "link": "https://news.yahoo.co.jp/articles/842fd290474c1d7b1731a44aab3968ec3fc86734?source=rss",
+          "publishedOn": "2021-07-09T21:02:06.000Z",
+          "wordCount": 76,
+          "title": "週間天気　明日も強雨や大雨に注意　週明け以降は梅雨明けか(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c7195e4465365b3ef8e8387b0e6e4896dde149b9?source=rss",
+          "author": null,
+          "description": "鹿児島県薩摩地方・宮崎県南部山沿いに大雨特別警報が発表されました。\n\nこれらの地域では、これまでに経験したことのないような大雨となっています。何らかの災害がすでに発生している可能性が高く、警戒レベル5",
+          "link": "https://news.yahoo.co.jp/articles/c7195e4465365b3ef8e8387b0e6e4896dde149b9?source=rss",
+          "publishedOn": "2021-07-09T21:01:28.000Z",
+          "wordCount": 74,
+          "title": "【速報】鹿児島県・宮崎県に大雨特別警報　命を守る行動を(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6ba96d0241710d1dffd334ba257fbd49bfbb6a4d?source=rss",
+          "author": null,
+          "description": "SNSに代表される現代の人間関係において、「共感がかつてないほどに重要なキーワードとなっている」と言われて異論がある人は少ないだろう。しかし共感は主観的なものであり、非常に捉えづらいものである（もち",
+          "link": "https://news.yahoo.co.jp/articles/6ba96d0241710d1dffd334ba257fbd49bfbb6a4d?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 79,
+          "title": "【共感の種類がわかれば】共感力はあなたにもコントロールできる(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9505afd02b72aabdb566544677c39acc8afbcf8a?source=rss",
+          "author": null,
+          "description": "海外旅行ガイドブックの決定版『地球の歩き方』から、今回紹介するのは台湾発のB級グルメ「香鶏排（シャンジーパイ）」「炸鶏排（ザージーパイ）」です。本場台湾では、「香鶏排（シャンジーパイ）」「炸鶏排（ザ",
+          "link": "https://news.yahoo.co.jp/articles/9505afd02b72aabdb566544677c39acc8afbcf8a?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 82,
+          "title": "大流行中の「台湾から揚げ」を自宅で美味しく作る方法【地球の歩き方セレクト】(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e188d494ee118437ef6c1b5d0405c2319a514ca8?source=rss",
+          "author": null,
+          "description": "某大手金融機関に勤めていた著者は、40歳で早期リタイアを考え始め、2019年に資産1億円を達成。51歳で早期リタイアを実現した。初の著書『【エル式】 米国株投資で1億円』では、FIRE（経済的自立と",
+          "link": "https://news.yahoo.co.jp/articles/e188d494ee118437ef6c1b5d0405c2319a514ca8?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 86,
+          "title": "米国株投資で1億円！FIREを果たした元金融マンが教える「米国株投資の軍資金はどう貯めればいいでしょうか？」(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5587d9a8c39f673ab050c65cd93bf8ad2b227def?source=rss",
+          "author": null,
+          "description": "夏場のダイエットに取り組む人にぜひ読んで欲しい1冊が『医者が教えるダイエット 最強の教科書』だ。発売直後から売り切れが続出し、全国で大きな話題を呼んでいる。著者は、生活習慣病の専門医・牧田善二氏。最",
+          "link": "https://news.yahoo.co.jp/articles/5587d9a8c39f673ab050c65cd93bf8ad2b227def?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 88,
+          "title": "「スポーツドリンクの飲み過ぎは要注意」医者が警鐘(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bfa24cfb9c5a4f53ff1787d47418aef9bad9c176?source=rss",
+          "author": null,
+          "description": "株式投資よりアパート1棟経営がFIRE（経済的自立と早期退職）への近道！\n不動産投資を始めて5年、アパート7棟を保有、資産7億5000万円を築いた。目標は、40歳までに資産100億円を築くこと。経済",
+          "link": "https://news.yahoo.co.jp/articles/bfa24cfb9c5a4f53ff1787d47418aef9bad9c176?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 79,
+          "title": "【不動産投資こそFIREへの近道】「節税」よりも「節約」のほうが得策(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9d97d2d34071678a9b8a3ee3ee769685bd7b595a?source=rss",
+          "author": null,
+          "description": "著者はハーバード大学とスタンフォード大学に計11年在籍し、世界的権威の2大科学誌『ネイチャー』『サイエンス』に論文が掲載されたスーパードクターだ。\n帰国後、東京・錦糸町に「眼科 かじわらアイ・ケア・",
+          "link": "https://news.yahoo.co.jp/articles/9d97d2d34071678a9b8a3ee3ee769685bd7b595a?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 102,
+          "title": "【ハーバード × スタンフォードの眼科医が指南】痛くもかゆくもないのに失明寸前!?「ドライアイだと思って診察を受けたら予想もしない病気が見つかった……」(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/afd3f2553a9fd842a9965a6570a314a783e2b222?source=rss",
+          "author": null,
+          "description": "妻の浮気が原因で離婚。突如、5歳の息子との父子家庭になった。手元に残された全財産は90万円。定時退社で保育園へ息子を迎えに行く毎日で、残業代ゼロ。年収400万円で、カツカツの生活だった。ギリギリの節",
+          "link": "https://news.yahoo.co.jp/articles/afd3f2553a9fd842a9965a6570a314a783e2b222?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 86,
+          "title": "【全財産90万円から株式投資で2億円】勝つときに大きく勝てば「2勝8敗」でいい(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6073f1332c0bec2109821d6b3b3070ee9794d987?source=rss",
+          "author": null,
+          "description": "大手塾で算数講師の経験を積んだ後、算数専門のプロ家庭教師として約20年間、2000人以上のお子さんを指導してきた中学受験専門のカリスマ家庭教師・安浪京子先生は、その経験から「ノートをひと目見ると、そ",
+          "link": "https://news.yahoo.co.jp/articles/6073f1332c0bec2109821d6b3b3070ee9794d987?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 78,
+          "title": "【中学受験必勝ノート術】2000人以上を指導してきたカリスマ家庭教師が教える成績が伸びない子の意外な共通点とは？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6f4ef06f9064100f2e7892b04ac82f8864579328?source=rss",
+          "author": null,
+          "description": "韓国で120万部のミリオンセラーとなった話題書がある。『どうかご自愛ください　～精神科医が教える自尊感情回復レッスン』というタイトルの本だ。精神科医である著者が「自尊感情（≒自己肯定感）」の回復法を",
+          "link": "https://news.yahoo.co.jp/articles/6f4ef06f9064100f2e7892b04ac82f8864579328?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 71,
+          "title": "家庭に居場所がない夫が、職場で不倫に走る納得の理由(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1317a1e8a722794ffdb44ee9f3170916e8253734?source=rss",
+          "author": null,
+          "description": "YouTube登録者37万人、Twitterフォロワー52万人でベストセラー『カリスマ保育士てぃ先生の子育てで困ったら、これやってみ！』著者のカリスマ保育士てぃ先生と、“ビリギャル”こと『学年ビリの",
+          "link": "https://news.yahoo.co.jp/articles/1317a1e8a722794ffdb44ee9f3170916e8253734?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 80,
+          "title": "医学部受験生も幼児も同じでOK！試験でケアレスミスをなくし、切り替えの早い子になるトレーニングとは？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/88f232c27e1656b579ce0b6eb09cd4e5266585e2?source=rss",
+          "author": null,
+          "description": "7月上旬、日本でも人気のある米国発のゲームがサイバー攻撃の被害に遭っている。単なる嫌がらせと思いきや、このゲーム会社のファンであった者たちの犯行である可能性があるようだ。（フリーライター　武藤弘樹）",
+          "link": "https://news.yahoo.co.jp/articles/88f232c27e1656b579ce0b6eb09cd4e5266585e2?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 73,
+          "title": "任天堂の「神対応」と比べて見えた、米国発人気ゲームサイバー攻撃の教訓(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/528ecf629860aa5825bef96ad9897ad906ce1713?source=rss",
+          "author": null,
+          "description": "毎日の弁当作り、仕事が立て込んで時間のない日もあれば、買い物に行けなくて冷蔵庫がカラッポの日も、疲労困憊して気力がゼロの朝もある！\nそんなピンチの時に役立つのが、発売すぐに大重版となった史上最ラク＆",
+          "link": "https://news.yahoo.co.jp/articles/528ecf629860aa5825bef96ad9897ad906ce1713?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 92,
+          "title": "【史上最ラク＆最速弁当】蒸し暑い季節におすすめ火も使わず、酢飯でさっぱり！5分でできるお弁当！(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/00b5b7e7ed91f73cb15b92de3f7e97cc0e6cc3a4?source=rss",
+          "author": null,
+          "description": "人気シリーズ16万部突破！『精神科医Tomyが教える １秒で幸せを呼び込む言葉』から、きょうのひと言！\n周りの人を信頼する「性善説」ってありますよね？\n周りの人は自分に悪いことはしてこない、\nなんて",
+          "link": "https://news.yahoo.co.jp/articles/00b5b7e7ed91f73cb15b92de3f7e97cc0e6cc3a4?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 75,
+          "title": "相手を理想化しちゃダメよ。(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/aae6315f7526ccb32352096e11ed5172b71d1bc2?source=rss",
+          "author": null,
+          "description": "１都３県に続き、北海道も無観客となった。２３日開幕の東京五輪のチケットに関し、大会組織委員会は９日夜、未定だった札幌ドームでの男女サッカー５試合も無観客開催にすると緊急発表した。同日夕方には観戦可能",
+          "link": "https://news.yahoo.co.jp/articles/aae6315f7526ccb32352096e11ed5172b71d1bc2?source=rss",
+          "publishedOn": "2021-07-09T21:00:45.000Z",
+          "wordCount": 77,
+          "title": "生観戦チケット１３．５万枚、観戦可能セッションは「７５０」から「２９」に激減、…札幌ドームも無観客(スポーツ報知)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bac09d3e8b92633a04a67f73c7b00d1f586ef8be?source=rss",
+          "author": null,
+          "description": "10日06:00現在、宮崎県に特別警報が発表されています。\n\n【大雨特別警報】\n宮崎県：えびの市\n\n大雨による重大な災害の危険性が著しく高まっており、数十年に一度しかないような非常に危険な状況にありま",
+          "link": "https://news.yahoo.co.jp/articles/bac09d3e8b92633a04a67f73c7b00d1f586ef8be?source=rss",
+          "publishedOn": "2021-07-09T21:00:00.000Z",
+          "wordCount": 65,
+          "title": "〔特別警報〕宮崎県に特別警報発表 直ちに命を守る行動を(10日06時00分現在)(レスキューナウニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/953b4382da2045632cfa802df05da2497af5a776?source=rss",
+          "author": null,
+          "description": "鹿児島県薩摩地方では非常に激しい雨が降り続いています。\n\nこの大雨の影響で、川内川下流部では氾濫のおそれがあるとして、氾濫警戒情報【警戒レベル3相当】が発表されました。今後水位はさらに上昇する予想です",
+          "link": "https://news.yahoo.co.jp/articles/953b4382da2045632cfa802df05da2497af5a776?source=rss",
+          "publishedOn": "2021-07-09T20:57:28.000Z",
+          "wordCount": 72,
+          "title": "動画　警戒レベル3相当 氾濫警戒情報発表/鹿児島県 川内川が増水(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2b8e0a02cb13eb94c1e255dac94dbdaa79b52397?source=rss",
+          "author": null,
+          "description": "「うちの子は特別」と親は誇る。「親に感謝」と子どもが言う。麗（うるわ）しき家族愛、だが……。切ろうにも切れないがゆえに、厄介極まりない親子関係。以下は、ステイホームを強いられるコロナ禍で、複雑さを増す",
+          "link": "https://news.yahoo.co.jp/articles/2b8e0a02cb13eb94c1e255dac94dbdaa79b52397?source=rss",
+          "publishedOn": "2021-07-09T20:56:46.000Z",
+          "wordCount": 77,
+          "title": "気づけばあなたも「小室佳代さん」に？　我が子、我が孫をダメにする「子ども依存」(デイリー新潮)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/230276ccae2d45e228654f0fa1f67948503a9466?source=rss",
+          "author": null,
+          "description": "6月18日、熊が市街地を走り回り衝撃が走った札幌市にその後登場したのは「全裸だがマスクをつけた男」でした。この男が登場した時、ネットは熱狂の渦に包まれました。「ターミネーターが来たか」「熊も全裸だか",
+          "link": "https://news.yahoo.co.jp/articles/230276ccae2d45e228654f0fa1f67948503a9466?source=rss",
+          "publishedOn": "2021-07-09T20:55:52.000Z",
+          "wordCount": 82,
+          "title": "北海道「全裸男」が裸にマスクだった理由を考察してみた（中川淳一郎）(デイリー新潮)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/13dbd398bb4ec3a0deb875e966a9f75e078077f6?source=rss",
+          "author": null,
+          "description": "10日5時30分、鹿児島県に「大雨特別警報」が発表されました。これまでに経験したことのないような大雨となっている所があります。何らかの災害がすでに発生している可能性が高く、警戒レベル5に相当する状況で",
+          "link": "https://news.yahoo.co.jp/articles/13dbd398bb4ec3a0deb875e966a9f75e078077f6?source=rss",
+          "publishedOn": "2021-07-09T20:43:27.000Z",
+          "wordCount": 68,
+          "title": "鹿児島県に「大雨特別警報」発表(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ecae4e51408a0be2bd77e436d7021a2b6e0f7c64?source=rss",
+          "author": null,
+          "description": "気象庁は10日、鹿児島県に大雨特別警報を発表した。命の危険が迫っているため直ちに身の安全を確保しなければならない状況だとして、最大級の警戒を呼び掛けた。",
+          "link": "https://news.yahoo.co.jp/articles/ecae4e51408a0be2bd77e436d7021a2b6e0f7c64?source=rss",
+          "publishedOn": "2021-07-09T20:39:53.000Z",
+          "wordCount": 65,
+          "title": "鹿児島県に大雨特別警報(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/526e8876d636a7eae40e4bc35a2517fe84a0ec86?source=rss",
+          "author": null,
+          "description": "鹿児島県薩摩地方・宮崎県南部山沿いに大雨特別警報が発表されました。\n\nこれらの地域では、これまでに経験したことのないような大雨となっています。何らかの災害がすでに発生している可能性が高く、警戒レベル5",
+          "link": "https://news.yahoo.co.jp/articles/526e8876d636a7eae40e4bc35a2517fe84a0ec86?source=rss",
+          "publishedOn": "2021-07-09T20:36:26.000Z",
+          "wordCount": 73,
+          "title": "【速報】鹿児島県・宮崎県に大雨特別警報　命を守る行動を(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9bab65bf14dd7e74011104dfeecac553d224613b?source=rss",
+          "author": null,
+          "description": "10日土曜は、線状降水帯の発生した九州を中心に大雨で、全国的にもあちらこちらで雨雲が発達するおそれがあります。土砂災害や、低い土地の浸水、川の増水・氾濫に厳重な警戒が必要です。東京は今年1番の暑さが予",
+          "link": "https://news.yahoo.co.jp/articles/9bab65bf14dd7e74011104dfeecac553d224613b?source=rss",
+          "publishedOn": "2021-07-09T20:32:17.000Z",
+          "wordCount": 82,
+          "title": "10日土曜　九州を中心に大雨　全国的にも非常に激しい雨　関東以西は熱中症にも警戒(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/42537b00d427af7138365f611185d6b31d0abac1?source=rss",
+          "author": null,
+          "description": "気象庁は、10日（土）午前5時30分、鹿児島県の薩摩地方に「大雨特別警報」、5時55分には宮崎県の小林・えびの地区にも「大雨特別警報」を発表した。直ちに、命を守る行動が必要な「警戒レベル5」に相当す",
+          "link": "https://news.yahoo.co.jp/articles/42537b00d427af7138365f611185d6b31d0abac1?source=rss",
+          "publishedOn": "2021-07-09T20:31:42.000Z",
+          "wordCount": 76,
+          "title": "鹿児島県と宮崎県に「大雨特別警報」　命を守る行動を(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/280c7793e8506a99843778835efb6d0bf0c1430d?source=rss",
+          "author": null,
+          "description": "10日05:30現在、鹿児島県に特別警報が発表されています。\n\n【大雨特別警報】\n鹿児島県：出水市・伊佐市・薩摩川内市・さつま町\n\n大雨による重大な災害の危険性が著しく高まっており、数十年に一度しかな",
+          "link": "https://news.yahoo.co.jp/articles/280c7793e8506a99843778835efb6d0bf0c1430d?source=rss",
+          "publishedOn": "2021-07-09T20:30:00.000Z",
+          "wordCount": 65,
+          "title": "〔特別警報〕鹿児島県に特別警報発表 直ちに命を守る行動を(10日05時30分現在)(レスキューナウニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fef248ed050053da78f771bbe2b1d5470968a6c8?source=rss",
+          "author": null,
+          "description": "東京都議選の選挙期間中に車で人身事故を起こし「都民ファーストの会」を除名処分となった木下富美子都議（54）について、都議会事務局に約660件の苦情や批判の声が寄せられていることが9日分かった。事務局",
+          "link": "https://news.yahoo.co.jp/articles/fef248ed050053da78f771bbe2b1d5470968a6c8?source=rss",
+          "publishedOn": "2021-07-09T20:30:00.000Z",
+          "wordCount": 68,
+          "title": "木下富美子都議に苦情約660件　小池知事「客観的に自らを見つめなければ有権者に失礼」(スポニチアネックス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b81393cab3e4f742cdcc08a90ffedd6a7a414874?source=rss",
+          "author": null,
+          "description": "梅雨前線の影響で10日、九州を中心に大雨となる恐れがあるとして、気象庁は土砂災害、浸水、河川の増水や氾濫に厳重に警戒するよう呼び掛けた。\n\n　鹿児島県薩摩地方に線状降水帯の形成が確認され、気象庁は「",
+          "link": "https://news.yahoo.co.jp/articles/b81393cab3e4f742cdcc08a90ffedd6a7a414874?source=rss",
+          "publishedOn": "2021-07-09T20:29:38.000Z",
+          "wordCount": 69,
+          "title": "九州で大雨の恐れ　鹿児島県に線状降水帯(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/72488ba5888cb0309b4d0d5799112f4463b8982a?source=rss",
+          "author": null,
+          "description": "鹿児島県薩摩地方では非常に激しい雨が降り続いています。\n\nこの大雨の影響で、川内川下流部では氾濫のおそれがあるとして、氾濫警戒情報【警戒レベル3相当】が発表されました。今後水位はさらに上昇する予想です",
+          "link": "https://news.yahoo.co.jp/articles/72488ba5888cb0309b4d0d5799112f4463b8982a?source=rss",
+          "publishedOn": "2021-07-09T20:28:06.000Z",
+          "wordCount": 72,
+          "title": "鹿児島県 川内川が増水　警戒レベル3相当の氾濫警戒情報発表(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/224f7bdbe0ece88d0964ad89a210510fea340673?source=rss",
+          "author": null,
+          "description": "・西日本は大雨のおそれ、九州は厳重警戒\n・関東や東海は暑さと急な雨に注意\n・全国的に蒸し暑い\n\n今日10日(土)も引き続き梅雨前線の活動が活発で、西日本は断続的に強い雨が降ります。特に九州の東シナ海側",
+          "link": "https://news.yahoo.co.jp/articles/224f7bdbe0ece88d0964ad89a210510fea340673?source=rss",
+          "publishedOn": "2021-07-09T20:27:56.000Z",
+          "wordCount": 77,
+          "title": "今日10日(土)の天気　九州は大雨で厳重警戒　東京は今年一番の暑さに(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3683ae1cf826166a0fbde0434f27cc84ad81ba67?source=rss",
+          "author": null,
+          "description": "きょう10日（土）は九州を中心に非常に激しい雨が降り、大雨となる見込み。土砂災害、低い土地の浸水、河川の増水や氾濫に厳重な警戒が必要だ。",
+          "link": "https://news.yahoo.co.jp/articles/3683ae1cf826166a0fbde0434f27cc84ad81ba67?source=rss",
+          "publishedOn": "2021-07-09T20:20:09.000Z",
+          "wordCount": 76,
+          "title": "10日（土）は九州を中心に非常に激しい雨　土砂災害、低い土地の浸水、河川の増水や氾濫に厳重に警戒(ウェザーマップ)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/eec7503e55b1fd6977f332243169403ae657c0ae?source=rss",
           "author": null,
@@ -4470,6 +4803,240 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/5d979946348624a6b79594e439b95da38138721b?source=rss",
+          "author": null,
+          "description": "コロナ禍では、お金を増やすより、守る意識のほうが大切です。\n相続税は、1人につき1回しか発生しない税金ですが、その額は極めて大きく、無視できません。家族間のトラブルも年々増えており、相続争いの8割近",
+          "link": "https://news.yahoo.co.jp/articles/5d979946348624a6b79594e439b95da38138721b?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 87,
+          "title": "最強の相続税対策は「家族仲良く円満に」2つのエピソード(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3b348acb21f3880e4b3606a0ba9aeb298e564567?source=rss",
+          "author": null,
+          "description": "今、最も注目を集める急成長企業ワークマン。「高機能・低価格」という4000億円の空白市場を開拓し、“頑張らない経営”で10期連続最高益。「＃ワークマン女子」も大人気で、3/19には都内初となる東京ソ",
+          "link": "https://news.yahoo.co.jp/articles/3b348acb21f3880e4b3606a0ba9aeb298e564567?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 96,
+          "title": "ワークマンの「データ分析チーム」では何が行われているのか？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c34aded0d93686032380f060b4798efba9b63513?source=rss",
+          "author": null,
+          "description": "「転職します」と会社に伝えたあとに、上司から「辞めないでくれ」と懇願された経験がある人もいるでしょう。『マンガ　このまま今の会社にいていいのか？ と一度でも思ったら読む 転職の思考法』の著者である北",
+          "link": "https://news.yahoo.co.jp/articles/c34aded0d93686032380f060b4798efba9b63513?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 97,
+          "title": "かける言葉でバレる！ 今すぐ離れるべき「ヤバい上司」の口ぐせ(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3b6481c1fc6c134557c2397f6636cdfc6d1cb5e3?source=rss",
+          "author": null,
+          "description": "『独学大全──絶対に「学ぶこと」をあきらめたくない人のための55の技法』が20万部を突破！ 本書には東京大学教授の柳川範之氏が「著者の知識が圧倒的」、独立研究者の山口周氏も「この本、とても面白いです",
+          "link": "https://news.yahoo.co.jp/articles/3b6481c1fc6c134557c2397f6636cdfc6d1cb5e3?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 84,
+          "title": "「弱点や苦手なことから逃げるべきか、向き合うべきか」への超納得の解決策(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2f5fbb62a9b58c8e3ecbf27857d3fe90dffb6fde?source=rss",
+          "author": null,
+          "description": "「株式投資に興味があるけど、何から始めればいいの？」ーー。そんな株式投資ビギナーにおすすめしたいのが『５万円からでも始められる！　黒字転換２倍株で勝つ投資術』（馬渕磨理子著、ダイヤモンド社、6月16",
+          "link": "https://news.yahoo.co.jp/articles/2f5fbb62a9b58c8e3ecbf27857d3fe90dffb6fde?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 74,
+          "title": "黒字転換2倍株は、時価総額がいくらまでがおすすめなのか？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c7a497c748ba4345abcf04b28485d1a394bba8dd?source=rss",
+          "author": null,
+          "description": "現在、テレビやYouTubeで圧倒的な人気を集める、ひろゆき氏。\n24万部のベストセラー『１％の努力』では、その考え方について深く掘り下げ、人生のターニングポイントでどのような判断をして、いかに彼が",
+          "link": "https://news.yahoo.co.jp/articles/c7a497c748ba4345abcf04b28485d1a394bba8dd?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 77,
+          "title": "ひろゆきが断言「我が子には絶対にiPadを買い与えるな！」(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3d969954e7efe391c7a635c84702b90e5774164e?source=rss",
+          "author": null,
+          "description": "1970年に創業した日本最古のハンバーガーチェーン「ドムドムハンバーガー」をご存じだろうか。最盛期の1990年代には全国で400近い店舗を数えた。しかし徐々に店舗を減らし、現在は27店舗しかない「絶",
+          "link": "https://news.yahoo.co.jp/articles/3d969954e7efe391c7a635c84702b90e5774164e?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 90,
+          "title": "「愛されるブランド」の作り方(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2c433cb4c661d45a42f75a0aa995d57619746501?source=rss",
+          "author": null,
+          "description": "効率よく仕事を進めたい、アイデアがパッとひらめくようになりたい、うまい受け答えができるようになりたい…。身近にある「こうなりたい」の近道は、ずばり「考え方のコツ」を手に入れることだ。\n『グロービス流",
+          "link": "https://news.yahoo.co.jp/articles/2c433cb4c661d45a42f75a0aa995d57619746501?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 100,
+          "title": "“管理職”になるとできなくなる、ビジネスで重要な考え方とは？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/34afa046a272f5f944a40d5926cbd748adb27ce8?source=rss",
+          "author": null,
+          "description": "世界の「今」と「未来」が数字でわかる。印象に騙されないための「データと視点」\n人口問題、SDGs、資源戦争、貧困、教育――。膨大な統計データから「経済の真実」に迫る！ データを解きほぐし、「なぜ？」",
+          "link": "https://news.yahoo.co.jp/articles/34afa046a272f5f944a40d5926cbd748adb27ce8?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 78,
+          "title": "日本は世界2位の水産物「輸入」国！ なぜ輸入が多い？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/97e42fe4f0e711ae72df027cb4820ce43f3ed3ab?source=rss",
+          "author": null,
+          "description": "リモートワークが長期化している今、わかりあえない上司と部下の「モヤモヤ」は最高潮に達している。さらに、経営層からの数字のプレッシャーが高まる一方で、部下にはより細やかなマネジメントが求められる。仕事を",
+          "link": "https://news.yahoo.co.jp/articles/97e42fe4f0e711ae72df027cb4820ce43f3ed3ab?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 100,
+          "title": "組織の慢性疾患の典型例は「依存症」である(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/baf192fed99b44ae6031f74856f1c447ced4a90f?source=rss",
+          "author": null,
+          "description": "これまでは、「売上最大化、利益最大化」が常識だった。\nこれからは、「売上最小化、利益最大化」が常識になるかもしれない。\n「株価上昇率日本一（1164％）の超効率経営」\n「従業員一人あたり利益がトヨタ",
+          "link": "https://news.yahoo.co.jp/articles/baf192fed99b44ae6031f74856f1c447ced4a90f?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 109,
+          "title": "あなたの会社が売上は上がっても利益は上がらない理由(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/61b243d0def190f4996bcfec8dad9a4064574258?source=rss",
+          "author": null,
+          "description": "働き方の多様化が進み、ビジネスパーソンがキャリアの途中で退職して、「起業」するという働き方を選ぶ人も珍しくありません。また、大企業であってもこの先の見通しが立ちにくい会社も少なくなく、30代、40代",
+          "link": "https://news.yahoo.co.jp/articles/61b243d0def190f4996bcfec8dad9a4064574258?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 68,
+          "title": "起業して成功するための、3つの条件(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6086f3d8d7eb995798b1d133866f64e03f7c557c?source=rss",
+          "author": null,
+          "description": "プルデンシャル生命保険で「前人未到」の圧倒的な業績を残した「伝説の営業マン」である金沢景敏さん。営業マンになった当初はたいへん苦労しましたが、あることをきっかけに「売ろう」とするのをやめた結果、自然",
+          "link": "https://news.yahoo.co.jp/articles/6086f3d8d7eb995798b1d133866f64e03f7c557c?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 77,
+          "title": "超一流の営業マンが、「商品を売る」ことよりも大切にしている“たった一つ”のこと(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7ee28c03d5541ef834c98d564431d18d30fcc702?source=rss",
+          "author": null,
+          "description": "連日の雨模様。梅雨時は心身に疲れが出やすくなる人も多い。寝ても疲れが取れない、ちょっとしたことですぐ不安になる、自分だけが取り残されているように感じる……という人にぜひ読んでほしいのが、2021年4",
+          "link": "https://news.yahoo.co.jp/articles/7ee28c03d5541ef834c98d564431d18d30fcc702?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 81,
+          "title": "【「疲れた心を癒してくれる」と話題のエッセイ】心を穏やかに保つ方法(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/79cca4bf65e03464b01dee7f77696905a07e8fc8?source=rss",
+          "author": null,
+          "description": "累計15万部を超えた法律入門書のベストセラー・シリーズ『元法制局キャリアが教える 法律を読む技術・学ぶ技術』の著者が最も身近なのに、もっともややこしい法律の問題にわかりやすく答えます。数ある法律の中",
+          "link": "https://news.yahoo.co.jp/articles/79cca4bf65e03464b01dee7f77696905a07e8fc8?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 94,
+          "title": "【法律入門書のベストセラー著者が教える】民法はこうして読むと驚くほどよくわかります(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a9f2efc0bf101fd93eb60788bd15ab0cdd49b219?source=rss",
+          "author": null,
+          "description": "「どこかに行ってしまいたい」。仕事からも、絶え間なく携帯に送られるメッセージからも解放され、ここではないどこかに逃亡したい。そう思うことはないだろうか。しかし今の時代、自由に旅行することさえままなら",
+          "link": "https://news.yahoo.co.jp/articles/a9f2efc0bf101fd93eb60788bd15ab0cdd49b219?source=rss",
+          "publishedOn": "2021-07-09T21:01:27.000Z",
+          "wordCount": 91,
+          "title": "日本には120年で9km以上伸びた土地がある!?(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/730d18e3b1b8cb2dbedaa7fdbd2acbddfd2b634f?source=rss",
+          "author": null,
+          "description": "ソロキャンで快適に過ごすためのグッズとして欠かせないのが、チェアとライト（ランタン）だ。チェアのトレンドは、目線が低くなることで空間が広く感じられるロースタイル。DODの「スゴイッス」のような、脚の",
+          "link": "https://news.yahoo.co.jp/articles/730d18e3b1b8cb2dbedaa7fdbd2acbddfd2b634f?source=rss",
+          "publishedOn": "2021-07-09T21:00:00.000Z",
+          "wordCount": 81,
+          "title": "ソロキャンに欠かせないチェア＆ライト　トレンドの新作6選(日経クロストレンド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a0be1d5069962b01c73703382473abc19a72c83a?source=rss",
+          "author": null,
+          "description": "text：Yoichiro Watanabe（渡辺陽一郎）\neditor：Taro Ueno（上野太朗）\n\n2021年6月15日、日産はノート・オーラを発表した。\n\n2020年11月に現行ノートを発表",
+          "link": "https://news.yahoo.co.jp/articles/a0be1d5069962b01c73703382473abc19a72c83a?source=rss",
+          "publishedOn": "2021-07-09T20:45:00.000Z",
+          "wordCount": 102,
+          "title": "【ねらいは？】日産ノート・オーラ　ノートがあるのに後出し発売したワケ(AUTOCAR JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fd7b6b01d727767da10682ab3bb7879956d1fae2?source=rss",
+          "author": null,
+          "description": "6万5000人超の死者を出すなど、深刻なコロナ禍に見舞われたイギリスでは、今も厳しい状況が続いている。この春には全国的なロックダウン(封鎖)も段階的緩和に向かったが、再び感染者が増加。6月下旬に予定さ",
+          "link": "https://news.yahoo.co.jp/articles/fd7b6b01d727767da10682ab3bb7879956d1fae2?source=rss",
+          "publishedOn": "2021-07-09T20:41:23.000Z",
+          "wordCount": 69,
+          "title": "「とにかく1日中、消毒に次ぐ消毒」イギリスの小学校が行っている「超厳格なコロナ対応」から学べること(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b66517a83914548cafe4a899779344de139d3be5?source=rss",
+          "author": null,
+          "description": "＜ダウ工業30種平均＞　　　　\n\n　　34870.16　　　　　\n\n　　前日比　＋448.23",
+          "link": "https://news.yahoo.co.jp/articles/b66517a83914548cafe4a899779344de139d3be5?source=rss",
+          "publishedOn": "2021-07-09T20:41:23.000Z",
+          "wordCount": 73,
+          "title": "NY株式　　　9日終値　　　　(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e6b94aa2ec5ff13508484fb0b2ed095df9bdaf3f?source=rss",
+          "author": null,
+          "description": "【ニューヨーク共同】9日のニューヨーク株式市場のダウ工業株30種平均は反発し、前日比448.23ドル高の3万4870.16ドルと過去最高値を更新して取引を終えた。",
+          "link": "https://news.yahoo.co.jp/articles/e6b94aa2ec5ff13508484fb0b2ed095df9bdaf3f?source=rss",
+          "publishedOn": "2021-07-09T20:33:29.000Z",
+          "wordCount": 64,
+          "title": "NY株448ドル高、最高値更新(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a51448f9d028a2d4b91b9184a37af3188bf87218?source=rss",
+          "author": null,
+          "description": "特注椅子・家具の製造、椅子張替、家具修理、オリジナル家具の製造販売を行う椅子工房　オオタ（名古屋市）。一級家具技能士として椅子作りに腕を振るう宮島好生さん（67歳）は、これまで膨大な数の椅子を作って",
+          "link": "https://news.yahoo.co.jp/articles/a51448f9d028a2d4b91b9184a37af3188bf87218?source=rss",
+          "publishedOn": "2021-07-09T20:15:25.000Z",
+          "wordCount": 98,
+          "title": "円熟味　椅子工房　オオタ　宮島　好生（みやじま・よしお）さん　美しい仕上がり　追求する難しさ　椅子作りの魅力向上に共感　国家資格認定で自信つける(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/180194225dd7764141e2de015c09328d868b830b?source=rss",
+          "author": null,
+          "description": "バローホールディングスグループの中部フーズ（本社多治見市、纐纈直孝社長）は17日、名古屋市中区栄の地下街・サカエチカの北通路エリアに、おにぎり専門店「にぎりたてサカエチカ店」を開設する。名古屋都心の",
+          "link": "https://news.yahoo.co.jp/articles/180194225dd7764141e2de015c09328d868b830b?source=rss",
+          "publishedOn": "2021-07-09T20:15:24.000Z",
+          "wordCount": 87,
+          "title": "中部フーズ　おにぎり専門店「にぎりたて」　栄地下街に出店　17日、イートインスペース完備(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/99c026294f3d9714a0a0bd79ff5713ef92698e19?source=rss",
+          "author": null,
+          "description": "ラーメン店「一刻魁堂」展開のＪＢイレブン（本社名古屋市）は、コロナ禍の持ち帰り需要を取り込むため、ギョーザの無人販売を加速する。９日、豊明市の一刻魁堂の駐車場に初の自動販売機を設置。月内に立地や規模",
+          "link": "https://news.yahoo.co.jp/articles/99c026294f3d9714a0a0bd79ff5713ef92698e19?source=rss",
+          "publishedOn": "2021-07-09T20:15:23.000Z",
+          "wordCount": 87,
+          "title": "ＪＢイレブン　ギョーザの無人販売加速　自販機２台設置　販売所は10店体制へ(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2345e421e642c11f26b71e77d841b45eb296ffdb?source=rss",
+          "author": null,
+          "description": "キャリアコンサルタント育成のライフスタイル・ウーマン（本社名古屋市千種区今池１の２の10、吉居理奈子社長、電話０５２・４３９・６３３７）は、高齢者の認知症予防を支援する「対話サポーター」養成講座を開",
+          "link": "https://news.yahoo.co.jp/articles/2345e421e642c11f26b71e77d841b45eb296ffdb?source=rss",
+          "publishedOn": "2021-07-09T20:15:23.000Z",
+          "wordCount": 85,
+          "title": "認知症予防支援者を育成　キャリアコンサル育成のライフスタイル・ウーマン　独自プログラムで年３００人(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b1f5f18bdaa930ddbce9140b07e84cd59127e917?source=rss",
+          "author": null,
+          "description": "名古屋大学が創設した「名古屋大学基金」が、目標額の２００億円を突破しそうだ。本年度は３年間にわたる募金キャンペーン「ＧＯ　ＮＥＸＴ」の最終年度。名古屋大学が前身学校の尾張藩仮病院・仮医学校から数えて",
+          "link": "https://news.yahoo.co.jp/articles/b1f5f18bdaa930ddbce9140b07e84cd59127e917?source=rss",
+          "publishedOn": "2021-07-09T20:15:22.000Z",
+          "wordCount": 93,
+          "title": "名大、基金２００億円が視野　教育・研究の拡充図る(中部経済新聞)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/f5bc8b22d8e0e435f241fc297b78af5b339e30e8?source=rss",
           "author": null,
@@ -6877,6 +7444,15 @@
           "title": "GAS＆Backlog APIで必要情報のみを取得して見やすく一覧化する話"
         },
         {
+          "id": "https://qiita.com/kurimoto2011/items/9fd78b99c156af7085c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ほぼタイトルで完結していますが、一応どこでoverflow:auto;を探せばよいかほんの少しだけ書きます。\n\nbody{\n     overflow:auto;\n}\n/* もしくは */\nhtml{\n     over…",
+          "link": "https://qiita.com/kurimoto2011/items/9fd78b99c156af7085c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-09T00:35:38.000Z",
+          "wordCount": 284,
+          "title": "window.onloadが効かない。そんな時はoverflow:auto;を探そう"
+        },
+        {
           "id": "https://qiita.com/hikaru_motomiya/items/554ccb3671f7e9cf0aef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "1.はじめに\n\n平素より大変お世話になっております。\nそろそろ暑くなると思いきや、いきなりじめじめしてきて嫌な感じですね。\n\n私はARMテンプレートを利用してリソースをデプロイしていたのですが、これが…",
@@ -6911,6 +7487,15 @@
           "publishedOn": "2021-07-08T17:54:28.000Z",
           "wordCount": 380,
           "title": "技術ようつべチャンネル集"
+        },
+        {
+          "id": "https://qiita.com/nemutas/items/555c75f4473f605123fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n\n\nNext.jsの勉強を始め、公式のチュートリアルでブログサイトを作成しました。\nその過程で、JAMstackとういうアーキテクチャを知り、最近勉強していたFirebaseと組み合わせると自分…",
+          "link": "https://qiita.com/nemutas/items/555c75f4473f605123fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T17:46:06.000Z",
+          "wordCount": 350,
+          "title": "【JAMstack】Next.js × Firebase で JAMstack なブログサイトを作る①［概要］"
         },
         {
           "id": "https://qiita.com/YutoTada/items/b58f0f0547d15457f6d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -7109,6 +7694,15 @@
           "publishedOn": "2021-07-07T10:21:27.000Z",
           "wordCount": 384,
           "title": "サービスメッシュ Istioとは?"
+        },
+        {
+          "id": "https://qiita.com/evebursterrorR/items/86315925a85d48fe6adc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "暇つぶしがてらポ〇モン的対戦RPGゲームを開発したので、その中身の作り方の概要を記事にしたいと思います。Qiitaに投稿するの初めてで書くの慣れてないので読みにくかったらすいません。また、Unity…",
+          "link": "https://qiita.com/evebursterrorR/items/86315925a85d48fe6adc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T07:51:12.000Z",
+          "wordCount": 1105,
+          "title": "ポ〇モン的対戦RPGゲームの作り方-2.外部データのインポートとEditor拡張"
         },
         {
           "id": "https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
