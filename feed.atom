@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T15:11:22.778Z</updated>
+    <updated>2021-07-09T16:14:34.246Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[愛知県図書館で学校の記念誌など５８冊切り取られる　(CBCテレビ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ba77bd3031f10fe4439a5e53ddec2857d4ca3e27?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ba77bd3031f10fe4439a5e53ddec2857d4ca3e27?source=rss"/>
+        <updated>2021-07-09T16:05:01.000Z</updated>
+        <summary type="html"><![CDATA[名古屋市中区の愛知県図書館で学校の記念誌など５８冊が切り取られる被害がありました。
+
+　愛知県などによりますと、９日午後１時半ごろ、名古屋市中区の愛知県図書館で、「一宮市立大志小学校８０年のあゆみ」]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンテナの中に拳銃の実弾４個置いた疑い　暴力団幹部を逮捕送検(CBCテレビ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/41b953d829a535892551e11d49d4f191daacbbf1?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/41b953d829a535892551e11d49d4f191daacbbf1?source=rss"/>
+        <updated>2021-07-09T16:01:01.000Z</updated>
+        <summary type="html"><![CDATA[今年６月、三重県四日市市のコンテナの中に、拳銃の実弾４個を置いていたとして、六代目山口組傘下の幹部の男が逮捕、送検されました。
+
+　逮捕・送検されたのは六代目山口組弘道会傘下組織の幹部
+白井富久容疑]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[事前キャンプの競泳選手が陽性に　平塚市(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d861411a23a8abdaa118f4031fcb32b46917192d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d861411a23a8abdaa118f4031fcb32b46917192d?source=rss"/>
+        <updated>2021-07-09T15:58:12.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県平塚市は市内で事前キャンプを行っていたリトアニアの選手の1人がPCR検査で新型コロナ陽性の結果が出たと発表しました。
+
+　平塚市によりますと7日の、入国時、空港検疫で陰性と判断され、事前キャ]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県で一時間110.5ミリ　猛烈な雨(tenki.jp)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2ec8160bbca244f8a5c1b2208a9571e86d1fe13f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2ec8160bbca244f8a5c1b2208a9571e86d1fe13f?source=rss"/>
+        <updated>2021-07-09T15:57:17.000Z</updated>
+        <summary type="html"><![CDATA[梅雨前線の活動が活発になっています。鹿児島県薩摩川内市八重山では、9日午後11時49分までの一時間に110.5ミリの猛烈な雨を観測しました。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジョルダン、「いすみ鉄道」の1日乗車券をモバイルチケット化(Impress Watch)]]></title>
         <id>https://news.yahoo.co.jp/articles/a76ed3b993de046956bd54b10ad17426f9384670?source=rss</id>
@@ -73,6 +120,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「要請応じない店と酒の取引停止」政府が文書で通達(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/685832016c07963074bad6ae0f6cb65207c6a7ea?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/685832016c07963074bad6ae0f6cb65207c6a7ea?source=rss"/>
+        <updated>2021-07-09T14:33:30.000Z</updated>
+        <summary type="html"><![CDATA[会議で発表したその日に文書で通達を出していました。
+
+　内閣官房コロナ対策室が、8日付で国税庁と連名で酒造メーカーや販売組合を束ねる団体に休業要請などに応じない飲食店に対する酒類の取引を停止するよう]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ホテルで刺され男性死亡か　女性から事情聴取　京都(産経新聞)]]></title>
         <id>https://news.yahoo.co.jp/articles/d1b6e1075bd991e2ee71219736309f6f31a451ed?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/d1b6e1075bd991e2ee71219736309f6f31a451ed?source=rss"/>
@@ -80,6 +139,42 @@
         <summary type="html"><![CDATA[９日午後５時３５分ごろ、京都市伏見区羽束師菱川町のラブホテルの従業員から「人を刺したという女性がいる」と１１０番があった。
 
 京都府警向日町署と京都市消防局によると、駆け付けた向日町署員がホテルの一室]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3度目の宇宙飛行　野口さんに聞く“宇宙と地球”(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/279b0182d9e20782e7c07ab743fc2d68e256814e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/279b0182d9e20782e7c07ab743fc2d68e256814e?source=rss"/>
+        <updated>2021-07-09T14:30:31.000Z</updated>
+        <summary type="html"><![CDATA[日本人として前人未到、3回目の宇宙飛行を終えた、宇宙飛行士の野口聡一さんが、NASAでのリハビリ期間を経て、日本に帰国しました。
+
+野口さんの最初の宇宙は16年前。機体は憧れだったというスペースシャト]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[立ち往生した車から救出…連日の大雨(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a80198d70aff786cf66299adeba648d7b4b15ff4?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a80198d70aff786cf66299adeba648d7b4b15ff4?source=rss"/>
+        <updated>2021-07-09T14:30:10.000Z</updated>
+        <summary type="html"><![CDATA[梅雨末期の不安定な空は、局地的な大雨を各地にもたらしました。
+
+山口市では、明け方から激しい雨が続きました。岩国市付近では、9日午前8時までの1時間に約100ミリの猛烈な雨が降ったとみられ、『記録的短]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出場しない選手、チケット持つ人…“無観客”の余波(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/953e00f6e5bb23ea7befff667c48b6649cd54398?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/953e00f6e5bb23ea7befff667c48b6649cd54398?source=rss"/>
+        <updated>2021-07-09T14:30:09.000Z</updated>
+        <summary type="html"><![CDATA[オリンピックの聖火が、開催都市である東京にやってきました。公道でのリレーは全面的に中止ですが、開会式まで、都内すべての区市町村をめぐります。
+
+1都3県で、無観客での開催が決まった東京オリンピック。こ]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
         </author>
@@ -2026,6 +2121,16 @@ PC周辺機器のサンワダイレクトから、下に長～いエクセルや
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[菅首相「ヤラセ会見」疑惑 挙手していない記者が指名される“珍事”の目撃証言（日刊ゲンダイDIGITAL） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/55dd85f17350fe565ec63ff743644771516b10c9</id>
+        <link href="https://news.yahoo.co.jp/articles/55dd85f17350fe565ec63ff743644771516b10c9"/>
+        <updated>2021-07-09T09:48:04.000Z</updated>
+        <summary type="html"><![CDATA[「この会見に意味はあるのか」「この男の顔はもう見たくない」 政府の新型コロナウイルス感染症対策本部（本部長・菅義偉首相）が、東京都に４回目となる緊急事態宣言（12日～８月22日まで）の発令を決めた８日夜。首相官邸で記者会見した菅首相に対し、ネット上では憤りと呆れた声であふれかえった。 作家・鈴木涼美氏...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ゆうちょ銀はプライム市場の条件満たさず　東証一次判定(産経新聞)]]></title>
         <id>https://news.yahoo.co.jp/articles/c6c812b01fa6f2b9beda7d54176fa42fc204536f?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/c6c812b01fa6f2b9beda7d54176fa42fc204536f?source=rss"/>
@@ -2045,6 +2150,16 @@ PC周辺機器のサンワダイレクトから、下に長～いエクセルや
         <summary type="html"><![CDATA[北陸はこれまでの大雨で地盤の緩んでいる所があります。日曜日にかけて土砂災害に警戒が必要です。]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天皇陛下の五輪開会宣言「お願い取り下げるべきだ」　島根知事が発言 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210709/k00/00m/040/255000c</id>
+        <link href="https://mainichi.jp/articles/20210709/k00/00m/040/255000c"/>
+        <updated>2021-07-09T09:45:50.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪の開会式での天皇陛下の開会宣言について、丸山達也・島根県知事は9日の定例記者会見で、新型コロナ禍の中で五輪開催に賛否が分かれていることを踏まえ、「（開会宣言を）お願いできる立場なのかを大会組織委や政府、東京都は再検討すべきではないか」と述べた。 現行憲法が第1条で天皇を「日本国民統合の象徴」...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -2507,6 +2622,16 @@ PC周辺機器のサンワダイレクトから、下に長～いエクセルや
 　Office XPにおいて、やりたいことを入力し]]></summary>
         <author>
             <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】リトアニア五輪選手 合宿先で陽性、空港でも大会関係者３人目の陽性｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4311342.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4311342.html"/>
+        <updated>2021-07-09T09:02:48.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックに参加するため来日しているリトアニアの選手が、神奈川県平塚市の事前合宿先で新型コロナウイルスの陽性と判明したことが分かりました。 平塚市によりますと、陽性が判明したのは、おととい、リトアニア共和国から到着したオリンピック選手１人です。入国した当日の検査では陰性だったということですが...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -4019,6 +4144,16 @@ BMWモトラッドは2020年11月、『デフィニションCE 04』]]></summary
         <link href="https://pc.watch.impress.co.jp/docs/news/1337147.html"/>
         <updated>2021-07-09T07:35:44.000Z</updated>
         <summary type="html"><![CDATA[米Moderna(モデルナ)は7日(現地時間)、季節性インフルエンザに対応するmRNAワクチン候補である「mRNA-1010」の第1/2相試験を開始したと発表した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自殺が12か月連続で増加 女性が大幅増 コロナ影響か分析進める | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210709/k10013129721000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210709/k10013129721000.html"/>
+        <updated>2021-07-09T07:34:02.000Z</updated>
+        <summary type="html"><![CDATA[先月、自殺した人は全国で1745人で、去年の同じ時期に比べて173人増え、12か月連続で増加しました。特に女性が大幅に増加し、深刻な状況が続いています。 警察庁によりますと、先月、自殺した人は速報値で全国で1745人で、去年の同じ時期に比べて173人、率にして11％増えました。自殺者が前の年を上回るのは去年7月以降1...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
