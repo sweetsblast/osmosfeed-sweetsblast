@@ -31,6 +31,15 @@
           "title": "西村経済再生相 二階幹事長に謝罪　「金融機関」発言を撤回"
         },
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210709/k10013130311000.html",
+          "author": null,
+          "description": "インターネットでのプレスリリースの配信などを請け負っているPR会社「PR TIMES」の管理システムが不正アクセスを受け、合わせて13社の発表前のプレスリリースのデータ250点余りが外部に流出していたことがわかりました。 東京 港区のPR会社「PR TIMES」によりますと、今月5日、PRを依頼されている企業から「発表前の情...",
+          "link": "https://www3.nhk.or.jp/news/html/20210709/k10013130311000.html",
+          "publishedOn": "2021-07-09T11:54:26.000Z",
+          "wordCount": 26,
+          "title": "プレスリリース情報 発表前に250点が流出 不正アクセス受け | IT・ネット | NHKニュース"
+        },
+        {
           "id": "https://togetter.com/li/1742620",
           "author": null,
           "description": "真弓創 @nofun1978 「女子トイレの一番奥の扉を３回ノックして、花子さん遊びましょって３回言うと花子さんが出て来るんだけど、順番や制限時間は定められていないの。２回ノックして３回名前を呼んで放置しておけば、誰かが扉を１回ノックしただけで花子さんが出てくるってわけ」 「デバッカーみたいなことをするな」 2...",
@@ -2250,6 +2259,24 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/eec7503e55b1fd6977f332243169403ae657c0ae?source=rss",
+          "author": null,
+          "description": "世界的に著名な自然療法士でオステオパシストのフランク・ラポルト=アダムスキー氏。1992年に発表された「アダムスキー式腸活メソッド」は、Google.itの食事法(ダイエット)部門(2017年)で「最",
+          "link": "https://news.yahoo.co.jp/articles/eec7503e55b1fd6977f332243169403ae657c0ae?source=rss",
+          "publishedOn": "2021-07-09T20:01:41.000Z",
+          "wordCount": 70,
+          "title": "「バナナは腸にいい」最高の食べ方、意外すぎる4品(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/eaf8472bb767b183d217deab3fcdf617fa4ca6a1?source=rss",
+          "author": null,
+          "description": "気象庁は10日、鹿児島県薩摩地方に線状降水帯が形成されたと発表した。非常に激しい雨が同じ場所で降り続き、命に危険が及ぶ土砂災害や洪水による災害発生の危険度が急激に高まっているとしている。",
+          "link": "https://news.yahoo.co.jp/articles/eaf8472bb767b183d217deab3fcdf617fa4ca6a1?source=rss",
+          "publishedOn": "2021-07-09T19:48:26.000Z",
+          "wordCount": 67,
+          "title": "鹿児島県薩摩地方に線状降水帯(共同通信)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/2b037a9083a79f80f72129c0820b819f469b03f3?source=rss",
           "author": null,
           "description": "10日、鹿児島県薩摩地方では、「線状降水帯」によって、非常に激しい雨が同じ場所で降り続いています。命に危険が及ぶ土砂災害や洪水による災害発生の危険度が、急激に高まっています。",
@@ -4443,6 +4470,15 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/f5bc8b22d8e0e435f241fc297b78af5b339e30e8?source=rss",
+          "author": null,
+          "description": "『週刊東洋経済』の最新号(7月10日号)の特集は、「ガバナンス地獄　最後の審判」と題して、東京証券取引所の市場再編で「プライム市場」から外れる可能性のある会社の独自ランキングなどを掲載している。",
+          "link": "https://news.yahoo.co.jp/articles/f5bc8b22d8e0e435f241fc297b78af5b339e30e8?source=rss",
+          "publishedOn": "2021-07-09T19:31:41.000Z",
+          "wordCount": 70,
+          "title": "東証の「プライム市場創設」でTOPIXはどうなってしまうのか(東洋経済オンライン)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/67c3282d14daa62b32d54aebe72d4ea9d32dc198?source=rss",
           "author": null,

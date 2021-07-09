@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T19:07:16.857Z</updated>
+    <updated>2021-07-09T20:09:37.170Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「バナナは腸にいい」最高の食べ方、意外すぎる4品(東洋経済オンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/eec7503e55b1fd6977f332243169403ae657c0ae?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/eec7503e55b1fd6977f332243169403ae657c0ae?source=rss"/>
+        <updated>2021-07-09T20:01:41.000Z</updated>
+        <summary type="html"><![CDATA[世界的に著名な自然療法士でオステオパシストのフランク・ラポルト=アダムスキー氏。1992年に発表された「アダムスキー式腸活メソッド」は、Google.itの食事法(ダイエット)部門(2017年)で「最]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹿児島県薩摩地方に線状降水帯(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/eaf8472bb767b183d217deab3fcdf617fa4ca6a1?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/eaf8472bb767b183d217deab3fcdf617fa4ca6a1?source=rss"/>
+        <updated>2021-07-09T19:48:26.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は10日、鹿児島県薩摩地方に線状降水帯が形成されたと発表した。非常に激しい雨が同じ場所で降り続き、命に危険が及ぶ土砂災害や洪水による災害発生の危険度が急激に高まっているとしている。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東証の「プライム市場創設」でTOPIXはどうなってしまうのか(東洋経済オンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f5bc8b22d8e0e435f241fc297b78af5b339e30e8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f5bc8b22d8e0e435f241fc297b78af5b339e30e8?source=rss"/>
+        <updated>2021-07-09T19:31:41.000Z</updated>
+        <summary type="html"><![CDATA[『週刊東洋経済』の最新号(7月10日号)の特集は、「ガバナンス地獄　最後の審判」と題して、東京証券取引所の市場再編で「プライム市場」から外れる可能性のある会社の独自ランキングなどを掲載している。]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鹿児島県薩摩地方で　線状降水帯による非常に激しい雨(tenki.jp)]]></title>
         <id>https://news.yahoo.co.jp/articles/2b037a9083a79f80f72129c0820b819f469b03f3?source=rss</id>
@@ -957,6 +987,16 @@
         <summary type="html"><![CDATA[今回の土石流災害では、熱海市が「避難指示」を出さなかったことが住民の避難の遅れを招き、被害拡大を招いたとの指摘が出ている。政府は５月、効果的な避難を呼びかけるため「レベル４」に相当していた「避難勧告」]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プレスリリース情報 発表前に250点が流出 不正アクセス受け | IT・ネット | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210709/k10013130311000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210709/k10013130311000.html"/>
+        <updated>2021-07-09T11:54:26.000Z</updated>
+        <summary type="html"><![CDATA[インターネットでのプレスリリースの配信などを請け負っているPR会社「PR TIMES」の管理システムが不正アクセスを受け、合わせて13社の発表前のプレスリリースのデータ250点余りが外部に流出していたことがわかりました。 東京 港区のPR会社「PR TIMES」によりますと、今月5日、PRを依頼されている企業から「発表前の情...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
