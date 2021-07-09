@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210710/k10013130781000.html",
+          "author": null,
+          "description": "北海道の札幌ドームで行われる東京オリンピックのサッカー競技について、大会組織員会は上限を設けたうえで、観客を入れて開催するとしていましたが、緊急事態宣言が出される東京都などとの人の往来を防ぐのが難しいという北海道の意向を受けて、一転して観客を入れずに開催することを決めました。 東京オリンピックは、...",
+          "link": "https://www3.nhk.or.jp/news/html/20210710/k10013130781000.html",
+          "publishedOn": "2021-07-09T15:06:28.000Z",
+          "wordCount": 26,
+          "title": "五輪 北海道でのサッカー“無観客”開催を決定 道の意向で一転 | オリンピック・パラリンピック　大会運営 | NHKニュース"
+        },
+        {
           "id": "https://www.fnn.jp/articles/-/208138",
           "author": null,
           "description": "酒類の提供停止に応じない店への発言をめぐり、西村経済再生担当相が、二階幹事長に「すみません」と謝罪した。 西村経済再生相は、8日の会見で、酒類の提供を続ける飲食店に対し、取引先の金融機関から働きかけてもらうよう求める考えを示していたが、野党から批判が噴出。 西村経済再生相は9日、自民党の二階幹事長と...",
@@ -29,6 +38,24 @@
           "publishedOn": "2021-07-09T13:20:26.000Z",
           "wordCount": 122,
           "title": "西村経済再生相 二階幹事長に謝罪　「金融機関」発言を撤回"
+        },
+        {
+          "id": "https://www.sankei.com/article/20210709-EAZVOCBK2VOZBGQ27XDLVQO3GM/",
+          "author": null,
+          "description": "会見に臨む加藤勝信官房長官＝９日午前、首相官邸（春名中撮影）加藤勝信官房長官は９日の記者会見で、東京都が東京五輪に関する財政負担について改めて国との協議を求めたことに関し、応じない意向をにじませた。政府や都、大会組織委員会などが首都圏１都３県の五輪競技会場を無観客としたことで、約９００億円とされ...",
+          "link": "https://www.sankei.com/article/20210709-EAZVOCBK2VOZBGQ27XDLVQO3GM/",
+          "publishedOn": "2021-07-09T13:16:59.000Z",
+          "wordCount": 57,
+          "title": "五輪財政負担、東京都との交渉応じない意向　加藤官房長官 - 産経ニュース"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP7973FYP79ULFA028.html",
+          "author": null,
+          "description": "お酒の提供自粛や営業時間短縮に協力しない飲食店には金融機関経由で働きかける。そんな考えを示した西村康稔経済再生相の発言に、銀行や与野党から戸惑いや反発の声が広がった。 「我々に監視役をやれというのか」。大手金融機関首脳は9日、取材に対しこう述べた。「資金繰りをどう支えるかが我々の任務。自粛要請が徹...",
+          "link": "https://www.asahi.com/articles/ASP7973FYP79ULFA028.html",
+          "publishedOn": "2021-07-09T13:15:18.000Z",
+          "wordCount": 226,
+          "title": "識者、独禁法抵触の恐れ指摘　自民若手は悲鳴　西村発言 [新型コロナウイルス]：朝日新聞デジタル"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210709/k10013130311000.html",
@@ -290,6 +317,15 @@
           "publishedOn": "2021-07-09T04:19:02.000Z",
           "wordCount": 119,
           "title": "ワクチンを打ったのでLANケーブルを肛門に差してみたんだがネットにつながらない"
+        },
+        {
+          "id": "http://yurukuyaru.com/archives/86255237.html",
+          "author": null,
+          "description": "『バットマン』や『スーパーマン』など手掛けたアメコミ界の大御所作家、チャック・ディクソン氏が「漫画がアメコミを打ちまかした理由」について分析している。 質問： なぜ漫画がアメコミを完膚なきまでに叩きのめしているのか、意見をお聞かせください ディクソン氏： 簡単です。日本の漫画には作り手の技巧、情熱、...",
+          "link": "http://yurukuyaru.com/archives/86255237.html",
+          "publishedOn": "2021-07-09T03:20:48.000Z",
+          "wordCount": 990,
+          "title": "バットマン作者の「漫画がアメコミを完膚なきまでに叩きのめした理由」が正論すぎる・・ : ユルクヤル、外国人から見た世界"
         },
         {
           "id": "https://www.sankei.com/article/20210709-CW77C5TWTJO4NEBLBAVC2JAF2E/",
@@ -622,6 +658,33 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/8899510ec61b1d9a7374b7da90f4a6ae79490e18?source=rss",
+          "author": null,
+          "description": "ビューカードとJR東日本は、JR東日本グループのクレジットカード「ビューカード」独自の特典「VIEWプラス」を7月1日に改定。「JRE CARD」など対象カード限定で、7月1日～9月30日に5万円以",
+          "link": "https://news.yahoo.co.jp/articles/8899510ec61b1d9a7374b7da90f4a6ae79490e18?source=rss",
+          "publishedOn": "2021-07-09T22:00:00.000Z",
+          "wordCount": 84,
+          "title": "ビューカードで9月末までに5万円以上利用すると抽選で1000ポイント当たる！(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/325ce73212226c00b73ca85e7ca1c330b43b0106?source=rss",
+          "author": null,
+          "description": "親世代はテレワークでひと苦労していますが、子どもたちも事情は同じ。用途がワークではなく「スクール」「スタディ」というだけのこと、使う道具もパソコンにヘッドホン／マイクと、大人と違いはありません。サイズ",
+          "link": "https://news.yahoo.co.jp/articles/325ce73212226c00b73ca85e7ca1c330b43b0106?source=rss",
+          "publishedOn": "2021-07-09T22:00:00.000Z",
+          "wordCount": 76,
+          "title": "知っておくべき、子供の耳を守るヘッドホンの選び方(PHILE WEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c94b5b9d6249189a71b454fb0d89222eaf06a616?source=rss",
+          "author": null,
+          "description": "USB PD対応のACアダプタが充実してきている。スマホもPCも、モバイルバッテリも同じアダプタ、同じケーブルで充電ができるのは想像以上に便利だ。アダプタの能力が出力ワット数というわかりやすい指針で",
+          "link": "https://news.yahoo.co.jp/articles/c94b5b9d6249189a71b454fb0d89222eaf06a616?source=rss",
+          "publishedOn": "2021-07-09T21:55:00.000Z",
+          "wordCount": 130,
+          "title": "30WアダプタはUSB PD充電の新定番(Impress Watch)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/9fd16ab56fab72aa271648c770ef84974a3a2003?source=rss",
           "author": null,
@@ -2303,6 +2366,249 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c6bb6a32e2aca5c429e47eae6992f599c3385a6e?source=rss",
+          "author": null,
+          "description": "またも幼い命が犠牲になった。6月28日、千葉県八街市の路上で集団下校中の小学生の列にトラックが突っ込み、2人が死亡、3人が重傷を負った。現場にガードレールや路側帯はなかった。",
+          "link": "https://news.yahoo.co.jp/articles/c6bb6a32e2aca5c429e47eae6992f599c3385a6e?source=rss",
+          "publishedOn": "2021-07-09T22:05:56.000Z",
+          "wordCount": 74,
+          "title": "「八街市児童5人死傷事故」で議論される集団登下校のリスク(NEWSポストセブン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/978805a63623bbec774be13b99d22f35a32ca6a5?source=rss",
+          "author": null,
+          "description": "「まさかうちが……」「熱海がこんなことになるなんて」──多くの人がそう口にするが、専門家によると「何十年も住み続けてきたが何も起こらなかったから大丈夫」といった経験則は通用しなくなっているという。雨の",
+          "link": "https://news.yahoo.co.jp/articles/978805a63623bbec774be13b99d22f35a32ca6a5?source=rss",
+          "publishedOn": "2021-07-09T22:05:54.000Z",
+          "wordCount": 68,
+          "title": "熱海・土石流災害、カギとなる盛り土　地元住民「嫌な予感がしていた」(NEWSポストセブン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/da4cccb90f7bccc79e7b9a8d61769480092ecb55?source=rss",
+          "author": null,
+          "description": "日本中がその動向を見守っているといっても過言ではない、秋篠宮家の長女・眞子さまと婚約内定者の小室圭さんとの結婚問題。秋篠宮さまは、「国民の理解と祝福なき婚約は認めない」という態度を表明されており、小",
+          "link": "https://news.yahoo.co.jp/articles/da4cccb90f7bccc79e7b9a8d61769480092ecb55?source=rss",
+          "publishedOn": "2021-07-09T22:05:37.000Z",
+          "wordCount": 80,
+          "title": "眞子さまが養子に？　小室さんが「兄」、佳代さんが「親」という秘策(NEWSポストセブン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8ea8fc93fb6019680647f857fc416ec10d0c9748?source=rss",
+          "author": null,
+          "description": "----------\n「匿名の悪意」の被害はもう止められないのか？　ネットに吹き荒れる誹謗中傷、国民を見殺しにする政府や権力者、強気を助け弱気を挫くメディアの病巣、日本の歪な現実の病巣を、いまもっとも",
+          "link": "https://news.yahoo.co.jp/articles/8ea8fc93fb6019680647f857fc416ec10d0c9748?source=rss",
+          "publishedOn": "2021-07-09T22:01:58.000Z",
+          "wordCount": 83,
+          "title": "ネトウヨ的発言に簡単に毒され、ヘイトを広げるのは“普通の人”(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bde328b5faec4db7d897d9273af4809aebfdc6fd?source=rss",
+          "author": null,
+          "description": "◆大阪　曇り時々雨\n\n◆京都　曇りのち時々雨\n\n◆広島　曇り時々雨\n\n◆高松　曇り一時雨\n\n◆福岡　曇り時々雨\n\n◆鹿児島　雨のち曇り\n\n◆那覇　晴れのち時々曇り",
+          "link": "https://news.yahoo.co.jp/articles/bde328b5faec4db7d897d9273af4809aebfdc6fd?source=rss",
+          "publishedOn": "2021-07-09T22:00:13.000Z",
+          "wordCount": 79,
+          "title": "11日の天気（西日本）(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/548ecce7080d106189f9e8f0f9c628d81989ad09?source=rss",
+          "author": null,
+          "description": "来月の横浜市長選（8月8日告示、22日投開票）をめぐり、自民党参院議員の三原じゅん子厚労副大臣（56）を擁立しようとする動きが、地元で出ていることが9日、関係者への取材で分かった。\n\n女性経営者らが中",
+          "link": "https://news.yahoo.co.jp/articles/548ecce7080d106189f9e8f0f9c628d81989ad09?source=rss",
+          "publishedOn": "2021-07-09T22:00:11.000Z",
+          "wordCount": 64,
+          "title": "三原じゅん子氏に横浜市長選への擁立論浮上　支援する会が活動を開始(日刊スポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9d0dfce6ceb47fedf55c239f37ac0a7e4394a2d1?source=rss",
+          "author": null,
+          "description": "小池知事は９日の定例会見で、自民党内などで取り沙汰されている自身の国政復帰の可能性について「頭の片隅にもない」と否定した。二階俊博幹事長が８日のＴＢＳのＣＳ番組収録で「国会に戻ってくるなら大いに歓迎",
+          "link": "https://news.yahoo.co.jp/articles/9d0dfce6ceb47fedf55c239f37ac0a7e4394a2d1?source=rss",
+          "publishedOn": "2021-07-09T22:00:07.000Z",
+          "wordCount": 62,
+          "title": "小池百合子都知事、国政復帰は「頭の片隅にもない」…追突事故都議が新会派立ち上げには苦言「大変驚いた」(スポーツ報知)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f3ac7c6c36ce9494d315eca3da0eeea5c157821d?source=rss",
+          "author": null,
+          "description": "上野動物園で６月に誕生したジャイアントパンダの双子の赤ちゃんの性別が雄と雌だったことが９日、分かった。東京都の小池百合子知事が同日の定例記者会見で発表した。今後、名前を公募する考えも改めて示した。",
+          "link": "https://news.yahoo.co.jp/articles/f3ac7c6c36ce9494d315eca3da0eeea5c157821d?source=rss",
+          "publishedOn": "2021-07-09T22:00:05.000Z",
+          "wordCount": 63,
+          "title": "２頭の赤ちゃんパンダは雄と雌…健康状態は良好、状態安定すれば名前を公募へ(スポーツ報知)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c831efdb2a771e638f8e6d7bcc1e405029ec7531?source=rss",
+          "author": null,
+          "description": "国際オリンピック委員会（ＩＯＣ）のバッハ会長は９日、新型コロナの影響で東京五輪の首都圏の会場が無観客となる極めて異例な決定を受け「みんなが残念に思っている。観客もだが、五輪の雰囲気を楽しむことができ",
+          "link": "https://news.yahoo.co.jp/articles/c831efdb2a771e638f8e6d7bcc1e405029ec7531?source=rss",
+          "publishedOn": "2021-07-09T22:00:02.000Z",
+          "wordCount": 62,
+          "title": "バッハ会長「みんなが残念に思っている」「世界中の何十億人もの人々が応援してくれている」(スポーツ報知)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f954b77cb1df74f4111d1e09fe533b0771807ed8?source=rss",
+          "author": null,
+          "description": "◆札幌　曇り\n\n◆秋田　曇り一時雨\n\n◆仙台　曇り\n\n◆新潟　曇り時々雨\n\n◆東京　曇りのち雨\n\n◆名古屋　曇りのち一時雨",
+          "link": "https://news.yahoo.co.jp/articles/f954b77cb1df74f4111d1e09fe533b0771807ed8?source=rss",
+          "publishedOn": "2021-07-09T22:00:01.000Z",
+          "wordCount": 77,
+          "title": "11日の天気（東日本）(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/153eeba69e638995a8b31e3f3b2fd61095017c86?source=rss",
+          "author": null,
+          "description": "今日10日(土)も梅雨前線はほとんど停滞したままで、活動は非常に活発になっています。\n\n梅雨前線に沿って西から流れ込む非常に湿った空気の影響を強く受けている九州で雨雲が発達し、線状降水帯が発生。鹿児島",
+          "link": "https://news.yahoo.co.jp/articles/153eeba69e638995a8b31e3f3b2fd61095017c86?source=rss",
+          "publishedOn": "2021-07-09T21:59:19.000Z",
+          "wordCount": 70,
+          "title": "九州南部で猛烈な雨　大雨特別警報発表中　大雨災害に最大級の警戒(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3297fe0c76772d039a161d6a1c936a00af50fa4d?source=rss",
+          "author": null,
+          "description": "鹿児島県、宮崎県、熊本県の一部に大雨特別警報が発表されています。\n\n大雨特別警報は【警戒レベル5相当】で、命の危険があり、ただちに安全確保が必要です。\n\nレベル4の段階までに避難をすることが基本とはい",
+          "link": "https://news.yahoo.co.jp/articles/3297fe0c76772d039a161d6a1c936a00af50fa4d?source=rss",
+          "publishedOn": "2021-07-09T21:52:24.000Z",
+          "wordCount": 74,
+          "title": "もし警戒レベル5に遭遇してしまったら…安全確保の方法は(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e8caf93bf7a073d05d9cce5ff1c8005e333f91e1?source=rss",
+          "author": null,
+          "description": "「表現の不自由展」の大阪市での開催を巡り、会場側が利用承認を取り消したことについて大阪地裁は利用を認める決定をしました。\n\n　表現の不自由展は16日から「エル・おおさか」で予定されていましたが、施設",
+          "link": "https://news.yahoo.co.jp/articles/e8caf93bf7a073d05d9cce5ff1c8005e333f91e1?source=rss",
+          "publishedOn": "2021-07-09T21:52:23.000Z",
+          "wordCount": 73,
+          "title": "大阪「表現の不自由展」　会場利用認める決定(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1c643ada86ff665df3095917ebb899b8182aa199?source=rss",
+          "author": null,
+          "description": "9日夜、さいたま市でタクシーが営業中のパチンコ店に突っ込みました。\n\n　警察によりますと、9日午後7時半ごろ、さいたま市桜区のパチンコ店の店員から「店舗の窓ガラスに車が突っ込んだ」と警察に通報があり",
+          "link": "https://news.yahoo.co.jp/articles/1c643ada86ff665df3095917ebb899b8182aa199?source=rss",
+          "publishedOn": "2021-07-09T21:50:24.000Z",
+          "wordCount": 72,
+          "title": "さいたま市　パチンコ店にタクシー突っ込む(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7802d00aa6971ef30708d0d57419578d65b0658d?source=rss",
+          "author": null,
+          "description": "組織委員会は東京オリンピックのチケットの再抽選の対象が、前回想定していた分の7％程度にまで減少したことを明らかにしました。\n\n　東京オリンピックでは1都3県で無観客とするほか、宮城や静岡などの会場で",
+          "link": "https://news.yahoo.co.jp/articles/7802d00aa6971ef30708d0d57419578d65b0658d?source=rss",
+          "publishedOn": "2021-07-09T21:48:26.000Z",
+          "wordCount": 74,
+          "title": "五輪チケット再抽選対象減　1都3県無観客開催が影響(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5e77611232d064df84ec4cce1b0b1469048bcf5a?source=rss",
+          "author": null,
+          "description": "札幌ドームで行われる東京オリンピックのサッカーについて大会組織委員会は全試合、無観客で開催すると発表しました。\n\n　札幌ドームでのサッカーについて組織委員会は9日夕方、観客を入れて行うと発表していま",
+          "link": "https://news.yahoo.co.jp/articles/5e77611232d064df84ec4cce1b0b1469048bcf5a?source=rss",
+          "publishedOn": "2021-07-09T21:46:27.000Z",
+          "wordCount": 72,
+          "title": "東京五輪　有観客が一転、北海道のサッカー無観客に(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5849372b06a931b84c488111ffca49cd44c804d0?source=rss",
+          "author": null,
+          "description": "静岡県熱海市で土石流が発生してから10日で1週間です。死亡が確認されていた男性1人の身元が判明し、安否不明者は20人となりました。\n\n　土石流が発生した現場では、10日も午前6時から捜索が再開される",
+          "link": "https://news.yahoo.co.jp/articles/5849372b06a931b84c488111ffca49cd44c804d0?source=rss",
+          "publishedOn": "2021-07-09T21:44:29.000Z",
+          "wordCount": 76,
+          "title": "熱海土石流発生から1週間　死者9人、安否不明20人(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/dc8be8d13a7d0ddd1a7faa512837cf39e8d7b0b0?source=rss",
+          "author": null,
+          "description": "日本での新型コロナウイルスワクチンの接種状況について、菅義偉首相が会見などで「世界で最もスピード接種」「先進国の中でも最も速い」「先進国でも例を見ない速さ」などと発言した。これは、「ミスリード」だ。た",
+          "link": "https://news.yahoo.co.jp/articles/dc8be8d13a7d0ddd1a7faa512837cf39e8d7b0b0?source=rss",
+          "publishedOn": "2021-07-09T21:33:34.000Z",
+          "wordCount": 93,
+          "title": "菅首相「ワクチン接種、先進国の中で最速」はミスリード。会見で強調、実際は…(BuzzFeed Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e0178376f09d15a27b8d86495a2b5533aa784282?source=rss",
+          "author": null,
+          "description": "今日7月10日(土)の天気で、洗濯物を外干しできるかどうかをお伝えします。\n\n・関東や東海は急な雨が心配\n梅雨前線の影響で、西日本や北陸、東北では梅雨空となり、雨が降る予想です。外干しは難しいため、室",
+          "link": "https://news.yahoo.co.jp/articles/e0178376f09d15a27b8d86495a2b5533aa784282?source=rss",
+          "publishedOn": "2021-07-09T21:31:57.000Z",
+          "wordCount": 68,
+          "title": "7月10日(土)の洗濯天気予報　関東や東海は晴れても急な雨が心配(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0b5343d9d089b62464720617e7c509b61d7e47a7?source=rss",
+          "author": null,
+          "description": "2021年上半期、現代ビジネスで反響の大きかったベスト記事をご紹介していきます。今回は2020年10月25日・2021年2月7日の2度にわたって掲載された〈豊臣秀吉「本能寺の変を事前に知っていた」説",
+          "link": "https://news.yahoo.co.jp/articles/0b5343d9d089b62464720617e7c509b61d7e47a7?source=rss",
+          "publishedOn": "2021-07-09T21:31:54.000Z",
+          "wordCount": 76,
+          "title": "豊臣秀吉「本能寺の変を事前に知っていた」説は、やはり正しかった…！ 【2021年上半期ベスト記事】(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a54f5d9414c9d894019e1dcb265b50f3cb935f16?source=rss",
+          "author": null,
+          "description": "10日午前、鹿児島県と宮崎県、熊本県に大雨特別警報が発表されました。これまでに経験したことがないような大雨となっています。命を守る行動を取って下さい。\n\n　九州はこの後、さらに雨量が増える見込みです",
+          "link": "https://news.yahoo.co.jp/articles/a54f5d9414c9d894019e1dcb265b50f3cb935f16?source=rss",
+          "publishedOn": "2021-07-09T21:30:37.000Z",
+          "wordCount": 69,
+          "title": "鹿児島・宮崎・熊本に「大雨特別警報」気象庁(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f884436047207696e42889b43c6898a6a9fdd0fd?source=rss",
+          "author": null,
+          "description": "10日6時10分、熊本県に「大雨特別警報」が発表されました。これまでに経験したことのないような大雨となっている所があります。何らかの災害がすでに発生している可能性が高く、警戒レベル5に相当する状況です",
+          "link": "https://news.yahoo.co.jp/articles/f884436047207696e42889b43c6898a6a9fdd0fd?source=rss",
+          "publishedOn": "2021-07-09T21:17:50.000Z",
+          "wordCount": 66,
+          "title": "鹿児島県・宮崎県に続き　熊本県に「大雨特別警報」発表(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c6ba5dee47581417d740136d388172a32cd41731?source=rss",
+          "author": null,
+          "description": "熊本地方気象台は10日、熊本県に大雨特別警報を発表した。",
+          "link": "https://news.yahoo.co.jp/articles/c6ba5dee47581417d740136d388172a32cd41731?source=rss",
+          "publishedOn": "2021-07-09T21:14:06.000Z",
+          "wordCount": 62,
+          "title": "熊本県にも大雨特別警報(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8a9cffd18f0af097d68a7b7199db1fc3dbcff1b3?source=rss",
+          "author": null,
+          "description": "新橋を代表するモニュメントといえば、駅前広場に置かれたSLが有名だが、そのすぐそばにある新橋駅前ビル、ニュー新橋ビルも、街の歴史を語るうえで欠かすことのできないランドマークだ。\n\n　ライターの村岡俊",
+          "link": "https://news.yahoo.co.jp/articles/8a9cffd18f0af097d68a7b7199db1fc3dbcff1b3?source=rss",
+          "publishedOn": "2021-07-09T21:12:33.000Z",
+          "wordCount": 72,
+          "title": "《写真多数》中国系マッサージ、風俗店、ジューススタンド…多種多様なテナントが密集する“新橋の秘境”を探訪してみた(文春オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6bb32aa8cb505742bca2f3ddd7025e8ea7271726?source=rss",
+          "author": null,
+          "description": "10日06:10現在、熊本県に特別警報が発表されています。\n\n【大雨特別警報】\n熊本県：人吉市\n\n大雨による重大な災害の危険性が著しく高まっており、数十年に一度しかないような非常に危険な状況にあります",
+          "link": "https://news.yahoo.co.jp/articles/6bb32aa8cb505742bca2f3ddd7025e8ea7271726?source=rss",
+          "publishedOn": "2021-07-09T21:10:00.000Z",
+          "wordCount": 63,
+          "title": "〔特別警報〕熊本県に特別警報発表 直ちに命を守る行動を(10日06時10分現在)(レスキューナウニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/20a0179c12191cf8805dcf6af3b227daf3fc7d41?source=rss",
+          "author": null,
+          "description": "宮崎地方気象台は10日、宮崎県に大雨特別警報を発表した。",
+          "link": "https://news.yahoo.co.jp/articles/20a0179c12191cf8805dcf6af3b227daf3fc7d41?source=rss",
+          "publishedOn": "2021-07-09T21:09:49.000Z",
+          "wordCount": 64,
+          "title": "宮崎県にも大雨特別警報(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/40c8f878b8ff143fca96a06469080578a225a7e2?source=rss",
+          "author": null,
+          "description": "10日5時55分、宮崎県に「大雨特別警報」が発表されました。これまでに経験したことのないような大雨となっている所があります。何らかの災害がすでに発生している可能性が高く、警戒レベル5に相当する状況です",
+          "link": "https://news.yahoo.co.jp/articles/40c8f878b8ff143fca96a06469080578a225a7e2?source=rss",
+          "publishedOn": "2021-07-09T21:06:12.000Z",
+          "wordCount": 66,
+          "title": "宮崎県にも「大雨特別警報」発表(tenki.jp)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/2591bfcfc74cc39a708fd46b59b1589a3396bd17?source=rss",
           "author": null,
@@ -4803,6 +5109,213 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/a60066f813ee0aa98ab3f2d44c2972032b7d1fa3?source=rss",
+          "author": null,
+          "description": "「ダブルクラッチ」というフレーズを知っているだろうか？\n\n「DCT（デュアルクラッチトランスミッション）の別名？」と思うかもしれないが、これは古典的なドライビングテクニックのひとつ。\n\n　ダブルクラッ",
+          "link": "https://news.yahoo.co.jp/articles/a60066f813ee0aa98ab3f2d44c2972032b7d1fa3?source=rss",
+          "publishedOn": "2021-07-09T22:06:59.000Z",
+          "wordCount": 86,
+          "title": "昭和世代にしか通じない「ダブルクラッチ」とはどんな運転テクニック？(WEB CARTOP)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/34d8dac992145b6380995174384ee6520af93dc7?source=rss",
+          "author": null,
+          "description": "コロナ禍の異常事態にあっても即席みそ汁市場の成長は止まらない。\n\n　昨年も市場規模が拡大し、今年ここまでも堅調に推移している。\n　成長市場をさらに盛り上げようと、主要メーカーはさまざまな角度から商品",
+          "link": "https://news.yahoo.co.jp/articles/34d8dac992145b6380995174384ee6520af93dc7?source=rss",
+          "publishedOn": "2021-07-09T22:06:53.000Z",
+          "wordCount": 81,
+          "title": "即席みそ汁、エコパッケージが増加　SDGsやエシカルに対応(食品新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/13cb4ef8ca54cb7892452bd79b49dddd211f245c?source=rss",
+          "author": null,
+          "description": "いまやタワーマンションは都心部に限らず全国各地にそびえたっているが、近年目立ってきたのが、新幹線駅から見える「駅弁タワマン」だ。果たしてどんな人たちが購入しているのか──。住宅ジャーナリストの榊淳司",
+          "link": "https://news.yahoo.co.jp/articles/13cb4ef8ca54cb7892452bd79b49dddd211f245c?source=rss",
+          "publishedOn": "2021-07-09T22:05:33.000Z",
+          "wordCount": 78,
+          "title": "新幹線駅前にそびえたつ「駅弁タワマン」　いったい誰が買っているのか(NEWSポストセブン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cc59cada3af53c7416a9085693d59d9e9e74570d?source=rss",
+          "author": null,
+          "description": "世界的にもっとも売れているジャンルへと成長したSUV。中でも大型SUVを選ぶにあたって、気になる点はその動力性能やドライバビリティだろう。ここでは48Vマイルドハイブリッドの新しいパワーユニットが搭載",
+          "link": "https://news.yahoo.co.jp/articles/cc59cada3af53c7416a9085693d59d9e9e74570d?source=rss",
+          "publishedOn": "2021-07-09T22:05:22.000Z",
+          "wordCount": 77,
+          "title": "3列シートSUV、48V MHEV搭載のボルボXC90 B5の滑らかな走り出しは大きな魅力【ボルボのSUV特集】(Webモーターマガジン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/55b21596cb5aa0e3b2c257bbf229eaa2b185bdf2?source=rss",
+          "author": null,
+          "description": "text：Greg Macleman（グレッグ・マクレマン）\nphoto：John Bradshaw（ジョン・ブラッドショー）\ntranslation：Kenji Nakajima（中嶋健治）\n　\nブ",
+          "link": "https://news.yahoo.co.jp/articles/55b21596cb5aa0e3b2c257bbf229eaa2b185bdf2?source=rss",
+          "publishedOn": "2021-07-09T22:05:00.000Z",
+          "wordCount": 106,
+          "title": "【3.5L V8を積んだビュレット】トライアンフTR8　ブランドの最終章へ再試乗　前編(AUTOCAR JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/702a03075beb37c4cd5da2100d28b59f6a5b30e9?source=rss",
+          "author": null,
+          "description": "山口フィナンシャルグループ（FG、下関市）の吉村猛前会長（61）がグループ内に新銀行の設立を計画していたことが9日、関係者への取材で分かった。経営コンサルタントの男性を最高経営責任者（CEO）に迎え",
+          "link": "https://news.yahoo.co.jp/articles/702a03075beb37c4cd5da2100d28b59f6a5b30e9?source=rss",
+          "publishedOn": "2021-07-09T22:04:53.000Z",
+          "wordCount": 73,
+          "title": "新銀行設立計画が解任の引き金か　山口FG前会長、特定コンサルを起用し主導(中国新聞デジタル)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8e645b3f6157c1ba76588ab14835ec0d911473aa?source=rss",
+          "author": null,
+          "description": "----------\n間取り、路線価、借地権、住宅ローン、固定資産税、管理組合……。家を買ったり借りたりするうえで、知っておいたほうがいい事は山ほどあります。でも、実際はよくわからず、将来に不安を感じ",
+          "link": "https://news.yahoo.co.jp/articles/8e645b3f6157c1ba76588ab14835ec0d911473aa?source=rss",
+          "publishedOn": "2021-07-09T22:02:19.000Z",
+          "wordCount": 76,
+          "title": "中古マンション「高値で売りやすい時期」は「年3回」、その納得の理由(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/be4ffe44210e70a48bfece835e27046d89badc43?source=rss",
+          "author": null,
+          "description": "経済とお金の仕組みを生活に根ざした視点からわかりやすく解説してくれると人気の経済ジャーナリストの荻原博子氏は、過去の著書で繰り返し、素人が初心者向け投資や金融機関が進める資産運用商品に、安易に出を出す",
+          "link": "https://news.yahoo.co.jp/articles/be4ffe44210e70a48bfece835e27046d89badc43?source=rss",
+          "publishedOn": "2021-07-09T22:01:45.000Z",
+          "wordCount": 68,
+          "title": "初心者は要注意！安心なはずの「分散型投資」「積み上げ型投信」で大損する人がわかっていないこと(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a2e1463ede843aff89174978d2267de5feec4f27?source=rss",
+          "author": null,
+          "description": "【ニューヨーク共同】9日のニューヨーク外国為替市場の円相場は午後5時現在、前日比38銭円安ドル高の1ドル＝110円09～19銭をつけた。ユーロは1ユーロ＝1.1873～83ドル、130円71～81銭",
+          "link": "https://news.yahoo.co.jp/articles/a2e1463ede843aff89174978d2267de5feec4f27?source=rss",
+          "publishedOn": "2021-07-09T22:01:27.000Z",
+          "wordCount": 64,
+          "title": "NY円、110円前半(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/402f9d61e17f3bd2630a83818c30be257b02416b?source=rss",
+          "author": null,
+          "description": "趣味とまなびの「体験」＆「教室」さがしサービス『趣味なび』が30～59才の男女1204名を対象に行ったインターネット調査（2019年）によると、30～50代の女性のうち「趣味がある人」は「ない人」の",
+          "link": "https://news.yahoo.co.jp/articles/402f9d61e17f3bd2630a83818c30be257b02416b?source=rss",
+          "publishedOn": "2021-07-09T22:00:58.000Z",
+          "wordCount": 72,
+          "title": "麻木久仁子が闘病を機にハマった「薬膳」の奥深い世界　その魅力を語る(マネーポストWEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c55dd3fed52bf912c24bea1afd598c0d5caacdb8?source=rss",
+          "author": null,
+          "description": "レジ袋有料化について「成功だった」と考える人は38.3％で、「失敗だった」の23.1％を上回った――そんな結果が、NEXER（東京都豊島区）が運営する日本トレンドリサーチの調査で明らかになった。",
+          "link": "https://news.yahoo.co.jp/articles/c55dd3fed52bf912c24bea1afd598c0d5caacdb8?source=rss",
+          "publishedOn": "2021-07-09T22:00:06.000Z",
+          "wordCount": 72,
+          "title": "レジ袋有料化は「成功だった」と考える人が「失敗だった」を上回る(ITmedia ビジネスオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/33b65fc3ea5d5febf53cc44bd0ccbc24bd6416a3?source=rss",
+          "author": null,
+          "description": "【1990年式 トヨタ MR2 Gリミテッド Tバールーフ　Vol.3】\n10年という長いモデルライフを経て1999年に生産終了した【2】から続く\n\n　また、幾度となく繰り返されたマイナーチェンジもS",
+          "link": "https://news.yahoo.co.jp/articles/33b65fc3ea5d5febf53cc44bd0ccbc24bd6416a3?source=rss",
+          "publishedOn": "2021-07-09T22:00:00.000Z",
+          "wordCount": 153,
+          "title": "「ピーキーなⅠ型を乗りこなしてみたい！」で選んだ1台｜1990年式 トヨタ MR2 Gリミテッド Tバールーフ　Vol.3(Nosweb.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1642923865c5f60b7ca26fbfa825760e89a8cbe7?source=rss",
+          "author": null,
+          "description": "2021年6月12日、日産は一部新聞による、「スカイラインの国内生産中止」報道を受けて、日産の星野朝子副社長が「日産はスカイラインを決してあきらめない」と発言、大きな注目を集めた。\n\n　そこで、R3",
+          "link": "https://news.yahoo.co.jp/articles/1642923865c5f60b7ca26fbfa825760e89a8cbe7?source=rss",
+          "publishedOn": "2021-07-09T22:00:00.000Z",
+          "wordCount": 84,
+          "title": "生産中止説にもの申す「名ばかりのスカイラインに乗りたくない」スカイライン党の提言！(ベストカーWeb)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7adf555ac08a4e8563335e411d88a8844a1bbea3?source=rss",
+          "author": null,
+          "description": "【ベネチア共同】日米欧の先進国と新興国による20カ国・地域（G20）の財務相・中央銀行総裁会議は9日午後（日本時間10日未明）、新型コロナウイルス禍への協調的な対応を確認し、初日の討議を終えた。10",
+          "link": "https://news.yahoo.co.jp/articles/7adf555ac08a4e8563335e411d88a8844a1bbea3?source=rss",
+          "publishedOn": "2021-07-09T21:52:45.000Z",
+          "wordCount": 66,
+          "title": "コロナ対応で協調確認　G20財務相会議、初日終了(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c778e7a05623884e450c4769674450b4fc45d05c?source=rss",
+          "author": null,
+          "description": "【ニューヨーク共同】9日のニューヨーク外国為替市場の円相場は午後5時現在、前日比38銭円安ドル高の1ドル＝110円09～19銭をつけた。",
+          "link": "https://news.yahoo.co.jp/articles/c778e7a05623884e450c4769674450b4fc45d05c?source=rss",
+          "publishedOn": "2021-07-09T21:46:03.000Z",
+          "wordCount": 65,
+          "title": "NY円、110円09～19銭(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6466e97238f0f326e59937f4db9a817169548b2b?source=rss",
+          "author": null,
+          "description": "FFホットハッチという言葉はお馴染みで、ステリングを切ってアクセル踏むと暴れるトルクステアや、アクセルを戻すと前に荷重が大きく移動して、テールが強烈に巻き込むように出るタックインなどのイメージがある",
+          "link": "https://news.yahoo.co.jp/articles/6466e97238f0f326e59937f4db9a817169548b2b?source=rss",
+          "publishedOn": "2021-07-09T21:41:19.000Z",
+          "wordCount": 92,
+          "title": "お洒落なフレンチハッチを魔改造！　ルノー5ターボの再来「クリオ ルノー・スポールV6」はいろんな意味でワイルド過ぎた(Auto Messe Web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ecebd4d6a3d3677ce6233f7a194fdb06868895cb?source=rss",
+          "author": null,
+          "description": "コロナ禍で大きく変わった「通勤」のあり方。大手私鉄やJRなど鉄道各社はこれまで不変の屋台骨だった定期客の減少による苦戦が続く。需要減とともに自動券売機の活用やスマートフォンによるモバイル定期券などの",
+          "link": "https://news.yahoo.co.jp/articles/ecebd4d6a3d3677ce6233f7a194fdb06868895cb?source=rss",
+          "publishedOn": "2021-07-09T21:31:42.000Z",
+          "wordCount": 79,
+          "title": "定期券需要減、売り場は「シェアオフィス」に変身 東急駅員らが「手作り」、約2カ月でスピード開業(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b2f28cd81a9eef70d6638d7fac6a49b8a13d6b5c?source=rss",
+          "author": null,
+          "description": "鉄道会社が催す恒例のイベントも徐々に開かれるようになってきた。6月5日（土曜日）、西武鉄道の武蔵丘車両検修場（埼玉県）で「西武・電車フェスタ2021 in 武蔵丘車両検修場」が行われた。同フェスタは実",
+          "link": "https://news.yahoo.co.jp/articles/b2f28cd81a9eef70d6638d7fac6a49b8a13d6b5c?source=rss",
+          "publishedOn": "2021-07-09T21:30:09.000Z",
+          "wordCount": 75,
+          "title": "2年ぶりに開催された「西武・電車フェスタ」詳細を改めてレポート(GetNavi web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b84e8c34b19bef1043808a40c32538f93acca6a9?source=rss",
+          "author": null,
+          "description": "BMWの二輪部門のBMWモトラッド（BMW Motorrad）は7月7日、2021年上半期（1～6月）の世界新車販売の結果を発表した。総販売台数は上半期の新記録となる10万7610台。前年同期比は40",
+          "link": "https://news.yahoo.co.jp/articles/b84e8c34b19bef1043808a40c32538f93acca6a9?source=rss",
+          "publishedOn": "2021-07-09T21:30:03.000Z",
+          "wordCount": 76,
+          "title": "BMWの二輪世界販売、40％増…日本は2年連続で増加　2021年上半期(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4d0be08d513215ab8674e068741ed409577f6a23?source=rss",
+          "author": null,
+          "description": "かつてナッパ服と呼ばれた現場労働者の作業着がありました。着用の代表例として挙げられるのが、旧国鉄の機関士や線路作業員など。青系のものが多く、その語源は「洗うと皺くちゃになり菜っ葉のようだから」「生地",
+          "link": "https://news.yahoo.co.jp/articles/4d0be08d513215ab8674e068741ed409577f6a23?source=rss",
+          "publishedOn": "2021-07-09T21:20:00.000Z",
+          "wordCount": 77,
+          "title": "国鉄の「ナッパ服」に注目 ワークウェアブームで再評価の動き 鉄道ファン的には？(乗りものニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4d260b950e25f5cc56a8a0bb845c31f730a252cb?source=rss",
+          "author": null,
+          "description": "【ニューヨーク共同】9日のニューヨーク株式市場のダウ工業株30種平均は反発し、前日比448.23ドル高の3万4870.16ドルと過去最高値を更新して取引を終えた。米長期金利が上昇したことから、利ざや",
+          "link": "https://news.yahoo.co.jp/articles/4d260b950e25f5cc56a8a0bb845c31f730a252cb?source=rss",
+          "publishedOn": "2021-07-09T21:15:37.000Z",
+          "wordCount": 67,
+          "title": "NY株最高値、448ドル高　金融株に買い、警戒感後退(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f884c0fd3210544e30c82a8893117c89a75e1c1d?source=rss",
+          "author": null,
+          "description": "コロナ禍で人気を高めたのは、郊外の大規模マンションだ。いや、23区内で通勤時間が短くて済む準都心立地のマンションのほうがよい。それより23区内の狭小戸建てが爆発的に売れている……いろいろな説が出てい",
+          "link": "https://news.yahoo.co.jp/articles/f884c0fd3210544e30c82a8893117c89a75e1c1d?source=rss",
+          "publishedOn": "2021-07-09T21:11:41.000Z",
+          "wordCount": 67,
+          "title": "“コロナ禍でどこ住む”論争…住宅のプロが取材で見た「ひとつのこたえ」(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cf24151919c4f841d88b1f12c3b0b3aea6365410?source=rss",
+          "author": null,
+          "description": "クルマの性能を語るうえで重要な要素のひとつが車重です。近年は衝突安全性の向上や安全装備、快適装備の充実が当たり前なので車重が増える傾向にありますが、それでも各メーカーとも軽量化に対しての努力は続いて",
+          "link": "https://news.yahoo.co.jp/articles/cf24151919c4f841d88b1f12c3b0b3aea6365410?source=rss",
+          "publishedOn": "2021-07-09T21:10:34.000Z",
+          "wordCount": 85,
+          "title": "ストイックにダイエットしたモデルもある？ 非スポーツカーでも軽量な車5選(くるまのニュース)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/5d979946348624a6b79594e439b95da38138721b?source=rss",
           "author": null,
