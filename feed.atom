@@ -2,10 +2,485 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T07:08:34.656Z</updated>
+    <updated>2021-07-10T08:10:22.763Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[九州南部・熊本県では土砂災害に引き続き厳重警戒　11日(日)は西日本～東北で激しい雷雨のおそれ(ウェザーマップ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6e24dee9b3110b6543df903163372b83b538c910?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6e24dee9b3110b6543df903163372b83b538c910?source=rss"/>
+        <updated>2021-07-10T08:07:32.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県、宮崎県、熊本県の大雨特別警報は大雨警報に切り替わったが、引き続き土砂災害に厳重に警戒し、低い土地の浸水、河川の増水や氾濫に警戒が必要となる。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本で高級輸入車は本国では庶民のクルマ？　日本で買うと「外車」は高いのか(WEB CARTOP)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6a506eae2956df724cfc6105f6a74dc0f760e80f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6a506eae2956df724cfc6105f6a74dc0f760e80f?source=rss"/>
+        <updated>2021-07-10T08:07:02.000Z</updated>
+        <summary type="html"><![CDATA[その昔から、よく聞く話として……。ドイツに旅行に行った人が、空港に着いて外に出て客待ちのタクシーの列を見るなりビックリ。「凄い、メルセデス・ベンツEクラスのタクシーがこんなに多いなんて」。日本でいえ]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京で950人感染、5人死亡(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/19af48c309fa8e471b980955bea69f8d9d148d19?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/19af48c309fa8e471b980955bea69f8d9d148d19?source=rss"/>
+        <updated>2021-07-10T08:05:42.000Z</updated>
+        <summary type="html"><![CDATA[東京都は10日、新型コロナウイルスの感染者が新たに950人報告され、5人が死亡したと発表した。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京で950人感染、5人死亡　新型コロナ、増加傾向が深刻化(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4f5e24f8cc4893aacdf30d751581a0e30292ab47?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4f5e24f8cc4893aacdf30d751581a0e30292ab47?source=rss"/>
+        <updated>2021-07-10T08:04:52.000Z</updated>
+        <summary type="html"><![CDATA[東京都は10日、新型コロナウイルスの感染者が新たに950人報告されたと発表した。1週間前と比べると234人増加し、前の週の同じ曜日を上回るのは21日連続。直近7日間を平均した1日当たりの新規感染者数]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九州豪雨、首相「災害対策に万全を」(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7d033a64ad7cafbe1033e4b9e0a989673bf1352f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7d033a64ad7cafbe1033e4b9e0a989673bf1352f?source=rss"/>
+        <updated>2021-07-10T08:04:35.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉（すが・よしひで）首相は１０日午後、公邸で棚橋泰文防災担当相と面会し、鹿児島、宮崎、熊本３県を中心とした九州地方の大雨について報告を受けた。首相は「何よりも人命最優先、人命第一の方針で引き続き緊]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実車同様50台のみ！　日下エンジニアリングから1億円R35GT-Rのエンジンスケールモデル＆ミニカーセットが登場(Auto Messe Web)]]></title>
+        <id>https://news.yahoo.co.jp/articles/e4a4476e7f39611b14bf487011204f0677122dff?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/e4a4476e7f39611b14bf487011204f0677122dff?source=rss"/>
+        <updated>2021-07-10T08:03:51.000Z</updated>
+        <summary type="html"><![CDATA[精密なエンジンスケールを手掛ける日下エンジニアリング。モデルカーとエンジンスケールモデルをセットにした「マスターズシリーズ」より、「NISSAN GT-R50 by Italdesign 2018]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「フォロワー数に流されない」磯村勇斗、SNSを使う上で心がけていること明かす(ABEMA TIMES)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c54249b4ffbe3b062856e2d05770a0d055cf1b4e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c54249b4ffbe3b062856e2d05770a0d055cf1b4e?source=rss"/>
+        <updated>2021-07-10T08:03:07.000Z</updated>
+        <summary type="html"><![CDATA[現在、ABEMAで配信中のオリジナルシリーズドラマ『箱庭のレミング』で主演を務めている俳優の磯村勇斗（28）。激ヤバな配信者を発掘するYouTuber・加茂虹生として物語のストーリーテラーを務める傍]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お店にはない「中本」のオリジナル！セブン「蒙古タンメン中本 カレー誠炸羅麺」の辛さ(GetNavi web)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2d85e22e3fdfa7496aed9261194b6acb0d520f91?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2d85e22e3fdfa7496aed9261194b6acb0d520f91?source=rss"/>
+        <updated>2021-07-10T08:00:49.000Z</updated>
+        <summary type="html"><![CDATA[レンジで温めるだけで、いつでも手軽に食べられる冷凍食品。近年ではチャーハンやパスタなど豊富なラインナップを展開していますよね。そこで、今回購入したのは、セブン－イレブンと「蒙古タンメン中本」のコラボ商]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明日11日(日)の天気　全国的に暑さと急な雨に要注意(ウェザーニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/53f0869032fe302195af9a6655c500a455200be8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/53f0869032fe302195af9a6655c500a455200be8?source=rss"/>
+        <updated>2021-07-10T08:00:43.000Z</updated>
+        <summary type="html"><![CDATA[■ 天気のポイント ■
+・西日本から関東、東北は急な雨に注意
+・北海道は雲が多めも穏やかな一日
+・沖縄は夏空と厳しい暑さが継続
+
+11日(日)は梅雨前線の活動が弱まり、一連の大雨は峠を越えます。ただ、]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大企業１０００社、減資で中小に衣替え(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7a69d04842bf4cf4c6f0901798f428d4a50d1387?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7a69d04842bf4cf4c6f0901798f428d4a50d1387?source=rss"/>
+        <updated>2021-07-10T08:00:12.000Z</updated>
+        <summary type="html"><![CDATA[大企業が資本金を減らす「減資」の手続きを取り、税制上の「中小企業」に衣替えした事例が、令和２年度は約１０００社に及んだことが１０日、分かった。財務悪化のイメージダウンは避けられないが、資本金が１億円以]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【夏休み】島時間を快適に！ リヤカーやWiFiを無料貸し出し　天売島・焼尻島(レスポンス)]]></title>
+        <id>https://news.yahoo.co.jp/articles/26263f034566476e7c1ba1c8c8a42ea6527200e7?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/26263f034566476e7c1ba1c8c8a42ea6527200e7?source=rss"/>
+        <updated>2021-07-10T08:00:03.000Z</updated>
+        <summary type="html"><![CDATA[島時間をもっと快適に！　北海道の羽幌町観光協会では、観光客・ビジネスユーザーが天売島・焼尻島を楽しむためのグッズをレンタルする。提供期間は7月10日～8月31日、料金は無料だ。
+
+羽幌町には日本海に浮]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「長尺トイレットペーパー」は家計に優しく、災害時の備えにも場所を取らない(BCN)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4f696dadde489dfe476f6db1fb51a7f757fc892d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4f696dadde489dfe476f6db1fb51a7f757fc892d?source=rss"/>
+        <updated>2021-07-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【家電コンサルのお得な話・50】 妻といつものショッピングセンターに行ったときのこと。2階の日用品コーナーのエンドにトイレットペーパーがいつも通り山積み展開されていた。ただ、違っていたのが並べられてい]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[点字ブロックにQRコード...何のため？　導入の東京メトロに使い方を聞いた(J-CASTニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1c2d0a2f8f3574945d5c4a040b0787207f8f5f80?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1c2d0a2f8f3574945d5c4a040b0787207f8f5f80?source=rss"/>
+        <updated>2021-07-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京の地下鉄駅の点字ブロックに、QRコードがついているのを見かけた経験はないだろうか。
+
+　このQRコード、実は視覚障害者への配慮として、東京メトロが一部の駅に設置しているもの。専用のアプリで読み取]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「地球を終わらせない」代替肉開発　フードテックで救う食の未来｜#U30と考える(Forbes JAPAN)]]></title>
+        <id>https://news.yahoo.co.jp/articles/44e2d1aaf95c6ac41d1cec65a9507b23cc496ac3?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/44e2d1aaf95c6ac41d1cec65a9507b23cc496ac3?source=rss"/>
+        <updated>2021-07-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[健康志向やサステナブルな食への注目が高まるなか、プラントベースと呼ばれる食材やビーガンへの関心が広がっている。
+
+U30世代の若者が社会に対して感じるモヤモヤを第一線で活躍する大人にぶつけて、より良い]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[細く長くに意義がある 販売から2年のスープラはどれだけ偉大な存在なのか(ベストカーWeb)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a51277770e3178a82b2a7d35a50111922a8f0f82?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a51277770e3178a82b2a7d35a50111922a8f0f82?source=rss"/>
+        <updated>2021-07-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[熱狂をもって迎えられた2019年のデビューから2年。最近では話題も鎮静化しつつある現行トヨタ スープラ。
+
+　トヨタ単独では採算が取れないであろう『スープラ復活』というプロジェクトを、BMWとの協力]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京の新規感染者950人　前週の土曜日より234人増(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/9e14c67d76196aaadb91e976af2d13f81c171b13?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/9e14c67d76196aaadb91e976af2d13f81c171b13?source=rss"/>
+        <updated>2021-07-10T07:59:16.000Z</updated>
+        <summary type="html"><![CDATA[10日、東京都が確認した新型コロナウイルスの新たな感染者は950人でした。前の週の土曜日より234人増えました。
+
+　感染が確認されたのは10歳未満から90代の950人です。
+
+　直近7日間の一日あ]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】宮崎県で1人の感染確認　新型コロナ(西日本新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a1f5a16e26dc4cb4d5790999938ce45a98ee9598?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a1f5a16e26dc4cb4d5790999938ce45a98ee9598?source=rss"/>
+        <updated>2021-07-10T07:58:35.000Z</updated>
+        <summary type="html"><![CDATA[宮崎県内では10日、新たに1人が新型コロナウイルスに感染したことが明らかになった。累計感染者数は3101人。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「鬼滅の刃」を手掛ける制作会社ufotable、法人税法違反の疑いで在宅起訴(ITmedia ビジネスオンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ed8bba1d1d9be72f9efb7c66dd7be215c668cd16?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ed8bba1d1d9be72f9efb7c66dd7be215c668cd16?source=rss"/>
+        <updated>2021-07-10T07:57:35.000Z</updated>
+        <summary type="html"><![CDATA[ヒットアニメ「鬼滅の刃」を手掛ける制作会社「ufotable」（東京都中野区）は7月9日、同社と同社の近藤光社長が法人税法等違反の疑いで在宅起訴されたと発表した。「国税当局の指導に従って修正申告を行]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】熊本県で新たに4人感染　新型コロナ(西日本新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5957271237f5c46d08b44aa64e838bf597151040?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5957271237f5c46d08b44aa64e838bf597151040?source=rss"/>
+        <updated>2021-07-10T07:57:27.000Z</updated>
+        <summary type="html"><![CDATA[熊本県と熊本市は10日、新たに4人が新型コロナウイルスに感染したと発表した。
+
+　また、9日発表の感染者1人が取り下げられた。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】長崎県で新規感染者4人　新型コロナ(西日本新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3ec455917d649b2708a0628c711f43f214cbfe57?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3ec455917d649b2708a0628c711f43f214cbfe57?source=rss"/>
+        <updated>2021-07-10T07:56:38.000Z</updated>
+        <summary type="html"><![CDATA[長崎県内では10日、新たに4人の新型コロナウイルス感染確認が発表された。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅雨どきに増す「マチュピチュらしさ」　御岳山ロックガーデン（御岳山＝東京都）　標高９２９メートル(夕刊フジ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/dde2bb964e688746df31bcedda679e922a227f86?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/dde2bb964e688746df31bcedda679e922a227f86?source=rss"/>
+        <updated>2021-07-10T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[【週末、山へ行こう】
+
+　梅雨のさなかに山歩き。雨に濡れた登山道は滑りやすく、歩きにくいものだが、雨や霧でうるおっている森の木々はみずみずしく、水をたっぷり含んだ苔はいきいきとしている。霧が立ちこめ]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当初見込みより税収大幅増…埼玉・川口市で何が起きている？　移住者も年々増える「住みやすい街」(夕刊フジ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/696eee2961ed6263c6d4c4478ccc90004805fab6?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/696eee2961ed6263c6d4c4478ccc90004805fab6?source=rss"/>
+        <updated>2021-07-10T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍の対応のため、「貯金」に当たる財政調整基金を大幅に減らす地方自治体が多いが、埼玉県川口市（奥ノ木信夫市長）は、税収が当初の見込みより大きく増えるとして、およそ３０年ぶりとなる補正予算の増額補]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタル時代にも変わらない「たしかなこと」　「フィソロフィー」原点に企業改革　明治安田生命保険・永島英器社長(夕刊フジ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/9217c65ea88d9550e089afe982d5af5b61b0750d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/9217c65ea88d9550e089afe982d5af5b61b0750d?source=rss"/>
+        <updated>2021-07-10T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[【トップ直撃】
+
+　８年ぶりの社長交代で、根岸秋男現会長（６２）の後継としてグループを率いる。企業理念の「明治安田フィロソフィー」を原点に、昨年度からの１０年計画と、今年度から３年間の中期経営計画の]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無観客五輪で“赤字押し付け”バトル　想定額９００億円　小池氏「国が出すのが前提よ」　丸川氏「財政に余裕あるでしょ」(夕刊フジ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/001d1b9f007d0039f8002a41cad0f56ad0e6c9ad?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/001d1b9f007d0039f8002a41cad0f56ad0e6c9ad?source=rss"/>
+        <updated>2021-07-10T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪は１都３県に続き、北海道での開催も一転、無観客が決まった。ほとんどの人が生で観戦できなくなり、チケット担当者が涙を流す場面もあったが、政治の世界ではカネをめぐる泥仕合が始まっている。約９００]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小石川の古画や写真満喫　２５日まで収蔵品展を開催「文京ふるさと歴史館」(夕刊フジ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/aca260daaff1e066bf8d41177833cb6043621643?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/aca260daaff1e066bf8d41177833cb6043621643?source=rss"/>
+        <updated>2021-07-10T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[【Ｓ列車で行こう　シルバーマル“得”ぶらり歩き】
+
+　シルバーパスで時折、東京都文京区の病院に通っている。都営三田線で春日乗り換え大江戸線本郷三丁目が最寄り駅だ。診療を終えると近くをぶらつく。文京区]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[２回接種後の効果はどれくらい持続するの？　ワクチン接種Ｑ＆Ａ(夕刊フジ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/61348f8b2db849930ab35f0c6d24fcc3d03387c3?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/61348f8b2db849930ab35f0c6d24fcc3d03387c3?source=rss"/>
+        <updated>2021-07-10T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[【ギモン解消！！ワクチン接種Ｑ＆Ａ】
+
+　これまで世界を悩ませた感染症は多くあるが、インフルエンザのように毎年の予防接種が恒例になったものもあれば、ワクチンの開発で地球上から根絶できたウイルスもある]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンビニの“シニア積極採用”　家の近くで柔軟に働けるメリット(夕刊フジ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/91b623751c657e24494da97c08e53946082fb404?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/91b623751c657e24494da97c08e53946082fb404?source=rss"/>
+        <updated>2021-07-10T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[【定年後の居場所】
+
+　先日、日本経済新聞を読んでいると、「シニア店員、コンビニで奮闘」という見出し記事が目に飛び込んできた。自宅から近い店舗を選べるほか、体力や都合に合わせた曜日・時間帯で勤務でき]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無免許運転で人身事故、木下都議は「辞職すべき」の意見が９７％　小池都知事は改めて議員辞職すべきと通告(夕刊フジ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d69d5d96cc06c62847e374b9b87f530289b4de01?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d69d5d96cc06c62847e374b9b87f530289b4de01?source=rss"/>
+        <updated>2021-07-10T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[東京都の小池百合子知事は９日の定例記者会見で、都議選中に無免許運転（免許停止中）で人身事故を起こし、小池氏が特別顧問を務める地域政党「都民ファーストの会」を除名された木下富美子都議（５４、板橋区選挙]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[緊急事態宣言！　侍ジャパンにビッグボーナス、参加6カ国の五輪に大義はあるか(オトナンサー)]]></title>
+        <id>https://news.yahoo.co.jp/articles/dc9556d229f0aeb141332a362ab80d280c28fc05?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/dc9556d229f0aeb141332a362ab80d280c28fc05?source=rss"/>
+        <updated>2021-07-10T07:51:01.000Z</updated>
+        <summary type="html"><![CDATA[4度目の緊急事態宣言が出されました。観客についても5者トップ協議が行われ、東京都内の会場はすべて「無観客」にすることが決定しました。近隣3県（神奈川、千葉、埼玉）も無観客となる見込みです。東京五輪の]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古市憲寿さん「西村大臣は友達がいないんですよ」金融機関からの働きかけ発言を一刀両断！「止めてくれる人がいなかった」(中日スポーツ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/cbb9a6a59b0c7421c7fff51ac56e5426feeeb0d5?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/cbb9a6a59b0c7421c7fff51ac56e5426feeeb0d5?source=rss"/>
+        <updated>2021-07-10T07:50:03.000Z</updated>
+        <summary type="html"><![CDATA[西村康稔経済再生相が8日、酒類提供停止に応じない飲食店に対し「取引金融機関からの働きかけ」を求めた発言をし、後に撤回したことについて波紋が広がっている。社会学者の古市憲寿さんは10日、テレビ朝日系「]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】新型コロナウイルス　東京都で新たに950人の感染確認　重症者は63人(FNNプライムオンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/53098d750189d0811e0c17d2f838aa92f92ae0ef?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/53098d750189d0811e0c17d2f838aa92f92ae0ef?source=rss"/>
+        <updated>2021-07-10T07:48:30.000Z</updated>
+        <summary type="html"><![CDATA[東京都できょう新たに950人が新型コロナウイルスに感染していることが確認された。
+
+先週土曜日の716人から234人増えて、21日連続で前の週の同じ曜日を上回った。
+年代別では、
+20代が301人、]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ 東京都で新たに950人の感染確認 先週土曜より234人増(ABEMA TIMES)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4d7add68104aa7707722830fdb9c630c80ed16d9?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4d7add68104aa7707722830fdb9c630c80ed16d9?source=rss"/>
+        <updated>2021-07-10T07:45:52.000Z</updated>
+        <summary type="html"><![CDATA[10日、東京都が確認した新型コロナウイルスの新たな感染者は950人だった。先週の土曜日より234人増えた。
+
+　感染が確認されたのは10歳未満から90代の950人。直近7日間の1日あたりの平均は72]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京で今年一番の暑さ33.4℃に　熱中症で6人搬送(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/25909c6d44cd3a2ae425c2583fdd399169442e5b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/25909c6d44cd3a2ae425c2583fdd399169442e5b?source=rss"/>
+        <updated>2021-07-10T07:41:29.000Z</updated>
+        <summary type="html"><![CDATA[10日は、朝から晴れた所が多く各地で気温が上がりました。東京都心は今年一番の暑さとなっています。
+
+　東京都心では、最高気温が33.4度まで上がり今年一番の暑さとなっています。
+
+　7月上旬までに3]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[林道ツーリングにピッタリの高機能なバックパック×11選〈後編〉(WEBヤングマシン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fc4c54c971884e672578c3336ef4765b1afd48cd?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fc4c54c971884e672578c3336ef4765b1afd48cd?source=rss"/>
+        <updated>2021-07-10T07:33:07.000Z</updated>
+        <summary type="html"><![CDATA[快適な林道ツーリングをサポートしてくれる高機能な防水＆撥水機能バックパック…、とひと口に言っても装備や機能など様々な特徴や違いがある。そこでゴーライド編集部が厳選した11アイテムを2回に分けて解説。前]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本州内陸部で局地的に激しい雨　明日は広域雷雨で東京も注意(ウェザーニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/abb624eacfd12044dcb69b714d9e97084c3263ad?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/abb624eacfd12044dcb69b714d9e97084c3263ad?source=rss"/>
+        <updated>2021-07-10T07:28:20.000Z</updated>
+        <summary type="html"><![CDATA[今日10日(土)は梅雨前線の影響が小さくなった中国から関東、東北にかけては日差しが届いて暑くなりました。午後になり内陸部では局地的に雨雲が発達し、激しい雨の降っている所があります。
+
+日本列島の上空に]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あす11日も続く大雨　土砂災害などに警戒　大雨のあとは続々と梅雨明けか(tenki.jp)]]></title>
+        <id>https://news.yahoo.co.jp/articles/19a21e1f9dc8314960d18759c4deb02f9ec9c3e1?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/19a21e1f9dc8314960d18759c4deb02f9ec9c3e1?source=rss"/>
+        <updated>2021-07-10T07:26:59.000Z</updated>
+        <summary type="html"><![CDATA[あす11日(日)も局地的に激しい雨。記録的な大雨となっている九州など、新たな災害発生に警戒を。大雨のあとは、九州から東北で続々と梅雨明けか。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】鹿児島県で新たに4人感染　新型コロナ(西日本新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/bda1d25ad80cf531264876e1ce0f26390a294150?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/bda1d25ad80cf531264876e1ce0f26390a294150?source=rss"/>
+        <updated>2021-07-10T07:25:01.000Z</updated>
+        <summary type="html"><![CDATA[鹿児島県で10日、新たに4人の新型コロナウイルス感染が確認された。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナのクラスター発生で聖火リレー中止を東京都に要請 伊豆諸島・大島町(ABEMA TIMES)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d0828a65bb4900b9c2102fef91c51fa904521942?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d0828a65bb4900b9c2102fef91c51fa904521942?source=rss"/>
+        <updated>2021-07-10T07:22:27.000Z</updated>
+        <summary type="html"><![CDATA[きのうから始まった東京の聖火リレーで、伊豆諸島の大島町は島内で新型コロナのクラスターが発生したことを受けて聖火リレーを中止するよう都に要請したことがわかった。
+
+　大島町では20人規模の新型コロナの]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「汽車土瓶」って何？ 駅弁とともに限定復刻 実は常に売っている駅も(乗りものニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1bd267743e3371ba57c27d8f98d472cb4f91a9ab?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1bd267743e3371ba57c27d8f98d472cb4f91a9ab?source=rss"/>
+        <updated>2021-07-10T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[JR折尾駅（北九州市八幡西区）の駅弁「かしわめし」で有名な「東筑軒」が、2021年7月から創業100周年記念として「記念かしわめし」を販売しています。この商品で復刻版の掛け紙とセットになっているのが]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京今年一番の暑さ 熱中症で男女6人搬送(ABEMA TIMES)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7db84f642b7ff51a427e9d5cabd9a859194b3dde?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7db84f642b7ff51a427e9d5cabd9a859194b3dde?source=rss"/>
+        <updated>2021-07-10T07:16:59.000Z</updated>
+        <summary type="html"><![CDATA[10日、朝から晴れた所が多く、各地で気温が上がった。
+
+　東京都心では最高気温が33.4度まで上がり、今年一番の暑さとなった。7月上旬までに、33度台まで上がるのは3年ぶり。また、静岡では気温が今年]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北海道発祥「ツルハ」「ニトリ」売上高1兆円迫る　不況に強く存在感(北海道新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/df0fa73d7c25248ce852b9b9fc1d421333414dad?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/df0fa73d7c25248ce852b9b9fc1d421333414dad?source=rss"/>
+        <updated>2021-07-10T07:10:53.000Z</updated>
+        <summary type="html"><![CDATA[道内発祥の流通企業が売上高1兆円に迫っている。新型コロナウイルスの流行で消費者の低価格志向が進む中、ドラッグストア国内2位のツルハホールディングス（HD、札幌）と家具・インテリア製造小売り最大手のニ]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[経産省が東芝社員など9件支援。「出向起業」は企業・社員にメリットあり(ニュースイッチ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/74da994ed70d37985cd201fc2901230426ff608a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/74da994ed70d37985cd201fc2901230426ff608a?source=rss"/>
+        <updated>2021-07-10T07:10:42.000Z</updated>
+        <summary type="html"><![CDATA[経済産業省は、企業の優秀な人材が外部資金を集め出向状態で起業する「出向起業」支援事業について新規9件を採択した。採択案件は、神姫バスの社員が起業した廃車予定バスの改造事業や、東芝の社員による細胞分析技]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最大差200万円!? トヨタ「ハリアー」のグレード差が凄い！ エントリー＆トップで異なる豪華さとは(くるまのニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/64626922b845dc85186d24b3838e10e56499f77e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/64626922b845dc85186d24b3838e10e56499f77e?source=rss"/>
+        <updated>2021-07-10T07:10:04.000Z</updated>
+        <summary type="html"><![CDATA[4世代24年の歴史をもつトヨタ「ハリアー」。同車は、オンロードSUVとして安定した人気と販売台数を誇り、2020年6月に発売した現行の4代目モデルは、2021年7月時点でもある程度納車に時間がかかる]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ホテルや旅館が「史上もっとも清潔」　ワクチン接種者向け特典も(NEWSポストセブン)]]></title>
         <id>https://news.yahoo.co.jp/articles/f915bd5b2f9c1fc5e5364a42ed63ee38696b9c8a?source=rss</id>
@@ -1621,6 +2096,16 @@ NW-S313(B]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[９２歳、同性愛の男性が告白　「ずっと独りで生きてきた」 ｜ 47NEWS]]></title>
+        <id>https://nordot.app/785401544117075968</id>
+        <link href="https://nordot.app/785401544117075968"/>
+        <updated>2021-07-10T02:52:21.000Z</updated>
+        <summary type="html"><![CDATA[「差別が怖くて周囲に言えず、人と関わらずに独りで生きてきた。ずっとずっと孤独だった」。大阪市西成区に住む詩人の長谷忠さん（９２）は９０歳になる直前の２０１８年８月、初めて周囲に自分が同性愛者だと打ち明けた。ＬＧＢＴなど性的少数者への理解増進を図る法案は６月、東京五輪前の通常国会での審議に期待がか...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[日本は核禁止条約に批准を　長崎平和宣言の文案を提示(共同通信)]]></title>
         <id>https://news.yahoo.co.jp/articles/4ede7a4fad844cd66b73b4fd433ed52f6a435176?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/4ede7a4fad844cd66b73b4fd433ed52f6a435176?source=rss"/>
@@ -1931,6 +2416,16 @@ NW-S313(B]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[夢をかなえて小説家になったけど仕事がまったく楽しくない]]></title>
+        <id>https://anond.hatelabo.jp/20210710111327</id>
+        <link href="https://anond.hatelabo.jp/20210710111327"/>
+        <updated>2021-07-10T02:16:03.000Z</updated>
+        <summary type="html"><![CDATA[夢だった小説家になった。すでに何冊も出している。 どれも売上は順調で、増刷もしている。映像化の話もきている。 会社員時代よりも年収はちょっと落ちるが、体力的に兼業がきつくなってきたので専業になった。それが二年前。 それ以来、ほぼ毎日文章を書く生活をしている。 創作だけをする生活なんて、さぞ楽しいこと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[鹿児島県・宮崎県・熊本県は土砂災害・河川の氾濫に最大級の警戒を　西・東日本も激しい雷雨に警戒(ウェザーマップ)]]></title>
         <id>https://news.yahoo.co.jp/articles/239315ded28f3deac1c71f6b92418ddeea9ff730?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/239315ded28f3deac1c71f6b92418ddeea9ff730?source=rss"/>
@@ -2092,6 +2587,22 @@ NW-S313(B]]></summary>
         <summary type="html"><![CDATA[ワクチンがウイルス感染を防ぐ有効な策であることは揺るがない。しかし、接種後に日本人だけで350人以上の人が亡くなっていることも、また事実である。一口に「ワクチン」と言っても、メーカーごとに効果もしく]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excelを多用する現場で役に立つツール11選]]></title>
+        <id>https://qiita.com/minoden_osaka/items/c42a3a07cd682316c054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/minoden_osaka/items/c42a3a07cd682316c054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-10T02:05:05.000Z</updated>
+        <summary type="html"><![CDATA[お世話になります。
+
+いくつかのSES現場にお世話になってきましたが、必須ともいえるツールを紹介させて頂きます。
+
+SES現場の傾向として、
+・メインツールはExcel
+・管理者権限がないので勝手にソフ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -2504,6 +3015,17 @@ photo：Olgun Kordal（オルガン・コーダル）
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[シェルスクリプトの中で現在利用しているシェルを確認する方法]]></title>
+        <id>https://qiita.com/akase244/items/c3040b68b5e08057c861?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/akase244/items/c3040b68b5e08057c861?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-10T01:15:19.000Z</updated>
+        <summary type="html"><![CDATA[みなさん、シェル使ってますか？私は毎日使ってます。
+「シェルとは？」といった記事はたくさんあるのでここでは深く触れませんが、ざっくり言うと「コマンドでカーネルと対話的なインターフェースを提供する仕組…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[鹿児島では24時間で7月1か月分の大雨に　午後も災害への厳重な警戒は継続を(ウェザーニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/799e094af013c9954ee75c354934e904c232a14c?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/799e094af013c9954ee75c354934e904c232a14c?source=rss"/>
@@ -2862,6 +3384,16 @@ photo：Olgun Kordal（オルガン・コーダル）
         <summary type="html"><![CDATA[東京空港交通(リムジンバス)では2021年7月16日より、練馬区と羽田空港を結ぶリムジンバスの新たな路線として「光が丘・練馬～羽田空港線」を運行する。国土交通省への認可申請中の内容ではあるが、新型コ]]></summary>
         <author>
             <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仕事で会う主婦の股のゆるさにビビる]]></title>
+        <id>https://anond.hatelabo.jp/20210710091933</id>
+        <link href="https://anond.hatelabo.jp/20210710091933"/>
+        <updated>2021-07-10T00:51:23.000Z</updated>
+        <summary type="html"><![CDATA[ハンドメイド系の雑貨を売る仕事していて、セミナーもよくやっている。 それにやってくる客はほとんどが趣味の延長で小遣い稼ぎがしたい主婦。 ヤレる客は一瞬でわかる。こちらを見る目がキラキラしていて崇拝しているのがわかる。 セミナーのあとにLINEかインスタグラムでつながってDMするのがルーティン。 アトリエに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -3609,6 +4141,18 @@ translation：Kenji Nakajima（中嶋健治）
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ElixirでAWS Lambdaの.zipファイルとコンテナイメージの速度比較]]></title>
+        <id>https://qiita.com/erin/items/2aa7a70c34b0b2a64e5b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/erin/items/2aa7a70c34b0b2a64e5b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T23:10:58.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+ElixirでAWS Lambdaのアプリケーションを書く場合、これまではカスタムランタイムを含めたアプリケーションを.zipファイルで固めてアップロードする方式一択でしたが、2020年…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[社外取締役は1000人不足　40代・女性も転職のチャンス(NIKKEI STYLE)]]></title>
         <id>https://news.yahoo.co.jp/articles/c0e453e966d4257134bae8fee57f20cb12f3768e?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/c0e453e966d4257134bae8fee57f20cb12f3768e?source=rss"/>
@@ -4136,6 +4680,22 @@ translation：Kenji Nakajima（中嶋健治）
 　消防などによりますと、９日午後１０時半過ぎ、津島市常磐町の佐]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[とあるTwitterアカウントが特定のキーワードを含むツイートをした場合に何らかのアクションを実行する]]></title>
+        <id>https://qiita.com/kazama1209/items/8db398e0948dbb4ae63d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kazama1209/items/8db398e0948dbb4ae63d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T22:17:51.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+
+
+今さら言うまでもないですが、Twitterって便利ですよね。
+
+全体的に匿名性が高くフランクな雰囲気が漂っているからなのか、面白いつぶやきがそこら中に転がっていますし、リアルタイム性に優れる事…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -4729,6 +5289,22 @@ translation：Kenji Nakajima（中嶋健治）
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Docsのカーソル位置に日付を挿入するGoogle Apps Script]]></title>
+        <id>https://qiita.com/e99h2121/items/d6e4e84afa2e1f2f0dd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/e99h2121/items/d6e4e84afa2e1f2f0dd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T21:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Google Docsの、Tools内、Script editorを選択します。スクリプトエディターが開きます。
+
+Google Apps Script (GAS)
+
+
+
+以下をスクリプトとして保存したら、…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NY株最高値、448ドル高　金融株に買い、警戒感後退(共同通信)]]></title>
         <id>https://news.yahoo.co.jp/articles/4d260b950e25f5cc56a8a0bb845c31f730a252cb?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/4d260b950e25f5cc56a8a0bb845c31f730a252cb?source=rss"/>
@@ -5295,6 +5871,16 @@ editor：Taro Ueno（上野太朗）
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[あなたの反ワクチンはどこから？]]></title>
+        <id>https://anond.hatelabo.jp/20210710045115</id>
+        <link href="https://anond.hatelabo.jp/20210710045115"/>
+        <updated>2021-07-09T20:42:03.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスにおける反ワクチン界隈を類型化してみる。 ★ワクチン慎重派 ワクチンの効果については認めているが、中長期的な悪影響がわからないので見送るタイプ。なので純粋な反ワクチンではない。 確かに他人に移す可能性を一切顧みないならば、健康な20代がわざわざ副反応のあるワクチンを受けにいくかは個人...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「とにかく1日中、消毒に次ぐ消毒」イギリスの小学校が行っている「超厳格なコロナ対応」から学べること(東洋経済オンライン)]]></title>
         <id>https://news.yahoo.co.jp/articles/fd7b6b01d727767da10682ab3bb7879956d1fae2?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/fd7b6b01d727767da10682ab3bb7879956d1fae2?source=rss"/>
@@ -5626,6 +6212,20 @@ editor：Taro Ueno（上野太朗）
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[VSingerを目指すおじさん〜iPhoneとPCだけでフルトラッキング編〜]]></title>
+        <id>https://qiita.com/zukky_rikugame/items/dd247e476254a53f3c58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/zukky_rikugame/items/dd247e476254a53f3c58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T18:13:54.000Z</updated>
+        <summary type="html"><![CDATA[これを書こう思ったきっかけ
+
+VSinger(歌うVTuber)のMVをいつか自分1人で作ってみたい！
+そして、VSingerになりたいと思い、
+その周辺技術の調査とメモのためのモチベーションとして…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[為替相場　　10日（日本時間　3時）(共同通信)]]></title>
         <id>https://news.yahoo.co.jp/articles/67c3282d14daa62b32d54aebe72d4ea9d32dc198?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/67c3282d14daa62b32d54aebe72d4ea9d32dc198?source=rss"/>
@@ -5678,6 +6278,16 @@ editor：Taro Ueno（上野太朗）
 白井富久容疑]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オードリー・タン氏が訪日へ　五輪開会式に出席、日台関係の強化図る | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210710/k00/00m/030/006000c</id>
+        <link href="https://mainichi.jp/articles/20210710/k00/00m/030/006000c"/>
+        <updated>2021-07-09T16:00:08.000Z</updated>
+        <summary type="html"><![CDATA[台湾のデジタル担当相、唐鳳（オードリー・タン）氏＝台北市の行政院で2020年11月23日午前11時、福岡静哉撮影 台湾の蔡英文政権は、台湾のデジタル担当相、唐鳳（オードリー・タン）氏（40）を23日に開幕する東京オリンピックに合わせ、日本に派遣すると決めた。唐氏はオリンピックの開会式に出席する見通し。台湾政府関...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -5752,6 +6362,18 @@ editor：Taro Ueno（上野太朗）
 　ソニー独自の「フルレンジスピーカーユニット」と「パッシブラジエーター]]></summary>
         <author>
             <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[集まれ！Azure の Digital Twins と MR そして Metaverse の話]]></title>
+        <id>https://qiita.com/motoJinC25/items/0a43eda24f02e60c9734?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/motoJinC25/items/0a43eda24f02e60c9734?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T14:58:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+今年5月に行われた「Microsoft Build 2021」にて「Building Digital Twins Mixed Reality and Metaverse Apps」という…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -5890,6 +6512,21 @@ editor：Taro Ueno（上野太朗）
 　東京オリンピックが1都3県で無観客となったことを受け、大会スポンサーのトヨタ自動車は、会場で使われる輸送車両のデモ走行などの]]></summary>
         <author>
             <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Opening をみておもったこと (Elixir)]]></title>
+        <id>https://qiita.com/torifukukaiou/items/7138e81e2ceb5573641d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/torifukukaiou/items/7138e81e2ceb5573641d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T14:26:42.000Z</updated>
+        <summary type="html"><![CDATA[https://qiita.com/official-events/885e4031d03c787eceab
+
+はじめに
+
+
+この記事はMicrosoft Buildで発表された技術情報に関する記事を投稿…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -13307,6 +13944,19 @@ IXY200(]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[生産現場IoTへの挑戦 #06　～いろいろなデータを採取する～]]></title>
+        <id>https://qiita.com/airpocket/items/7489c0341e2877120a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/airpocket/items/7489c0341e2877120a5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T02:56:41.000Z</updated>
+        <summary type="html"><![CDATA[1.はじめに
+
+久しぶりの更新です。
+前回の記事でRPiにmariaDBをインストールして記録用のDBを作るところまで書きましたが、その後いろいろ試行錯誤してセンサデータを採取できるようになりました…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【テレワークグッズレビュー】ケーブル込み162g!! ノートPCを充電できる小さなPD充電器を買ってみた(Impress Watch)]]></title>
         <id>https://news.yahoo.co.jp/articles/4057e9ff1371bf4b1eb2e1b275e3063f066616af?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/4057e9ff1371bf4b1eb2e1b275e3063f066616af?source=rss"/>
@@ -13577,6 +14227,22 @@ Next.jsの勉強を始め、公式のチュートリアルでブログサイト�
         <summary type="html"><![CDATA[東京証券取引所は来年4月、市場を再編しますが、現在、1部に上場する企業のうちおよそ3割に当たる600社以上が、新たに最上位となるプライム市場に上場できる基準を満たしていないことが分かり、企業は対応を求められることになりそうです。 東京証券取引所は来年4月に市場を「プライム」「スタンダード」「グロース」の3...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows10にElixirインストール]]></title>
+        <id>https://qiita.com/shiro01/items/572c105353104b0ef630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/shiro01/items/572c105353104b0ef630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T16:20:39.000Z</updated>
+        <summary type="html"><![CDATA[久しぶりにElixirをやってみようと思い、
+Windows10にインストールしたのでその時の内容をメモします。
+
+Elixirインストール
+
+Chocolateyを使用してインストールします。
+管理者…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -14083,6 +14749,16 @@ Kubernetesを利用する時にサービスメッシュを検討することが�
 
 本記事ではサービスメッシュとは何か?
 また、サービスメッシュの機能を持つIstioについて説明してい…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポ〇モン的対戦RPGゲームの作り方-3.簡単なAIの設計]]></title>
+        <id>https://qiita.com/evebursterrorR/items/dd3b734195b54a5ad2a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/evebursterrorR/items/dd3b734195b54a5ad2a3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-07T09:42:11.000Z</updated>
+        <summary type="html"><![CDATA[暇つぶしがてらポ〇モン的対戦RPGゲームを開発したので、その中身の作り方の概要を記事にしたいと思います。Qiitaに投稿するの初めてで書くの慣れてないので読みにくかったらすいません。また、Unity…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
