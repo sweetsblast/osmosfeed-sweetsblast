@@ -22,6 +22,24 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210710/k10013132071000.html",
+          "author": null,
+          "description": "東京都は10日、都内で新たに950人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の土曜日より234人増えていて、前週の同じ曜日を上回るのは21日連続です。",
+          "link": "https://www3.nhk.or.jp/news/html/20210710/k10013132071000.html",
+          "publishedOn": "2021-07-10T07:49:17.000Z",
+          "wordCount": 28,
+          "title": "東京都 新型コロナ 950人感染確認 前週土曜日より234人増 | 新型コロナ 国内感染者数 | NHKニュース"
+        },
+        {
+          "id": "https://www.tokyo-sports.co.jp/entame/news/3403158/",
+          "author": null,
+          "description": "デモ参加者が掲げたバッハ会長「出ていけ」の看板 都心が騒然となった。東京五輪開幕まで２週間を切った１０日、来日中の国際オリンピック委員会（ＩＯＣ）のトーマス・バッハ会長（６７）が宿泊する５つ星の一流ホテルの前に「五輪マフィアを退治する市民有志」が集結。デモ隊はバッハ会長が宿泊していると思われる部屋...",
+          "link": "https://www.tokyo-sports.co.jp/entame/news/3403158/",
+          "publishedOn": "2021-07-10T06:53:47.000Z",
+          "wordCount": 301,
+          "title": "【速報】警察出動！ ＩＯＣバッハ会長宿泊ホテル前で五輪反対デモ「平和願うなら広島行くな」 | 東スポのニュースに関するニュースを掲載"
+        },
+        {
           "id": "https://natalie.mu/music/news/436281",
           "author": null,
           "description": "音楽関連4団体、相次ぐライブ中止を受け共同声明「行政に認められている営業活動は守られるべき」 2021年7月10日 12:00 2421 一般社団法人日本音楽事業者協会、一般社団法人日本音楽制作者連盟、一般社団法人コンサートプロモーターズ協会、一般社団法人日本音楽出版社協会の4団体が、新型コロナウイルス感染拡大の影響...",
@@ -47,6 +65,15 @@
           "publishedOn": "2021-07-10T02:41:34.000Z",
           "wordCount": 172,
           "title": "《ワクチン接種翌日に急死》「主人は泡をふいて搬送先で息絶えた」遺族が訴える厚労省“副反応調査”の問題点 | 文春オンライン"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210707223357",
+          "author": null,
+          "description": "例えば織田信長なんかは、今生きている人は誰もその姿を自分の目で見たことがないはずであるが、実在していたことは疑いようのない事実であると認識している。 これがスティーブ・ジョブスだったりすると、ウェブ・テレビ・新聞など様々な媒体で目にしたことがあるので、実在していたことは疑いようがない。 しかしなが...",
+          "link": "https://anond.hatelabo.jp/20210707223357",
+          "publishedOn": "2021-07-10T02:40:46.000Z",
+          "wordCount": 79,
+          "title": "歴史上の人物は何をもって実在と見做すか"
         },
         {
           "id": "https://anond.hatelabo.jp/20210710003426",
@@ -964,6 +991,51 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/75e8afcec74a7e4aaade12160af5180f9e233ec7?source=rss",
+          "author": null,
+          "description": "連載『WEB編集者の教科書』\n情報発信の場が紙からデジタルに移り、「編集者」の仕事も多種多様になりました。新聞社や出版社、時にテレビ局もウェブで情報発信し、一方、ウェブ発の人気媒体もどんどん登場してい",
+          "link": "https://news.yahoo.co.jp/articles/75e8afcec74a7e4aaade12160af5180f9e233ec7?source=rss",
+          "publishedOn": "2021-07-10T09:00:00.000Z",
+          "wordCount": 91,
+          "title": "スローガンは「少年ジャンプを超える」 少年ジャンプ＋の嬉しい誤算　「鬼滅」後も過去最高を更新の理由(withnews)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5b19e1fc1be7a2638eb743eba20ec12e415082da?source=rss",
+          "author": null,
+          "description": "炭酸飲料好きにぜひ注目してほしいイタリアの飲み物がある。果汁入り炭酸飲料「サンペレグリノ」の「イタリアンスパークリングドリンク」だ。イタリアではフレッシュなオレンジやレモンを絞り、炭酸水と砂糖を加え",
+          "link": "https://news.yahoo.co.jp/articles/5b19e1fc1be7a2638eb743eba20ec12e415082da?source=rss",
+          "publishedOn": "2021-07-10T09:00:00.000Z",
+          "wordCount": 81,
+          "title": "果汁と炭酸のバランスが絶妙！　夏にぴったりの“イタリア産”フルーツドリンク(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/df70afa4f05207ee336f1d3e890cb264372e4c70?source=rss",
+          "author": null,
+          "description": "スマートフォンゲーム「Pokemon GO」（ポケモンGO）で、7月18日に伝説レイドバトルの大量復刻があります。夏の有料イベント「Pokemon GO Fest 2021」（以下、Go Fest）",
+          "link": "https://news.yahoo.co.jp/articles/df70afa4f05207ee336f1d3e890cb264372e4c70?source=rss",
+          "publishedOn": "2021-07-10T08:55:22.000Z",
+          "wordCount": 99,
+          "title": "ポケモンGOで1日限りの伝説ポケモン大集合　「ディアルガ」や「レックウザ」も(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5a2c76bfa0b16fd01143cf4d47d759815b113591?source=rss",
+          "author": null,
+          "description": "7月1日にスタートした「夏のPayPay祭」が盛況だ。久しぶりの対象店舗が幅広いキャンペーンなので、しばらくスマホ決済のキャンペーンを活用していなかった人もぜひチェックしてほしい。また、8月に使える",
+          "link": "https://news.yahoo.co.jp/articles/5a2c76bfa0b16fd01143cf4d47d759815b113591?source=rss",
+          "publishedOn": "2021-07-10T08:30:00.000Z",
+          "wordCount": 95,
+          "title": "【今週のキャッシュレスニュースまとめ】7月は「夏のPayPay祭」で賢く節約！　8月開始のキャンペーンも続々発表(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b8372de148577a0d0e0858497c9845f0517bdbb8?source=rss",
+          "author": null,
+          "description": "「BCNランキング」2021年6月28日から7月4日の日次集計データによると、デスクトップPCの実売台数ランキングは以下の通りとなった。\n\n1位　LAVIE A23 ファインホワイト\nA2335/B",
+          "link": "https://news.yahoo.co.jp/articles/b8372de148577a0d0e0858497c9845f0517bdbb8?source=rss",
+          "publishedOn": "2021-07-10T08:30:00.000Z",
+          "wordCount": 128,
+          "title": "LAVIE A23が1位に！　デスクトップPC　2021/7/10(BCN)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/4f696dadde489dfe476f6db1fb51a7f757fc892d?source=rss",
           "author": null,
@@ -2996,6 +3068,177 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/857f3640cad5b6920374816fc227d7e51d8d2067?source=rss",
+          "author": null,
+          "description": "鹿児島県伊佐市にある観光スポット「曽木の滝」では、川内川が増水して濁流となっています。九州朝日放送・北島純記者の報告です。\n\n　（北島純記者報告）\n　曽木の滝を一望できる高さにある展望台に来ています",
+          "link": "https://news.yahoo.co.jp/articles/857f3640cad5b6920374816fc227d7e51d8d2067?source=rss",
+          "publishedOn": "2021-07-10T09:06:48.000Z",
+          "wordCount": 71,
+          "title": "観光地「曽木の滝」は濁流に…鹿児島で記録的大雨(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/28bdee3cff5755d5c974986c6bd03c7a5eb97429?source=rss",
+          "author": null,
+          "description": "2021年1月に鳥取市河原町でおきた死体遺棄事件の裁判。被告は、父親の死体を自宅の納屋に隠していた53歳の息子。鳥取地裁は6月29日の判決公判で、執行猶予付きの有罪判決を言い渡した。\n\nこの事件の背景",
+          "link": "https://news.yahoo.co.jp/articles/28bdee3cff5755d5c974986c6bd03c7a5eb97429?source=rss",
+          "publishedOn": "2021-07-10T09:01:29.000Z",
+          "wordCount": 101,
+          "title": "月収は父の年金4万円…父親死体遺棄の息子に有罪判決　なぜ助けを求められなかった?福祉行政の厳しい現状【鳥取発】(FNNプライムオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fa2e27083cc2b70ee3098871f26af2a1529abaf6?source=rss",
+          "author": null,
+          "description": "東京都は１０日、代々木公園内に設置された新型コロナウイルスワクチンの大規模接種会場で、同日朝に給油トラックと来園者が接触する事故があり、５０代の女性が手首骨折などで全治２カ月の重傷を負ったと発表した。",
+          "link": "https://news.yahoo.co.jp/articles/fa2e27083cc2b70ee3098871f26af2a1529abaf6?source=rss",
+          "publishedOn": "2021-07-10T08:58:09.000Z",
+          "wordCount": 64,
+          "title": "ワクチン接種会場で接触事故　女性重傷(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/dbaacfb6b2215158b1d5cc58bdf379bc1ec8d8cd?source=rss",
+          "author": null,
+          "description": "東京五輪開催に反対するグループが9日に立ち上げた「五輪マフィアを退治する市民有志」が10日、都内のIOCバッハ会長が宿泊するホテル前で「バッハは帰れ」「五輪は中止」「オリンピックより命を守れ」などのコ",
+          "link": "https://news.yahoo.co.jp/articles/dbaacfb6b2215158b1d5cc58bdf379bc1ec8d8cd?source=rss",
+          "publishedOn": "2021-07-10T08:50:25.000Z",
+          "wordCount": 60,
+          "title": "バッハ氏宿泊ホテル前で「五輪中止」「帰れ」デモ隊30人と警官にらみ合い(日刊スポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f38921a63edca42b9437a7a50351f1479e1971c5?source=rss",
+          "author": null,
+          "description": "１０日午前、大阪市内で、郵便配達の男性が路上で倒れているのが見つかり、その後死亡した。警察は、ひき逃げ事件とみて調べている。\n\n　午前１０時すぎ、大阪市中央区瓦屋町の交差点で、近所の住民から「郵便局",
+          "link": "https://news.yahoo.co.jp/articles/f38921a63edca42b9437a7a50351f1479e1971c5?source=rss",
+          "publishedOn": "2021-07-10T08:46:00.000Z",
+          "wordCount": 77,
+          "title": "ひき逃げ　郵便配達の男性死亡　黒のワンボックスカー逃走　大阪市中央区(読売テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b509f70c094734f85a97820453766416ad9007d8?source=rss",
+          "author": null,
+          "description": "静岡県熱海市の土石流現場で救助活動にあたった京都府警の警察官らが、３日間の活動を終え、京都に戻った。\n\n　１０日午後３時半ごろ、京都市伏見区にある京都府警の機動隊庁舎で、熱海市の災害現場で活動した広",
+          "link": "https://news.yahoo.co.jp/articles/b509f70c094734f85a97820453766416ad9007d8?source=rss",
+          "publishedOn": "2021-07-10T08:45:00.000Z",
+          "wordCount": 74,
+          "title": "熱海土石流災害　応援の京都府警・広域緊急援助隊員　２５人帰任(読売テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/36fd63281fe2ec5365758144a2356bbca9752b81?source=rss",
+          "author": null,
+          "description": "10日は関東甲信、静岡県を中心に晴れて気温が上がった。静岡市は午後1時36分に最高気温が36.3度の猛暑日（35度以上）となり、今年の全国最高気温を更新した。土石流が発生し、救助作業が続く静岡県熱海",
+          "link": "https://news.yahoo.co.jp/articles/36fd63281fe2ec5365758144a2356bbca9752b81?source=rss",
+          "publishedOn": "2021-07-10T08:37:47.000Z",
+          "wordCount": 64,
+          "title": "関東や東海中心に猛暑　静岡市で36.3度(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/70f55de532e8a161e54bc60520298da6476cedfd?source=rss",
+          "author": null,
+          "description": "イギリスのバッキンガム宮殿の庭園が初めて一般公開された。コロナ禍で落ち込んだ王室財政の切り札として期待されている。\n\n　バッキンガム宮殿の庭園は9日から約2カ月の期間限定で一般に開放される。一般の人",
+          "link": "https://news.yahoo.co.jp/articles/70f55de532e8a161e54bc60520298da6476cedfd?source=rss",
+          "publishedOn": "2021-07-10T08:35:52.000Z",
+          "wordCount": 75,
+          "title": "英バッキンガム宮殿の庭園 初の一般公開 王室財政復活の切り札として期待(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f56247c06b590971b93227910d9a0f654592f1f4?source=rss",
+          "author": null,
+          "description": "九州南部や熊本県ではあす11日(日)夕方にかけて断続的に雨が降る予想。土砂災害や河川の増水に引き続き厳重に警戒。\n　また、11日(日)は西日本から東日本、北日本の広い範囲で厳しい暑さとなり、熱中症に",
+          "link": "https://news.yahoo.co.jp/articles/f56247c06b590971b93227910d9a0f654592f1f4?source=rss",
+          "publishedOn": "2021-07-10T08:33:14.000Z",
+          "wordCount": 78,
+          "title": "九州南部は警戒継続を　11日(日)は全国的に激しい雷雨と暑さに要注意　大気不安定は来週も(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/606623909cd93411d599ef6f07034144376a2e93?source=rss",
+          "author": null,
+          "description": "日本列島は梅雨の末期になり、東海や関東、中国地方に続き、10日(土)は九州で記録的な大雨となりました。11日(日)も九州から東北で滝のような非常に激しい雨の降る恐れがあります。今後の梅雨前線の動向につ",
+          "link": "https://news.yahoo.co.jp/articles/606623909cd93411d599ef6f07034144376a2e93?source=rss",
+          "publishedOn": "2021-07-10T08:31:36.000Z",
+          "wordCount": 74,
+          "title": "梅雨末期の大雨いつまで　日曜も九州は大雨災害に厳重警戒　本州も滝のような雨の恐れ(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5e7ac4ec8cf92ef177a1720026b5eebd9ab422af?source=rss",
+          "author": null,
+          "description": "6月21日、北海道が「緊急事態宣言」から「まん延防止等重点措置」に移行して目立ち始めたのが、いわゆる「路上飲み」。\nそれに伴うトラブルも発生している。路上飲みの実態に迫った。\n\n6月21日、北海道内は",
+          "link": "https://news.yahoo.co.jp/articles/5e7ac4ec8cf92ef177a1720026b5eebd9ab422af?source=rss",
+          "publishedOn": "2021-07-10T08:31:20.000Z",
+          "wordCount": 84,
+          "title": "「飲み足りなくて」緊急事態宣言解除で\"路上飲み\"増加…暴行トラブルも【北海道発】(FNNプライムオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/11e4281e0871ee0f76f1c9b0478fab207cb7c90d?source=rss",
+          "author": null,
+          "description": "ライボ「現状のハラスメント実態調査」\n\n会社組織を蝕む各種ハラスメント被害。中でも、「パワハラ」の相談は年間8万件以上が都道府県労働局に寄せられている。\n\nパワハラの防止対策の1つとして、2019年5",
+          "link": "https://news.yahoo.co.jp/articles/11e4281e0871ee0f76f1c9b0478fab207cb7c90d?source=rss",
+          "publishedOn": "2021-07-10T08:31:16.000Z",
+          "wordCount": 86,
+          "title": "職場で体験したハラスメント(＠ＤＩＭＥ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/18d7b76c52aeee5de0c7efd4caae49f4cfd4f5ae?source=rss",
+          "author": null,
+          "description": "東京五輪、福島県が野球・ソフトボールを一転無観客へ。内堀知事が会見で表明。",
+          "link": "https://news.yahoo.co.jp/articles/18d7b76c52aeee5de0c7efd4caae49f4cfd4f5ae?source=rss",
+          "publishedOn": "2021-07-10T08:30:45.000Z",
+          "wordCount": 67,
+          "title": "東京五輪　福島が野球・ソフトボールを一転無観客に(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7c4eb3d8061fb3f1faaafe5cf1c562f6310d3f0d?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスの感染拡大が収まるようにと、宇都宮市の神社で疫病退散の縁起物とされる「黄ぶな」の展示が行われています。\n\n　宇都宮市では昔、疫病が流行した頃に市内の川で捕れた黄色いフナを食べたとこ",
+          "link": "https://news.yahoo.co.jp/articles/7c4eb3d8061fb3f1faaafe5cf1c562f6310d3f0d?source=rss",
+          "publishedOn": "2021-07-10T08:28:47.000Z",
+          "wordCount": 73,
+          "title": "コロナ収束を願い…伝説の「黄ぶな」展示　宇都宮市(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c2bd1a9abb0eac6562df12bccdcc9e09af2d2cf9?source=rss",
+          "author": null,
+          "description": "北九州市は10日、14人の新型コロナウイルス感染を確認したと発表した。この日の検査数は275件だった。",
+          "link": "https://news.yahoo.co.jp/articles/c2bd1a9abb0eac6562df12bccdcc9e09af2d2cf9?source=rss",
+          "publishedOn": "2021-07-10T08:24:00.000Z",
+          "wordCount": 62,
+          "title": "【速報】北九州市で14人の感染確認　新型コロナ(西日本新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/235e4019e1dc7b2346930282415b36e23786d71d?source=rss",
+          "author": null,
+          "description": "佐賀県は10日、新型コロナウイルスの感染者が確認されなかったと発表した。感染者ゼロは2日連続。",
+          "link": "https://news.yahoo.co.jp/articles/235e4019e1dc7b2346930282415b36e23786d71d?source=rss",
+          "publishedOn": "2021-07-10T08:22:22.000Z",
+          "wordCount": 63,
+          "title": "【速報】佐賀県、新規感染者2日連続ゼロ　新型コロナ(西日本新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f68c754c8f6e59283d3a951336f10d7b4fcd62ce?source=rss",
+          "author": null,
+          "description": "今日10日(土)の夕方になり、北関東で雨雲が急発達しています。1時間に60mmを超える非常に激しい雨が観測され、道路冠水や落雷、突風などに注意が必要です。\n\n関東は昼間の気温の上昇に加え、西から寒気を",
+          "link": "https://news.yahoo.co.jp/articles/f68c754c8f6e59283d3a951336f10d7b4fcd62ce?source=rss",
+          "publishedOn": "2021-07-10T08:22:04.000Z",
+          "wordCount": 67,
+          "title": "北関東で1時間に60mm超の非常に激しい雨　冠水や落雷、突風に注意(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/90b4822c89c5573eb506597c203742cab17c9a8d?source=rss",
+          "author": null,
+          "description": "名古屋市中区の繁華街、栄地区にあるフィリピンパブなどの飲食店が10日、フィリピン人従業員らへの新型コロナワクチンの職場接種を始めた。米モデルナ製が順調に供給されれば、約千人が8月までに終えられる予定",
+          "link": "https://news.yahoo.co.jp/articles/90b4822c89c5573eb506597c203742cab17c9a8d?source=rss",
+          "publishedOn": "2021-07-10T08:20:09.000Z",
+          "wordCount": 67,
+          "title": "繁華街の外国人へ職場接種　名古屋「客も自分も安心」(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7b0b41dbc8ebf9bd2de3ba00c59cb6b5a7633bcf?source=rss",
+          "author": null,
+          "description": "静岡県熱海市伊豆山の大規模土石流は10日、発生から1週間となった。斉藤栄市長は記者会見で「大変長い1週間だった。亡くなった方々のご冥福をお祈りする。生活再建に向け、市が責任を持ってサポートする」と述",
+          "link": "https://news.yahoo.co.jp/articles/7b0b41dbc8ebf9bd2de3ba00c59cb6b5a7633bcf?source=rss",
+          "publishedOn": "2021-07-10T08:18:16.000Z",
+          "wordCount": 68,
+          "title": "熱海市長「長い1週間だった」　生活再建へ市がサポート(共同通信)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/6e24dee9b3110b6543df903163372b83b538c910?source=rss",
           "author": null,
@@ -7557,6 +7800,132 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/9102909808916c378f536ad18b86fc645b9d925b?source=rss",
+          "author": null,
+          "description": "ＩＴ各社が、配信するニュースの品質を向上させる取り組みを加速している。読者の意見を反映させる仕組みや専門家によるニュース選び、多様なニュースを読ませる最新技術など、さまざまな工夫を凝らしている。読者に",
+          "link": "https://news.yahoo.co.jp/articles/9102909808916c378f536ad18b86fc645b9d925b?source=rss",
+          "publishedOn": "2021-07-10T09:04:17.000Z",
+          "wordCount": 74,
+          "title": "ニュース配信「品質向上」に注力　ヤフーなどＩＴ各社(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0b9caaf2dac356d965834c690add49e3972c07f8?source=rss",
+          "author": null,
+          "description": "長く家で過ごしていると、普段の食事でも“イベント感”のあるごはんが食べたくなりますよね。そんななか、キャンプブームも相まって注目されているのが「ホットサンドメーカー」。残りもののおかずも、ちょっと挟ん",
+          "link": "https://news.yahoo.co.jp/articles/0b9caaf2dac356d965834c690add49e3972c07f8?source=rss",
+          "publishedOn": "2021-07-10T09:01:11.000Z",
+          "wordCount": 65,
+          "title": "「ホットサンドメーカー」の季節になりました。プロが教えるレシピと選び方(GetNavi web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/46edf69b31f31f63ddaaec69e862c3605603fea2?source=rss",
+          "author": null,
+          "description": "スパーティー（SPARTY）は、新コンセプト「私がときめく、私でいよう。」を掲げ、パーソナライズヘアケア「メデュラ（MEDULLA）」を8月11日にリニューアルする。約30万人の髪質診断データを活かし",
+          "link": "https://news.yahoo.co.jp/articles/46edf69b31f31f63ddaaec69e862c3605603fea2?source=rss",
+          "publishedOn": "2021-07-10T09:00:39.000Z",
+          "wordCount": 74,
+          "title": "パーソナライズヘアケア「メデュラ」が刷新　処方や香りの組み合わせが約5万通りに(WWDJAPAN.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9a04c03e2f6b95e006dfb3619200bab5b2aa8a7d?source=rss",
+          "author": null,
+          "description": "セブン‐イレブン・ジャパンは7月8日、西日本高速道路サービス・ホールディングスとサービスエリア・パーキングエリア事業で業務提携を締結したと発表した。\n\n西日本高速道路管内のサービスエリア・パーキングエ",
+          "link": "https://news.yahoo.co.jp/articles/9a04c03e2f6b95e006dfb3619200bab5b2aa8a7d?source=rss",
+          "publishedOn": "2021-07-10T09:00:03.000Z",
+          "wordCount": 71,
+          "title": "高速道路の無人PAにセブンイレブン出店へ　NEXCO西日本(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0ad0473bb894e4ef5300324f298893ea80acf54a?source=rss",
+          "author": null,
+          "description": "北海道留萌市在住の写真家・佐藤圭さんが撮った貴重な動物、風景写真をお届けする週末連載。お待たせしました。夏編の再開です。\n\n　第23回は、「雪の妖精」の愛称で親しまれているシマエナガを紹介します。",
+          "link": "https://news.yahoo.co.jp/articles/0ad0473bb894e4ef5300324f298893ea80acf54a?source=rss",
+          "publishedOn": "2021-07-10T09:00:00.000Z",
+          "wordCount": 86,
+          "title": "道産子野鳥のなかで人気ナンバーワン「妖精」シマエナガのベストショット集(ベストカーWeb)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/32b6a3e5e768fa7ae2a55234c74252b0d79792f7?source=rss",
+          "author": null,
+          "description": "1987年、日本人初のF1レギュラードライバー誕生と全戦TV中継放送開始をきっかけに、国内では空前のF1ブームが巻き起こった。このブームは90年代前半まで続くことになるが、ブームの要因には、ドライバ",
+          "link": "https://news.yahoo.co.jp/articles/32b6a3e5e768fa7ae2a55234c74252b0d79792f7?source=rss",
+          "publishedOn": "2021-07-10T09:00:00.000Z",
+          "wordCount": 73,
+          "title": "絶対王者マクラーレンに肉薄！セミオートマ搭載のハイテクモデル「フェラーリ641/2」【空前のF1ブームを支えた名車列伝】(ベストカーWeb)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/52d639ee27533ccf870594b7aa387d0cfe4f3733?source=rss",
+          "author": null,
+          "description": "憂鬱な雨の日がつづいた梅雨が明けると、夏の行楽シーズンがやってくる。残念ながら、今年の夏も感染症対策が必要なため、旅行など遠出の計画はやめ、マイカーで近場へお出かけ、という方は多いだろう。\n\n　近場",
+          "link": "https://news.yahoo.co.jp/articles/52d639ee27533ccf870594b7aa387d0cfe4f3733?source=rss",
+          "publishedOn": "2021-07-10T09:00:00.000Z",
+          "wordCount": 85,
+          "title": "「同乗者が酔いにくい運転」意外と気づかない3つのポイント(ベストカーWeb)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/183ab9fac8f5fd14bf8a0213f25ce9e561ffe895?source=rss",
+          "author": null,
+          "description": "米国で開催されたオークションで7月9日、「ゼルダの伝説」の未開封品がゲーム史上最高額となる87万ドル（約9580万円）で落札されました。これまでのゲーム最高額は4月に落札された「スーパーマリオブラザ",
+          "link": "https://news.yahoo.co.jp/articles/183ab9fac8f5fd14bf8a0213f25ce9e561ffe895?source=rss",
+          "publishedOn": "2021-07-10T08:58:16.000Z",
+          "wordCount": 79,
+          "title": "未開封の「ゼルダの伝説」が約9580万円で落札　「マリオ」を超えゲーム史上最高金額を更新(ねとらぼ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/76e003d1787aec815632e4eb7298addc64da0931?source=rss",
+          "author": null,
+          "description": "text：Greg Macleman（グレッグ・マクレマン）\nphoto：John Bradshaw（ジョン・ブラッドショー）\ntranslation：Kenji Nakajima（中嶋健治）\n　\n今",
+          "link": "https://news.yahoo.co.jp/articles/76e003d1787aec815632e4eb7298addc64da0931?source=rss",
+          "publishedOn": "2021-07-10T08:45:00.000Z",
+          "wordCount": 98,
+          "title": "【3.5L V8を積んだビュレット】トライアンフTR8　ブランドの最終章へ再試乗　後編(AUTOCAR JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5bd3e3cd82a1778c8f3195eee947e212c81bfaba?source=rss",
+          "author": null,
+          "description": "RTD（＝Ready To Drink、開封してすぐ飲めるドリンク）ではレモンサワーが人気ですが、緑茶割りも一定のファンがいて見逃せないカテゴリーです。この度、1都4県（東京・神奈川・千葉・埼玉・静岡",
+          "link": "https://news.yahoo.co.jp/articles/5bd3e3cd82a1778c8f3195eee947e212c81bfaba?source=rss",
+          "publishedOn": "2021-07-10T08:40:08.000Z",
+          "wordCount": 72,
+          "title": "「プレミアム茶割り」みたいなリッチな味。セブン限定「アサヒ月庵 緑茶割り」試飲レビュー(GetNavi web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5f7de539c538765e6052ad918ede6169168f6417?source=rss",
+          "author": null,
+          "description": "「白木屋」や「笑笑」などを展開する居酒屋チェーンのモンテローザ（東京都武蔵野市）は7月10日・11日の2日間、「売り切れ御免！全品半額セール」を実施することを明らかにした。緊急事態宣言により休業予定",
+          "link": "https://news.yahoo.co.jp/articles/5f7de539c538765e6052ad918ede6169168f6417?source=rss",
+          "publishedOn": "2021-07-10T08:37:54.000Z",
+          "wordCount": 74,
+          "title": "「食材を無駄にしない」　モンテローザが「全品半額セール」を実施(ITmedia ビジネスオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a8ba07da8fddeafe89711999a32ba7a5e37cff1f?source=rss",
+          "author": null,
+          "description": "夏はアクティブに体を動かしながら音楽を聴きたくなるシーズンです。本体を防水設計として、スポーツシーンや雨天の日の屋外でも音楽を聴きながら過ごしたい方のために、とても手軽に試せるEarFun（イヤーファ",
+          "link": "https://news.yahoo.co.jp/articles/a8ba07da8fddeafe89711999a32ba7a5e37cff1f?source=rss",
+          "publishedOn": "2021-07-10T08:30:30.000Z",
+          "wordCount": 100,
+          "title": "約6千円の完全ノイキャンイヤホン！ EarFun「Free Pro」はコスパだけじゃくて良い感じ(GetNavi web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8990287555c6e533c7466122187a273794253258?source=rss",
+          "author": null,
+          "description": "スイス発のパフォーマンスシューズブランド「On（オン）」が、2017年に発売した「Cloudflash（クラウドフラッシュ）」。それはオン最速のレーシングモデルで、他には類を見ないエネルギー変換性能を",
+          "link": "https://news.yahoo.co.jp/articles/8990287555c6e533c7466122187a273794253258?source=rss",
+          "publishedOn": "2021-07-10T08:20:08.000Z",
+          "wordCount": 84,
+          "title": "ランニングとストリートが融合? 「オン」のハイブリッド限定モデル！(GetNavi web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2e7cc3f5f365b4f3bb882283e89686fe671887c4?source=rss",
+          "author": null,
+          "description": "様々なお酒がある中、今改めて注目したいのがビール。話題の新作が続々登場するなど、ビール市場は大いに盛り上がっています。一方で既存ブランドの進化も見逃せません。今回紹介するのは、誕生131年目の今年、ブ",
+          "link": "https://news.yahoo.co.jp/articles/2e7cc3f5f365b4f3bb882283e89686fe671887c4?source=rss",
+          "publishedOn": "2021-07-10T08:10:08.000Z",
+          "wordCount": 73,
+          "title": "【飲み比べ】リニューアルした「ヱビス」はどこが変わった？「4種の違い」をチェック(GetNavi web)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/6a506eae2956df724cfc6105f6a74dc0f760e80f?source=rss",
           "author": null,
