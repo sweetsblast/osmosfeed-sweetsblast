@@ -3312,6 +3312,15 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/b8a627192a08cdff5050697e67f8d6327b6f8323?source=rss",
+          "author": null,
+          "description": "疫病、災害、老後……。これほど便利で豊かな時代なのに、なぜだか未来は不安でいっぱい。そんな中、50歳で早期退職し、コロナ禍で講演収入がほぼゼロとなっても、楽しく我慢なしの「買わない生活」をしているとい",
+          "link": "https://news.yahoo.co.jp/articles/b8a627192a08cdff5050697e67f8d6327b6f8323?source=rss",
+          "publishedOn": "2021-07-10T20:01:42.000Z",
+          "wordCount": 73,
+          "title": "モノのために「高い家賃」を払うのをやめてみた(東洋経済オンライン)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/70bd9c6428ab6c6aa168e8f28511d4587eb89b60?source=rss",
           "author": null,
           "description": "10日は夕方から発達した雨雲や雷雲がかかり、滝のような雨が降った所もありました。\n11日の午後も局地的に非常に激しい雨や雷雨があり、大雨になる恐れがあります。土砂災害や低い土地の浸水、川の増水に警戒し",
@@ -8628,6 +8637,15 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/2b2d28306f452eb33359c1603b38056c44b90369?source=rss",
+          "author": null,
+          "description": "地下鉄には、あちこちに“秘密の線路”がある、と言ったら皆さんは驚くだろうか。たとえば、東京メトロの有楽町線桜田門駅と千代田線霞ケ関駅の間には、長さ約600mの連絡線がある。\n\n　有楽町線の車両は、大",
+          "link": "https://news.yahoo.co.jp/articles/2b2d28306f452eb33359c1603b38056c44b90369?source=rss",
+          "publishedOn": "2021-07-10T19:31:44.000Z",
+          "wordCount": 75,
+          "title": "大阪の地下を走る「あなたの知らない線路」の秘密 設備などの効率化に役立つ大阪メトロの連絡線(東洋経済オンライン)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/1ad7c9313853aaca93fad80c500f3a18b93e230e?source=rss",
           "author": null,

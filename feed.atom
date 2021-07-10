@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T19:07:16.364Z</updated>
+    <updated>2021-07-10T20:08:51.944Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[モノのために「高い家賃」を払うのをやめてみた(東洋経済オンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b8a627192a08cdff5050697e67f8d6327b6f8323?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b8a627192a08cdff5050697e67f8d6327b6f8323?source=rss"/>
+        <updated>2021-07-10T20:01:42.000Z</updated>
+        <summary type="html"><![CDATA[疫病、災害、老後……。これほど便利で豊かな時代なのに、なぜだか未来は不安でいっぱい。そんな中、50歳で早期退職し、コロナ禍で講演収入がほぼゼロとなっても、楽しく我慢なしの「買わない生活」をしているとい]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪の地下を走る「あなたの知らない線路」の秘密 設備などの効率化に役立つ大阪メトロの連絡線(東洋経済オンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2b2d28306f452eb33359c1603b38056c44b90369?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2b2d28306f452eb33359c1603b38056c44b90369?source=rss"/>
+        <updated>2021-07-10T19:31:44.000Z</updated>
+        <summary type="html"><![CDATA[地下鉄には、あちこちに“秘密の線路”がある、と言ったら皆さんは驚くだろうか。たとえば、東京メトロの有楽町線桜田門駅と千代田線霞ケ関駅の間には、長さ約600mの連絡線がある。
+
+　有楽町線の車両は、大]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[途上国の債務問題　中国の透明性になお課題(産経新聞)]]></title>
         <id>https://news.yahoo.co.jp/articles/1ad7c9313853aaca93fad80c500f3a18b93e230e?source=rss</id>
