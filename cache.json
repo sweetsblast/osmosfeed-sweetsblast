@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210710/k00/00m/040/287000c",
+          "author": null,
+          "description": "文部科学省は、教員免許に10年の有効期限を設け、更新の際に講習の受講を義務づける「教員免許更新制」を廃止する方針を固めた。政府関係者への取材で判明した。今夏にも廃止案を中央教育審議会に示し、来年の通常国会で廃止に必要な法改正を目指す。 文科省は免許更新講習に代わる教員の資質向上策として、オンラインな...",
+          "link": "https://mainichi.jp/articles/20210710/k00/00m/040/287000c",
+          "publishedOn": "2021-07-10T12:11:37.000Z",
+          "wordCount": 470,
+          "title": "教員免許更新制廃止へ　文科省、来年の法改正目指す　安倍政権導入 | 毎日新聞"
+        },
+        {
           "id": "https://www.asahi.com/articles/ASP7B64RVP7BUTFK009.html",
           "author": null,
           "description": "安倍晋三・前首相（発言録）　緊急事態宣言が首都圏で延長された。首都圏で延長されると、新潟県も緊急事態宣言を発出していないとはいえ、相当大きな影響を受ける。飲みに行っちゃいけないと思っている方がたくさんいる。歓楽街、閑散としている状況だ。しっかりと支援していかなければならない。 昨年来、色々な支援を...",
@@ -29,6 +38,24 @@
           "publishedOn": "2021-07-10T10:26:28.000Z",
           "wordCount": 210,
           "title": "安倍前首相、コロナ対応「思い切った、異次元の対策を」 [新型コロナウイルス]：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210710/k10013132381000.html",
+          "author": null,
+          "description": "秋までに行われる衆議院選挙をめぐり、菅総理大臣は自民党の地方組織との意見交換で「新型コロナを乗り越え、安心と希望に満ちた日本をつくっていく覚悟だ」と述べ、勝利に向けた決意を示しました。 菅総理大臣は自民党の地方組織との意見交換を続けていて、10日は九州・沖縄地方の8つの県連の幹部とオンライン形式で意...",
+          "link": "https://www3.nhk.or.jp/news/html/20210710/k10013132381000.html",
+          "publishedOn": "2021-07-10T10:02:25.000Z",
+          "wordCount": 19,
+          "title": "菅首相「安心と希望に満ちた日本を」衆院選の勝利へ決意示す | 選挙 | NHKニュース"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4e506e9619ed37ac82ff5a4a172b8218ab5f387f",
+          "author": null,
+          "description": "7月5日の午前０時。ロックバンド『RADWIMPS』のボーカル・野田洋次郎は、36才になる瞬間を大勢の仲間と共に迎えていた。 【写真16枚】有名ミュージシャンも参加。「まん延防止等重点措置」の中で、10人以上が集まった誕生日パーティ。上下を白でコーディネートした野田洋次郎の全身ショットも。店を変えて朝の5時までパ...",
+          "link": "https://news.yahoo.co.jp/articles/4e506e9619ed37ac82ff5a4a172b8218ab5f387f",
+          "publishedOn": "2021-07-10T09:16:09.000Z",
+          "wordCount": 79,
+          "title": "RADWIMPS野田洋次郎「泥酔＆ハグ」朝まで男だらけの泥酔誕生日会（NEWSポストセブン） - Yahoo!ニュース"
         },
         {
           "id": "https://anond.hatelabo.jp/20210710171633",
@@ -101,6 +128,15 @@
           "publishedOn": "2021-07-10T04:08:19.000Z",
           "wordCount": 368,
           "title": "音楽関連4団体、相次ぐライブ中止を受け共同声明「行政に認められている営業活動は守られるべき」 - 音楽ナタリー"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210710124113",
+          "author": null,
+          "description": "シティポップがなぜ流行ったのか。 日本の楽曲が知られているのはなぜなのか。 そんなことは最早考えるまでもない。 それはすべてアニメやゲームやライトノベルを筆頭とするおたくカルチャーに付随して流行したものだ。 40歳以上のおたくカルチャーを毛嫌いしている人が多い世代には理解しがたいかもしれないがそれ以外...",
+          "link": "https://anond.hatelabo.jp/20210710124113",
+          "publishedOn": "2021-07-10T03:50:32.000Z",
+          "wordCount": 185,
+          "title": "日本のエンタメ業界が直視できない不都合な真実"
         },
         {
           "id": "https://twitter.com/konmarihj/status/1413643935294140418",
@@ -3203,6 +3239,51 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/bbb62e57a8a8797c74892eb6923e2496addb4f5b?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスワクチン供給の目詰まり解消に向け、政府が８月の供給分から都道府県とワクチン接種記録システム（ＶＲＳ）などに基づき算出した市町村ごとの接種率情報を共有することが分かった。都道府県が市町",
+          "link": "https://news.yahoo.co.jp/articles/bbb62e57a8a8797c74892eb6923e2496addb4f5b?source=rss",
+          "publishedOn": "2021-07-10T13:58:53.000Z",
+          "wordCount": 63,
+          "title": "来月からワクチン接種率情報共有　都道府県に独自配分枠(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fb03d13c1b9e187450d62eedda8ad28034a94305?source=rss",
+          "author": null,
+          "description": "静岡県熱海市伊豆山（いずさん）の土石流災害は、１０日で発生から１週間を迎えた。懸命の捜索活動が続いているが、現場は二次災害の恐れがあり、住民の立ち入りは原則できず、土砂や災害で生じた「災害ごみ」撤去の",
+          "link": "https://news.yahoo.co.jp/articles/fb03d13c1b9e187450d62eedda8ad28034a94305?source=rss",
+          "publishedOn": "2021-07-10T13:27:04.000Z",
+          "wordCount": 68,
+          "title": "続く捜索、漁港なお土砂流れ込む　熱海土石流(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1ff0eda27eaaa9ca753d3460749b3f11709dabb4?source=rss",
+          "author": null,
+          "description": "将棋の藤井聡太2冠（棋聖・王位＝18）が10日、関西将棋会館で行われた第34期竜王戦決勝トーナメントの初戦で山崎隆之八段（40）を下し、ベスト4に進出した。豊島将之竜王（30）への挑戦者を決める挑戦者",
+          "link": "https://news.yahoo.co.jp/articles/1ff0eda27eaaa9ca753d3460749b3f11709dabb4?source=rss",
+          "publishedOn": "2021-07-10T13:24:21.000Z",
+          "wordCount": 62,
+          "title": "藤井聡太２冠が４強入り、挑戦者決定３番勝負進出王手　竜王戦(日刊スポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c4e85949373729739a6100deef46596932d731e7?source=rss",
+          "author": null,
+          "description": "将棋の藤井聡太王位・棋聖（18）が7月10日、竜王戦決勝トーナメント準々決勝で山崎隆之八段（40）に94手で勝利、初の挑戦者決定三番勝負まであと1勝と迫った。\n\n　2組ランキング戦で優勝、史上初のラ",
+          "link": "https://news.yahoo.co.jp/articles/c4e85949373729739a6100deef46596932d731e7?source=rss",
+          "publishedOn": "2021-07-10T13:22:32.000Z",
+          "wordCount": 67,
+          "title": "藤井聡太王位・棋聖、山崎隆之八段との熱戦に勝利で四冠挑戦へ前進 挑戦者決定三番勝負にあと1つ／将棋・竜王戦決勝トーナメント(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9d85f133de8315d699f5b276bc6d3c8b12c6224d?source=rss",
+          "author": null,
+          "description": "東京五輪の無観客開催決定が相次ぐ中、サッカー競技が行われる茨城・カシマスタジアムでは、学校教育の一環として観戦する「学校連携観戦プログラム」のみの“有観客”で実施する。茨城県の大井川和彦知事（57）が",
+          "link": "https://news.yahoo.co.jp/articles/9d85f133de8315d699f5b276bc6d3c8b12c6224d?source=rss",
+          "publishedOn": "2021-07-10T13:11:27.000Z",
+          "wordCount": 61,
+          "title": "カシマスタジアム学校連携観戦のみ“有観客”「子供たちには貴重な思い出」(日刊スポーツ)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/5aa959732e55f1fca473cb86304322f459b16b1a?source=rss",
           "author": null,
