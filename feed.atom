@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T15:10:11.205Z</updated>
+    <updated>2021-07-10T16:13:09.621Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ｇ２０、最低法人税率「１５％以上」で合意(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/45e3f8b52555af18c07e730278509fd034fe340e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/45e3f8b52555af18c07e730278509fd034fe340e?source=rss"/>
+        <updated>2021-07-10T16:06:56.000Z</updated>
+        <summary type="html"><![CDATA[【ベネチア＝三井美奈】日米欧の先進国と新興国による２０カ国・地域（Ｇ２０）の財務相・中央銀行総裁会議は１０日、共同声明を採択して閉幕した。法人税の引き下げ競争に歯止めをかけるために「１５％以上」とする]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遺体で見つかった太田洋子さん、願い届かず(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f8e990d3eb76535eb9872c9a4e79a61bab2720e2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f8e990d3eb76535eb9872c9a4e79a61bab2720e2?source=rss"/>
+        <updated>2021-07-10T15:45:06.000Z</updated>
+        <summary type="html"><![CDATA[静岡県熱海市伊豆山（いずさん）の土石流災害で、県は１０日、亡くなった１人の身元を、これまで安否不明だった太田洋子（ようこ）さん（７２）と確認したことを明らかにした。
+
+太田さんは３日午前、自宅に１人で]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G20財務相会議が共同声明を採択(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5aac98d333197a92fcb0f9d85afe9444e9470c85?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5aac98d333197a92fcb0f9d85afe9444e9470c85?source=rss"/>
+        <updated>2021-07-10T15:41:21.000Z</updated>
+        <summary type="html"><![CDATA[【ベネチア共同】G20財務相会議は、最低法人税率とデジタル課税の導入で合意したとする共同声明を採択した。]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国際課税の強化で「合意した」と米財務長官(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/985706e5f2fe05b98dbba4a6d4678b54a7e1a8ee?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/985706e5f2fe05b98dbba4a6d4678b54a7e1a8ee?source=rss"/>
+        <updated>2021-07-10T15:28:28.000Z</updated>
+        <summary type="html"><![CDATA[【ベネチア共同】G20財務相会議に出席したイエレン米財務長官は閉幕に当たり、国際課税の強化で「合意した」とする声明を発表した。]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消防隊員「全滅してもおかしくなかった」(産経新聞)]]></title>
         <id>https://news.yahoo.co.jp/articles/6e0bb274f72a02c00dcacec48556127dfe4d74f4?source=rss</id>
@@ -443,6 +485,16 @@ photo：Olgun Kordal（オルガン・コーダル）
         <summary type="html"><![CDATA[「G-SHOCK」は国民的な腕時計から、今や世界各地でも愛用される腕時計となっている。近年では、日々のトレーニングをサポートするための“コネクテッド”のニーズが高まっている背景もあり、G-SHOCKも]]></summary>
         <author>
             <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西村大臣発言、菅首相や分科会メンバー 事前に把握せず｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4311749.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4311749.html"/>
+        <updated>2021-07-10T11:33:58.000Z</updated>
+        <summary type="html"><![CDATA[西村経済再生担当大臣が、酒類の提供停止を拒む飲食店に取引先の金融機関から応じるよう働きかけてもらうとした発言について、菅総理や政府分科会メンバーも事前に知らなかった実態が浮き彫りとなりました。 「（西村大臣から）コロナ室においては、関係省庁から個別の金融機関などへの働きかけは行わないこととしたと」...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -2692,6 +2744,16 @@ Vol.【1】から続く
         <summary type="html"><![CDATA[きょう10日、東海や関東を中心に今年これまでで一番の暑さとなっています。静岡市では今年初の猛暑日です。]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無限ストレージ - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/sat/wu-xian-sutorezi</id>
+        <link href="https://speakerdeck.com/sat/wu-xian-sutorezi"/>
+        <updated>2021-07-10T05:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 無限ストレージ Jul. 10th, 2021 Satoru Takeuchi twitter: satoru_takeuchi, EnSatoru 1 ストレージのコストは高い 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運用コストも高い 2 今日のテーマ 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>

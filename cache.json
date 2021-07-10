@@ -31,6 +31,15 @@
           "title": "教員免許更新制廃止へ　文科省、来年の法改正目指す　安倍政権導入 | 毎日新聞"
         },
         {
+          "id": "https://news.tbs.co.jp/newseye/tbs_newseye4311749.html",
+          "author": null,
+          "description": "西村経済再生担当大臣が、酒類の提供停止を拒む飲食店に取引先の金融機関から応じるよう働きかけてもらうとした発言について、菅総理や政府分科会メンバーも事前に知らなかった実態が浮き彫りとなりました。 「（西村大臣から）コロナ室においては、関係省庁から個別の金融機関などへの働きかけは行わないこととしたと」...",
+          "link": "https://news.tbs.co.jp/newseye/tbs_newseye4311749.html",
+          "publishedOn": "2021-07-10T11:33:58.000Z",
+          "wordCount": 871,
+          "title": "西村大臣発言、菅首相や分科会メンバー 事前に把握せず｜TBS NEWS"
+        },
+        {
           "id": "https://www.asahi.com/articles/ASP7B64RVP7BUTFK009.html",
           "author": null,
           "description": "安倍晋三・前首相（発言録）　緊急事態宣言が首都圏で延長された。首都圏で延長されると、新潟県も緊急事態宣言を発出していないとはいえ、相当大きな影響を受ける。飲みに行っちゃいけないと思っている方がたくさんいる。歓楽街、閑散としている状況だ。しっかりと支援していかなければならない。 昨年来、色々な支援を...",
@@ -128,6 +137,15 @@
           "publishedOn": "2021-07-10T06:13:44.000Z",
           "wordCount": 665,
           "title": "東宝、映画「100日間生きたワニ」が1日目から大コケ : 市況かぶ全力２階建"
+        },
+        {
+          "id": "https://speakerdeck.com/sat/wu-xian-sutorezi",
+          "author": null,
+          "description": "Transcript 無限ストレージ Jul. 10th, 2021 Satoru Takeuchi twitter: satoru_takeuchi, EnSatoru 1 ストレージのコストは高い 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運用コストも高い 2 今日のテーマ 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運...",
+          "link": "https://speakerdeck.com/sat/wu-xian-sutorezi",
+          "publishedOn": "2021-07-10T05:22:45.000Z",
+          "wordCount": 742,
+          "title": "無限ストレージ - Speaker Deck"
         },
         {
           "id": "https://anond.hatelabo.jp/20210710112932",
@@ -3257,6 +3275,15 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/f8e990d3eb76535eb9872c9a4e79a61bab2720e2?source=rss",
+          "author": null,
+          "description": "静岡県熱海市伊豆山（いずさん）の土石流災害で、県は１０日、亡くなった１人の身元を、これまで安否不明だった太田洋子（ようこ）さん（７２）と確認したことを明らかにした。\n\n太田さんは３日午前、自宅に１人で",
+          "link": "https://news.yahoo.co.jp/articles/f8e990d3eb76535eb9872c9a4e79a61bab2720e2?source=rss",
+          "publishedOn": "2021-07-10T15:45:06.000Z",
+          "wordCount": 66,
+          "title": "遺体で見つかった太田洋子さん、願い届かず(産経新聞)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/6e0bb274f72a02c00dcacec48556127dfe4d74f4?source=rss",
           "author": null,
@@ -8547,6 +8574,33 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/45e3f8b52555af18c07e730278509fd034fe340e?source=rss",
+          "author": null,
+          "description": "【ベネチア＝三井美奈】日米欧の先進国と新興国による２０カ国・地域（Ｇ２０）の財務相・中央銀行総裁会議は１０日、共同声明を採択して閉幕した。法人税の引き下げ競争に歯止めをかけるために「１５％以上」とする",
+          "link": "https://news.yahoo.co.jp/articles/45e3f8b52555af18c07e730278509fd034fe340e?source=rss",
+          "publishedOn": "2021-07-10T16:06:56.000Z",
+          "wordCount": 69,
+          "title": "Ｇ２０、最低法人税率「１５％以上」で合意(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5aac98d333197a92fcb0f9d85afe9444e9470c85?source=rss",
+          "author": null,
+          "description": "【ベネチア共同】G20財務相会議は、最低法人税率とデジタル課税の導入で合意したとする共同声明を採択した。",
+          "link": "https://news.yahoo.co.jp/articles/5aac98d333197a92fcb0f9d85afe9444e9470c85?source=rss",
+          "publishedOn": "2021-07-10T15:41:21.000Z",
+          "wordCount": 65,
+          "title": "G20財務相会議が共同声明を採択(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/985706e5f2fe05b98dbba4a6d4678b54a7e1a8ee?source=rss",
+          "author": null,
+          "description": "【ベネチア共同】G20財務相会議に出席したイエレン米財務長官は閉幕に当たり、国際課税の強化で「合意した」とする声明を発表した。",
+          "link": "https://news.yahoo.co.jp/articles/985706e5f2fe05b98dbba4a6d4678b54a7e1a8ee?source=rss",
+          "publishedOn": "2021-07-10T15:28:28.000Z",
+          "wordCount": 65,
+          "title": "国際課税の強化で「合意した」と米財務長官(共同通信)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/c5293924c82cf859e4dc5dcebc9bc5423851ca92?source=rss",
           "author": null,
