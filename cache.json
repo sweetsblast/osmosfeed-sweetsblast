@@ -1676,6 +1676,51 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/84ae2c0d1740406e4d380e6dc05c1b15f718e4e5?source=rss",
+          "author": null,
+          "description": "5月12日～14日に、東京ビッグサイト（東京都港区）で教育に関する総合展示会「EDIX東京」が開催されました。教育に関する機器の紹介など、ブースもたくさん用意されていて、多くの教育関係者が来場してい",
+          "link": "https://news.yahoo.co.jp/articles/84ae2c0d1740406e4d380e6dc05c1b15f718e4e5?source=rss",
+          "publishedOn": "2021-07-11T21:05:04.000Z",
+          "wordCount": 86,
+          "title": "「GIGAスクール構想」の成功には何が必要？　先進事例から考えてみる(ITmedia PC USER)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/002aac12bef2491ce1085987efdad8651f40969f?source=rss",
+          "author": null,
+          "description": "PC-6001シリーズ向けの新作ゲームが登場、横スクロール型アクションゲーム「バウンドナイト【BOUND KNIGHT】」がBEEP 秋葉原店に入荷した。販売価格は1,650円。\n\n■ 敵を踏みつけ",
+          "link": "https://news.yahoo.co.jp/articles/002aac12bef2491ce1085987efdad8651f40969f?source=rss",
+          "publishedOn": "2021-07-11T21:05:00.000Z",
+          "wordCount": 84,
+          "title": "PC-6001の新作アクションゲーム「バウンドナイト」が発売、メディアはカセットテープ(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/25e871c942e4b71fdbe9239b3c7360cf4bc517b2?source=rss",
+          "author": null,
+          "description": "防水性能のないスマートフォンを雨天にさらせば、当然故障リスクがある。また、生活防水仕様を備えるスマートフォンでも、水流のある川や、塩分を含む海水に浸したら故障を招く。そのため、屋外のアクティビティー",
+          "link": "https://news.yahoo.co.jp/articles/25e871c942e4b71fdbe9239b3c7360cf4bc517b2?source=rss",
+          "publishedOn": "2021-07-11T21:00:07.000Z",
+          "wordCount": 96,
+          "title": "スマホの機能はちゃんと使える？　防水ケースの選び方とオススメ製品(ITmedia Mobile)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ede04ac3112ced1bd1790c171cafa59f93db0e9e?source=rss",
+          "author": null,
+          "description": "※毎週金曜日に著名格闘ゲームプレイヤーであるガチくんを講師に迎え、ストリートファイターV攻略動画「ガチくんに!」をMildomで配信しています。ガチくんから指導を受けるのはPC Watch編集長であり",
+          "link": "https://news.yahoo.co.jp/articles/ede04ac3112ced1bd1790c171cafa59f93db0e9e?source=rss",
+          "publishedOn": "2021-07-11T21:00:00.000Z",
+          "wordCount": 78,
+          "title": "ストV攻略企画「ガチくんに!」第177回目放送ダイジェスト(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/023e2542615b64e6c466717ce4af9330e88f7a5f?source=rss",
+          "author": null,
+          "description": "OPPOがフラッグシップスマートフォンとして打ち出した「Find X3 Pro」。国内では6月30日にauから発売され、7月16日にはSIMフリーモデルも発売される予定となっている。\n\n　Find",
+          "link": "https://news.yahoo.co.jp/articles/023e2542615b64e6c466717ce4af9330e88f7a5f?source=rss",
+          "publishedOn": "2021-07-11T21:00:00.000Z",
+          "wordCount": 174,
+          "title": "OPPOの担当者が語る、「Find X3 Pro」の色彩技術とカメラのすごさとは(Impress Watch)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/2c81c302fd665e2e74c283cdf9a8e421897183c5?source=rss",
           "author": null,
           "description": "ユニバーサル・スタジオ・ジャパンは7月11日、映画「劇場版 鬼滅の刃 無限列車編」の世界観をVR技術とジェットコースターで再現する「鬼滅の刃 XRライド」を9月17日にオープンすると発表した。22年",
@@ -4094,6 +4139,168 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/d26af6166c2ce8bd78bcabcae2a6fc429a667e1d?source=rss",
+          "author": null,
+          "description": "ネット上に今「#プラグを抜こう」という投稿が出回っています。\n\n　これらは、主に新型コロナワクチンの接種に反対する人が行っているとみられ、ワクチンを廃棄させるための呼びかけではないかと考えられます。",
+          "link": "https://news.yahoo.co.jp/articles/d26af6166c2ce8bd78bcabcae2a6fc429a667e1d?source=rss",
+          "publishedOn": "2021-07-11T21:06:55.000Z",
+          "wordCount": 79,
+          "title": "ワクチン廃棄させる呼び掛けか… ネット上に「#プラグを抜こう」実際に抜いた人、投稿した人、拡散させた人の“罪”(関西テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f3381434e80b34fc2f2b95f028493d9f329a04cd?source=rss",
+          "author": null,
+          "description": "2013年7月にこの世を去ったNHK首都圏放送センター記者、佐戸未和さん(享年31)。翌年、渋谷労基署が過労死と認定し、NHKは臨検を受けた。\nなぜ彼女は死んだのか。8年たった今も遺族には納得できない",
+          "link": "https://news.yahoo.co.jp/articles/f3381434e80b34fc2f2b95f028493d9f329a04cd?source=rss",
+          "publishedOn": "2021-07-11T21:01:48.000Z",
+          "wordCount": 79,
+          "title": "31歳NHK女性記者が過労死「空白の2日間」の謎(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e7d5fba21be4c9f8a23936ce2e0ef9b434b20b76?source=rss",
+          "author": null,
+          "description": "オリンピック競技が10日後に始まるというのに、今でも五輪反対の声が聞かれる。\n\n　日本の感染者や死者は外国に比して1桁どころか2桁も少ないが、人命は地球より重いという日本だけあって、唯一人の命も無視",
+          "link": "https://news.yahoo.co.jp/articles/e7d5fba21be4c9f8a23936ce2e0ef9b434b20b76?source=rss",
+          "publishedOn": "2021-07-11T21:01:43.000Z",
+          "wordCount": 90,
+          "title": "元陸将補が問う、五輪反対派の亡国度(JBpress)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/afa3c248b4ecba76c6bb42806280ffb47210fa1a?source=rss",
+          "author": null,
+          "description": "（加谷 珪一:経済評論家）\n\n　経済産業省の職員が、同省の新型コロナ関連給付金制度を悪用し、公金を騙し取った疑いで逮捕された。残念なことに経済犯罪というのは一定確率で発生するものだが、コロナ危機で多",
+          "link": "https://news.yahoo.co.jp/articles/afa3c248b4ecba76c6bb42806280ffb47210fa1a?source=rss",
+          "publishedOn": "2021-07-11T21:01:33.000Z",
+          "wordCount": 87,
+          "title": "なぜダークサイドに？ 「公務員の犯罪」が発生するメカニズム(JBpress)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5467374dc372aa65519096a13c7fba011eac25ec?source=rss",
+          "author": null,
+          "description": "韓国で120万部のミリオンセラーとなった話題書がある。『どうかご自愛ください　～精神科医が教える自尊感情回復レッスン』というタイトルの本だ。精神科医である著者が「自尊感情（≒自己肯定感）」の回復法を",
+          "link": "https://news.yahoo.co.jp/articles/5467374dc372aa65519096a13c7fba011eac25ec?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 74,
+          "title": "自尊感情の専門家が教える「今の職場でいいのか？」と悩みすぎて人生をダメにしないコツ(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/390693745735262600392891e5f9e3f08b0f6308?source=rss",
+          "author": null,
+          "description": "●　レビュー\n\n　「ライフシフト」という言葉は、最近日本でもよく聞かれるようになった。2016年、『ライフ・シフト』（リンダ・グラットン/アンドリュー・スコット著）の出版によって広く知られることとなっ",
+          "link": "https://news.yahoo.co.jp/articles/390693745735262600392891e5f9e3f08b0f6308?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 78,
+          "title": "人生100年時代、忙しい毎日を「自分らしい毎日」に変える習慣(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/33007cb0eadb6269429ef323087469e7b71fabdc?source=rss",
+          "author": null,
+          "description": "お互いを尊重しあい「夫は○○を、妻は△△を払う」と決めた以上のことには干渉しない夫婦。また、相手のことを双方思いやり「夫はきっと◎◎が欲しいはず」「妻は××がないと困る」と散財しがちな夫婦――どちら",
+          "link": "https://news.yahoo.co.jp/articles/33007cb0eadb6269429ef323087469e7b71fabdc?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 73,
+          "title": "お互いを尊重し思いやる夫婦はお金で苦労する!?FPが心配する理由(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/88e0df3c941efb4c7c05b277b3e6400c3df3b0ea?source=rss",
+          "author": null,
+          "description": "著者はハーバード大学とスタンフォード大学に計11年在籍し、世界的権威の2大科学誌『ネイチャー』『サイエンス』に論文が掲載されたスーパードクターだ。\n帰国後、東京・錦糸町に「眼科 かじわらアイ・ケア・",
+          "link": "https://news.yahoo.co.jp/articles/88e0df3c941efb4c7c05b277b3e6400c3df3b0ea?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 99,
+          "title": "【ハーバード × スタンフォードの眼科医が指南】痛くもかゆくもないのに失明寸前!?「今年中に失明する」といわれたのになぜ回復したのか？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/23d2be89206fd3e847834f86c9f738169429702e?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスの感染拡大が始まってから２度目の夏も本番。熱気がこもるマスク生活が長引き、このシーズン恒例の屋外イベントが減るなか、暑さ対策グッズにも変化が見られるようになった。この夏ならではのお",
+          "link": "https://news.yahoo.co.jp/articles/23d2be89206fd3e847834f86c9f738169429702e?source=rss",
+          "publishedOn": "2021-07-11T21:00:12.000Z",
+          "wordCount": 83,
+          "title": "暑さ対策もニューノーマル！夏本番をクールに乗り切る注目グッズ・ベスト５(スポーツ報知)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/71a1f5ac71ffc6b83703a5631e9a9a00715a0cc7?source=rss",
+          "author": null,
+          "description": "無人販売といえば、田舎にある野菜の販売所のイメージだが、コロナ禍の今、ギョーザやラーメン、そして服に至るまで。これまでなかったジャンルの無人販売が急増している。いったいなぜ成立しているのか、そこにどん",
+          "link": "https://news.yahoo.co.jp/articles/71a1f5ac71ffc6b83703a5631e9a9a00715a0cc7?source=rss",
+          "publishedOn": "2021-07-11T21:00:00.000Z",
+          "wordCount": 83,
+          "title": "１日でラーメン５００個販売も。コロナ禍で増える無人販売ビジネス最前線(週プレNEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/00f89cd8c08363f7b36954b5e29e0126fd882003?source=rss",
+          "author": null,
+          "description": "『週刊プレイボーイ』で「挑発的ニッポン革命計画」を連載中の国際ジャーナリスト、モーリー・ロバートソンが世界の教育コンテンツについて語る。\n\n＊　＊　＊\n\n実は今、猛烈な勢いで数学を学び直しています。こ",
+          "link": "https://news.yahoo.co.jp/articles/00f89cd8c08363f7b36954b5e29e0126fd882003?source=rss",
+          "publishedOn": "2021-07-11T21:00:00.000Z",
+          "wordCount": 77,
+          "title": "驚異の進化を遂げる世界の教育コンテンツ。日本は置いていかれる？(週プレNEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/62a5a36efb1f71bf0bed91016cb54451a5c1e466?source=rss",
+          "author": null,
+          "description": "きょう12日(月)はきのうに続き、局地的な雷雨になる所がありそうだ。外出の際は、雨具があると安心だ。\n　また、きのうまでの雨で地盤の緩んでいる所がある。少しの雨でも土砂災害に警戒してほしい。\n　気温",
+          "link": "https://news.yahoo.co.jp/articles/62a5a36efb1f71bf0bed91016cb54451a5c1e466?source=rss",
+          "publishedOn": "2021-07-11T20:59:54.000Z",
+          "wordCount": 108,
+          "title": "【きょうの天気】局地的な雷雨 外出には雨具を　西・東日本で30℃以上 本格的な暑さに(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0bd73d342c97c6b85d8f93718d0b78f2f5cf9ecb?source=rss",
+          "author": null,
+          "description": "ここ数年、マナースクールで目立つのが、奥さんや彼女からパートナーの男性が送り込まれてくるケースだとか。「男だから少々粗暴であってもいい」なんていうのは過去のもの。ベストセラー著者のマナー講師が基本中",
+          "link": "https://news.yahoo.co.jp/articles/0bd73d342c97c6b85d8f93718d0b78f2f5cf9ecb?source=rss",
+          "publishedOn": "2021-07-11T20:56:37.000Z",
+          "wordCount": 79,
+          "title": "食事中の咀嚼音、武勇伝…おじさんが嫌われる原因は？　改善法を伝授(デイリー新潮)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5ce5264f23db071a5c826d1990f0339fb28f5787?source=rss",
+          "author": null,
+          "description": "週のはじめの今日12日(月)は大気の状態が非常に不安定で、朝から激しい雨の降っている所があります。午後にかけては全国の広い範囲で雷雨に注意が必要です。\n\n日本列島には夏の太平洋高気圧の縁を回るように暖",
+          "link": "https://news.yahoo.co.jp/articles/5ce5264f23db071a5c826d1990f0339fb28f5787?source=rss",
+          "publishedOn": "2021-07-11T20:52:56.000Z",
+          "wordCount": 73,
+          "title": "朝から局地的に激しい雨　全国の広い範囲で雷雨に注意(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2290aa3697c2e4a5d56eac33586afc624e6bd32a?source=rss",
+          "author": null,
+          "description": "■この先1週間の天気のポイント■\n　・晴れても天気急変に注意\n　・関東など続々と梅雨明けの可能性\n　・不快な蒸し暑さ続く",
+          "link": "https://news.yahoo.co.jp/articles/2290aa3697c2e4a5d56eac33586afc624e6bd32a?source=rss",
+          "publishedOn": "2021-07-11T20:46:03.000Z",
+          "wordCount": 77,
+          "title": "週間天気　晴れても急な雷雨に注意　関東など梅雨明けか(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cd40b6532e60eaba6745ee02fd9f4d79eac1d7bc?source=rss",
+          "author": null,
+          "description": "東北地方から西日本では、13日にかけて非常に激しい雨が降り、大雨となる所がある。気象庁は、土砂災害などの災害に警戒を呼びかけている。また、落雷や竜巻などの激しい突風、降ひょうにも注意が必要だ。",
+          "link": "https://news.yahoo.co.jp/articles/cd40b6532e60eaba6745ee02fd9f4d79eac1d7bc?source=rss",
+          "publishedOn": "2021-07-11T20:43:58.000Z",
+          "wordCount": 90,
+          "title": "13日にかけて大雨　東北から西日本で局地的な雷雨に　土砂災害に厳重な警戒を(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cfa1d5d561c3fe476538f834c27c7c21b3625732?source=rss",
+          "author": null,
+          "description": "・東日本や西日本はゲリラ豪雨に警戒\n・東北から山陰は傘が必須\n・南西諸島は夏空の週明け\n\n今日12日(月)は梅雨前線が北陸から東北南部付近に停滞します。\n\n前線に向かって暖かく湿った空気が流れ込む一方",
+          "link": "https://news.yahoo.co.jp/articles/cfa1d5d561c3fe476538f834c27c7c21b3625732?source=rss",
+          "publishedOn": "2021-07-11T20:33:06.000Z",
+          "wordCount": 80,
+          "title": "今日12日(月)の天気　大気の状態が不安定　広範囲でゲリラ豪雨に警戒(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/56d5f6a5d2ccfd2709c4b3f222ad5d19ff54d8d8?source=rss",
+          "author": null,
+          "description": "秋田市を流れる太平川の牛島水位観測所では、「氾濫危険水位」に到達しました。秋田市では、太平川の堤防決壊等による氾濫により、浸水するおそれがあります。直ちに、市町村からの避難情報を確認するとともに、各自",
+          "link": "https://news.yahoo.co.jp/articles/56d5f6a5d2ccfd2709c4b3f222ad5d19ff54d8d8?source=rss",
+          "publishedOn": "2021-07-11T20:16:27.000Z",
+          "wordCount": 77,
+          "title": "秋田　太平川　水位さらに上昇　氾濫危険情報【警戒レベル4相当】(tenki.jp)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/79fabd9813abb9e6b93d4c40698fec392db824db?source=rss",
           "author": null,
@@ -12157,6 +12364,186 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/d0edbedd39ccd59d05323c0d4444f31a139d47ea?source=rss",
+          "author": null,
+          "description": "フラットトラックレーサー由来のフロント19インチホイールの車体に、12.0kg-m/5900rpmという強烈トルクを発生させる1203cc水冷エンジンを搭載。加えて853mmのシート高に大柄な車体と、",
+          "link": "https://news.yahoo.co.jp/articles/d0edbedd39ccd59d05323c0d4444f31a139d47ea?source=rss",
+          "publishedOn": "2021-07-11T21:05:04.000Z",
+          "wordCount": 85,
+          "title": "’21インディアン FTRカーボン試乗ショートインプレ【カーボンを纏った最上級モデル】(WEBヤングマシン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6363a6a6678faeaee6b50aa6e6f41dce17c7b1da?source=rss",
+          "author": null,
+          "description": "先週7月5日の本コラム〈東京都議選「戦略勝ち」を収めた小池都知事が見据える「衆院選の焦点」〉で、7月4日投開票の都議選は、小池マジック(「狸寝入り」戦法)にまんまと自民党が嵌まったことを書いた。",
+          "link": "https://news.yahoo.co.jp/articles/6363a6a6678faeaee6b50aa6e6f41dce17c7b1da?source=rss",
+          "publishedOn": "2021-07-11T21:02:17.000Z",
+          "wordCount": 73,
+          "title": "またも小池百合子にしてやられた…「狸寝入り」でめちゃくちゃになった政治スケジュール(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b3f24fc6cb18c2840d148631514224f73fb44aae?source=rss",
+          "author": null,
+          "description": "（藤谷 昌敏:日本戦略研究フォーラム政策提言委員、元公安調査庁金沢事務所長）\n\n　国家の安全性および優位性を含む重要な技術や、国家の安全保障に直結する機微技術が開発された場合、それに関わる特許出願の",
+          "link": "https://news.yahoo.co.jp/articles/b3f24fc6cb18c2840d148631514224f73fb44aae?source=rss",
+          "publishedOn": "2021-07-11T21:01:35.000Z",
+          "wordCount": 83,
+          "title": "韓国の核実験に用いられた日本の技術、「秘密特許制度」の制定を(JBpress)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/91e87227a74fd2ae7270076c17a65f5ec519980b?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスのワクチン接種の進展で日本経済も21年度後半にかけて、経済活動の正常化が期待できる。とはいえ、企業業績の回復には業種間格差、企業間格差が生じ、二極化している。連載『ダイヤモンド決算",
+          "link": "https://news.yahoo.co.jp/articles/91e87227a74fd2ae7270076c17a65f5ec519980b?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 79,
+          "title": "予想純利益の増加率の大きい企業ランキング！5位はデンソー、3位はIHI、1位は？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/207a4e125b26508de07501aadcd1f74f39d45826?source=rss",
+          "author": null,
+          "description": "●　3つのミッションが与えられた トヨタのスポーツ戦略車\n\n　GRヤリスは、1999年に生産を終了したセリカGT-FOUR以来、20年ぶりに復活したスポーツ4WDである。コンセプトは「ストロングスポー",
+          "link": "https://news.yahoo.co.jp/articles/207a4e125b26508de07501aadcd1f74f39d45826?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 81,
+          "title": "トヨタGRヤリス、下山工場製“匠”エンジンを搭載したサムライ4WD【試乗記】(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/737518f1cc6a6a617e174c84352c5e8476ef120b?source=rss",
+          "author": null,
+          "description": "現在、テレビやYouTubeで圧倒的な人気を集める、ひろゆき氏。\n24万部の大ヒットを記録しているベストセラー『１％の努力』では、その考え方について深く掘り下げ、人生のターニングポイントでどのような",
+          "link": "https://news.yahoo.co.jp/articles/737518f1cc6a6a617e174c84352c5e8476ef120b?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 78,
+          "title": "ひろゆきの「人生を変えた映画・ベスト1」とは？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e911cef719e88f76ab19ab8f7066c899a22d182a?source=rss",
+          "author": null,
+          "description": "JR西日本は長距離列車「WEST EXPRESS 銀河」の「紀南コース」の試運転を報道陣に公開した。実際に乗って分かった、その魅力とは。（鉄道ジャーナリスト　枝久保達也）\n\n●　安価に楽しめる夜行列",
+          "link": "https://news.yahoo.co.jp/articles/e911cef719e88f76ab19ab8f7066c899a22d182a?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 87,
+          "title": "JR西日本「WEST EXPRESS 銀河」に試乗、夜行列車の魅力とは(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e3322c7903b73ec21595293f04a52c0a3140e4d6?source=rss",
+          "author": null,
+          "description": "近年、日本での採用競争は激化しています。少子化によって労働人口は減少し、スキルや経験を持つ人材は、より条件のよい場所へと転職。かつてのような、終身雇用や年功序列が魅力だった時代は、すでに過ぎ去り、各",
+          "link": "https://news.yahoo.co.jp/articles/e3322c7903b73ec21595293f04a52c0a3140e4d6?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 92,
+          "title": "成長している会社の従業員が幸せでいるのはなぜか？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6cea4fe11b569cbb00b61f96c8f855799684fba7?source=rss",
+          "author": null,
+          "description": "●　明日から実践できる デキる管理職に見える3条件\n\n　会社員なら、管理職として新しい職場に赴任する、または、転職していきなり重要な幹部の仕事を任されることがある。そんなとき、業務上の問題やメンバーの",
+          "link": "https://news.yahoo.co.jp/articles/6cea4fe11b569cbb00b61f96c8f855799684fba7?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 78,
+          "title": "すぐに使える！新しい職場で成功する管理職の3つの条件とは？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/34d61b43cf2239bec2403dfebc7a8792e83840e7?source=rss",
+          "author": null,
+          "description": "●　2040年までにEV・FCEVを100％に 新社長が掲げた壮大なビジョン\n\n　今春、前任の八郷隆弘社長の後を継ぎ、ホンダ復活を一身に背負って新社長に登板したのが三部敏宏社長だ。本来であれば6月の定",
+          "link": "https://news.yahoo.co.jp/articles/34d61b43cf2239bec2403dfebc7a8792e83840e7?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 74,
+          "title": "ホンダ三部新体制の「光と影」、脱エンジンより収益改善が課題(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6f903ba733c1cdde7c8de6f1d87e1baba0b080f5?source=rss",
+          "author": null,
+          "description": "1970年に創業した日本最古のハンバーガーチェーン「ドムドムハンバーガー」をご存じだろうか。最盛期の1990年代には全国で400近い店舗を数えた。しかし徐々に店舗を減らし、現在は27店舗しかない「絶",
+          "link": "https://news.yahoo.co.jp/articles/6f903ba733c1cdde7c8de6f1d87e1baba0b080f5?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 83,
+          "title": "コロナ禍でドムドムから登場した意外なヒット商品(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4a68963d19af17fc00e466eec1362777319d6594?source=rss",
+          "author": null,
+          "description": "発売1ヵ月強で早くも4刷となった『たった1分見るだけで頭がよくなる瞬読式勉強法』の瞬読トレを使って、脳の活性化を目指しましょう。瞬読トレ後の5分は、普段の20分に相当します。右脳の働きを促すので、イ",
+          "link": "https://news.yahoo.co.jp/articles/4a68963d19af17fc00e466eec1362777319d6594?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 78,
+          "title": "【月曜日は判断力アップ】瞬読トレーニングvol.10(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5315b86bdcbb39bd640c1859bad3759c19ea87f3?source=rss",
+          "author": null,
+          "description": "『週刊ダイヤモンド』7月17日号の第一特集は「株価 給料 再編　5年後の業界地図」です。コロナ禍を経て世界的トレンドが急加速する中、日本の各産業も大転換の途上にありますが、そこで気になるのは今後の行",
+          "link": "https://news.yahoo.co.jp/articles/5315b86bdcbb39bd640c1859bad3759c19ea87f3?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 77,
+          "title": "最新の企業業績は「コロナ下の参考記録」、5年で激変する11産業の正念場(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fe3abd2bd7dbd77225838f46c15e2ce68d5a55a9?source=rss",
+          "author": null,
+          "description": "●　1位は維新が期待のあの企業\n\n　今回は、上場企業の有価証券報告書に記載された平均年収のデータを使って、医薬品業界の上場企業を対象に「年収が高い企業ランキング」を作成した。本社所在地はダイヤモンド社",
+          "link": "https://news.yahoo.co.jp/articles/fe3abd2bd7dbd77225838f46c15e2ce68d5a55a9?source=rss",
+          "publishedOn": "2021-07-11T21:01:29.000Z",
+          "wordCount": 77,
+          "title": "年収が高い医薬品会社ランキング2020最新版【トップ5】2位第一三共、1位は？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/55df679d8ba8ac0410873681383f3a006ae5f12c?source=rss",
+          "author": null,
+          "description": "6時現在　　　　　　　　　　\n\n　1ドル＝　　　　　　　　　　\n\n　　　110円13銭～　　　　\n\n　　　　　　110円21銭　　\n\n　　前日比　　－0円12銭　　\n\n　1ユーロ＝",
+          "link": "https://news.yahoo.co.jp/articles/55df679d8ba8ac0410873681383f3a006ae5f12c?source=rss",
+          "publishedOn": "2021-07-11T21:01:17.000Z",
+          "wordCount": 79,
+          "title": "為替相場　　12日（日本時間　6時）(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/60809b2f28c817af596c9daabed8f6d807c30d08?source=rss",
+          "author": null,
+          "description": "最近のフード業界における一大トピックが、プラントベースドフード（プラントベースフード）です。なかでも特に話題なのが、2021年4月に3店舗とオンラインショップを同時にグランドオープンし、カゴメとの業務",
+          "link": "https://news.yahoo.co.jp/articles/60809b2f28c817af596c9daabed8f6d807c30d08?source=rss",
+          "publishedOn": "2021-07-11T21:00:56.000Z",
+          "wordCount": 75,
+          "title": "プラントベースフードのテスラを目指す「2foods」。野望とウマさの中身(GetNavi web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3cb5b6c48d51375d048f312d2a49d92227a0820a?source=rss",
+          "author": null,
+          "description": "2021年7月2日発売の「日経トレンディ2021年8月号」では、「早稲田・慶応 大学ブランド研究」を特集。私学の両雄である早稲田大学と慶応義塾大学の強みの源泉と、近年の変革に迫っている。まずは、日経",
+          "link": "https://news.yahoo.co.jp/articles/3cb5b6c48d51375d048f312d2a49d92227a0820a?source=rss",
+          "publishedOn": "2021-07-11T21:00:00.000Z",
+          "wordCount": 89,
+          "title": "早慶ブランド1500人調査　「稲門会より三田会が役立つ」は本当か？(日経クロストレンド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e3b6cace494251851663763d99e21e395c256f46?source=rss",
+          "author": null,
+          "description": "text：Kenji Momota（桃田健史）\neditor：Taro Ueno（上野太朗）\n\nダッジといえば、アメリカンマッスルカーのド真ん中。\n\nそんなダッジが電動化戦略を発表するというのだから、",
+          "link": "https://news.yahoo.co.jp/articles/e3b6cace494251851663763d99e21e395c256f46?source=rss",
+          "publishedOn": "2021-07-11T20:45:00.000Z",
+          "wordCount": 103,
+          "title": "【尖っていくブランド】ダッジ電動化戦略発表会で「EV売らない」　マッスルカ―本家はどこ向かう？(AUTOCAR JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d720272e8328e9795284e1601e272a7f9759ff1a?source=rss",
+          "author": null,
+          "description": "7月8日、ECB(欧州中央銀行)は1年半にわたる戦略見直し(strategy review)の結果を公表した。見直しは2020年1月に正式開始が表明され、2020年中に完了する予定であったが、パンデ",
+          "link": "https://news.yahoo.co.jp/articles/d720272e8328e9795284e1601e272a7f9759ff1a?source=rss",
+          "publishedOn": "2021-07-11T20:31:42.000Z",
+          "wordCount": 73,
+          "title": "ECB、18年ぶりの戦略修正は「ハト派」へのシフト(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ca4b0eb09aa23fb1bea96a3c21b6781b02860a90?source=rss",
+          "author": null,
+          "description": "中国の新疆ウイグル自治区や香港、ミャンマーなどの人権問題が、日本企業に大きな影響を与えている。強制労働が疑われている「新疆綿」をめぐっては、ユニクロの綿製シャツがアメリカの輸入禁止対象に。7月にはフラ",
+          "link": "https://news.yahoo.co.jp/articles/ca4b0eb09aa23fb1bea96a3c21b6781b02860a90?source=rss",
+          "publishedOn": "2021-07-11T20:20:08.000Z",
+          "wordCount": 79,
+          "title": "「ユニクロ」が捜査対象に。日本企業に人権対策を義務づけるべきか、自民党と経団連に温度差(ハフポスト日本版)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/d8877c9381c66192e5cbc323c07763bb8433c601?source=rss",
           "author": null,
           "description": "盗難防止に欠かせない盗難防止用品は、その役割を果たすため”重くて頑丈”であることが多い。そうした先例を覆すのが、ETC 車載器やドライブレコーダーで有名なミツバサンコーワが製造販売するバイスガードシリ",
@@ -19265,6 +19652,123 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/koffee0522/items/5601f18e1fa06c0daac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nFirebase Local Emulator Suiteを使う際にコピペで動かしたいのでそのまとめです。\n\n公式ドキュメント\nFirebase Local Emulator Suite の概要…",
+          "link": "https://qiita.com/koffee0522/items/5601f18e1fa06c0daac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T13:04:35.000Z",
+          "wordCount": 721,
+          "title": "コピペで使うFirebase【Local Emulator Suite編】"
+        },
+        {
+          "id": "https://qiita.com/ProjectEuropa/items/a5f5e3fe5669710b79e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "結論\n\n/var/run/supervisor.sockをVolumeマウントして、\nWebアプリコンテナとDatadogAgentコンテナ間で/var/run/supervisor.sockを使用…",
+          "link": "https://qiita.com/ProjectEuropa/items/a5f5e3fe5669710b79e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T12:50:44.000Z",
+          "wordCount": 335,
+          "title": "Docker上で起動しているWebアプリのSupervisorをDatadogで監視する"
+        },
+        {
+          "id": "https://qiita.com/vit_udon_husqy/items/8d7e749fd92cde6dafec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "背景\n\n学習コミュニティで書籍勉強会を主催してみました。\n概要は以下の通り。\n・スッキリわかるSQL入門を読み、自分なりの解釈でまとめてみる\n・メンバー四人で各１章ずつを担当して読み、Qiita等で…",
+          "link": "https://qiita.com/vit_udon_husqy/items/8d7e749fd92cde6dafec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T12:40:29.000Z",
+          "wordCount": 338,
+          "title": "【SQL書籍勉強会】SQLとは？"
+        },
+        {
+          "id": "https://qiita.com/mirai_yuki_tech/items/d5dda8ae46b2be965727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "記事の内容\n\n本記事で紹介する内容は、一見簡単に出来そうで、ちょっとした工夫をしないと実装できない内容です。\n本記事では、以下内容を紹介いたします。\n一つのタクトスイッチで\n\n\nESP8266をDeep…",
+          "link": "https://qiita.com/mirai_yuki_tech/items/d5dda8ae46b2be965727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T11:27:29.000Z",
+          "wordCount": 440,
+          "title": "ESP8266のDeepSleepをタクトスイッチひとつで制御したい"
+        },
+        {
+          "id": "https://qiita.com/typecprint/items/2745932fdaf36d763623?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nガウス過程回帰は機械学習領域ではかなりメジャーなので、皆様御存知かと思いますが、\nここで本当に初学者がガウス過程回帰にいきつくような解説と、多次元まで対応したPythonのガウス過程回帰…",
+          "link": "https://qiita.com/typecprint/items/2745932fdaf36d763623?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T10:19:41.000Z",
+          "wordCount": 455,
+          "title": "誰でも理解できるガウス過程とガウス過程回帰　基礎編"
+        },
+        {
+          "id": "https://qiita.com/fumifumitaro/items/c613d033ebc94c5e608d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "まずは、私がkaggleで扱ったコードをそのまま掲載します。\n(おいおい直して汎用的なものにします。)\n\ndef preprocess(df):\n    excerpt_processed=[]\n    for e …",
+          "link": "https://qiita.com/fumifumitaro/items/c613d033ebc94c5e608d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T09:09:04.000Z",
+          "wordCount": 443,
+          "title": "自然言語処理の前処理の話(記号の削除、stopwordsの削除、語形の統一など)"
+        },
+        {
+          "id": "https://qiita.com/Takazudo/items/941b6eaddcf3d06ce1a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "第1話: We will selective\n第2話: We will specialize\n第3話: No estimates\n\n\n\n\n「先輩さん」\n『はい、後輩ちゃん』\n「前話してた1,000万の見積…",
+          "link": "https://qiita.com/Takazudo/items/941b6eaddcf3d06ce1a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T08:26:46.000Z",
+          "wordCount": 501,
+          "title": "俺の見積もりがこんなに安いわけがない: 第3話 No estimates"
+        },
+        {
+          "id": "https://qiita.com/sgeboku/items/9eca763879c04e24b058?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Pythonで作成した画像やネットで拾ってきた画像を１つのエクセルファイルに張り付けて保存する。\n画像はA列に貼り付けます。各画像は重ならないようにはしているつもりです。\n\nimport tkinte…",
+          "link": "https://qiita.com/sgeboku/items/9eca763879c04e24b058?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T08:25:11.000Z",
+          "wordCount": 410,
+          "title": "フォルダ内の画像をまとめてエクセルに貼り付け"
+        },
+        {
+          "id": "https://qiita.com/mirai_yuki_tech/items/f69d45f9915bfe71369f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ESP8266が抱える突入電流の問題\n\n本記事は、「ESP8266を単三乾電池一本で駆動したい」、「よわよわ電源だけどESPを起動できるようにしたい」などの要望に対するヒントになればと思います。\n\n突…",
+          "link": "https://qiita.com/mirai_yuki_tech/items/f69d45f9915bfe71369f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T08:22:24.000Z",
+          "wordCount": 344,
+          "title": "ESP8266の起動時の突入電流を抑え込む方法"
+        },
+        {
+          "id": "https://qiita.com/momizhi_/items/c356c610388f388779b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初めまして！やばい現場でSEやっています！\n\n本当にあったやばいコードを並べてみました♪\n\nたくさんのグローバル変数\n\nグローバル変数って使う機会そうそうないと思うんですよ。あっても定数だけだとか。\n変数…",
+          "link": "https://qiita.com/momizhi_/items/c356c610388f388779b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T05:47:37.000Z",
+          "wordCount": 297,
+          "title": "本当にあったやばいコード"
+        },
+        {
+          "id": "https://qiita.com/torifukukaiou/items/949ff6d59ffeeec0cd51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/official-campaigns/engineer-festa/2021\n\nこの記事は\n\n\n2021年7月1日から8月25日まで開催されているQiitaエンジニアフ…",
+          "link": "https://qiita.com/torifukukaiou/items/949ff6d59ffeeec0cd51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T05:38:34.000Z",
+          "wordCount": 513,
+          "title": "Qiitaエンジニアフェスタ2021 LGTMランキング！"
+        },
+        {
+          "id": "https://qiita.com/sprout2000/items/c6908d61314c2d8c8304?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n「Electron + TypeScript + React の環境構築(Early 2021)」のホットリロード版です。\n\nhttps://qiita.com/sprout2000/it…",
+          "link": "https://qiita.com/sprout2000/items/c6908d61314c2d8c8304?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T04:05:06.000Z",
+          "wordCount": 1108,
+          "title": "Electron + TypeScript + React の環境構築 (Summer 2021)"
+        },
+        {
+          "id": "https://qiita.com/dialoguedaisuki/items/b41a0e7b43104bd3045d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "すぐ消すbotとは\n\n\n悪意あるものが私のリポジトリを悪用し、ネット上でボヤ騒ぎを起こしたbotのことである。\n\n\nまとめ記事が顛末に詳しい、こちらの記事も間違いがあるがまとまっている。 \n\n\n\nhttps://…",
+          "link": "https://qiita.com/dialoguedaisuki/items/b41a0e7b43104bd3045d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T02:35:51.000Z",
+          "wordCount": 488,
+          "title": "Pythonですぐ消すbotを再現する"
+        },
+        {
           "id": "https://qiita.com/orimomo/items/f7b2acd12bf8d26d48fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "Universal Linksを実装した際にいくつかハマったことがあったので、覚書として残しておきます。\n\n【おさらい】 Universal Linksとは\n\n\niOS9〜利用可能\n通常のWeb URL経…",
@@ -19272,6 +19776,24 @@
           "publishedOn": "2021-07-11T01:18:29.000Z",
           "wordCount": 389,
           "title": "【iOS】Universal Links実装時にハマったこと"
+        },
+        {
+          "id": "https://qiita.com/suzuki0430/items/8b6e99669a8d4242a5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n前回の記事でCodeCommit, CodeBuild, CodePipelineを使って、AWSサービスのみでCI/CDパイプラインを構築しました。\n今回は構築したパイプラインにBlu…",
+          "link": "https://qiita.com/suzuki0430/items/8b6e99669a8d4242a5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T01:15:19.000Z",
+          "wordCount": 468,
+          "title": "【AWS】ECS構築の基礎 −Blue/Greenデプロイ編−"
+        },
+        {
+          "id": "https://qiita.com/studio_haneya/items/dc072d4329fcacfaac2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "驚いたところ\n\n以下を実行するとどうなるでしょうか？\n\n>>> HOGE = 'aaa'\n>>> \n>>> def func(is_b):\n>>>     if is_b:\n>>>         global HOGE\n>>…",
+          "link": "https://qiita.com/studio_haneya/items/dc072d4329fcacfaac2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-10T17:56:36.000Z",
+          "wordCount": 696,
+          "title": "pythonのglobalの動作にちょっと驚いた"
         },
         {
           "id": "https://qiita.com/the_haigo/items/76d1ee732f63f6b6d979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -19371,6 +19893,15 @@
           "publishedOn": "2021-07-10T06:40:28.000Z",
           "wordCount": 1967,
           "title": "あなたにもいつ訪れるか分からないClassic ASP地獄を乗り切る「ASPVBSLIB」完成"
+        },
+        {
+          "id": "https://qiita.com/yugo-yamamoto/items/b4fa42464e39f7ab04e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "JDBCドライバという存在は破壊的だった。\n\nJDBCの登場まではODBCやADOなど、結局はWindows縛りの接続環境から、JDBCで環境依存が極小化された形でDBにつながる。\n\n例えばRubyでm…",
+          "link": "https://qiita.com/yugo-yamamoto/items/b4fa42464e39f7ab04e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-10T03:06:10.000Z",
+          "wordCount": 278,
+          "title": "他の言語がJavaにかなわない唯一のポイント"
         },
         {
           "id": "https://qiita.com/kazuyamashi/items/5de942ec25cf891dc7de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
