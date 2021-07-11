@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T17:14:48.084Z</updated>
+    <updated>2021-07-11T18:10:59.331Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[秋田　太平川で氾濫警戒情報【警戒レベル4相当】(tenki.jp)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2d24dff2684d43cf9a1f53c5f6823b4b1438387b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2d24dff2684d43cf9a1f53c5f6823b4b1438387b?source=rss"/>
+        <updated>2021-07-11T17:52:01.000Z</updated>
+        <summary type="html"><![CDATA[12日午前2時現在、秋田市を流れる太平川の牛島水位観測所では「避難判断水位」に到達しました。今後、水位はさらに上昇する見込みです。市町村からの避難情報に十分注意するとともに、適切な防災行動をとって下さ]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［沖縄］那覇市議選　40人の顔ぶれ決まる、女性は13人(政治山)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fc18e9061d47f49d221c25afa90a664855667937?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fc18e9061d47f49d221c25afa90a664855667937?source=rss"/>
+        <updated>2021-07-11T17:41:27.000Z</updated>
+        <summary type="html"><![CDATA[任期満了に伴う那覇市議選（沖縄県）は11日投開票され、定数40に対し63人が立候補、現職25人、元職2人、新人13人が当選しました。
+
+　当選者の平均年齢は49.05歳、党派別では自民9、公明7、共]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋田県で局地的に大雨(tenki.jp)]]></title>
         <id>https://news.yahoo.co.jp/articles/a7e8e7bab295fa95226222a4385a48bb0922687e?source=rss</id>
@@ -2886,6 +2908,16 @@ translation：Kenji Nakajima（中嶋健治）]]></summary>
 　北陸や東北南部では朝から雷を伴う強い雨が降っていますが、この後は太平洋側でも急な強い雨や]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「動いてるでしょ!?」「信じられない」　箱がすごい動いて見えるのに動いてない錯視GIFに反響（1/2 ページ） - ねとらぼ]]></title>
+        <id>https://nlab.itmedia.co.jp/nl/articles/2107/11/news018.html</id>
+        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/11/news018.html"/>
+        <updated>2021-07-11T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[箱（立方体）が左右・上下・斜め・回転・拡大＆縮小と、色んな動き方をしているように見えるGIF画像がTwitterで話題です。実際には動いていないだと……？ 箱の中央に矢印があり、それが指し示す方向に箱が動いているように見えます。しかし、よく見ると箱は元の位置から変わっておらず、感じる動きとのズレから頭が混乱し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>

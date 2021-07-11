@@ -148,6 +148,15 @@
           "title": "痛いニュース(ﾉ∀`) : 【画像】 オンライン修学旅行が悲惨すぎると話題に - ライブドアブログ"
         },
         {
+          "id": "https://nlab.itmedia.co.jp/nl/articles/2107/11/news018.html",
+          "author": null,
+          "description": "箱（立方体）が左右・上下・斜め・回転・拡大＆縮小と、色んな動き方をしているように見えるGIF画像がTwitterで話題です。実際には動いていないだと……？ 箱の中央に矢印があり、それが指し示す方向に箱が動いているように見えます。しかし、よく見ると箱は元の位置から変わっておらず、感じる動きとのズレから頭が混乱し...",
+          "link": "https://nlab.itmedia.co.jp/nl/articles/2107/11/news018.html",
+          "publishedOn": "2021-07-11T04:10:00.000Z",
+          "wordCount": 260,
+          "title": "「動いてるでしょ!?」「信じられない」　箱がすごい動いて見えるのに動いてない錯視GIFに反響（1/2 ページ） - ねとらぼ"
+        },
+        {
           "id": "https://www.j-cast.com/2021/07/11415854.html?p=all",
           "author": null,
           "description": "動画配信サービス「ディズニー＋（プラス）」をめぐり、利用者から苦情が寄せられている。退会方法が複雑との指摘で、運営会社は取材に「真摯に受け止め、改善に励んでまいります」と答えた。 利用者を惑わせるような設計は「ダークパターン」と呼ばれ、米国では法規制も進んでいる。 十数ページ遷移する必要 ディズニー...",
@@ -4049,6 +4058,24 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/2d24dff2684d43cf9a1f53c5f6823b4b1438387b?source=rss",
+          "author": null,
+          "description": "12日午前2時現在、秋田市を流れる太平川の牛島水位観測所では「避難判断水位」に到達しました。今後、水位はさらに上昇する見込みです。市町村からの避難情報に十分注意するとともに、適切な防災行動をとって下さ",
+          "link": "https://news.yahoo.co.jp/articles/2d24dff2684d43cf9a1f53c5f6823b4b1438387b?source=rss",
+          "publishedOn": "2021-07-11T17:52:01.000Z",
+          "wordCount": 90,
+          "title": "秋田　太平川で氾濫警戒情報【警戒レベル4相当】(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fc18e9061d47f49d221c25afa90a664855667937?source=rss",
+          "author": null,
+          "description": "任期満了に伴う那覇市議選（沖縄県）は11日投開票され、定数40に対し63人が立候補、現職25人、元職2人、新人13人が当選しました。\n\n　当選者の平均年齢は49.05歳、党派別では自民9、公明7、共",
+          "link": "https://news.yahoo.co.jp/articles/fc18e9061d47f49d221c25afa90a664855667937?source=rss",
+          "publishedOn": "2021-07-11T17:41:27.000Z",
+          "wordCount": 68,
+          "title": "［沖縄］那覇市議選　40人の顔ぶれ決まる、女性は13人(政治山)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a7e8e7bab295fa95226222a4385a48bb0922687e?source=rss",
           "author": null,
