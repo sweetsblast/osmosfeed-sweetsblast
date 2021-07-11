@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210711/k10013133681000.html",
+          "author": null,
+          "description": "香港の政府は今月中にも区議会の議員に対し、政府に忠誠を尽くすよう宣誓することを求める見通しです。宣誓に違反したとみなされると刑事罰が科せられることなどから、政府に反対の立場の民主派議員の200人以上が相次いで辞職する事態となっています。 香港では「愛国者による香港の統治」を進めるためとして、中国の習...",
+          "link": "https://www3.nhk.or.jp/news/html/20210711/k10013133681000.html",
+          "publishedOn": "2021-07-11T13:23:17.000Z",
+          "wordCount": 33,
+          "title": "香港 民主派区議200人以上が辞職 政府に忠誠尽くす宣誓前に | 香港 抗議活動 | NHKニュース"
+        },
+        {
           "id": "https://fjii.blog.fc2.com/blog-entry-3041.html",
           "author": null,
           "description": "今日の二本目の記事です。 ある友人が「ひろゆき」の反論まがいツイートのリンクを送ってくれました。 「ひろゆき」がまたまた歪曲引用 「ひろゆき」のツイートを引用します。 ***** ひろゆき, Hiroyuki Nishimura@hirox246 ・ 「語源が古いから、若者言葉ではない」というのは反論になってません。 「ヤバい」は若者言...",
@@ -56,6 +65,15 @@
           "publishedOn": "2021-07-11T09:26:48.000Z",
           "wordCount": 38,
           "title": "自民、安倍前首相秘書を擁立へ　衆院選長崎1区 ｜ 共同通信"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210711174901",
+          "author": null,
+          "description": "ここ１０年ぐらいで滅茶苦茶美味くなったよなあかき氷。 実態としてはかき氷が必死になったと言うよりも製氷業が死にものぐるいになったんだけど。 食ったこともない癖に「どうせインスタ映えでしょ～～」で終わらせるのは勿体ないぞ。 １杯６００円するにゃあするけど明らかにハーゲンダッツ２個分の満足感はある。 単...",
+          "link": "https://anond.hatelabo.jp/20210711174901",
+          "publishedOn": "2021-07-11T09:12:21.000Z",
+          "wordCount": 94,
+          "title": "死んでいく文化や商品はかき氷を見習えよ"
         },
         {
           "id": "https://anond.hatelabo.jp/20210711135946",
@@ -4031,6 +4049,15 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/a7e8e7bab295fa95226222a4385a48bb0922687e?source=rss",
+          "author": null,
+          "description": "秋田県内は日本海から発達した雨雲が流れ込み、局地的に激しい雨や非常に激しい雨が降っています。明け方まで土砂災害、道路などの冠水、川の増水に警戒してください。",
+          "link": "https://news.yahoo.co.jp/articles/a7e8e7bab295fa95226222a4385a48bb0922687e?source=rss",
+          "publishedOn": "2021-07-11T16:33:50.000Z",
+          "wordCount": 69,
+          "title": "秋田県で局地的に大雨(tenki.jp)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/f9b2b5ace5f3d353a039c61d3bb8ce895f5ba45b?source=rss",
           "author": null,
