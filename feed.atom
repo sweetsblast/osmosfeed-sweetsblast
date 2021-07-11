@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T18:10:59.331Z</updated>
+    <updated>2021-07-11T19:07:31.618Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[木村拓哉さんがマクドナルド人気商品のエピソードを紹介　創業50周年スペシャルTVCM「チキンマックナゲット」篇・「マックシェイク」篇を放映(食品新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fa60c768b14e2d70d2db600a524e940bd33d4751?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fa60c768b14e2d70d2db600a524e940bd33d4751?source=rss"/>
+        <updated>2021-07-11T19:02:35.000Z</updated>
+        <summary type="html"><![CDATA[日本マクドナルドは、創業50 周年キャンペーンとして、50 周年のキャンペーンイメージキャラクターの木村拓哉さんが出演する「スマイルのリレー」をテーマにした新TVCMを放映する。
+
+　新TVCMは、]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〔東北電力〕新潟県の約17200軒で停電(12日03時40分現在)(レスキューナウニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/39ca79606215311cf09dfdd2008c688d62769080?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/39ca79606215311cf09dfdd2008c688d62769080?source=rss"/>
+        <updated>2021-07-11T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[東北電力によると、12日03:40現在、新潟県の約17200軒で停電が発生しています。現在、復旧作業が行われています。
+
+■影響地域
+新潟県：約17200軒(新潟市北区、新潟市東区、新潟市中央区、新潟]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋田　太平川で氾濫警戒情報【警戒レベル4相当】(tenki.jp)]]></title>
         <id>https://news.yahoo.co.jp/articles/2d24dff2684d43cf9a1f53c5f6823b4b1438387b?source=rss</id>

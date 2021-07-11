@@ -4059,6 +4059,15 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/39ca79606215311cf09dfdd2008c688d62769080?source=rss",
+          "author": null,
+          "description": "東北電力によると、12日03:40現在、新潟県の約17200軒で停電が発生しています。現在、復旧作業が行われています。\n\n■影響地域\n新潟県：約17200軒(新潟市北区、新潟市東区、新潟市中央区、新潟",
+          "link": "https://news.yahoo.co.jp/articles/39ca79606215311cf09dfdd2008c688d62769080?source=rss",
+          "publishedOn": "2021-07-11T18:40:00.000Z",
+          "wordCount": 61,
+          "title": "〔東北電力〕新潟県の約17200軒で停電(12日03時40分現在)(レスキューナウニュース)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/2d24dff2684d43cf9a1f53c5f6823b4b1438387b?source=rss",
           "author": null,
           "description": "12日午前2時現在、秋田市を流れる太平川の牛島水位観測所では「避難判断水位」に到達しました。今後、水位はさらに上昇する見込みです。市町村からの避難情報に十分注意するとともに、適切な防災行動をとって下さ",
@@ -12093,6 +12102,15 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/fa60c768b14e2d70d2db600a524e940bd33d4751?source=rss",
+          "author": null,
+          "description": "日本マクドナルドは、創業50 周年キャンペーンとして、50 周年のキャンペーンイメージキャラクターの木村拓哉さんが出演する「スマイルのリレー」をテーマにした新TVCMを放映する。\n\n　新TVCMは、",
+          "link": "https://news.yahoo.co.jp/articles/fa60c768b14e2d70d2db600a524e940bd33d4751?source=rss",
+          "publishedOn": "2021-07-11T19:02:35.000Z",
+          "wordCount": 81,
+          "title": "木村拓哉さんがマクドナルド人気商品のエピソードを紹介　創業50周年スペシャルTVCM「チキンマックナゲット」篇・「マックシェイク」篇を放映(食品新聞)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/9155c0749757c011c92104437291ef240a6151af?source=rss",
           "author": null,
