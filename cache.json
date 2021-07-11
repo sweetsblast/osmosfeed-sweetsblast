@@ -22,6 +22,33 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://nordot.app/786885368176623616",
+          "author": null,
+          "description": "自民党長崎県連は11日、次期衆院選長崎1区への不出馬を表明した冨岡勉衆院議員（73）の後任に、安倍晋三前首相の政策秘書初村滝一郎氏（41）を擁立する方針を決めた。16日の選挙対策委員会と常任総務会で正式決定し、党本部に公認申請する。 県連が開いた選考委員会で、出席委員27人による投票で半数を超える支持を得た...",
+          "link": "https://nordot.app/786885368176623616",
+          "publishedOn": "2021-07-11T09:26:48.000Z",
+          "wordCount": 38,
+          "title": "自民、安倍前首相秘書を擁立へ　衆院選長崎1区 ｜ 共同通信"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210711135946",
+          "author": null,
+          "description": "例えばキャベツが全く違う名前になったり。 カメラが違う名前になったり。 これまでに大きな変更があった物の名前ってある？ よほどの理由が無いと変わらないと思うけど。",
+          "link": "https://anond.hatelabo.jp/20210711135946",
+          "publishedOn": "2021-07-11T09:06:52.000Z",
+          "wordCount": 146,
+          "title": "物の名前が途中で変わることってあったの？"
+        },
+        {
+          "id": "https://bunshun.jp/articles/-/47024",
+          "author": null,
+          "description": "亀は湯の児温泉のシンボル。大きな海亀が傷ついた体を癒しにきたという伝説がある 「あの日のことは忘れんですよ」 そう語るのは、16年ほど前に旅館の経営に区切りをつけ、いまは熊本市内に住む梅村健児さん（70）と里美さん（64）夫妻だ。 「いま思うとですよ。当時、若かった選手の方たちが、プロレスを何とか良くしよ...",
+          "link": "https://bunshun.jp/articles/-/47024",
+          "publishedOn": "2021-07-11T08:16:10.000Z",
+          "wordCount": 193,
+          "title": "古舘伊知郎も橋本真也も現場にはいなかった…プロレス界伝説の大乱闘「旅館破壊事件」の“ウソ“と34年目の真実 | 文春オンライン"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210711/k10013133351000.html",
           "author": null,
           "description": "東京都は11日、都内で新たに614人が新型コロナウイルスに感染していることを確認したと発表しました。 11日の614人は1週間前の日曜日より96人増えていて、前の週の同じ曜日を上回るのは22日連続です。",
@@ -56,6 +83,15 @@
           "publishedOn": "2021-07-11T06:02:06.000Z",
           "wordCount": 42,
           "title": "安倍氏「自民に厳しい風」　次期衆院選へ危機感 ｜ 共同通信"
+        },
+        {
+          "id": "https://www.j-cast.com/2021/07/11415854.html?p=all",
+          "author": null,
+          "description": "動画配信サービス「ディズニー＋（プラス）」をめぐり、利用者から苦情が寄せられている。退会方法が複雑との指摘で、運営会社は取材に「真摯に受け止め、改善に励んでまいります」と答えた。 利用者を惑わせるような設計は「ダークパターン」と呼ばれ、米国では法規制も進んでいる。 十数ページ遷移する必要 ディズニー...",
+          "link": "https://www.j-cast.com/2021/07/11415854.html?p=all",
+          "publishedOn": "2021-07-11T03:18:12.000Z",
+          "wordCount": 177,
+          "title": "「ディズニープラス」会員から苦情　退会に十数ページかかる複雑さ...運営会社「改善に励む」: J-CAST ニュース【全文表示】"
         },
         {
           "id": "https://togetter.com/li/1743337",
@@ -1531,6 +1567,24 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/07540e493682332ad58fb2c63672b0bb4fd105b2?source=rss",
+          "author": null,
+          "description": "あなたの個人情報は大丈夫？\n\nGoogle Playストアで、9つのアンドロイドアプリから不正なコードが発見されました。\n\nロシアのウイルス対策ソフトウェア開発会社 Dr. Webによると、コードはフ",
+          "link": "https://news.yahoo.co.jp/articles/07540e493682332ad58fb2c63672b0bb4fd105b2?source=rss",
+          "publishedOn": "2021-07-11T12:30:01.000Z",
+          "wordCount": 83,
+          "title": "アプリ一覧をよくチェック！ Facebookのログイン情報を盗んだ可能性がある9つのAndroidアプリ(ギズモード・ジャパン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2e4ac5c319064458f06405767ad477b5a9158f9b?source=rss",
+          "author": null,
+          "description": "​​お中元など贈り物としてお酒をもらうけれど、実は家では誰もお酒を飲まない。そんな家庭もあるかもしれません。実際筆者もお酒を飲まない知人から相談されたことがあるのですが、この場合ネットオークションやフ",
+          "link": "https://news.yahoo.co.jp/articles/2e4ac5c319064458f06405767ad477b5a9158f9b?source=rss",
+          "publishedOn": "2021-07-11T12:15:00.000Z",
+          "wordCount": 81,
+          "title": "お酒をメルカリで売ってもいい？ 出品自体は「可能」だが売る場合のルールや注意点がある(All About)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/6ab0bdf75a620e71f8e96cf3a9f3ce20a25ac7ed?source=rss",
           "author": null,
@@ -3896,6 +3950,60 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/203a33c633276fe60817c7edef64f0439683c30b?source=rss",
+          "author": null,
+          "description": "東京五輪の聖火リレー東京都3日目は11日、瑞穂町・瑞穂ビューパーク競技場で無観客による点火セレモニーが行われた。\n\nスキージャンプ高梨沙羅が登場する区間では、激しい雷雨による約20分の開始遅れもあった",
+          "link": "https://news.yahoo.co.jp/articles/203a33c633276fe60817c7edef64f0439683c30b?source=rss",
+          "publishedOn": "2021-07-11T13:10:51.000Z",
+          "wordCount": 68,
+          "title": "高梨沙羅が聖火セレモニーに登場　三つ編みヘアには「バサバサはダメかな」(日刊スポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/524968269bd2edf95580d1851219c5ff212fc0eb?source=rss",
+          "author": null,
+          "description": "ヒグマに襲われて男女４人が負傷―。６月１８日に札幌市で発生した騒動は道民に大きな衝撃を与えた。道内の都市部でも山に近い場所では目撃報告があるが、クマの生息エリアから離れた住宅街に出没するのは極めてまれ",
+          "link": "https://news.yahoo.co.jp/articles/524968269bd2edf95580d1851219c5ff212fc0eb?source=rss",
+          "publishedOn": "2021-07-11T13:00:00.000Z",
+          "wordCount": 86,
+          "title": "【深層リポート】札幌市の４人負傷ヒグマ騒動　生息域変化　人との共生に課題(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e14abb4e3e51d483dea77c4d3fb3bfd18529b41d?source=rss",
+          "author": null,
+          "description": "愛知県春日井市に、日本画の世界では珍しい抽象画を描き続けている39歳の男性画家がいます。和紙に岩絵の具で描かれるその作品は、日本画の世界に新しい風を吹かせています。",
+          "link": "https://news.yahoo.co.jp/articles/e14abb4e3e51d483dea77c4d3fb3bfd18529b41d?source=rss",
+          "publishedOn": "2021-07-11T12:33:19.000Z",
+          "wordCount": 81,
+          "title": "音や言葉に色が見える「共感覚」生かす…和紙に岩絵の具で『抽象画』 39歳が日本画界に吹かせる新しい風(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/840e421f6f0848704af8b4fc6ab39c3f00a8f957?source=rss",
+          "author": null,
+          "description": "自民党岸田派の林芳正元文部科学相（60）＝参院山口選挙区＝は11日、山口県宇部市で開かれた後援会会合で、次期衆院選山口3区にくら替え出馬する意向を明言した。出席者が明らかにした。3区には、自民現職で",
+          "link": "https://news.yahoo.co.jp/articles/840e421f6f0848704af8b4fc6ab39c3f00a8f957?source=rss",
+          "publishedOn": "2021-07-11T12:33:10.000Z",
+          "wordCount": 68,
+          "title": "林芳正氏、くら替え出馬を明言　衆院山口3区、保守分裂に(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cf1f4c8134c53db269cc5a1072ec8b18b0f79a6a?source=rss",
+          "author": null,
+          "description": "《自社スタジオでの番組収録が始まった。試行錯誤を重ねながら、テレビ通販が軌道に乗っていく》\n\n自社スタジオができたのが平成１３年３月で、６月には地上波で生放送をやりました。社内からは放送事故を恐れて、",
+          "link": "https://news.yahoo.co.jp/articles/cf1f4c8134c53db269cc5a1072ec8b18b0f79a6a?source=rss",
+          "publishedOn": "2021-07-11T12:30:00.000Z",
+          "wordCount": 72,
+          "title": "【話の肖像画】ジャパネットたかた創業者・高田明　顧客情報流出…甘かった認識(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c8a25ea7ebaef7f81e45f6834dd58aee71d861da?source=rss",
+          "author": null,
+          "description": "あいちトリエンナーレの「表現の不自由展」の作品を展示したギャラリーに危険な物が送られたとして、名古屋市が臨時休館を決め、展示の主催団体が再開を求めていた問題で、市は11日、改めて開館しないことを団体",
+          "link": "https://news.yahoo.co.jp/articles/c8a25ea7ebaef7f81e45f6834dd58aee71d861da?source=rss",
+          "publishedOn": "2021-07-11T12:24:02.000Z",
+          "wordCount": 79,
+          "title": "「表現の不自由展」　期間内の再開に至らず　主催団体が再開求めるも名古屋市は「開館する状況にない」(メ〜テレ（名古屋テレビ）)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/01213ff281b59b13cf0de9702c4ee75e9a3d067e?source=rss",
           "author": null,
@@ -11661,6 +11769,33 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/18a02cc0c1ffbef8cc82b78e9228853861d55c68?source=rss",
+          "author": null,
+          "description": "スバルのミッドサイズSUV「フォレスター」がマイナーチェンジ。大幅な改良を受けた新型が2021年8月に発売されます。\n\n優れた悪路走破性、広くて快適な室内空間、各種ギアを積載しやすいラゲッジスペースな",
+          "link": "https://news.yahoo.co.jp/articles/18a02cc0c1ffbef8cc82b78e9228853861d55c68?source=rss",
+          "publishedOn": "2021-07-11T13:00:14.000Z",
+          "wordCount": 72,
+          "title": "【もうすぐ出ますよ！注目の日本車】大胆進化したアウトドアで人気のスバル「フォレスター」(＆GP)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d3748a136fd882a8d50b1b0b36a5ef09ae094df8?source=rss",
+          "author": null,
+          "description": "“ストリートファイター”のパイオニアとなるスピードトリプル。その走りやスタイル、サウンドに至るまで一目置かれ続けてきたマシンだ。フルモデルチェンジを果たした新型は、さらに軽く、パワフルに。ストリートの",
+          "link": "https://news.yahoo.co.jp/articles/d3748a136fd882a8d50b1b0b36a5ef09ae094df8?source=rss",
+          "publishedOn": "2021-07-11T12:42:02.000Z",
+          "wordCount": 81,
+          "title": "トライアンフ スピードトリプル 1200 RS──“ストリートファイター”の頂点は、進化すれども伝統は忘れず(GQ JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a9464226646ed0b0c2b9519b5a8c92af3a8359d6?source=rss",
+          "author": null,
+          "description": "スイスの高級時計ブランド【カール F. ブヘラ（CARL F. BUCHERER）】が、同社ダイバーズウオッチ「パトラビ スキューバテック」のニューモデルを発表した。同社とイギリスのNPO団体「マンタ",
+          "link": "https://news.yahoo.co.jp/articles/a9464226646ed0b0c2b9519b5a8c92af3a8359d6?source=rss",
+          "publishedOn": "2021-07-11T12:20:14.000Z",
+          "wordCount": 103,
+          "title": "絶滅が危惧されている海洋生物・マンタをデザインモチーフにしたダイバーズウオッチの新作がリリース。同時にキャンペーンも開催(WATCHNAVI Salon)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/457dbb1dd969d5b73605a1c3c382311b70021c9e?source=rss",
           "author": null,
