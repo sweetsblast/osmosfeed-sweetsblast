@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://togetter.com/li/1743321",
+          "author": null,
+          "description": "かろ @aqbl_000 洋画・洋ドラ HANNIBAL(L/W),SHERLOCK(S/J) 日々の事や妄想を呟きます。落書も少々。成人済腐れ奴。無言フォロー失礼します。 まっちゅとひゅーが可愛くて生きるのが楽しい！！！！！！博士の少し遅れた青春を応援し隊(・ω・)ノ ツイステ・呪術も呟くよ pixiv.net/users/10476149",
+          "link": "https://togetter.com/li/1743321",
+          "publishedOn": "2021-07-11T00:59:06.000Z",
+          "wordCount": 544,
+          "title": "冷凍オムライスを食べようとして自分の愚かさに気付かされた話「自分の小物っぷりがより目立ってしまった…」 - Togetter"
+        },
+        {
           "id": "https://news.yahoo.co.jp/byline/kutsunasatoshi/20210711-00247279/",
           "author": null,
           "description": "日本国内でもデルタ型と呼ばれる変異ウイルスが広がってきています。 このデルタ型変異ウイルスの特徴について、現時点で分かっていることをまとめました。 東京都内ではアルファ型からデルタ型に置き換わりつつある東京都内のデルタ型変異ウイルス（L452R）の陽性率の推移（第53回東京都新型コロナウイルス感染症モニタ...",
@@ -29,6 +38,15 @@
           "publishedOn": "2021-07-11T00:16:15.000Z",
           "wordCount": 186,
           "title": "インドから広がったデルタ型変異ウイルス　感染力、重症化リスク、ワクチンの効果について(忽那賢志) - 個人 - Yahoo!ニュース"
+        },
+        {
+          "id": "https://dot.asahi.com/dot/2021070800084.html",
+          "author": null,
+          "description": "東京都への4度目の緊急事態宣言発令が決まり、首都圏では無観客での開催が決まった東京五輪。一方、海外の五輪関係者は続々と東京入りしている。東京・江東区の東京ビッグサイトでは、海外メディアをはじめとする五輪関係者が大会本番に向けた準備を進めている。組織委は、海外から来日した関係者に厳格な行動管理を求め...",
+          "link": "https://dot.asahi.com/dot/2021070800084.html",
+          "publishedOn": "2021-07-11T00:00:45.000Z",
+          "wordCount": 201,
+          "title": "五輪プレスセンター内で食べ歩きにノーマスク　海外関係者の「ルール破り」に組織委の見解は？ (1/3) 〈dot.〉｜AERA dot. (アエラドット)"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/edcad30a88125813b92423921a5d16eddcce9309",
@@ -56,6 +74,15 @@
           "publishedOn": "2021-07-10T23:17:21.000Z",
           "wordCount": 362,
           "title": "五輪関連イベント、雨の中「手話通訳」続ける女性に報道陣からも心配の声 - モデルプレス"
+        },
+        {
+          "id": "https://togetter.com/li/1743271",
+          "author": null,
+          "description": "リンク 無印良品 冷凍食品｜冷凍食品 通販 | 無印良品 「冷凍食品」の通販なら無印良品 公式ネットストア。小腹がすいた時に、もう一品欲しい時に、忙しい朝に・・・。食にまつわるさまざまなお悩みを解決するために、バラエティに富んだ冷凍食品を取り揃えました。 毎日の食事をおいしくサポートします。 1 user",
+          "link": "https://togetter.com/li/1743271",
+          "publishedOn": "2021-07-10T23:16:08.000Z",
+          "wordCount": 712,
+          "title": "毎日のご飯作りを楽にしたい→「ホットクックと冷凍野菜ミックス」を使えば待ってるだけで美味しいご飯が食べられる - Togetter"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210711/k10013132621000.html",
@@ -1405,6 +1432,15 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/0072f6705c76a96f9f79b5cfe53664685f8544d9?source=rss",
+          "author": null,
+          "description": "神奈川県愛川町は１人暮らしのお年寄りに自宅でロボットとの会話を楽しんでもらい、暮らしの見守りにも役立ててもらおうと、見守りロボット「ＰａＰｅＲｏ　ｉ（パペロアイ）」を活用する実証実験を始めた。町内の",
+          "link": "https://news.yahoo.co.jp/articles/0072f6705c76a96f9f79b5cfe53664685f8544d9?source=rss",
+          "publishedOn": "2021-07-11T04:21:02.000Z",
+          "wordCount": 84,
+          "title": "１人暮らし高齢者にロボットが〝同居〟　神奈川・愛川で実証実験　見守りと会話楽しむ(カナロコ by 神奈川新聞)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/c4ddfa1007742ccbe4fb2f8176e4848344ab1138?source=rss",
           "author": null,
@@ -3680,6 +3716,69 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b6a880d2a71db409da489d6eec93aaa758cf1969?source=rss",
+          "author": null,
+          "description": "先週は梅雨末期の大雨となりましたが、今週は上空の寒気や湿った空気の影響で、急な強い雨や雷雨に注意が必要となります。きょう（日）もあちらこちらで雨雲が発達して、局地的には非常に激しい雨の降る所があるで",
+          "link": "https://news.yahoo.co.jp/articles/b6a880d2a71db409da489d6eec93aaa758cf1969?source=rss",
+          "publishedOn": "2021-07-11T05:02:14.000Z",
+          "wordCount": 89,
+          "title": "【動画解説】大気不安定 非常に激しい雨のおそれ　今週は急な雨や暑さに注意を(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f1535b2b0fba1f846cfe2d746918e8605fbf1b82?source=rss",
+          "author": null,
+          "description": "「俺だったらとっくに感染拡大を止めているというのがあるから厳しくなる。ダメなものはダメと言っているだけ」\n\n　前東京都知事で国際政治学者の舛添要一氏が、小池都知事に対して批判的な言動を繰り返す理由つい",
+          "link": "https://news.yahoo.co.jp/articles/f1535b2b0fba1f846cfe2d746918e8605fbf1b82?source=rss",
+          "publishedOn": "2021-07-11T04:47:31.000Z",
+          "wordCount": 71,
+          "title": "前都知事・舛添氏「俺だったらとっくに感染拡大を止めている」小池都知事への批判の数々にある背景に言及(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/15aa98c6912bbaff79dfb9a73ad6fa010c9f07a8?source=rss",
+          "author": null,
+          "description": "緊急事態宣言下に1都3県で開かれる東京オリンピックの競技が無観客となったことについて、IOC（＝国際オリンピック委員会）のバッハ会長は「残念だ」と述べた。北海道や福島県についても、無観客での開催が決",
+          "link": "https://news.yahoo.co.jp/articles/15aa98c6912bbaff79dfb9a73ad6fa010c9f07a8?source=rss",
+          "publishedOn": "2021-07-11T04:40:37.000Z",
+          "wordCount": 70,
+          "title": "東京五輪、無観客開催の背景「オリンピックそのものが無くなるというIOCの危機感がある」舛添氏が推察(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3c2bfff91705064a6897194e1e03674e0db6da73?source=rss",
+          "author": null,
+          "description": "１１日放送のＴＢＳ系「サンデー・ジャポン」（日曜・午前９時５４分）では、。西村康稔経済再生担当相が酒類提供を続ける飲食店と取引を行わないよう酒類販売事業者に要請する意向を示したことを報じた。また取引",
+          "link": "https://news.yahoo.co.jp/articles/3c2bfff91705064a6897194e1e03674e0db6da73?source=rss",
+          "publishedOn": "2021-07-11T04:20:03.000Z",
+          "wordCount": 64,
+          "title": "杉村太蔵、西村経済再生相の発言に「司法の判断を求めるというのも一つ」(スポーツ報知)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c0d44cff3b0fe57f81c33b16757f5a1a6e1a7f7b?source=rss",
+          "author": null,
+          "description": "７月１１日、新型コロナウイルス対策について全国知事会は会議を開き、オリンピックを前に感染対策に万全を期すよう国に求める提言をまとめる方針です。\n\n　新型コロナウイルス対策をめぐり、全国知事会は１１日",
+          "link": "https://news.yahoo.co.jp/articles/c0d44cff3b0fe57f81c33b16757f5a1a6e1a7f7b?source=rss",
+          "publishedOn": "2021-07-11T04:16:00.000Z",
+          "wordCount": 72,
+          "title": "吉村知事「『自宅でオリンピック』提言を」全国知事会が五輪の感染対策徹底を要請へ(MBSニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8b4984a3bf41c8c49985ff18d72f56b6d40ae619?source=rss",
+          "author": null,
+          "description": "今日11日(日)は、本州の上空に強い寒気が流れ込んでいて大気の状態が不安定になっています。\n\n東京都心を含む関東平野部でも連夜の雷雨になるおそれがあり、天気の急変に注意が必要です。",
+          "link": "https://news.yahoo.co.jp/articles/8b4984a3bf41c8c49985ff18d72f56b6d40ae619?source=rss",
+          "publishedOn": "2021-07-11T04:15:50.000Z",
+          "wordCount": 71,
+          "title": "東京都心は連夜のゲリラ豪雨か　天気急変に注意(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1288ae5e20fa3528f422234596185f7b8c8a5e60?source=rss",
+          "author": null,
+          "description": "日本付近に暖かく湿った空気の流れ込みやすい状況が続き、上空の寒気が南下する影響で大気の状態は不安定です。\n\n　北陸や東北南部では朝から雷を伴う強い雨が降っていますが、この後は太平洋側でも急な強い雨や",
+          "link": "https://news.yahoo.co.jp/articles/1288ae5e20fa3528f422234596185f7b8c8a5e60?source=rss",
+          "publishedOn": "2021-07-11T04:11:53.000Z",
+          "wordCount": 75,
+          "title": "動画解説 西日本から関東、東北は大気の状態が不安定 急な雨に注意(ウェザーニュース)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/24fb3d62b92184b36cdba744e659d4f139de52df?source=rss",
           "author": null,
@@ -10338,6 +10437,42 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/5a9cb133c2438ad23521b4aee9f0b981eb83ef67?source=rss",
+          "author": null,
+          "description": "生き物たちがきびしい自然界を生き抜くための知恵や能力は驚くべきものがあります。別の生き物をダマしたり、操ったり、幼虫を寄生させたり……。奇妙な生物ブームを巻き起こした『へんないきもの』シリーズの著者で",
+          "link": "https://news.yahoo.co.jp/articles/5a9cb133c2438ad23521b4aee9f0b981eb83ef67?source=rss",
+          "publishedOn": "2021-07-11T05:01:44.000Z",
+          "wordCount": 70,
+          "title": "「小顔だと死へ直結」サンショウウオの超怖い生態(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d00c06966b6f769d4c32b5ecffb546124ba1493d?source=rss",
+          "author": null,
+          "description": "自動販売機型店舗の「パンタグラフ」を運営する誠友社（横浜市神奈川区）は今月、京急線品川駅の２・３番線ホームに、横浜ゆかりの商品を取りそろえた自販機を計８台設置した。１０月末までの期間限定。\n\n　近沢",
+          "link": "https://news.yahoo.co.jp/articles/d00c06966b6f769d4c32b5ecffb546124ba1493d?source=rss",
+          "publishedOn": "2021-07-11T05:01:01.000Z",
+          "wordCount": 75,
+          "title": "「横浜ブランド」１００種を自販機で　京急品川駅のホーム　期間限定、近沢レースやありあけ、馬車道十番館も(カナロコ by 神奈川新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8cec9e00989d4a415f109d21a32a4dab28bb5910?source=rss",
+          "author": null,
+          "description": "IDOMは、自動車購入代金と保険料をまとめ、最長7年に渡り月々一定金額で支払いできる保険一体型ローン「ほけろん」を開発。「ガリバー」をはじめとする同社運営の全店舗で9月9日より取り扱いを開始する。",
+          "link": "https://news.yahoo.co.jp/articles/8cec9e00989d4a415f109d21a32a4dab28bb5910?source=rss",
+          "publishedOn": "2021-07-11T05:00:03.000Z",
+          "wordCount": 69,
+          "title": "車両代金と保険料をまとめた長期ローン…事故で保険を使用しても支払金額変更なし　ガリバーなど取扱開始(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/513f4cd533e59a04ced8a5a795809f809dd463b4?source=rss",
+          "author": null,
+          "description": "湖池屋は7月12日、人気キャラクター「ミニオン」とコラボした新商品「ハッシュドポテト ミニチーズ」を発売する。42g、オープン価格(参考小売価格税別148円前後)。\n\n「ハッシュドポテト」は2019年",
+          "link": "https://news.yahoo.co.jp/articles/513f4cd533e59a04ced8a5a795809f809dd463b4?source=rss",
+          "publishedOn": "2021-07-11T04:20:08.000Z",
+          "wordCount": 81,
+          "title": "ミニオンコラボ「ハッシュドポテト ミニチーズ」発売、生ジャガイモ&チーズ使用のひとくちスナック/湖池屋(食品産業新聞社ニュースWEB)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/f585123c2ec0f0de427048d6ebff9f29aee318ef?source=rss",
           "author": null,
