@@ -103,6 +103,15 @@
           "title": "研究の呪い"
         },
         {
+          "id": "https://anond.hatelabo.jp/20210711010321",
+          "author": null,
+          "description": "単純にロジスティクス(日本語だと兵站)の概念が欠如していることが問題だと思う。 はっきり言って、最上流(政府が各自治体に何個発送したか)と末端(現場で何回打ったか)だけで在庫管理なんてできるわけがない。 最上流から末端へワクチンが流通していく際に、中間に倉庫が1つ以上存在している。というのも、輸入量が毎日...",
+          "link": "https://anond.hatelabo.jp/20210711010321",
+          "publishedOn": "2021-07-10T16:13:13.000Z",
+          "wordCount": 112,
+          "title": "単純にロジスティクス(日本語だと兵站)の概念が欠如していることが問題だと.."
+        },
+        {
           "id": "https://www.nikkei.com/article/DGXZQOGR08DU80Y1A700C2000000/",
           "author": null,
           "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ベネチア=加藤晶也】20カ国・地域（G20）財務相・中央銀行総裁会議は10日、国際的な法人課税の新たなルールの大枠で合意して閉幕した。世界共通となる最低税率の設定...",
@@ -265,6 +274,15 @@
           "title": "ひろゆきのフランス語レベルとサッカー選手の差別動画"
         },
         {
+          "id": "https://kaden.watch.impress.co.jp/docs/news/1337086.html",
+          "author": null,
+          "description": "マキタは、従来機から吐出量を約2倍にした「充電式空気入れ MP001G/MP181D」を発売する。電源36Vと18Vのバッテリーに対応する機種を展開し、価格は順に19,000円、18,000円(いずれも税別)。バッテリーと充電器は別売。",
+          "link": "https://kaden.watch.impress.co.jp/docs/news/1337086.html",
+          "publishedOn": "2021-07-10T09:24:47.000Z",
+          "wordCount": 88,
+          "title": "マキタ、「世界最速」充電式空気入れ。ロードバイクの高圧にも - 家電 Watch"
+        },
+        {
           "id": "https://zenn.dev/kawarimidoll/articles/007449407cc78d",
           "author": null,
           "description": "Macで開発をするうえで、基本的には標準のterminal.appを使っていました。 特に不足を感じていなかったのですが、先日の記事で「True colorに対応していない」という弱点が発覚しました。 これに伴い、ターミナル系アプリをいろいろ比較した結果を残しておこうと思います。 ターミナルのカタログとしてお使いください。 ...",
@@ -380,6 +398,15 @@
           "publishedOn": "2021-07-10T05:22:45.000Z",
           "wordCount": 742,
           "title": "無限ストレージ - Speaker Deck"
+        },
+        {
+          "id": "https://www.afpbb.com/articles/-/3355953",
+          "author": null,
+          "description": "競泳男子、米代表のマイケル・アンドリュー（2021年6月14日撮影）。(c)Al Bello/Getty Images/AFP 【7月10日 AFP】競泳男子の米代表として東京五輪に出場するマイケル・アンドリュー（Michael Andrew）は、新型コロナウイルス感染症（COVID-19）のワクチンを接種するという圧力には屈せず、周囲とは同調しないで大会に臨...",
+          "link": "https://www.afpbb.com/articles/-/3355953",
+          "publishedOn": "2021-07-10T05:17:36.000Z",
+          "wordCount": 141,
+          "title": "競泳の米王者、東京五輪控えワクチン接種拒否の理由明かす　写真1枚　国際ニュース：AFPBB News"
         },
         {
           "id": "https://www.lifehacker.jp/2021/07/amazon-akamorikohki-uvhardener-ruv-02.html",
@@ -1378,6 +1405,24 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c4ddfa1007742ccbe4fb2f8176e4848344ab1138?source=rss",
+          "author": null,
+          "description": "バリバリ入力したい人向け。\n\n僕の周りのiPad Proユーザー、みんなキーボード付きケースやMagicKeyboardを装着していて、え？ 世の中はもうiPadにキーボード着けるのがデフォなの？ と",
+          "link": "https://news.yahoo.co.jp/articles/c4ddfa1007742ccbe4fb2f8176e4848344ab1138?source=rss",
+          "publishedOn": "2021-07-11T03:30:01.000Z",
+          "wordCount": 112,
+          "title": "Proじゃなくてもキーボードは欲しい！ ロジクールから「iPad Air4」「iPad」用キーボードケース登場(ギズモード・ジャパン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/55f76214aff8e11c9b3e23f275c9d7f1af68b78d?source=rss",
+          "author": null,
+          "description": "プチプラファッションの最先端として“GU”で化粧品が購入できることをご存知だろうか。2020年9月に誕生した「#4me by GU」はアパレルアイテムと同じく、安くて質の良い品が揃うGUのコスメライ",
+          "link": "https://news.yahoo.co.jp/articles/55f76214aff8e11c9b3e23f275c9d7f1af68b78d?source=rss",
+          "publishedOn": "2021-07-11T03:30:00.000Z",
+          "wordCount": 96,
+          "title": "GUはコスメもコスパ良し！　話題の新ブランド「#4me by GU」の使い心地は？(BCN)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/bca94ca80c05badfe83c45e47e74444eb03b8f41?source=rss",
           "author": null,
@@ -3636,6 +3681,150 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/24fb3d62b92184b36cdba744e659d4f139de52df?source=rss",
+          "author": null,
+          "description": "動画サイト「ＹｏｕＴｕｂｅ」の画面に現れたのは、ドレスとシルバーのアクセサリーで美しく着飾った女性。高貴な姿で「うっせぇうっせぇうっせぇわ」と高らかに歌い上げている。\n\n　ミュージカルの名作「エリザ",
+          "link": "https://news.yahoo.co.jp/articles/24fb3d62b92184b36cdba744e659d4f139de52df?source=rss",
+          "publishedOn": "2021-07-11T04:02:21.000Z",
+          "wordCount": 77,
+          "title": "「うっせぇわ」と歌うエリザベート、正体にビックリ　　ミュージカル女優、気付いたらユーチューバー(47NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/072eae6d77bf3f8394b2ba4f41f7cf2d0654b270?source=rss",
+          "author": null,
+          "description": "元衆院議員でタレントの杉村太蔵が１１日、ＴＢＳ系「サンデー・ジャポン」（日曜・午前９時５４分）にコメンテーターとしてリモート出演した。\n\n　番組では、東京都のまん延防止等重点措置が１１日に期限を迎え",
+          "link": "https://news.yahoo.co.jp/articles/072eae6d77bf3f8394b2ba4f41f7cf2d0654b270?source=rss",
+          "publishedOn": "2021-07-11T03:40:03.000Z",
+          "wordCount": 64,
+          "title": "杉村太蔵、東京の緊急事態宣言に「憲法違反だと思います」…菅総理には「説明が全くない」(スポーツ報知)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ef858e741b93521e0f1f767894da116df9bde740?source=rss",
+          "author": null,
+          "description": "皆さんは、普段どれくらいの塩分を取っているか意識したことはあるだろうか?\n塩分の取り過ぎは高血圧につながると言われ、高血圧は新型コロナの重症化リスクの1つにも挙げられている。\n宮城県の成人男性の一日あ",
+          "link": "https://news.yahoo.co.jp/articles/ef858e741b93521e0f1f767894da116df9bde740?source=rss",
+          "publishedOn": "2021-07-11T03:31:22.000Z",
+          "wordCount": 105,
+          "title": "「高血圧」はコロナ重症化リスク…塩分約40％カットに成功「減塩笹かまぼこ」とは【宮城発】(FNNプライムオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/43c54d2448eb8ebbe3de9a657607946110a4ad08?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスの全国の重症者は、前の日から3人減り425人でした。\n\n厚生労働省によりますと、きのう時点での新型コロナウイルスの全国の重症者は425人で、前の日から3人減りました。\n全国の重症者は",
+          "link": "https://news.yahoo.co.jp/articles/43c54d2448eb8ebbe3de9a657607946110a4ad08?source=rss",
+          "publishedOn": "2021-07-11T03:21:39.000Z",
+          "wordCount": 67,
+          "title": "新型コロナ全国の重症者425人　20日連続で減少(FNNプライムオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/52264a13760e3f333867e30a30da465aadf5de55?source=rss",
+          "author": null,
+          "description": "今年5月から6月にかけて、三重県鳥羽市内のホテルに18連泊したにもかかわらず代金を支払わなかったとして、55歳の男が逮捕されました。\n\n　逮捕されたのは住所不定・無職の佐藤満容疑者(55)です。",
+          "link": "https://news.yahoo.co.jp/articles/52264a13760e3f333867e30a30da465aadf5de55?source=rss",
+          "publishedOn": "2021-07-11T03:20:59.000Z",
+          "wordCount": 71,
+          "title": "ホテルに18連泊し代金払わず立ち去る…男を詐欺容疑で逮捕「美味しい物食べたり風呂入ったりしたかった」(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/92e0a78a64e96ca99d0c2363d7850e040bd53896?source=rss",
+          "author": null,
+          "description": "三重県鳥羽市のホテルで代金を支払わずに１８泊して逃げた疑いで、住居不定・無職の５５歳の男が逮捕されました。\n\n　詐欺の疑いで逮捕されたのは、住居不定・無職の佐藤満容疑者(55)です。\n\n　警察により",
+          "link": "https://news.yahoo.co.jp/articles/92e0a78a64e96ca99d0c2363d7850e040bd53896?source=rss",
+          "publishedOn": "2021-07-11T03:18:01.000Z",
+          "wordCount": 76,
+          "title": "「美味しいものを食べ風呂に入りたかった」18泊19日で無銭宿泊 55歳男を逮捕(CBCテレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/47672fb5c4acaf9d82b6be8991a08b8c69159936?source=rss",
+          "author": null,
+          "description": "愛知県北名古屋市で、６３歳の男性が軽乗用車にはねられ、意識不明の重体になっています。\n\n　１１日午前２時２０分頃、北名古屋市九之坪北浦で、近くに住む無職の安井昭二さん（６３）が軽乗用車にはねられまし",
+          "link": "https://news.yahoo.co.jp/articles/47672fb5c4acaf9d82b6be8991a08b8c69159936?source=rss",
+          "publishedOn": "2021-07-11T03:18:01.000Z",
+          "wordCount": 76,
+          "title": "６３歳男性がはねられ意識不明の重体 軽乗用車運転の男を逮捕(CBCテレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/39e95cb8aac93c8a4a342b3ab9c3a7573a85c626?source=rss",
+          "author": null,
+          "description": "１１日も東海地方は厳しい暑さになる見込みで、愛知県には熱中症警戒アラートが発表されています。\n\n　名古屋・栄では、地上に降ろされた「金のシャチホコ」の展示が最終日となりました。\n\n　こうした中、名古",
+          "link": "https://news.yahoo.co.jp/articles/39e95cb8aac93c8a4a342b3ab9c3a7573a85c626?source=rss",
+          "publishedOn": "2021-07-11T03:18:01.000Z",
+          "wordCount": 80,
+          "title": "愛知県に熱中症警戒アラート 午後は大気不安定で激しい雨も　(CBCテレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/668b69d3f361815a8e65cf34ec82758c1a5b40d4?source=rss",
+          "author": null,
+          "description": "11日未明、愛知県北名古屋市で63歳の男性が軽ワゴン車にはねられ、意識不明の重体です。\n\n　警察は、軽ワゴン車を運転していた男を、過失運転致傷の現行犯で逮捕しました。\n\n　午前2時半ごろ、北名古屋市",
+          "link": "https://news.yahoo.co.jp/articles/668b69d3f361815a8e65cf34ec82758c1a5b40d4?source=rss",
+          "publishedOn": "2021-07-11T03:16:52.000Z",
+          "wordCount": 72,
+          "title": "未明に男性が軽ワゴン車にはねられ意識不明の重体…「相手に意識がない」と自ら通報の男を現行犯逮捕(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ec53163e3e6ad1cfb6d9e5d4015defc3ffaf230b?source=rss",
+          "author": null,
+          "description": "大阪府警西淀川署は11日、50代息子と交際する女性（38）の頭をハンマーで殴り、けがをさせたとして殺人未遂容疑で、大阪市西淀川区の無職村沢正敏容疑者（89）を逮捕した。「殴ったが殺そうとは思っていな",
+          "link": "https://news.yahoo.co.jp/articles/ec53163e3e6ad1cfb6d9e5d4015defc3ffaf230b?source=rss",
+          "publishedOn": "2021-07-11T03:16:08.000Z",
+          "wordCount": 69,
+          "title": "殺人未遂疑い89歳逮捕、大阪　息子の交際女性にハンマー(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5564f3cf6e705529bdc77c07f715edada55bb4eb?source=rss",
+          "author": null,
+          "description": "静岡県熱海市の土石流は発生から9日目となりましたが、依然として19人の行方が分かっていません。\n\n　（林輝彦アナウンサー報告）\n　熱海市の11日の予想最高気温は30度です。雲が多いため、かなり蒸し暑",
+          "link": "https://news.yahoo.co.jp/articles/5564f3cf6e705529bdc77c07f715edada55bb4eb?source=rss",
+          "publishedOn": "2021-07-11T03:14:46.000Z",
+          "wordCount": 82,
+          "title": "熱海土石流　依然19人不明　1700人態勢で捜索続く(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6f91171ba63ff08ad5943ce656ccd3933921dea3?source=rss",
+          "author": null,
+          "description": "全国知事会では、近畿の各知事からも、安定したワクチンの供給を求める声が上がりました。\n\n　新型コロナワクチンの供給不足で、接種予約の受付停止が相次いでいることを受け、各知事からは国に迅速な対応を求め",
+          "link": "https://news.yahoo.co.jp/articles/6f91171ba63ff08ad5943ce656ccd3933921dea3?source=rss",
+          "publishedOn": "2021-07-11T03:13:51.000Z",
+          "wordCount": 74,
+          "title": "「ワクチン安定供給を」近畿の各知事が国に要望　吉村知事はオリンピックの「自宅観戦」呼びかけ(ABCニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b12b7fb47a04e006105fd18e8e56252270242163?source=rss",
+          "author": null,
+          "description": "今日11日(日)、九州は日差しが届いていますが、上空の寒気の影響で大気の状態が不安定となります。このあとは山沿いを中心に雨雲が急発生して強雨や雷雨になるおそれがあります。",
+          "link": "https://news.yahoo.co.jp/articles/b12b7fb47a04e006105fd18e8e56252270242163?source=rss",
+          "publishedOn": "2021-07-11T03:13:15.000Z",
+          "wordCount": 69,
+          "title": "九州は天気急変のおそれ　災害の再発に警戒(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5d5ad9d0f2065ba318d102cbd93568528c1f7204?source=rss",
+          "author": null,
+          "description": "身近な健康問題とその改善法を、様々なテーマで紹介する番組『健康カプセル！ゲンキの時間』。\n今回のテーマは「～ダイエット・血流改善・がん予防にも～夏をゲンキに！超簡単 最強健康カレー」\n\n夏到来！暑いと",
+          "link": "https://news.yahoo.co.jp/articles/5d5ad9d0f2065ba318d102cbd93568528c1f7204?source=rss",
+          "publishedOn": "2021-07-11T03:12:14.000Z",
+          "wordCount": 143,
+          "title": "ダイエット・血流改善・がん予防にも…夏をゲンキに！「超簡単！最強健康カレー」の作り方(CBCテレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/427efc7c3b04b0574aece964daa4bbbd1703289c?source=rss",
+          "author": null,
+          "description": "サントリーグループは、2050年までにバリューチェーン全体で、温室効果ガス（GHG）排出の実質ゼロ、2030年までにGHG50％削減※2を掲げている。\n\nその達成に向け、2022年までに、日本、米州、",
+          "link": "https://news.yahoo.co.jp/articles/427efc7c3b04b0574aece964daa4bbbd1703289c?source=rss",
+          "publishedOn": "2021-07-11T03:11:13.000Z",
+          "wordCount": 113,
+          "title": "サントリーが2022年までに日米欧の自社生産研究拠点の電力を100％再生可能エネルギーに切り替え(＠ＤＩＭＥ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b55b6483700591f0c28322c846d73a1375f84181?source=rss",
+          "author": null,
+          "description": "10日、大阪市で郵便局のバイクがはねられ、乗っていた郵便局員が死亡しました。警察はひき逃げなどの疑いで41歳の男を逮捕しました。\n\n　大阪・堺市の会社員・直江潤容疑者は午前10時ごろ、大阪市中央区の",
+          "link": "https://news.yahoo.co.jp/articles/b55b6483700591f0c28322c846d73a1375f84181?source=rss",
+          "publishedOn": "2021-07-11T03:07:41.000Z",
+          "wordCount": 75,
+          "title": "郵便局員ひき逃げか「朝までキャバクラで…」男逮捕(テレビ朝日系（ANN）)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/da99e324d03fc506d5ed12722f785414f834de21?source=rss",
           "author": null,
           "description": "鹿児島県では10日の大雨でさつま町にある集落への道路が寸断されて現在、孤立状態となっていて、11日朝から復旧作業が続いています。\n\n　さつま町によりますと、大俣地区に向かう道路が陥没や倒木により14",
@@ -3661,6 +3850,15 @@
           "publishedOn": "2021-07-11T03:01:28.000Z",
           "wordCount": 94,
           "title": "ガールズバーから“夢運ぶ”ワッフル販売へ…「子どものため」コロナ禍に奮闘するシングルマザーたち【長野発】(FNNプライムオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/41b20291f9c763edf7f12d428d3f85d364b8c72d?source=rss",
+          "author": null,
+          "description": "花火大会や夏祭りで活躍するカジュアルな着物「浴衣」。訪日外国人が浅草や京都などの観光地で体験している様子も多くみられた。花などをあしらったレトロな柄が人気を博してきたが、昨今はそのトレンドに変化が生",
+          "link": "https://news.yahoo.co.jp/articles/41b20291f9c763edf7f12d428d3f85d364b8c72d?source=rss",
+          "publishedOn": "2021-07-11T03:00:36.000Z",
+          "wordCount": 80,
+          "title": "「レース浴衣」SNSで脚光、夏の新トレンドに　コロナ禍も追い風...関連会社に聞く人気の理由(J-CASTニュース)"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/985269ea840a2a4432a1eb3f173b7d23a732f60b?source=rss",
@@ -10140,6 +10338,123 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/f585123c2ec0f0de427048d6ebff9f29aee318ef?source=rss",
+          "author": null,
+          "description": "明治の板チョコに、ブルボンのルマンド、そして、ブラックサンダー…。いずれもお馴染みのお菓子ですが、実は近頃それぞれ「キューブ型」になった商品が発売されているんです。\n\n　こうした現象はお菓子だけにと",
+          "link": "https://news.yahoo.co.jp/articles/f585123c2ec0f0de427048d6ebff9f29aee318ef?source=rss",
+          "publishedOn": "2021-07-11T04:03:35.000Z",
+          "wordCount": 79,
+          "title": "まさかの“魚”もこの形…食品の便利さ追求したら『キューブ型』になった お茶からお菓子、スムージーまで市場に革新(関西テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b4c303e45f160e9d50067619e21674213df58c65?source=rss",
+          "author": null,
+          "description": "プラダ、グッチ、アルマーニといったラグジュアリーブランドが「ファーフリー宣言」をして「エコファー」を使い始めたり、ステラ・マッカートニーをはじめとして環境に優しい「エコレザー」に切り替えるブランドが",
+          "link": "https://news.yahoo.co.jp/articles/b4c303e45f160e9d50067619e21674213df58c65?source=rss",
+          "publishedOn": "2021-07-11T04:03:24.000Z",
+          "wordCount": 88,
+          "title": "乗れば「環境意識」がビンビンに高まる！　地球にも人にも優しいサステイナブルなクルマ3選＋α(WEB CARTOP)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3c690170008423d8c8da5961be70c08df7c28d43?source=rss",
+          "author": null,
+          "description": "アウディのセダン／ワゴン系モデルの車名は、A4、A6、A8と「A＋偶数」となっている。だがコンパクトクラスを見ると、A3にスポーツバックとセダン（以前はカブリオレも）が用意され、その下はA1と、上級",
+          "link": "https://news.yahoo.co.jp/articles/3c690170008423d8c8da5961be70c08df7c28d43?source=rss",
+          "publishedOn": "2021-07-11T04:03:12.000Z",
+          "wordCount": 78,
+          "title": "アウディの車種名でA1からA8まであるのに「A2」だけがない！　欠番となっている理由とは(WEB CARTOP)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/929cc85ef7fc96aa48dde3d6ce074d26fe95be0e?source=rss",
+          "author": null,
+          "description": "中村屋は昨年、新宿中村屋ビル（東京都新宿区）の食のショッピングフロア「スイーツ＆デリカBonna（ボンナ）」で全国から選りすぐった食品・調味料・飲料・ジャムなどをびん詰めにして販売したところ30-5",
+          "link": "https://news.yahoo.co.jp/articles/929cc85ef7fc96aa48dde3d6ce074d26fe95be0e?source=rss",
+          "publishedOn": "2021-07-11T04:02:35.000Z",
+          "wordCount": 86,
+          "title": "新宿中村屋、全国の選りすぐりを“びん詰め”して 30-50代女性の新規顧客獲得に成功　 次の一手は地サイダー＆地ラムネ(食品新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ba3c9f038eb47d1eb5f20a1beae1917be30d0498?source=rss",
+          "author": null,
+          "description": "自分に合う投資・資産運用の方法を見つけることは重要ですが、運用するサービスや資産の種類・銘柄によって「投資のコスト・リスク」は大きく変動します。ここでは、投資初心者が知っておくべき基礎知識を見ていきま",
+          "link": "https://news.yahoo.co.jp/articles/ba3c9f038eb47d1eb5f20a1beae1917be30d0498?source=rss",
+          "publishedOn": "2021-07-11T04:01:24.000Z",
+          "wordCount": 86,
+          "title": "「ロボアド」の実情とは…投資初心者はコストとリスクに注意(幻冬舎ゴールドオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5ddfe3717d422d47891e0db296263e7f9f0bbc30?source=rss",
+          "author": null,
+          "description": "バイクのブレーキの効きが極端に悪化する「ベーパーロック（Vepor Lock）」は、摩擦熱になどによってブレーキフルードが配管内などで沸騰し、気泡が発生し配管が詰まり、ブレーキを作動させるための油圧",
+          "link": "https://news.yahoo.co.jp/articles/5ddfe3717d422d47891e0db296263e7f9f0bbc30?source=rss",
+          "publishedOn": "2021-07-11T04:00:36.000Z",
+          "wordCount": 70,
+          "title": "バイクのブレーキシステムが起こす重大なトラブル！ベーパーロック現象とは(バイクのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/906de8382dfa6a9d75f99f319342491998815951?source=rss",
+          "author": null,
+          "description": "全国に根強いファンが多い新政酒造（秋田市）の8代目・佐藤祐輔さん（46）は、コロナ禍のこの1年、逆に攻めに出ています。人気銘柄の10周年記念イベントを仕掛けたり、全国の酒蔵の若手をもり立てる一般社団",
+          "link": "https://news.yahoo.co.jp/articles/906de8382dfa6a9d75f99f319342491998815951?source=rss",
+          "publishedOn": "2021-07-11T04:00:08.000Z",
+          "wordCount": 77,
+          "title": "酒蔵に吹く逆風に「一矢報いたい」　新政酒造8代目が情熱を燃やす次世代の蔵元育成(ツギノジダイ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/40ce37170c81b78d7cf5066c42ae5dc8e4f4a5c9?source=rss",
+          "author": null,
+          "description": "NEXCO中日本は、東名高速道路・大和トンネル（神奈川県大和市）の拡幅工事が完成し、2021年7月14日（水）6時から大和トンネルを含む付加車線の一部運用を開始すると発表した。（タイトル写真はイメージ",
+          "link": "https://news.yahoo.co.jp/articles/40ce37170c81b78d7cf5066c42ae5dc8e4f4a5c9?source=rss",
+          "publishedOn": "2021-07-11T03:40:08.000Z",
+          "wordCount": 74,
+          "title": "【東名高速 情報】 大和トンネルの拡幅工事が完成。渋滞の緩和に期待大(Webモーターマガジン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f262fb1d4e272c1369e6105a0c5b520e5278f4c5?source=rss",
+          "author": null,
+          "description": "2021年7月1日、メルセデス・ベンツ日本は「メルセデス・マイバッハ GLS」を発表した。デリバリーは少し先の予定なので、まずはそのディテールを紹介しよう。\n\nメルセデスのサブブランドである「メルセデ",
+          "link": "https://news.yahoo.co.jp/articles/f262fb1d4e272c1369e6105a0c5b520e5278f4c5?source=rss",
+          "publishedOn": "2021-07-11T03:33:55.000Z",
+          "wordCount": 101,
+          "title": "【写真蔵】メルセデス・マイバッハ GLS600 4マティックは2729万円の究極のラグジュアリーSUV(Webモーターマガジン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f5340afd8d4e2a4565530efc83853677f414d455?source=rss",
+          "author": null,
+          "description": "多くの人が「一般的な年収」の水準としてイメージされる年収400万円。対して「高所得者の年収」としてイメージされる年収1000万円。それぞれを手取りに換算したら、どれくらいの差になるのでしょうか。",
+          "link": "https://news.yahoo.co.jp/articles/f5340afd8d4e2a4565530efc83853677f414d455?source=rss",
+          "publishedOn": "2021-07-11T03:22:42.000Z",
+          "wordCount": 68,
+          "title": "年収400万円と年収1000万円、手取りはそれぞれいくら？(ファイナンシャルフィールド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2184678494a07a08a0fc920c8edf6f0d62486af8?source=rss",
+          "author": null,
+          "description": "プレナスが運営する持ち帰り弁当チェーン「Hotto Motto (ほっともっと)」は7月12日から、「ドラえもん皿プレゼントキャンペーン」を開催する。\n\n対象商品を税込3000円以上、キャンペーンサイ",
+          "link": "https://news.yahoo.co.jp/articles/2184678494a07a08a0fc920c8edf6f0d62486af8?source=rss",
+          "publishedOn": "2021-07-11T03:20:23.000Z",
+          "wordCount": 72,
+          "title": "ほっともっと 先着7000人「ドラえもん皿プレゼントキャンペーン」、ドラえもんランチ・ドラミちゃんランチやファミリー向けメニューWEB予約で(食品産業新聞社ニュースWEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2e41550565113f0a41829c79e88645772a7d352c?source=rss",
+          "author": null,
+          "description": "世界のセレブたちがどんな時計を着けているのか、ワンシーンを切り取り紹介する連載コラム「セレブウォッチ・ハンティング」。今回はTBS「日曜劇場『ドラゴン桜』」で主演を務めた俳優・阿部寛のブルガリを紹介す",
+          "link": "https://news.yahoo.co.jp/articles/2e41550565113f0a41829c79e88645772a7d352c?source=rss",
+          "publishedOn": "2021-07-11T03:11:26.000Z",
+          "wordCount": 82,
+          "title": "「ドラゴン桜」主演の阿部寛がカンヌ国際映画祭で着けたブルガリの時計とは(webChronos)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/28468cab377a395fd9af88d9fc62c8268701cc29?source=rss",
+          "author": null,
+          "description": "4度目の緊急事態宣言の適用を12日に控え、東京都内の10日の人出は1週間前と比べて多くの地点で増加しました。\n\n　携帯電話の位置情報のデータによりますと、午後3時台の都内の人出は1週間前と比べて渋谷",
+          "link": "https://news.yahoo.co.jp/articles/28468cab377a395fd9af88d9fc62c8268701cc29?source=rss",
+          "publishedOn": "2021-07-11T03:05:44.000Z",
+          "wordCount": 73,
+          "title": "“宣言”前に駆け込みか　都内の人出、繁華街で増加(テレビ朝日系（ANN）)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/ffdf4160d173b965a0606608d699cc3c1f1c1233?source=rss",
           "author": null,
