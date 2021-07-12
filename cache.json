@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.tokyo-np.co.jp/article/116247",
+          "author": null,
+          "description": "新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう政府の方針決定を巡り、内閣官房が８日付で各府省庁に、所管する金融機関に政府方針への協力を求めるよう依頼する文書を出していたことが１２日、分かった。内閣官房は、銀行などを監督する金融庁や、政府系金融...",
+          "link": "https://www.tokyo-np.co.jp/article/116247",
+          "publishedOn": "2021-07-12T13:12:39.000Z",
+          "wordCount": 300,
+          "title": "酒提供停止　内閣官房が金融庁、財務、経産と事前調整　政府ぐるみで推進に批判も：東京新聞 TOKYO Web"
+        },
+        {
           "id": "https://anond.hatelabo.jp/20210712212830",
           "author": null,
           "description": "東京の感染者数を5週間ぶん予測した (6月21日版)、(6月28日版)、(7月5日版) の続き。まえがきは初回(6月21日版)の記事でご覧ください。 先週の予測は、日曜までの週単位で 6642人(6月21日版)、6896人(6月28日版)、5737人(7月5日版) でしたが、現実は 5137人 となりました。大きめの数字で警鐘を鳴らすつもりはまったくな...",
@@ -74,6 +83,15 @@
           "publishedOn": "2021-07-12T09:47:54.000Z",
           "wordCount": 349,
           "title": "「中国共産党員になりたい」　香港俳優ジャッキー・チェン氏：時事ドットコム"
+        },
+        {
+          "id": "https://www.afpbb.com/articles/-/3356161",
+          "author": null,
+          "description": "2019年に行われた東京五輪・セーリングのテスト大会の様子（2019年8月22日撮影、資料写真）。(c)Charly TRIBALLEAU / AFP 【7月12日 AFP】東京五輪に出場する中国選手団の第1陣が来日したが、チームからは11日、ホテルの新型コロナウイルス感染症（COVID-19）対策の甘さに対する不満の声が出た。 今回の東京五輪は、前週...",
+          "link": "https://www.afpbb.com/articles/-/3356161",
+          "publishedOn": "2021-07-12T09:16:28.000Z",
+          "wordCount": 159,
+          "title": "来日した中国五輪選手団、宿泊ホテルのコロナ対策に不満　写真2枚　国際ニュース：AFPBB News"
         },
         {
           "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1337554.html",
@@ -173,6 +191,15 @@
           "publishedOn": "2021-07-12T03:34:03.000Z",
           "wordCount": 187,
           "title": "あらゆるゲームでオートエイムを可能にする検出困難なチートツールが開発されてしまう、なんと家庭用ゲーム機にも対応 - GIGAZINE"
+        },
+        {
+          "id": "https://swet.dena.com/entry/2021/07/12/120000",
+          "author": null,
+          "description": "こんにちは、SWETでCI/CDチームの前田（ @mad_p ）です。 SWETではCI/CDチームの一員として、Jenkins運用のサポートや、CI/CD回りのノウハウ蓄積・研究をしています。 はじめに Gitリポジトリをクローンすると、ローカルフォルダにはそのリポジトリの全体がダウンロードされ .git というフォルダに格納されます。ブラン...",
+          "link": "https://swet.dena.com/entry/2021/07/12/120000",
+          "publishedOn": "2021-07-12T03:06:39.000Z",
+          "wordCount": 794,
+          "title": "大きなGitリポジトリをクローンするときの工夫を図解します - DeNA Testing Blog"
         },
         {
           "id": "https://www.bengo4.com/times/articles/318/",
@@ -6856,6 +6883,15 @@
           "publishedOn": "2021-07-12T14:30:13.000Z",
           "wordCount": 71,
           "title": "“抗体カクテル療法”厚労省が月内にも承認へ(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a6a29986ed8838823e38c90b2e0044ed86a0b410?source=rss",
+          "author": null,
+          "description": "新型コロナ感染拡大を止める切り札として期待されるワクチンですが、供給不足で打てないという自体が相次いでいます。なぜこのような事態になってしまったのでしょうか。ワクチン接種を担当する河野太郎大臣に話を聞",
+          "link": "https://news.yahoo.co.jp/articles/a6a29986ed8838823e38c90b2e0044ed86a0b410?source=rss",
+          "publishedOn": "2021-07-12T14:30:12.000Z",
+          "wordCount": 103,
+          "title": "ワクチン不足　原因は？いつ日常に？河野大臣に聞く(テレビ朝日系（ANN）)"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/c042e639211f712ed664fa2c912b9f9f342e366b?source=rss",

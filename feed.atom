@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T16:14:23.781Z</updated>
+    <updated>2021-07-12T17:19:01.181Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
@@ -235,6 +235,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ワクチン不足　原因は？いつ日常に？河野大臣に聞く(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a6a29986ed8838823e38c90b2e0044ed86a0b410?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a6a29986ed8838823e38c90b2e0044ed86a0b410?source=rss"/>
+        <updated>2021-07-12T14:30:12.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナ感染拡大を止める切り札として期待されるワクチンですが、供給不足で打てないという自体が相次いでいます。なぜこのような事態になってしまったのでしょうか。ワクチン接種を担当する河野太郎大臣に話を聞]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[工事中にゴンドラ落下　作業員2人が重軽傷(テレビ朝日系（ANN）)]]></title>
         <id>https://news.yahoo.co.jp/articles/c042e639211f712ed664fa2c912b9f9f342e366b?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/c042e639211f712ed664fa2c912b9f9f342e366b?source=rss"/>
@@ -450,6 +460,16 @@
 　5月に成立した地球温暖化対策推進法には自治体が住民と協議したうえで、再生可能エネル]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒提供停止　内閣官房が金融庁、財務、経産と事前調整　政府ぐるみで推進に批判も：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/116247</id>
+        <link href="https://www.tokyo-np.co.jp/article/116247"/>
+        <updated>2021-07-12T13:12:39.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう政府の方針決定を巡り、内閣官房が８日付で各府省庁に、所管する金融機関に政府方針への協力を求めるよう依頼する文書を出していたことが１２日、分かった。内閣官房は、銀行などを監督する金融庁や、政府系金融...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -2609,6 +2629,16 @@ YG]]></summary>
         <summary type="html"><![CDATA[東武鉄道は、東武線の通勤・通学PASMO定期券利用者を対象に、定期区間外利用時の運賃相当額全額を東武グループ共通ポイント「TOBU POINT(トブポ)」で還元する「定期区間外おでかけ社会実証」を実施]]></summary>
         <author>
             <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来日した中国五輪選手団、宿泊ホテルのコロナ対策に不満　写真2枚　国際ニュース：AFPBB News]]></title>
+        <id>https://www.afpbb.com/articles/-/3356161</id>
+        <link href="https://www.afpbb.com/articles/-/3356161"/>
+        <updated>2021-07-12T09:16:28.000Z</updated>
+        <summary type="html"><![CDATA[2019年に行われた東京五輪・セーリングのテスト大会の様子（2019年8月22日撮影、資料写真）。(c)Charly TRIBALLEAU / AFP 【7月12日 AFP】東京五輪に出場する中国選手団の第1陣が来日したが、チームからは11日、ホテルの新型コロナウイルス感染症（COVID-19）対策の甘さに対する不満の声が出た。 今回の東京五輪は、前週...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -7350,6 +7380,16 @@ JAIAが発表した上期の累計台数を見ると、3427台を達成してい
         <summary type="html"><![CDATA[モバイル通信事業を行うテレコムスクエアは7月9日、AR（拡張現実）を活用した同社のナビゲーションアプリ「PinnAR（ピナー）」の最新動向に関する説明会を開催した。従来の屋外に加えて屋内のルート案内]]></summary>
         <author>
             <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大きなGitリポジトリをクローンするときの工夫を図解します - DeNA Testing Blog]]></title>
+        <id>https://swet.dena.com/entry/2021/07/12/120000</id>
+        <link href="https://swet.dena.com/entry/2021/07/12/120000"/>
+        <updated>2021-07-12T03:06:39.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、SWETでCI/CDチームの前田（ @mad_p ）です。 SWETではCI/CDチームの一員として、Jenkins運用のサポートや、CI/CD回りのノウハウ蓄積・研究をしています。 はじめに Gitリポジトリをクローンすると、ローカルフォルダにはそのリポジトリの全体がダウンロードされ .git というフォルダに格納されます。ブラン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
