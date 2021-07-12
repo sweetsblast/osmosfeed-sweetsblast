@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T19:07:37.892Z</updated>
+    <updated>2021-07-12T20:09:37.081Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新疆綿問題に揺れる無印良品、新社長にプロ経営者を迎えて起こる「ヤバいこと」(現代ビジネス)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6e3bb96f787d98aed019bf5835be3d54ed8b9f6a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6e3bb96f787d98aed019bf5835be3d54ed8b9f6a?source=rss"/>
+        <updated>2021-07-12T20:02:01.000Z</updated>
+        <summary type="html"><![CDATA[良品計画(無印良品)は7月2日、代表取締役の異動を発表した。9月1日付けで、堂前宣夫専務取締役(兼)執行役員が、代表取締役社長(兼)執行役員に就任するということだ。
+
+　また、社長を退任して副社長と]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「人生後半のキャリア」が充実している人は、若いうちに3つのことを考えている(東洋経済オンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5244c7e88d853d3bf5e824fd90950a4061917801?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5244c7e88d853d3bf5e824fd90950a4061917801?source=rss"/>
+        <updated>2021-07-12T19:31:43.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事(50歳手前で「早期退職」に踏み切れた3つの理由)では、私が50歳で早期退職に踏み切り独立することになった経緯について書きました。ただ、人生後半のキャリアをどのように作っていくかについては、]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為替相場　　13日（日本時間　3時）(共同通信)]]></title>
         <id>https://news.yahoo.co.jp/articles/eff9792852252f4449ab0f73321a82d3a2958b85?source=rss</id>
@@ -456,6 +478,16 @@
         <link href="https://anond.hatelabo.jp/20210712205129"/>
         <updated>2021-07-12T13:27:24.000Z</updated>
         <summary type="html"><![CDATA[子供の頃から、祖母に「買ってきたお惣菜等をパックのまま食卓に出してはいけない」と言いつけられていたが、高校生くらいで「そろそろ食べ物をパックのまま食卓に出してはいけないとわかっただろうから、今日からパックのまま食卓に出しても良い事にする」と解禁された。禅問答めいている]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒提供停止働き掛けに財務、経産両省も関与 ｜ 共同通信]]></title>
+        <id>https://nordot.app/787303254282387456</id>
+        <link href="https://nordot.app/787303254282387456"/>
+        <updated>2021-07-12T13:26:50.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらうよう求める政府の方針決定に、内閣官房のほかに、財務省と経済産業省、金融庁も関与していたことが12日、分かった。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
