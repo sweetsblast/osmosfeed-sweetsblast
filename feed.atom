@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T17:19:01.181Z</updated>
+    <updated>2021-07-12T18:11:18.763Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[為替相場　　13日（日本時間　3時）(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/eff9792852252f4449ab0f73321a82d3a2958b85?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/eff9792852252f4449ab0f73321a82d3a2958b85?source=rss"/>
+        <updated>2021-07-12T18:01:25.000Z</updated>
+        <summary type="html"><![CDATA[3時現在　　　　　　　　　　
+
+　1ドル＝　　　　　　　　　　
+
+　　　110円33銭～　　　　
+
+　　　　　　110円34銭　　
+
+　　前日比　　－0円29銭　　
+
+　1ユーロ＝]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東海道本線で人身事故 運転再開(レスキューナウニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/767eb02fb10aa39a2a0c62c2d9e8029ebd37cb7d?source=rss</id>
@@ -428,6 +448,16 @@
 サボテンもワシントン条約で輸入が禁じられてから入手が困難になって価格が高騰中。そんななか世界を股にかけて南米の稀少なサボテン1,035]]></summary>
         <author>
             <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子供の頃から、祖母に「買ってきたお惣菜等をパックのまま食卓に出しては..]]></title>
+        <id>https://anond.hatelabo.jp/20210712205129</id>
+        <link href="https://anond.hatelabo.jp/20210712205129"/>
+        <updated>2021-07-12T13:27:24.000Z</updated>
+        <summary type="html"><![CDATA[子供の頃から、祖母に「買ってきたお惣菜等をパックのまま食卓に出してはいけない」と言いつけられていたが、高校生くらいで「そろそろ食べ物をパックのまま食卓に出してはいけないとわかっただろうから、今日からパックのまま食卓に出しても良い事にする」と解禁された。禅問答めいている]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
