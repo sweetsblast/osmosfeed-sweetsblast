@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T15:10:38.455Z</updated>
+    <updated>2021-07-12T16:14:23.781Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東海道本線で人身事故 運転再開(レスキューナウニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/767eb02fb10aa39a2a0c62c2d9e8029ebd37cb7d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/767eb02fb10aa39a2a0c62c2d9e8029ebd37cb7d?source=rss"/>
+        <updated>2021-07-12T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[川崎駅で発生した人身事故の影響で、東海道本線(品川～横浜駅間)・京浜東北根岸線は運転を見合わせていましたが、00:10頃、運転を再開しました。なお、ダイヤが乱れています。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元オリックス木村昌広さん　“父と一緒に”聖火をつないだ(日刊スポーツ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/83b89c8d80e70fdef7cdbb24ee479e45d15d0dbf?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/83b89c8d80e70fdef7cdbb24ee479e45d15d0dbf?source=rss"/>
+        <updated>2021-07-12T15:16:22.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック（五輪）聖火リレーの東京都4日目が12日、立川市内で無観客の点火セレモニーのみ行われた。
+
+プロ野球オリックスにドラフト4位で入団した木村昌広さん（46）は、先月に亡くなった父武夫さん]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ママ友」の息子へのわいせつ行為で逮捕された28歳の女の恐ろしい洗脳力　大阪府警〈dot.〉(AERA dot.)]]></title>
+        <id>https://news.yahoo.co.jp/articles/81591635be6d9daa629e7bda81ce585389b44535?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/81591635be6d9daa629e7bda81ce585389b44535?source=rss"/>
+        <updated>2021-07-12T15:11:00.000Z</updated>
+        <summary type="html"><![CDATA[大阪府警は小学校低学年の男の子にわいせつな行為をした強制わいせつ容疑で7月12日、大阪市住吉区の無職、郡山侑紗（ゆさ）容疑者（28）を逮捕した。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ライク(2462)、3期連続となる「増配」を発表して、配当利回り2.4％に！ 年間配当額は3年で2倍に急増、2022年5月期は前期比2円増の「1株あたり52円」に！(ダイヤモンド・ザイ)]]></title>
         <id>https://news.yahoo.co.jp/articles/b216217854488445c311112aa9680d9fb991b1b8?source=rss</id>
@@ -198,6 +230,30 @@
         <link href="https://news.yahoo.co.jp/articles/9bc03339592fb7d5175b1a2ec07d09965f8eb46d?source=rss"/>
         <updated>2021-07-12T14:30:13.000Z</updated>
         <summary type="html"><![CDATA[厚生労働省は、新型コロナウイルスの軽症用などの治療薬として“抗体カクテル療法”を月内にも承認する方針です。中外製薬が申請しているのは、ウイルスに作用する二つの中和抗体『カシリビマブ』と『イムデビマブ』]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工事中にゴンドラ落下　作業員2人が重軽傷(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c042e639211f712ed664fa2c912b9f9f342e366b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c042e639211f712ed664fa2c912b9f9f342e366b?source=rss"/>
+        <updated>2021-07-12T14:29:42.000Z</updated>
+        <summary type="html"><![CDATA[マンションの外壁工事で使用されていたゴンドラが8階の高さから落下し、作業員2人が重軽傷を負いました。
+
+　12日午後2時すぎ、千葉市中央区の20階建てのマンションで外壁工事中に高さ約23メートルの8]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クマに喉をかまれるなど66歳男性重傷　犬の散歩中に(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/e369c40b69a7edc103a1b0bdd55897e423aa0d28?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/e369c40b69a7edc103a1b0bdd55897e423aa0d28?source=rss"/>
+        <updated>2021-07-12T14:27:43.000Z</updated>
+        <summary type="html"><![CDATA[前橋市で犬の散歩中の男性がクマに襲われました。右腕を骨折し、喉をかまれるなど重傷です。
+
+　12日午前5時半ごろ、前橋市苗ケ島町の市道で「クマに襲われ、けがをした人がいる」と通勤途中の男性から119]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
         </author>

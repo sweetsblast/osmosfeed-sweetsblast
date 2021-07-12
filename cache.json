@@ -6795,6 +6795,33 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/767eb02fb10aa39a2a0c62c2d9e8029ebd37cb7d?source=rss",
+          "author": null,
+          "description": "川崎駅で発生した人身事故の影響で、東海道本線(品川～横浜駅間)・京浜東北根岸線は運転を見合わせていましたが、00:10頃、運転を再開しました。なお、ダイヤが乱れています。",
+          "link": "https://news.yahoo.co.jp/articles/767eb02fb10aa39a2a0c62c2d9e8029ebd37cb7d?source=rss",
+          "publishedOn": "2021-07-12T15:20:00.000Z",
+          "wordCount": 64,
+          "title": "東海道本線で人身事故 運転再開(レスキューナウニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/83b89c8d80e70fdef7cdbb24ee479e45d15d0dbf?source=rss",
+          "author": null,
+          "description": "東京オリンピック（五輪）聖火リレーの東京都4日目が12日、立川市内で無観客の点火セレモニーのみ行われた。\n\nプロ野球オリックスにドラフト4位で入団した木村昌広さん（46）は、先月に亡くなった父武夫さん",
+          "link": "https://news.yahoo.co.jp/articles/83b89c8d80e70fdef7cdbb24ee479e45d15d0dbf?source=rss",
+          "publishedOn": "2021-07-12T15:16:22.000Z",
+          "wordCount": 67,
+          "title": "元オリックス木村昌広さん　“父と一緒に”聖火をつないだ(日刊スポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/81591635be6d9daa629e7bda81ce585389b44535?source=rss",
+          "author": null,
+          "description": "大阪府警は小学校低学年の男の子にわいせつな行為をした強制わいせつ容疑で7月12日、大阪市住吉区の無職、郡山侑紗（ゆさ）容疑者（28）を逮捕した。",
+          "link": "https://news.yahoo.co.jp/articles/81591635be6d9daa629e7bda81ce585389b44535?source=rss",
+          "publishedOn": "2021-07-12T15:11:00.000Z",
+          "wordCount": 83,
+          "title": "「ママ友」の息子へのわいせつ行為で逮捕された28歳の女の恐ろしい洗脳力　大阪府警〈dot.〉(AERA dot.)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/887682067d7ff3f13c70f739cd0c5417a33c6182?source=rss",
           "author": null,
           "description": "12日も西日本から東北にかけての広い範囲で、荒れた天気となりました。\n\n群馬県前橋市では、午後1時15分に最高気温32．4度を観測しました。それから1時間も経たないうちに、天気が急変。激しい雨が降りま",
@@ -6829,6 +6856,24 @@
           "publishedOn": "2021-07-12T14:30:13.000Z",
           "wordCount": 71,
           "title": "“抗体カクテル療法”厚労省が月内にも承認へ(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c042e639211f712ed664fa2c912b9f9f342e366b?source=rss",
+          "author": null,
+          "description": "マンションの外壁工事で使用されていたゴンドラが8階の高さから落下し、作業員2人が重軽傷を負いました。\n\n　12日午後2時すぎ、千葉市中央区の20階建てのマンションで外壁工事中に高さ約23メートルの8",
+          "link": "https://news.yahoo.co.jp/articles/c042e639211f712ed664fa2c912b9f9f342e366b?source=rss",
+          "publishedOn": "2021-07-12T14:29:42.000Z",
+          "wordCount": 74,
+          "title": "工事中にゴンドラ落下　作業員2人が重軽傷(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e369c40b69a7edc103a1b0bdd55897e423aa0d28?source=rss",
+          "author": null,
+          "description": "前橋市で犬の散歩中の男性がクマに襲われました。右腕を骨折し、喉をかまれるなど重傷です。\n\n　12日午前5時半ごろ、前橋市苗ケ島町の市道で「クマに襲われ、けがをした人がいる」と通勤途中の男性から119",
+          "link": "https://news.yahoo.co.jp/articles/e369c40b69a7edc103a1b0bdd55897e423aa0d28?source=rss",
+          "publishedOn": "2021-07-12T14:27:43.000Z",
+          "wordCount": 77,
+          "title": "クマに喉をかまれるなど66歳男性重傷　犬の散歩中に(テレビ朝日系（ANN）)"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/28d75830559bdca43779589bb7e045a4bd1740c9?source=rss",
