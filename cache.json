@@ -22,6 +22,33 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://anond.hatelabo.jp/20210712124840",
+          "author": null,
+          "description": "両親に会わせれん",
+          "link": "https://anond.hatelabo.jp/20210712124840",
+          "publishedOn": "2021-07-12T04:25:15.000Z",
+          "wordCount": 114,
+          "title": "彼女がパック寿司のフタを醤油皿にしてたが育ちの悪さはフとした瞬間に出るよな"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/818e30e957d8f6ba73932feaba52221960d559c3",
+          "author": null,
+          "description": "１２日から東京都では４度目の緊急事態宣言が発効し、飲食店には営業時間短縮及び休業や酒類提供の原則停止が求められる。政府の無策ともいうべき状況に怒り心頭の飲食店に、決起を求める呼びかけが広がっている。 【写真】ネットで拡散「自公以外に投票」ポスター ネット上で拡散されているポスターがある。 「当店はし...",
+          "link": "https://news.yahoo.co.jp/articles/818e30e957d8f6ba73932feaba52221960d559c3",
+          "publishedOn": "2021-07-12T03:41:03.000Z",
+          "wordCount": 71,
+          "title": "“西村発言”に怒り心頭の飲食店が決起！　ネットで拡散「自公以外に投票」ポスター（東スポWeb） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://gigazine.net/news/20210712-cheat-auto-aim-any-game/",
+          "author": null,
+          "description": "オンラインゲームにおけるチート行為はゲームバランスを崩壊させてユーザー離れを引き起こす原因となることから、ゲーム開発企業はチート行為を行ったユーザーにゲームプレイ禁止措置を施したり、チート行為をAIを用いて検出したりと、さまざまなチート対策を行っています。そんな中、あらゆるFPSゲームでオートエイムを...",
+          "link": "https://gigazine.net/news/20210712-cheat-auto-aim-any-game/",
+          "publishedOn": "2021-07-12T03:34:03.000Z",
+          "wordCount": 187,
+          "title": "あらゆるゲームでオートエイムを可能にする検出困難なチートツールが開発されてしまう、なんと家庭用ゲーム機にも対応 - GIGAZINE"
+        },
+        {
           "id": "https://note.com/hajimehoshi/n/nc09751f2dbf9",
           "author": null,
           "description": "自分は Ebiten という 2D ゲームエンジン (ゲームライブラリ) を趣味で開発しています。使用しているプログラミング言語は Go です。 2013 年 6 月に最初のコミットを行ったので、現在 8 周年の 9 年目です。 Ebiten は「くまのレストラン」などのモバイル及び Nintendo Switch 向けゲームで使われており、一定の実績が...",
@@ -29,6 +56,15 @@
           "publishedOn": "2021-07-12T02:02:46.000Z",
           "wordCount": 595,
           "title": "ゲームエンジンはアートである - 8 年以上自作ゲームエンジンをメンテし続けている話｜Hajime Hoshi｜note"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210712/k00/00m/020/032000c",
+          "author": null,
+          "description": "経済産業省は12日、2030年時点の原子力や火力、太陽光など各電源の発電コストを有識者委員会で示した。原発の発電コストは、東京電力福島第1原発事故を踏まえた安全対策費の増加などを反映し、1キロワット時あたり「11円台後半以上」と算定。過去の試算では「最安値」だったが、太陽光などよりも高くなり、コスト面での...",
+          "link": "https://mainichi.jp/articles/20210712/k00/00m/020/032000c",
+          "publishedOn": "2021-07-12T01:26:50.000Z",
+          "wordCount": 465,
+          "title": "原発の発電コスト上昇、太陽光などより高く　コスト優位性揺らぐ | 毎日新聞"
         },
         {
           "id": "https://note.com/yuitosato/n/na3fe8c21887e",
@@ -1927,6 +1963,195 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/96cdb828f08d5cf0d0b79ac7abadb3a96734a9ea?source=rss",
+          "author": null,
+          "description": "オーエスは、同社が取り扱うOptomaブランドの公式Twitterアカウントを開設。本アカウントのフォロー＆ツイートでAmazon Fire TV Stick 4Kが当たる「Optoma大画面生活キャ",
+          "link": "https://news.yahoo.co.jp/articles/96cdb828f08d5cf0d0b79ac7abadb3a96734a9ea?source=rss",
+          "publishedOn": "2021-07-12T06:02:57.000Z",
+          "wordCount": 81,
+          "title": "オプトマの日本公式Twitterアカウント開設。Fire TV Stick 4Kが5名に当たるフォロー＆ツイート企画実施中(PHILE WEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/effceafbe596555e7e010066f31fb3f1fe4c938c?source=rss",
+          "author": null,
+          "description": "アンコンシャスバイアス研究所は、全国の小・中学校の子どもたちを対象とした「アンコンシャスバイアス授業」のプログラムを開発した。今後、教員による子どもたちへのアンコンシャスバイアス授業の実施支援講座も",
+          "link": "https://news.yahoo.co.jp/articles/effceafbe596555e7e010066f31fb3f1fe4c938c?source=rss",
+          "publishedOn": "2021-07-12T06:01:19.000Z",
+          "wordCount": 71,
+          "title": "アンコンシャスバイアス研究所、小・中学生向けに「アンコンシャスバイアス授業」のプログラムを開発(MarkeZine)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b433d3d0065ca78006777be6b9af769aa83ec206?source=rss",
+          "author": null,
+          "description": "米Nianticは7月8日、スマートフォンゲーム「Pokemon GO」（以下、ポケモンGO）ゲーム内で7月17、18日に開催する「Pokemon GO Fest」にGoogle Playをスポンサ",
+          "link": "https://news.yahoo.co.jp/articles/b433d3d0065ca78006777be6b9af769aa83ec206?source=rss",
+          "publishedOn": "2021-07-12T06:00:51.000Z",
+          "wordCount": 92,
+          "title": "Pokemon GO Fest、AndroidユーザーにGoogle Play Points還元やゲーム内アイテムプレゼント(ITmedia Mobile)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a33329e852bf5d1f54284fbda7ecd8bc4b4e31a8?source=rss",
+          "author": null,
+          "description": "埼玉県富士見市とシェアサイクル「ダイチャリ」を展開するシナネンモビリティPLUSは、7月中旬以降にシェアサイクル事業の実証実験を開始すると発表。",
+          "link": "https://news.yahoo.co.jp/articles/a33329e852bf5d1f54284fbda7ecd8bc4b4e31a8?source=rss",
+          "publishedOn": "2021-07-12T06:00:00.000Z",
+          "wordCount": 69,
+          "title": "埼玉県富士見市とモビリティPLUS、公共交通機能の補完・代替等を目的としてシェアサイクル事業の実証実験を開始(アスキー)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9a32763c501ee6b763f5d94c27cc2b8edc294a9a?source=rss",
+          "author": null,
+          "description": "凸版印刷は7月12日、軟包装を用いた商品パッケージを1000枚からウェブページで24時間入稿・注文ができるサービス「EASY ORDER PACK」を販売開始した。",
+          "link": "https://news.yahoo.co.jp/articles/9a32763c501ee6b763f5d94c27cc2b8edc294a9a?source=rss",
+          "publishedOn": "2021-07-12T06:00:00.000Z",
+          "wordCount": 73,
+          "title": "軟包装を用いた商品パッケージを1000枚からウェブで24時間入稿・注文ができるサービス、凸版印刷から(アスキー)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d250f4a91e4f4dcb6d2ca1eeb1ab0c3f932d4670?source=rss",
+          "author": null,
+          "description": "グローバルライフスタイルブランドのCASETiFYは、7月26日から日清食品のカップヌードル発売50周年を記念した「CUP NOODLE × CASETiFY」コレクションを発売する。販売価格は27",
+          "link": "https://news.yahoo.co.jp/articles/d250f4a91e4f4dcb6d2ca1eeb1ab0c3f932d4670?source=rss",
+          "publishedOn": "2021-07-12T05:58:41.000Z",
+          "wordCount": 96,
+          "title": "CASETiFY、カップヌードル発売50周年を祝したケースやワイヤレス充電器を発売(ITmedia Mobile)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/04f3df1962984c78bc459bc0baeeb9db6d63fb8e?source=rss",
+          "author": null,
+          "description": "7月11日、任天堂が1996年に発売した北米版『スーパーマリオ64』がオークションで156万ドル（約1億7，000万円）で落札され、史上最高価格のビデオゲームとなった。これは『ゼルダの伝説』が87万",
+          "link": "https://news.yahoo.co.jp/articles/04f3df1962984c78bc459bc0baeeb9db6d63fb8e?source=rss",
+          "publishedOn": "2021-07-12T05:57:37.000Z",
+          "wordCount": 71,
+          "title": "未開封の『スーパーマリオ64』が1億7000万円で落札される　世界一高価なビデオゲームに(リアルサウンド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e6fd205038d728f59446dea5e45015e515c6fed8?source=rss",
+          "author": null,
+          "description": "2021年7月11日、ゲーム『ウマ娘 プリティーダービー』のスペシャルイベント「Twinkle Holiday」をCygamesが開催。そこでゲームの最新アップデート情報や、音楽CDの発売など新情報が",
+          "link": "https://news.yahoo.co.jp/articles/e6fd205038d728f59446dea5e45015e515c6fed8?source=rss",
+          "publishedOn": "2021-07-12T05:50:00.000Z",
+          "wordCount": 297,
+          "title": "『ウマ娘 プリティーダービー』スペシャルイベント「Twinkle Holiday」にてメインストーリー第4章など最新情報が公開！(アスキー)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e2adcbc2a50f25a41e64c93dd337bcfb6a34ac51?source=rss",
+          "author": null,
+          "description": "カウネットは7月12日、在宅ワーク向けデスク「オレルタ」を発表、7月16日に販売を開始する。価格は3万2780円（税込み）。\n\n　在宅ワークに適した半個室ブースを設置できる折りたたみ式デスクで、未使",
+          "link": "https://news.yahoo.co.jp/articles/e2adcbc2a50f25a41e64c93dd337bcfb6a34ac51?source=rss",
+          "publishedOn": "2021-07-12T05:43:23.000Z",
+          "wordCount": 90,
+          "title": "カウネット、コンパクトに収納できる在宅ワーク向けデスク「オレルタ」(ITmedia PC USER)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f66ef9455bbcdab678faea80c171e3361d3d6cc5?source=rss",
+          "author": null,
+          "description": "APRESIA Systems株式会社は9日、オフィスや校内LAN向けイーサネットスイッチ「ApresiaNPシリーズ」のラインアップに、アップリンク用の光ポートを12基備えたレイヤ3スイッチ「Ap",
+          "link": "https://news.yahoo.co.jp/articles/f66ef9455bbcdab678faea80c171e3361d3d6cc5?source=rss",
+          "publishedOn": "2021-07-12T05:31:00.000Z",
+          "wordCount": 77,
+          "title": "APRESIA Systems、光ポートを12基備えたレイヤ3スイッチ「ApresiaNP3000-24T8X4Q」(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/dfe826d3c6f23c9407bb1583288ab65895fbbe27?source=rss",
+          "author": null,
+          "description": "パナソニックは、IoT対応のIHジャー炊飯器「ライス＆クッカー」SR-UNX101を9月1日より発売する。",
+          "link": "https://news.yahoo.co.jp/articles/dfe826d3c6f23c9407bb1583288ab65895fbbe27?source=rss",
+          "publishedOn": "2021-07-12T05:30:00.000Z",
+          "wordCount": 72,
+          "title": "パナソニック、アプリとも連携できるIoT対応のIHジャー炊飯器「ライス＆クッカー」SR-UNX101を発売(アスキー)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c4a4a6327c9f9e8e2c1aebeece053aed29340c87?source=rss",
+          "author": null,
+          "description": "サンワサプライは7月12日、水平画角65度のセミワイドレンズを備えたステレオマイク内蔵でフルHD画質対応のウェブカメラ「CMS-V61BK」を発売した。",
+          "link": "https://news.yahoo.co.jp/articles/c4a4a6327c9f9e8e2c1aebeece053aed29340c87?source=rss",
+          "publishedOn": "2021-07-12T05:30:00.000Z",
+          "wordCount": 66,
+          "title": "ステレオマイク内蔵でフルHD画質対応のウェブカメラ発売、サンワから(アスキー)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ad473527faa172255a8c70549d93d702d05bbd8d?source=rss",
+          "author": null,
+          "description": "ソフトバンクは、ドイツのカメラメーカーであるライカが初めて全面的に監修したというスマートフォン「Leitz Phone 1（ライツフォン ワン）」を7月16日に発売する。\n\n　「Leitz Phon",
+          "link": "https://news.yahoo.co.jp/articles/ad473527faa172255a8c70549d93d702d05bbd8d?source=rss",
+          "publishedOn": "2021-07-12T05:28:16.000Z",
+          "wordCount": 95,
+          "title": "ライカのスマホ「Leitz Phone 1」、7月16日発売(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a2f0cc334a3b732b7ff9209f0572103747b83ef1?source=rss",
+          "author": null,
+          "description": "1本の映画を10分程度にまとめた「ファスト映画」。ここ1年で急激に投稿本数が増加し、最近では投稿者が逮捕されるなど話題を集めている。\n\n　さて、ファスト映画の話題が注目される中で、構造の類似が指摘さ",
+          "link": "https://news.yahoo.co.jp/articles/a2f0cc334a3b732b7ff9209f0572103747b83ef1?source=rss",
+          "publishedOn": "2021-07-12T05:27:27.000Z",
+          "wordCount": 80,
+          "title": "ファスト映画とゲーム実況は本当に似ているのか？　それぞれの共通点と差、歴史について考える(リアルサウンド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2291cb2d5fe8b933721096b6fe938db2382a2d5e?source=rss",
+          "author": null,
+          "description": "三井化学と日本IBMは、化学物質を扱う作業現場の安心安全な労働環境作りを目指して「労働災害危険源抽出AI」を構築し、4月から三井化学の大阪工場で稼動を開始した。\n\n　労働災害危険源抽出AIは、「IB",
+          "link": "https://news.yahoo.co.jp/articles/2291cb2d5fe8b933721096b6fe938db2382a2d5e?source=rss",
+          "publishedOn": "2021-07-12T05:27:00.000Z",
+          "wordCount": 87,
+          "title": "三井化学と日本IBM、労働災害の危険源をAIで抽出--大阪工場で稼動開始(ZDNet Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/268d4bcd92af0ef49203a9c09c7449b9d1097821?source=rss",
+          "author": null,
+          "description": "Audirvana Studioは、リモートコントロールアプリ「Audirvana Remote」にAndroidバージョンも正式リリースした。Android版のAudirvana Remote最新バ",
+          "link": "https://news.yahoo.co.jp/articles/268d4bcd92af0ef49203a9c09c7449b9d1097821?source=rss",
+          "publishedOn": "2021-07-12T05:24:04.000Z",
+          "wordCount": 93,
+          "title": "Audirvana Studio、Android版「Audirvana Remote」も正式リリース(PHILE WEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6725cac8b53556879172fcaaa705e175577050b5?source=rss",
+          "author": null,
+          "description": "三菱UFJニコスは、クレジットカード会員からの問い合わせに人工知能（AI）が自動音声で応対する「FAQサービス」を7月に開始。NTTコミュニケーションズ（NTT Com）が提供する自動音声応答ソリュ",
+          "link": "https://news.yahoo.co.jp/articles/6725cac8b53556879172fcaaa705e175577050b5?source=rss",
+          "publishedOn": "2021-07-12T05:20:00.000Z",
+          "wordCount": 88,
+          "title": "三菱UFJニコス、債権回収の問い合わせにAIで自動応答(ZDNet Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/487f8dc9515ea773f21745ef6e6f6106004fb050?source=rss",
+          "author": null,
+          "description": "アバーメディア・テクノロジーズはこのほど、4K撮影をサポートしたWebカメラ「PW513」を発表、7月23日から順次販売を開始する。価格はオープン、予想実売価格は2万2000円前後（税込み）。",
+          "link": "https://news.yahoo.co.jp/articles/487f8dc9515ea773f21745ef6e6f6106004fb050?source=rss",
+          "publishedOn": "2021-07-12T05:17:33.000Z",
+          "wordCount": 91,
+          "title": "AVerMedia、4K/広角撮影に対応したUSB接続Webカメラ(ITmedia PC USER)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/948c668ce94245e2c5fd94ba464e9830807b3e29?source=rss",
+          "author": null,
+          "description": "バッファローはこのほど、11ac接続に対応した無線LAN中継器計2製品「WEX-733DHP2」「WEX-733DHPTX」を発表した。価格はいずれもオープンだ。\n\n　2製品はともにコンセントに直接挿",
+          "link": "https://news.yahoo.co.jp/articles/948c668ce94245e2c5fd94ba464e9830807b3e29?source=rss",
+          "publishedOn": "2021-07-12T05:16:53.000Z",
+          "wordCount": 88,
+          "title": "バッファロー、コンセント直挿しタイプの11ac対応無線LAN中継器(ITmedia PC USER)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1e3da756cb44bd0a532fbff41818daf5fccc8ad5?source=rss",
+          "author": null,
+          "description": "楽天モバイルは、東京工業大学の協力のもと、東工大の大岡山キャンパスで5G SA（Stand Alone）方式のデータ通信について、実証実験に成功した。6月24日には、商用ネットワークに5G SA機能",
+          "link": "https://news.yahoo.co.jp/articles/1e3da756cb44bd0a532fbff41818daf5fccc8ad5?source=rss",
+          "publishedOn": "2021-07-12T05:13:32.000Z",
+          "wordCount": 95,
+          "title": "楽天モバイルが5G SAのデータ通信テストに成功、SA機能も商用ネットワークに(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5d8db08784355535c56eec2e7ee357a2ae272b27?source=rss",
+          "author": null,
+          "description": "アマゾンジャパンは、2021年に東京、埼玉、千葉の計5カ所にデリバリーステーションを開設する。これら配送拠点の開設に伴い、ラストマイルの配達を担う数百人規模の「Amazon Flexドライバー」を募集",
+          "link": "https://news.yahoo.co.jp/articles/5d8db08784355535c56eec2e7ee357a2ae272b27?source=rss",
+          "publishedOn": "2021-07-12T05:07:40.000Z",
+          "wordCount": 82,
+          "title": "アマゾン、東京・千葉・埼玉の配送網を強化。5つのデリバリーセンター開設(Impress Watch)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/03db5a884836059ac862cf6133b628a369c16178?source=rss",
           "author": null,
@@ -5327,6 +5552,240 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/2f5f796be954c735c0722b27e5c29ba0b66a99d9?source=rss",
+          "author": null,
+          "description": "菅総理と韓国の文在寅大統領が対面で初めて首脳会談を行う方向だ。\n\n　複数の政府関係者によると、会談は文大統領が東京オリンピックの開会式で来日する際に行う方向だ。菅総理と文氏は先月のG7サミットで葉を",
+          "link": "https://news.yahoo.co.jp/articles/2f5f796be954c735c0722b27e5c29ba0b66a99d9?source=rss",
+          "publishedOn": "2021-07-12T06:10:15.000Z",
+          "wordCount": 67,
+          "title": "菅総理 文在寅大統領の五輪来日に合わせ日韓首脳会談へ(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/27e001cb34f2d2bb410407c81a0d90926d818e74?source=rss",
+          "author": null,
+          "description": "4回目の緊急事態宣言の直前となったきのう日曜日の東京都内の人出が、夜の繁華街で大幅に増加していたことがわかった。\n\n　11日午後9時台の都内の人出は、一週間前と比べて新橋で31.3%、渋谷センター街",
+          "link": "https://news.yahoo.co.jp/articles/27e001cb34f2d2bb410407c81a0d90926d818e74?source=rss",
+          "publishedOn": "2021-07-12T06:04:22.000Z",
+          "wordCount": 77,
+          "title": "緊急事態宣言の直前 日曜の人出 夜の繁華街で大幅に増加 新橋で31.3%(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/94759811a1efcfcf686a2c17e2feb67b37beba30?source=rss",
+          "author": null,
+          "description": "今日12日(月)は全国各地でゲリラ豪雨が発生しています。東海でも局地的に雨雲が発生、発達しています。\n\n　三重県には非常に活発な雨雲がかかっていて、14時までの1時間に三重・笠取山で86.5mmの猛",
+          "link": "https://news.yahoo.co.jp/articles/94759811a1efcfcf686a2c17e2feb67b37beba30?source=rss",
+          "publishedOn": "2021-07-12T06:04:13.000Z",
+          "wordCount": 71,
+          "title": "動画　名古屋で夕方にかけて短時間強雨のおそれ 三重では猛烈な雨を観測(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/94c57363812bae396f07ae2a0b6bcd42565eb3fb?source=rss",
+          "author": null,
+          "description": "製薬大手の第一三共がファイザーなどと同じ「mRNA」を使った新型コロナの国産ワクチンについて年内にも最終段階の臨床試験を始める準備を進めていることがわかった。\n\n　第一三共は国産の「mRNA」ワクチ",
+          "link": "https://news.yahoo.co.jp/articles/94c57363812bae396f07ae2a0b6bcd42565eb3fb?source=rss",
+          "publishedOn": "2021-07-12T06:03:15.000Z",
+          "wordCount": 73,
+          "title": "「mRNA」を使った新型コロナの国産ワクチン 年内に最終段階の臨床試験始まるか(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/261def25a7101a2c45543c0ce0508c0aeb4aa895?source=rss",
+          "author": null,
+          "description": "ハグを口実に女性に抱き付き身体を触ったとして、京都府警は１２日、府迷惑行為等防止条例違反（卑わいな行為）容疑で、大津市富士見台の介護士でインド国籍のピーターソン・ヴィクター容疑者（６２）を逮捕した。",
+          "link": "https://news.yahoo.co.jp/articles/261def25a7101a2c45543c0ce0508c0aeb4aa895?source=rss",
+          "publishedOn": "2021-07-12T06:02:07.000Z",
+          "wordCount": 69,
+          "title": "ハグ口実に腰や胸触る　インド国籍の男逮捕(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6dfe6af7f1b198e382982b71226c8ccf9606d002?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスのワクチン接種の必要回数を終えていた人が全体の47％に達していた米フロリダ州で、新規感染者が増加に転じた。\n\n　地元メディアによれば、7月2日から8日までの1週間の感染者数は2万3",
+          "link": "https://news.yahoo.co.jp/articles/6dfe6af7f1b198e382982b71226c8ccf9606d002?source=rss",
+          "publishedOn": "2021-07-12T05:55:27.000Z",
+          "wordCount": 75,
+          "title": "ワクチン接種率47％のフロリダで感染が再拡大　ここ10週間では最多　陽性率も増加(スポニチアネックス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/da091eb58ec7f4eb026d5955e2dafbc4b63b29b8?source=rss",
+          "author": null,
+          "description": "大阪府立労働センター（エル・おおさか、大阪市中央区）の指定管理者が１２日、「表現の不自由展かんさい」の会場利用を認めた大阪地裁の決定を不服として、大阪高裁に即時抗告した件で、大阪府の吉村洋文知事は同日",
+          "link": "https://news.yahoo.co.jp/articles/da091eb58ec7f4eb026d5955e2dafbc4b63b29b8?source=rss",
+          "publishedOn": "2021-07-12T05:52:39.000Z",
+          "wordCount": 65,
+          "title": "大阪知事、不自由展めぐる即時抗告は「当然」(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/147d9d54998911d974685476c3dea63997cdc60d?source=rss",
+          "author": null,
+          "description": "・晴れても天気急変に注意\n・関東など続々と梅雨明けの可能性\n・暑さが続く、熱中症に注意",
+          "link": "https://news.yahoo.co.jp/articles/147d9d54998911d974685476c3dea63997cdc60d?source=rss",
+          "publishedOn": "2021-07-12T05:51:28.000Z",
+          "wordCount": 74,
+          "title": "週間天気　晴れてもゲリラ豪雨に注意　関東など梅雨明けか(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4ccf3bbb6c45e51b5cad845e722bf6ceda80fbbb?source=rss",
+          "author": null,
+          "description": "インド北部で11日から12日にかけて落雷による死者が続出。AP通信によれば少なくとも38人が死亡した。\n\n　パキスタンと国境を接するラージャスターン州では観光名所となっているアンベール城で11人が死",
+          "link": "https://news.yahoo.co.jp/articles/4ccf3bbb6c45e51b5cad845e722bf6ceda80fbbb?source=rss",
+          "publishedOn": "2021-07-12T05:47:01.000Z",
+          "wordCount": 72,
+          "title": "インド北部で落雷による死者続出　24時間で少なくとも38人が死亡(スポニチアネックス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2a1ede48e791184b08b4eb15de8f91b8533c98f5?source=rss",
+          "author": null,
+          "description": "今日12日(月)の関東は気温が上昇しています。広い範囲で30℃を超える真夏日になり、13時半過ぎには千葉県市原市で35℃に到達。関東では今年初の猛暑日です。\n\n　東京都心でも30℃を大きく上回り、3",
+          "link": "https://news.yahoo.co.jp/articles/2a1ede48e791184b08b4eb15de8f91b8533c98f5?source=rss",
+          "publishedOn": "2021-07-12T05:46:16.000Z",
+          "wordCount": 67,
+          "title": "動画　関東で今年初めての猛暑日(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6af374903057a9278de2339df4724542a8d7c7f9?source=rss",
+          "author": null,
+          "description": "12日月曜の関東は、気温がグングン上がっています。千葉県市原市の牛久では、最高気温が35℃以上で、関東では今年初の「猛暑日」になりました。",
+          "link": "https://news.yahoo.co.jp/articles/6af374903057a9278de2339df4724542a8d7c7f9?source=rss",
+          "publishedOn": "2021-07-12T05:45:11.000Z",
+          "wordCount": 80,
+          "title": "関東で今年初の「猛暑日」　千葉県市原市の牛久　最高気温35.0℃(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bcd165137fabd26fda4909cff54a71113e701a3d?source=rss",
+          "author": null,
+          "description": "北日本は向こう2週間、暖かい空気に覆われやすいため、気温が平年より高い日が多くなる見込み。特に、18日（日）ごろからの5日間ほどは、気温が平年よりかなり高くなる可能性がある。",
+          "link": "https://news.yahoo.co.jp/articles/bcd165137fabd26fda4909cff54a71113e701a3d?source=rss",
+          "publishedOn": "2021-07-12T05:42:04.000Z",
+          "wordCount": 78,
+          "title": "北日本に「高温に関する早期天候情報」　農作物の管理や熱中症に注意(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9c8f4bdac212ccb749b4205f7d0b3709e3f42873?source=rss",
+          "author": null,
+          "description": "大気の状態が不安定になっており、各地で局地的な激しい雷雨になっています。このあとも大雨・雷雨に関する最新情報をご確認ください。\n\n　仙台管区気象台は12日(月) 13時55分に、盛岡地方気象台は12",
+          "link": "https://news.yahoo.co.jp/articles/9c8f4bdac212ccb749b4205f7d0b3709e3f42873?source=rss",
+          "publishedOn": "2021-07-12T05:42:00.000Z",
+          "wordCount": 69,
+          "title": "動画　宮城・岩手に土砂災害警戒情報(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0ffd8baa1dd08e13e0ffa4505aa7b680469b1198?source=rss",
+          "author": null,
+          "description": "兵庫県と京都府で１２日、まん延防止等重点措置が解除された。一方、大阪府は８月２２日まで重点措置が延長されるが、酒の提供は１組４人までに緩和された。\n\n　大阪府では１１日新たに新型コロナウイルスの感染",
+          "link": "https://news.yahoo.co.jp/articles/0ffd8baa1dd08e13e0ffa4505aa7b680469b1198?source=rss",
+          "publishedOn": "2021-07-12T05:41:00.000Z",
+          "wordCount": 71,
+          "title": "まん延防止　兵庫・京都は解除　大阪は延長８月２２日まで　酒提供は１組４人までに緩和(読売テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d3cec8511184f50328c31dc101ff97bae0eeeefe?source=rss",
+          "author": null,
+          "description": "自民党の下村政調会長は、新型コロナの影響で賃金格差が広がっているとして最低賃金の引き上げなどを要望する提言を加藤官房長官に提出しました。\n\n　自民・下村政調会長：「最低賃金の引き上げについては、格差",
+          "link": "https://news.yahoo.co.jp/articles/d3cec8511184f50328c31dc101ff97bae0eeeefe?source=rss",
+          "publishedOn": "2021-07-12T05:40:57.000Z",
+          "wordCount": 70,
+          "title": "下村政調会長が政府に「最低賃金の引き上げ」を要望(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bcd3e1f3b5fea619ed62142719af05e185abbf7d?source=rss",
+          "author": null,
+          "description": "菅総理大臣と文在寅（ムン・ジェイン）大統領が対面で初めて首脳会談を行う方向です。\n\n　複数の政府関係者によりますと、会談は文大統領が東京オリンピックの開会式で来日する際に行う方向です。\n\n　菅総理と",
+          "link": "https://news.yahoo.co.jp/articles/bcd3e1f3b5fea619ed62142719af05e185abbf7d?source=rss",
+          "publishedOn": "2021-07-12T05:37:28.000Z",
+          "wordCount": 75,
+          "title": "文大統領　五輪開会式出席へ　日韓首脳会談を調整(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/76e964bd62113ecbe2b57dd8c746481a6ee7b46b?source=rss",
+          "author": null,
+          "description": "この時間の東海地方は、三重県や愛知県、静岡県の一部で雨雲が発達しています。\n三重県の笠取山では、午後2時までの1時間に86.5ミリの猛烈な雨を観測しました。\n今、晴れ間が出ている所でも、天気の急変に注",
+          "link": "https://news.yahoo.co.jp/articles/76e964bd62113ecbe2b57dd8c746481a6ee7b46b?source=rss",
+          "publishedOn": "2021-07-12T05:36:10.000Z",
+          "wordCount": 84,
+          "title": "東海地方　三重県で猛烈な雨を観測　しばらく天気の急変と暑さに注意(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0734467f164f77854a5b67014481c9cd75756b13?source=rss",
+          "author": null,
+          "description": "埼玉県はきょう戸田市の市議会議員で「スーパークレイジー君」の名前で活動する男性に当選無効の決定を下した。\n\n\n\n　県の選挙管理委員会は午前9時半すぎ、戸田市議のスーパークレイジー君こと、西本誠さん（",
+          "link": "https://news.yahoo.co.jp/articles/0734467f164f77854a5b67014481c9cd75756b13?source=rss",
+          "publishedOn": "2021-07-12T05:35:56.000Z",
+          "wordCount": 69,
+          "title": "スーパークレイジー君の当選無効を決定 戸田市内に3カ月以上の居住実態がなかったため(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4c791dbed874294156472169b56a0891bdea524e?source=rss",
+          "author": null,
+          "description": "今日12日(月)は全国各地でゲリラ豪雨となっていて、東海でも局地的に雨雲が発生、発達しています。",
+          "link": "https://news.yahoo.co.jp/articles/4c791dbed874294156472169b56a0891bdea524e?source=rss",
+          "publishedOn": "2021-07-12T05:32:45.000Z",
+          "wordCount": 67,
+          "title": "名古屋で夕方にかけて短時間強雨のおそれ　三重では猛烈な雨を観測(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f27795bd7101ffd12774307ed9cf520f402709c2?source=rss",
+          "author": null,
+          "description": "小学生5人が死傷した千葉県八街市のトラック事故で、警察は、きょう午前、運転手の男を立ち会わせて現場検証を行った。\n\n　先月28日、八街市で下校中の小学生の列にトラックが突っ込み、小学3年と2年の男の",
+          "link": "https://news.yahoo.co.jp/articles/f27795bd7101ffd12774307ed9cf520f402709c2?source=rss",
+          "publishedOn": "2021-07-12T05:30:54.000Z",
+          "wordCount": 77,
+          "title": "小学生5人死傷事故 容疑者の男と現場検証行う 千葉・八街市(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8b07af7bfee8f54c8c3730f979035eb4468b72b9?source=rss",
+          "author": null,
+          "description": "梅雨前線や上空の寒気の影響で、全国的に大気の状態が不安定になっています。\n\n雨雲は徐々に東へ進みますが、雨雲が抜けても西から別の雨雲が近づき、断続的に強雨が続くおそれがあります。\n\n強雨が続くと道路冠",
+          "link": "https://news.yahoo.co.jp/articles/8b07af7bfee8f54c8c3730f979035eb4468b72b9?source=rss",
+          "publishedOn": "2021-07-12T05:24:06.000Z",
+          "wordCount": 67,
+          "title": "動画解説　全国的に大気の状態が不安定に(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8fc001d6a510ddd3926685c52f9f95265d6ec170?source=rss",
+          "author": null,
+          "description": "突発的に激しい雨や雷雨が発生する「ゲリラ豪雨」のシーズンを迎えました。\n\n事前対策への意識を高め、被害軽減につなげるため、ウェザーニュースでは、今シーズン(2021年7月～9月)の発生傾向を発表しまし",
+          "link": "https://news.yahoo.co.jp/articles/8fc001d6a510ddd3926685c52f9f95265d6ec170?source=rss",
+          "publishedOn": "2021-07-12T05:19:46.000Z",
+          "wordCount": 74,
+          "title": "2021夏 ゲリラ豪雨発生傾向　総発生数は昨年より多く1.2倍　ピークは8月中旬～下旬(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1868dd4fa3fe19eaae5bd52e2a8bc0b358f33428?source=rss",
+          "author": null,
+          "description": "千葉県市原市で午後2時前に35度を観測し、関東で今年初めての猛暑日となった。\n\n　関東地方はきょう30度以上の真夏日が続出し東京も3日連続で真夏日となった。熱中症に厳重な警戒が必要となる。\n（ANN",
+          "link": "https://news.yahoo.co.jp/articles/1868dd4fa3fe19eaae5bd52e2a8bc0b358f33428?source=rss",
+          "publishedOn": "2021-07-12T05:17:16.000Z",
+          "wordCount": 71,
+          "title": "千葉・市原市で35度を観測 関東で今年初めての猛暑日(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f1e8b8d8bcccdc4733730aa5a16a6ff919b1f431?source=rss",
+          "author": null,
+          "description": "大気の状態が不安定になっており、各所で突発的な雷雨になっています。このあとも大雨・雷雨に関する最新情報をご確認ください。\n\n　福島地方気象台は12日(月) 13時31分いわき市、広野町、楢葉町に土砂",
+          "link": "https://news.yahoo.co.jp/articles/f1e8b8d8bcccdc4733730aa5a16a6ff919b1f431?source=rss",
+          "publishedOn": "2021-07-12T05:14:15.000Z",
+          "wordCount": 68,
+          "title": "動画　福島県に土砂災害警戒情報発表(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6a64fc516c18d436d23c630a6f885e5c1e9e5767?source=rss",
+          "author": null,
+          "description": "加藤勝信官房長官は１２日午前の記者会見で、新型コロナウイルスワクチンの接種履歴を示す証明書の市区町村窓口での申請受け付けを２６日から始めると発表した。証明書について「当分の間、日本から一部の国や地域へ",
+          "link": "https://news.yahoo.co.jp/articles/6a64fc516c18d436d23c630a6f885e5c1e9e5767?source=rss",
+          "publishedOn": "2021-07-12T05:13:50.000Z",
+          "wordCount": 69,
+          "title": "２６日からワクチン接種証明申請受け付け　加藤氏発表(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/16312fc764a5bb6e464387e53c7de7c73d6c13b8?source=rss",
+          "author": null,
+          "description": "きのう11日に続き、きょう12日も大気の状態が非常に不安定です。関東甲信地方は今夜にかけて平野部も含めて所々で非常に激しい雨や雷雨になるでしょう。道路が一気に川のようになったり、傘が全く役に立たなくな",
+          "link": "https://news.yahoo.co.jp/articles/16312fc764a5bb6e464387e53c7de7c73d6c13b8?source=rss",
+          "publishedOn": "2021-07-12T05:10:13.000Z",
+          "wordCount": 83,
+          "title": "関東甲信　ゲリラ豪雨が帰宅時を直撃か　水曜まで大気の状態不安定　梅雨明けはいつ?(tenki.jp)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/cf6ce735a37ecfd4848ae8366257f9e544234461?source=rss",
           "author": null,
@@ -15180,6 +15639,267 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c8e8d86f0e6e0f294286fd1a686e8e12d15d0bed?source=rss",
+          "author": null,
+          "description": "UHA味覚糖は26日、TVアニメ「鬼滅の刃」と「e-maのど飴」の第二弾となる「e-maのど飴 鬼滅の刃 白桃」を新発売する。\n\n　容器は、主人公・竈門炭治郎、妹の禰豆子、我妻善逸、嘴平伊之助などが",
+          "link": "https://news.yahoo.co.jp/articles/c8e8d86f0e6e0f294286fd1a686e8e12d15d0bed?source=rss",
+          "publishedOn": "2021-07-12T06:11:41.000Z",
+          "wordCount": 79,
+          "title": "「鬼滅の刃」×「e-maのど飴」第二弾発売　キャラクターデザインの容器9種類をラインアップ 　名場面集のおまけシールPOP付(食品新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3df6fd34fb0e157287a7646a51446982daf679a4?source=rss",
+          "author": null,
+          "description": "三田理化メディカルは2021年6月29日、新型コロナワクチンの注射器への充填ミスを軽減し、充填手技の効率化を支援する機器「クイックフィラー」の一般販売を開始した。ファイザー製とモデルナ製のワクチンに",
+          "link": "https://news.yahoo.co.jp/articles/3df6fd34fb0e157287a7646a51446982daf679a4?source=rss",
+          "publishedOn": "2021-07-12T06:10:04.000Z",
+          "wordCount": 67,
+          "title": "ワクチン充填を効率化し、ミスを低減する支援機器を発売(MONOist)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2710c74026ff5b9299c4869ae8226e921777175b?source=rss",
+          "author": null,
+          "description": "12日の東京株式市場の日経平均株価（225種）は大幅反発した。世界経済の回復への期待感から幅広い銘柄が買われた。同日朝発表の5月の機械受注統計の結果を好感した買い注文も入った。\n\n　終値は前週末比6",
+          "link": "https://news.yahoo.co.jp/articles/2710c74026ff5b9299c4869ae8226e921777175b?source=rss",
+          "publishedOn": "2021-07-12T06:09:23.000Z",
+          "wordCount": 65,
+          "title": "東証大幅反発、628円高　世界経済の回復に期待(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/85377a24d04aa490011b432c962c653ab14010c6?source=rss",
+          "author": null,
+          "description": "F1テクノロジーが集約された、世界に誇る和製スーパースポーツ\n\nREカーとライバルたち【1994年式 ホンダ NSX　Vol.1】\n\n　第1期F1活動の休止から15年の歳月が経った1983年。ホンダが",
+          "link": "https://news.yahoo.co.jp/articles/85377a24d04aa490011b432c962c653ab14010c6?source=rss",
+          "publishedOn": "2021-07-12T06:05:00.000Z",
+          "wordCount": 136,
+          "title": "連勝連覇連発、常勝ホンダ！　第2期F1活動のスタートと時を同じく開発開始｜1994年式 ホンダ NSX　Vol.1(Nosweb.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0875cfb420af8a9d3aa3939bd77b79fd33d22857?source=rss",
+          "author": null,
+          "description": "週明け12日の東京株式市場の日経平均株価（225種）終値は前週末比628円60銭高の2万8569円02銭だった。",
+          "link": "https://news.yahoo.co.jp/articles/0875cfb420af8a9d3aa3939bd77b79fd33d22857?source=rss",
+          "publishedOn": "2021-07-12T06:04:24.000Z",
+          "wordCount": 65,
+          "title": "東証終値、628円高(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7b17f16954b42e2f927ac3a4eee74374e79074b1?source=rss",
+          "author": null,
+          "description": "ソフトバンク株式会社は7月12日、スマートフォン「Leitz Phone 1」を7月16日に発売すると発表した。現在、購入予約を受け付けている。\n\nLeitz Phone 1は、外装デザインも含めライ",
+          "link": "https://news.yahoo.co.jp/articles/7b17f16954b42e2f927ac3a4eee74374e79074b1?source=rss",
+          "publishedOn": "2021-07-12T06:02:34.000Z",
+          "wordCount": 88,
+          "title": "ソフトバンク、ライカ全面監修のスマホ「Leitz Phone 1」を7月16日に発売(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3690084e9bae8cb81070a5dbd91daec6557f9dc4?source=rss",
+          "author": null,
+          "description": "観光需要に大きく依存している沖縄経済にとって、長引くコロナ禍は大きな影を落としている。アイスクリームの製造販売で知られる老舗企業「ブルーシール」も、19年から20年かけて7億5000万円の減収を余儀",
+          "link": "https://news.yahoo.co.jp/articles/3690084e9bae8cb81070a5dbd91daec6557f9dc4?source=rss",
+          "publishedOn": "2021-07-12T06:01:56.000Z",
+          "wordCount": 77,
+          "title": "「観光客は“おまけ”」沖縄ブルーシールが密かに進めていた「ウチナーンチュシフト」の真相(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a54cd02211e9210341832ee6041b958d27d22beb?source=rss",
+          "author": null,
+          "description": "人は必ずしも合理的に行動しないことが、行動科学や行動経済学などで解き明かされています。判断をゆがませる正体は「バイアス(思い込み)」です。バイアスは正しい意思決定の妨げになり、ビジネスの重要な局面でも",
+          "link": "https://news.yahoo.co.jp/articles/a54cd02211e9210341832ee6041b958d27d22beb?source=rss",
+          "publishedOn": "2021-07-12T06:01:42.000Z",
+          "wordCount": 67,
+          "title": "一般人が「天才のまね」しても成果出ない根本理由(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/145c9265f55cd3d49fdc9228cd2a179bd98329b1?source=rss",
+          "author": null,
+          "description": "先日、欧州日産が発表した「ジューク ラリートリビュートコンセプト」。これはフェアレディZ（240Z）がサファリラリーで優勝してから今年で50周年となることを記念したコンセプトモデルだ。\n\n　オマージ",
+          "link": "https://news.yahoo.co.jp/articles/145c9265f55cd3d49fdc9228cd2a179bd98329b1?source=rss",
+          "publishedOn": "2021-07-12T06:01:35.000Z",
+          "wordCount": 83,
+          "title": "まさかの「シャコアゲ」ジューク爆誕！「フェアレディZ」オマージュで日産ファンは狂喜乱舞(Auto Messe Web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7977b2c28ea349a258c2bdc3936e969a7752307a?source=rss",
+          "author": null,
+          "description": "「WWDJAPAN」は、ファッション＆ビューティ業界の新しいビジネスの潮流や課題解決のヒントとなるセミナーを設計し、開催していく「WWDJAPAN EDUCATIONS」を本格始動させる。「WWDJA",
+          "link": "https://news.yahoo.co.jp/articles/7977b2c28ea349a258c2bdc3936e969a7752307a?source=rss",
+          "publishedOn": "2021-07-12T06:00:56.000Z",
+          "wordCount": 79,
+          "title": "セミナー事業「WWDJAPAN EDUCATIONS」を本格始動　第一弾「サステナビリティ・ディレクター養成」を9月に開講(WWDJAPAN.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0d8fc234b03e81e71de81a1155ff1d51e988e157?source=rss",
+          "author": null,
+          "description": "収入以上にお金を使えば、貯まらないのは当たり前のこと。でも、できるだけムダづかいしないようにしているのに、なぜかお金が貯まらないなら、家計管理のやり方に問題があるのかもしれない。",
+          "link": "https://news.yahoo.co.jp/articles/0d8fc234b03e81e71de81a1155ff1d51e988e157?source=rss",
+          "publishedOn": "2021-07-12T06:00:45.000Z",
+          "wordCount": 71,
+          "title": "現金管理で防ぐムダづかい　カードの封印が「貯蓄体質」への第一歩(マネーポストWEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/eb5b9b86c32d3f60f5bf33cf2eb1928c7a372fc0?source=rss",
+          "author": null,
+          "description": "近年、とくに都市部や市街地で普及率が高まっているe-BIKE（電動アシスト自転車）は、小さな子どもの送り迎えや買い物など、とても重宝されています。自転車はそもそも移動エネルギーの効率が良く、小回りが",
+          "link": "https://news.yahoo.co.jp/articles/eb5b9b86c32d3f60f5bf33cf2eb1928c7a372fc0?source=rss",
+          "publishedOn": "2021-07-12T06:00:19.000Z",
+          "wordCount": 90,
+          "title": "スタイリッシュな街乗りe-BIKE　スペシャライズド「Como SL 5.0」の特徴は？(バイクのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f68b203d8c0d01b74ac00d118d7f5c128b9b4def?source=rss",
+          "author": null,
+          "description": "ほぼ東京都内の路線バスで運賃は220円。しかし乗車時間は約90分もあり、都内有数の長距離を誇るバスがある。しかも2021年は年に4往復しか運転されない。そんな不思議なバスに乗車してきたのでレポートす",
+          "link": "https://news.yahoo.co.jp/articles/f68b203d8c0d01b74ac00d118d7f5c128b9b4def?source=rss",
+          "publishedOn": "2021-07-12T06:00:00.000Z",
+          "wordCount": 81,
+          "title": "乗車時間は90分!!運賃220円で、30分間は無停車の路線バス!?2021年の最終バス1本前に乗ってきた！(ベストカーWeb)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cc841b4e923d23c0ebe8b6a041f5d1f00b6fabd7?source=rss",
+          "author": null,
+          "description": "株式会社ニコンは7月8日、デジタル天体望遠鏡の開発・製造・販売を手がける仏Unistellar SAS（以下ユニステラ社）とデジタル天体望遠鏡に関する共同開発基本契約を締結したと発表した。\n\nニコンの",
+          "link": "https://news.yahoo.co.jp/articles/cc841b4e923d23c0ebe8b6a041f5d1f00b6fabd7?source=rss",
+          "publishedOn": "2021-07-12T06:00:00.000Z",
+          "wordCount": 77,
+          "title": "ニコン、デジタル天体望遠鏡の共同開発で仏ユニステラと契約。“光学技術と知見を生かす”(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8d5b3361b6f29564099cd07f2d75a9e0e0fab736?source=rss",
+          "author": null,
+          "description": "NiSi Filters Japanは7月9日、DJIのドローン「DJI Air 2S」用のレンズフィルター4種類と、フィルターキット4種類を発売した。\n\nDJI Air 2S（2021年発売。Mav",
+          "link": "https://news.yahoo.co.jp/articles/8d5b3361b6f29564099cd07f2d75a9e0e0fab736?source=rss",
+          "publishedOn": "2021-07-12T06:00:00.000Z",
+          "wordCount": 142,
+          "title": "NiSi、「DJI Air 2S」用のレンズフィルター4種類を発売(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7a7d447be18258eb82f7ad9cdf623505fbe7a340?source=rss",
+          "author": null,
+          "description": "オーディオテクニカは、片耳・両耳の2つのスタイルから選べるUSBヘッドセット「ATH-101USB」「ATH-102USB」を16日より発売する。価格はオープンプライスで、店頭予想価格は「ATH-10",
+          "link": "https://news.yahoo.co.jp/articles/7a7d447be18258eb82f7ad9cdf623505fbe7a340?source=rss",
+          "publishedOn": "2021-07-12T06:00:00.000Z",
+          "wordCount": 74,
+          "title": "オーテク、約3,100円からのWeb会議向けヘッドセット。片耳・両耳2機種(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/006e8b9d3fae0fb16fc24775363196b7c72491d0?source=rss",
+          "author": null,
+          "description": "環境配慮型のアウトドアガレージブランドwe know enough＜(ウィー ノー イナフ)は、焚き火台を発売する。焚き火台とオリジナル収納ケースのセットで、価格は24,800円。一般販売に先立ち、M",
+          "link": "https://news.yahoo.co.jp/articles/006e8b9d3fae0fb16fc24775363196b7c72491d0?source=rss",
+          "publishedOn": "2021-07-12T06:00:00.000Z",
+          "wordCount": 83,
+          "title": "炎から自然の草花を守る焚き火台(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1d0d23ed5969a27f1632f8e163f492ce932cbb4d?source=rss",
+          "author": null,
+          "description": "2017年に「セリーヌ（CELINE）」を去ったフィービー・ファイロ（Phoebe Philo）が自身の名前を冠したブランドを立ち上げる。",
+          "link": "https://news.yahoo.co.jp/articles/1d0d23ed5969a27f1632f8e163f492ce932cbb4d?source=rss",
+          "publishedOn": "2021-07-12T05:50:53.000Z",
+          "wordCount": 98,
+          "title": "フィービー・ファイロがついにカムバック！　自身のブランド立ち上げへ(WWDJAPAN.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6eb86c0eb8178edafe67257f2b7b8b60256db55d?source=rss",
+          "author": null,
+          "description": "日産が2021年6月15日に発表し、同年秋に発売予定としている新型「オーラ」は、同社のコンパクトカーの基幹車種「ノート」がベースだというものの、さまざまな差別化がおこなわれています。いったい、どんな",
+          "link": "https://news.yahoo.co.jp/articles/6eb86c0eb8178edafe67257f2b7b8b60256db55d?source=rss",
+          "publishedOn": "2021-07-12T05:50:28.000Z",
+          "wordCount": 89,
+          "title": "日産新型「オーラ」はどんな「プチ高級車」ぶりを見せる？ 基幹車「ノート」からの変更点は(くるまのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1b7d3dc824224ba4b67cd104189ee26f7ce50a23?source=rss",
+          "author": null,
+          "description": "総合マーケティングビジネスの富士経済は、HV（ハイブリッド自動車）、PHV（プラグインハイブリッド自動車）、EV（電気自動車）の世界市場を調査。その結果を「2021年版 HEV、EV関連市場徹底分析調",
+          "link": "https://news.yahoo.co.jp/articles/1b7d3dc824224ba4b67cd104189ee26f7ce50a23?source=rss",
+          "publishedOn": "2021-07-12T05:45:03.000Z",
+          "wordCount": 72,
+          "title": "EV世界販売台数、2022年にはHVを上回る---欧州・中国が牽引　富士経済予測(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/09c82552383872cea4b9edb3f944befffeef3ed9?source=rss",
+          "author": null,
+          "description": "街の駐輪場にも対応！　デンマーク発「MATE. BIKE」からコンパクトな新型電動アシスト自転車がでた！",
+          "link": "https://news.yahoo.co.jp/articles/09c82552383872cea4b9edb3f944befffeef3ed9?source=rss",
+          "publishedOn": "2021-07-12T05:30:33.000Z",
+          "wordCount": 98,
+          "title": "取り回しやすさ抜群の電動アシスト自転車「MATE CITY」が発売！(GQ JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/08f5c5cd32b061ac1ceba15e6453210d2030664f?source=rss",
+          "author": null,
+          "description": "厚生労働省によると、2019年の日本人の平均寿命は女性87.45歳、男性81.41歳であると公表されています（※1）。\n \n女性のほうが男性よりも6歳ほど長生きすることになりますので、同じ年齢の夫婦で",
+          "link": "https://news.yahoo.co.jp/articles/08f5c5cd32b061ac1ceba15e6453210d2030664f?source=rss",
+          "publishedOn": "2021-07-12T05:21:14.000Z",
+          "wordCount": 75,
+          "title": "遺族年金の受給額をあらかじめ知る方法って？(ファイナンシャルフィールド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4d1267ccd05df967a0cfb4b32b9aa8ab51320d7a?source=rss",
+          "author": null,
+          "description": "ディスクユニオンは、今秋予定で愛知県名古屋市に新店をオープンすることを発表した。\n\n同社にとって、東海地方への出店は今回が初めて。これにあたって公式サイトではオープニングスタッフの募集を開始している。",
+          "link": "https://news.yahoo.co.jp/articles/4d1267ccd05df967a0cfb4b32b9aa8ab51320d7a?source=rss",
+          "publishedOn": "2021-07-12T05:19:52.000Z",
+          "wordCount": 67,
+          "title": "ディスクユニオンが東海地方へ初進出。名古屋店を今秋オープン(PHILE WEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e9f5d00169c4842ddf6586b9fd61318b4896444b?source=rss",
+          "author": null,
+          "description": "ホンダは7月12日、中国での四輪車累計販売1500万台達成を発表。1999年1月の販売開始以来、22年6か月での達成となり、ホンダのグローバル地域別販売として史上最速ペースでの到達となった。加えて、ハ",
+          "link": "https://news.yahoo.co.jp/articles/e9f5d00169c4842ddf6586b9fd61318b4896444b?source=rss",
+          "publishedOn": "2021-07-12T05:18:04.000Z",
+          "wordCount": 67,
+          "title": "ホンダ、中国での四輪車累計販売1500万台達成---地域別最速の22年6か月で到達(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ca655480785008d73cc6485fa8b4556119f61886?source=rss",
+          "author": null,
+          "description": "ロシア国防省は2021年7月9日（金）、トルコで続く山林火災に対する消火を支援するため、海軍のベリエフ「Be-200」飛行艇を派遣したと発表しました。\n\n　これはプーチン大統領の命令によるもので、飛",
+          "link": "https://news.yahoo.co.jp/articles/ca655480785008d73cc6485fa8b4556119f61886?source=rss",
+          "publishedOn": "2021-07-12T05:12:00.000Z",
+          "wordCount": 78,
+          "title": "ロシア海軍 世界唯一のジェット飛行艇「Be-200」トルコ山林火災へ派遣(乗りものニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7bd2a3f8271f2eb6e14b0dc3392d87d00c5b12cc?source=rss",
+          "author": null,
+          "description": "トヨタの中国における合弁会社の一汽トヨタは、2021年7月3日に中国で新型「クラウンクルーガー」の予約を開始しました。新型クラウンクルーガーは、トヨタがグローバルに販売するSUV「ハイランダー」をベ",
+          "link": "https://news.yahoo.co.jp/articles/7bd2a3f8271f2eb6e14b0dc3392d87d00c5b12cc?source=rss",
+          "publishedOn": "2021-07-12T05:10:26.000Z",
+          "wordCount": 89,
+          "title": "「SUV化したクラウン」トヨタ新型「クラウンクルーガー」に意外な繋がり!? 3列SUV「クルーガー」と関係は？(くるまのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2211138b9652b397ce33ca1420ff8715c3535cf7?source=rss",
+          "author": null,
+          "description": "去年から大きく変わった生活様式。今、20代から30代の若い世代を中心に「FIRE」という生活様式が注目を集めています。\n\n■米国発の生活様式！日本でも、この数年で広がる\n\n　若い世代のなかで広まりつ",
+          "link": "https://news.yahoo.co.jp/articles/2211138b9652b397ce33ca1420ff8715c3535cf7?source=rss",
+          "publishedOn": "2021-07-12T05:10:15.000Z",
+          "wordCount": 95,
+          "title": "若者憧れ「FIRE」とは？早期退職で“不労所得”生活(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4954b7bc5fa4a032fc73df02ce36fcc038f31ff0?source=rss",
+          "author": null,
+          "description": "ビー・エム・ダブリューは7月12日、6月にローンチ・エディションの先行受注を開始し、今秋に正式発売する予定の新型BEV（電気自動車）「iX（アイエックス）」の新しいコミュニケーションをスタートさせた",
+          "link": "https://news.yahoo.co.jp/articles/4954b7bc5fa4a032fc73df02ce36fcc038f31ff0?source=rss",
+          "publishedOn": "2021-07-12T05:09:49.000Z",
+          "wordCount": 82,
+          "title": "BMW、今秋に正式発売する予定の新型BEV「iX」の新コミュニケーション(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/509c1d5a383653d7ba17db85657e6f9bd1b0117a?source=rss",
+          "author": null,
+          "description": "ランドローバー（ジャガー・ランドローバー・ジャパン）は、フルサイズSUV「ディスカバリー」の2022年モデルを7月8日より受注を開始した。価格は780万円～1031万円。\n\n　大幅改良を施した202",
+          "link": "https://news.yahoo.co.jp/articles/509c1d5a383653d7ba17db85657e6f9bd1b0117a?source=rss",
+          "publishedOn": "2021-07-12T05:09:30.000Z",
+          "wordCount": 98,
+          "title": "ランドローバー、「ディスカバリー」2022年モデル受注開始　48Vマイルドハイブリッド採用や3列シートを標準化(Impress Watch)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/31b7841068c3da41f4968455d0fcf0d6215ca105?source=rss",
           "author": null,
