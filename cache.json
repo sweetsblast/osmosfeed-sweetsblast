@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.tokyo-np.co.jp/article/116505",
+          "author": null,
+          "description": "新型コロナウイルスのワクチン接種を巡る混乱で、河野太郎行政改革担当相が１３日の記者会見で自らの不手際を認めた。自治体で相次ぐ接種予約の停止を巡り「もう少し早く供給量を示し予約（ペース）を落としてもらう必要があった」と語り、自治体の接種加速が予想を上回っていたことを認め、陳謝した。",
+          "link": "https://www.tokyo-np.co.jp/article/116505",
+          "publishedOn": "2021-07-13T13:40:57.000Z",
+          "wordCount": 304,
+          "title": "ワクチン接種混乱　河野氏「供給追いつかなかった」不手際認め陳謝　自治体「はしご外された」と批判：東京新聞 TOKYO Web"
+        },
+        {
           "id": "https://anond.hatelabo.jp/20210713223549",
           "author": null,
           "description": "心優しい青年だった俺は、社会と労働によって歪められてしまった。今なら声を大にして言える。働いたら負け。 仕事のできない人間は攻撃してもいいと思うようになったこっちも迷惑被ってるんだから別にいいと思う。あわよくば消えていただきたい。 他人とのコミュニケーションを避けるようになった話しててイライラする...",
@@ -49,6 +58,24 @@
           "title": "エアコンつけっぱなしで寝たから朝だるい…どう防ぐ　熱帯夜でも快眠する方法(西多昌規) - 個人 - Yahoo!ニュース"
         },
         {
+          "id": "https://news.yahoo.co.jp/articles/d7250d64a9dc4fd69b90d4a00ec670251ee83a15",
+          "author": null,
+          "description": "静岡県熱海市の土石流災害について「違法な盛り土が要因」との見解を明らかにした難波喬司副知事＝静岡市の静岡県庁で2021年7月13日午後3時52分、山田英之撮影 静岡県熱海市伊豆山（いずさん）地区で発生した土石流災害で、難波喬司副知事は13日に記者会見し、土石流の起点周辺にあった盛り土について「違法な盛り土が災...",
+          "link": "https://news.yahoo.co.jp/articles/d7250d64a9dc4fd69b90d4a00ec670251ee83a15",
+          "publishedOn": "2021-07-13T12:46:32.000Z",
+          "wordCount": 76,
+          "title": "熱海土石流「違法な盛り土が原因」　静岡副知事が見解示す（毎日新聞） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://nordot.app/787651421096673280",
+          "author": null,
+          "description": "東京五輪の開幕まで10日となった13日、国際オリンピック委員会（IOC）のトーマス・バッハ会長（67）＝ドイツ＝が共同通信のインタビューに応じ、新型コロナウイルス感染拡大の懸念が根強い大会の開催について「日本国民が恐れる必要はない。五輪関係者と日本人を明確に隔離する措置を講じており、大会の安全性に全幅の信...",
+          "link": "https://nordot.app/787651421096673280",
+          "publishedOn": "2021-07-13T12:15:21.000Z",
+          "wordCount": 43,
+          "title": "五輪開催「恐れる必要ない」　バッハ氏、福島と札幌訪問へ ｜ 共同通信"
+        },
+        {
           "id": "https://www.asahi.com/articles/ASP7F6RGWP7FUTIL069.html",
           "author": null,
           "description": "JR東日本は13日、新宿駅の社員11人が新型コロナウイルスに感染したと発表した。11人は、みどりの窓口での切符発売のほか、改札やホームでの案内業務などを担当している。業務中はマスクを着けて接客していたという。利用客との濃厚接触はなく、現時点で列車運行に影響はないという。 同社によると、6日～13日の間に20代...",
@@ -56,6 +83,15 @@
           "publishedOn": "2021-07-13T11:56:13.000Z",
           "wordCount": 216,
           "title": "JR新宿駅の社員11人がコロナ感染　感染経路は不明 [新型コロナウイルス]：朝日新聞デジタル"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c341e679446deabb2ddb6c0d2149a5c9c194a541",
+          "author": null,
+          "description": "今月7日、高岡工芸高校で剣道部の男子部員2人が保護者に暴力を受けたとされる問題で、13日、県教育委員会と高岡工芸高校が会見を開き、詳細を説明しました。 会見には、県教育員会の佐野友昭県立学校課長と高岡工芸高校の篠原俊一郎校長が出席し、説明しました。 それによりますと、今月7日、柔道部の見学のため学校を訪...",
+          "link": "https://news.yahoo.co.jp/articles/c341e679446deabb2ddb6c0d2149a5c9c194a541",
+          "publishedOn": "2021-07-13T11:55:51.000Z",
+          "wordCount": 74,
+          "title": "高校で“保護者”が剣道部員の挨拶に激高か…2人に防具つけさせ面や胴何度も踏みつけ 柔道部見学で学校に（富山テレビ） - Yahoo!ニュース"
         },
         {
           "id": "https://anond.hatelabo.jp/20210713082801",
@@ -2737,6 +2773,78 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/fbb1256d31783d06f63c65a122006d1ca632cdaf?source=rss",
+          "author": null,
+          "description": "接続料の低減や音声通話卸の値下げを受け、MVNO各社が新料金プランを打ち出す中、ソニーネットワークコミュニケーションズのnuroモバイルも、大胆な策を打ち出してきた。新料金プランの「バリュープラス」",
+          "link": "https://news.yahoo.co.jp/articles/fbb1256d31783d06f63c65a122006d1ca632cdaf?source=rss",
+          "publishedOn": "2021-07-13T21:05:14.000Z",
+          "wordCount": 92,
+          "title": "nuroモバイルに聞く、新料金プラン「バリュープラス」の狙い　5GやXperiaの展開は？(ITmedia Mobile)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/888b0f05bac09471f31fe09dfbda1df0ab65baae?source=rss",
+          "author": null,
+          "description": "日々の記事作成や取材において、持ち運べるノートPCは欠かせないものだ。筆者は筆者は個人使用のノートPCとしてレノボ・ジャパンの「ThinkPad X1 Carbon（第7世代）」を使っている。201",
+          "link": "https://news.yahoo.co.jp/articles/888b0f05bac09471f31fe09dfbda1df0ab65baae?source=rss",
+          "publishedOn": "2021-07-13T21:05:07.000Z",
+          "wordCount": 121,
+          "title": "「自動機内モード」はどうやって判定している？　レノボ大和研究所スタッフが語る「ThinkPad」の電源管理の秘密(ITmedia PC USER)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/562df061d68c225d354396458e220f1a7ad0c6dc?source=rss",
+          "author": null,
+          "description": "IPSパネルを採用した薄型モバイル液晶ディスプレイがあきばお～弐號店に入荷した。画面サイズの違いで13.3インチと15.8インチの2モデルが販売されている。店頭価格は順に18,000円、23,000",
+          "link": "https://news.yahoo.co.jp/articles/562df061d68c225d354396458e220f1a7ad0c6dc?source=rss",
+          "publishedOn": "2021-07-13T21:05:00.000Z",
+          "wordCount": 87,
+          "title": "13.3型と15.8型のフルHDモバイルモニターがあきばお～に入荷、18,000円から(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d13ea0767735ba3201c88f9ad58fbe56bc85c0bb?source=rss",
+          "author": null,
+          "description": "おやつカンパニーは7月12日に、ミニカップラーメン「ブタメン」と、「ベビースター」との企業内コラボ商品「ベビースターラーメン×ブタメン」のとんこつ味とうま辛とんこつ味の2種類を、東日本エリアで発売し",
+          "link": "https://news.yahoo.co.jp/articles/d13ea0767735ba3201c88f9ad58fbe56bc85c0bb?source=rss",
+          "publishedOn": "2021-07-13T21:00:00.000Z",
+          "wordCount": 74,
+          "title": "ブタメンとベビースターがコラボ！　すぐに食べられる“0秒ブタメン”誕生(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5741643467e1701bce6220caa3808f9c51e3a2a5?source=rss",
+          "author": null,
+          "description": "インターネットイニシアティブ（IIJ）は、市場に広く普及している安価なBluetooth Low Energy（BLE）センサーを利用して手軽にIoTシステムを構築できる「BLE IoTスターターパ",
+          "link": "https://news.yahoo.co.jp/articles/5741643467e1701bce6220caa3808f9c51e3a2a5?source=rss",
+          "publishedOn": "2021-07-13T21:00:00.000Z",
+          "wordCount": 92,
+          "title": "IIJ、BLEセンサー用いたIoTスターターパッケージを発売(ZDNet Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b7a7d7f6c29c98ad5e324dd5e8a5515c84b82d21?source=rss",
+          "author": null,
+          "description": "富士通クラウドテクノロジーズと日本リーテックは、伐採木の胸高直径算出と樹種の判定を人工知能（AI）が行い、調書作成までを自動化するアプリケーションの開発を進め、実証実験を開始した。\n\n　伐採木は、山",
+          "link": "https://news.yahoo.co.jp/articles/b7a7d7f6c29c98ad5e324dd5e8a5515c84b82d21?source=rss",
+          "publishedOn": "2021-07-13T21:00:00.000Z",
+          "wordCount": 80,
+          "title": "富士通CTと日本リーテック、伐採作業を効率化するAIアプリを実証(ZDNet Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6dbc5ec52464394a776a600e50a88844c4f02ada?source=rss",
+          "author": null,
+          "description": "株式会社M-aidと日本電気株式会社（以下、NEC）は、健康維持・増進に向けた社員の行動変容を促すサービスを、健康経営を志向する企業の人事総務、企業健保などに向け、7月19日から提供開始すると発表し",
+          "link": "https://news.yahoo.co.jp/articles/6dbc5ec52464394a776a600e50a88844c4f02ada?source=rss",
+          "publishedOn": "2021-07-13T21:00:00.000Z",
+          "wordCount": 78,
+          "title": "社員の健康維持・増進に向けた行動変容を促進――、M-aidとNECが連携ソリューションを提供(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c224da0b5d86263d19827206ae5008eec6374926?source=rss",
+          "author": null,
+          "description": "■ 【A】特定方向へ電波を送信することで安定した通信を可能にする技術です\n\n　ビームフォーミングは、無線通信で使われる技術の1つで、特定の方向へ電波を送信したり、特定の方向からの電波を受信したりする技",
+          "link": "https://news.yahoo.co.jp/articles/c224da0b5d86263d19827206ae5008eec6374926?source=rss",
+          "publishedOn": "2021-07-13T21:00:00.000Z",
+          "wordCount": 90,
+          "title": "【Q】ビームフォーミングって何？(Impress Watch)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/92744f319a596c4f7a83d6f75c0aab7ec7c5cd8a?source=rss",
           "author": null,
@@ -9989,6 +10097,195 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/dd88d88e876ae792f36e56e03863c07288dca423?source=rss",
+          "author": null,
+          "description": "『発達障害サバイバルガイド──「あたりまえ」がやれない僕らがどうにか生きていくコツ47』が10万部を突破！ 今回は、著者の借金玉さんに様々な「リアルな困りごと」について質問をぶつけてみました。\n\n●",
+          "link": "https://news.yahoo.co.jp/articles/dd88d88e876ae792f36e56e03863c07288dca423?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 78,
+          "title": "発達障害の僕が発見した「仕事で伝わる文章が書ける人」と「永遠のライター志望」で終わる人の差(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d00931b6012ec39d1467927ff3619b71ddcef018?source=rss",
+          "author": null,
+          "description": "どんな時代でも生き残れる不動産投資家になるための極意とは何か？ 不動産投資で利益をあげ続けるためには、基本となる知識やノウハウを学ぶ必要があります。ハーバード大学デザイン大学院で最先端の知識を学び、",
+          "link": "https://news.yahoo.co.jp/articles/d00931b6012ec39d1467927ff3619b71ddcef018?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 86,
+          "title": "資産拡大の指標、レバレッジドIRR、レバレッジドMultipleとは？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/aa6df3a7e0cf6337237cf96e4340164b2e64057b?source=rss",
+          "author": null,
+          "description": "人気シリーズ16万部突破！『精神科医Tomyが教える １秒で不安が吹き飛ぶ言葉』から、きょうのひと言！\n喧嘩腰（けんかごし）で、ものを言ってくる人っていますよね。\n自分に自信があるんだか、自分が正し",
+          "link": "https://news.yahoo.co.jp/articles/aa6df3a7e0cf6337237cf96e4340164b2e64057b?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 79,
+          "title": "喧嘩は買っちゃダメよ(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3a33ea365bf69d0d5f9b08852baf0b9e36458bc6?source=rss",
+          "author": null,
+          "description": "『LEON』『OCEANS』現在はYoutubeで人気のWEBマガジン『FORZA STYLE』など数々のメンズ誌で、活躍してきたファッションディレクター干場義雅さんの新刊『これだけでいい男の服』が",
+          "link": "https://news.yahoo.co.jp/articles/3a33ea365bf69d0d5f9b08852baf0b9e36458bc6?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 84,
+          "title": "普通でいいのに……。クセのある服を着てしまう人の特徴(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e1bbb76f9fe12c17e34c1d7b68a152706f395a09?source=rss",
+          "author": null,
+          "description": "「株式投資に興味があるけど、何から始めればいいの？」ーー。そんな株式投資ビギナーにおすすめしたいのが『５万円からでも始められる！　黒字転換２倍株で勝つ投資術』（馬渕磨理子著、ダイヤモンド社、6月16",
+          "link": "https://news.yahoo.co.jp/articles/e1bbb76f9fe12c17e34c1d7b68a152706f395a09?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 81,
+          "title": "「黒字転換2倍株投資術」で資産を増やす基本スタンスとは(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c538a205d0b08e845b7a714c38b5086ae5cdc105?source=rss",
+          "author": null,
+          "description": "7月8日、政府は東京都に4度目の緊急事態宣言を発令すると決めた。間を置かずに菅義偉首相（72）は記者会見に臨み、NHK総合などが生中継を行った。\n\n　***",
+          "link": "https://news.yahoo.co.jp/articles/c538a205d0b08e845b7a714c38b5086ae5cdc105?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 86,
+          "title": "毎回不評の「菅会見」　ダメな理由は話し方や内容ではない、もっと根本的な理由があった(デイリー新潮)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bd7d945856d9bdba57c93edb3bc6d22767a04a9a?source=rss",
+          "author": null,
+          "description": "東京オリンピックは、おおむね無観客ではあるけれども開催されるようだ。そんな中で筆者は、アスリートにとってのオリンピックは、歌手にとっての紅白歌合戦に近いことに気が付いた。それを踏まえて、昨年の大みそ",
+          "link": "https://news.yahoo.co.jp/articles/bd7d945856d9bdba57c93edb3bc6d22767a04a9a?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 83,
+          "title": "東京オリンピックは昨年の「紅白歌合戦」を手本とせよ、実は似ている2大行事(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6a6612704a895ad419701e69fe148139c8b6ee05?source=rss",
+          "author": null,
+          "description": "韓国で120万部のミリオンセラーとなった話題書がある。『どうかご自愛ください　～精神科医が教える自尊感情回復レッスン』というタイトルの本だ。精神科医である著者が「自尊感情（≒自己肯定感）」の回復法を",
+          "link": "https://news.yahoo.co.jp/articles/6a6612704a895ad419701e69fe148139c8b6ee05?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 98,
+          "title": "最近よく聞く「自尊感情」って何？ 専門家がわかりやすく解説！(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7fb9764e6c529c1885e36f6db47295992c15b6df?source=rss",
+          "author": null,
+          "description": "現在は「大石内蔵助のような心境」で、勉強を続けている日々と前回語った石破茂・元自民党幹事長。前回に引き続き、政治家が歴史を学ぶ意味などを中心に語ってもらった。石破茂の異論正論、第10回である。",
+          "link": "https://news.yahoo.co.jp/articles/7fb9764e6c529c1885e36f6db47295992c15b6df?source=rss",
+          "publishedOn": "2021-07-13T21:00:32.000Z",
+          "wordCount": 92,
+          "title": "バイデン、習近平、プーチンの思考回路は　「あらゆる事態を想定せよ」石破茂が歴史を学ぶワケ(デイリー新潮)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/63ae4d2e4a05683f072ff65ee5d55e0216158fed?source=rss",
+          "author": null,
+          "description": "警視庁麻布署は１３日までに、コカインを使用したとして、麻薬取締法違反容疑で東京五輪のスタッフとして来日していた米国と英国籍で電気技師の男４人を逮捕した。逮捕は３～５日で、全員容疑を否認している。",
+          "link": "https://news.yahoo.co.jp/articles/63ae4d2e4a05683f072ff65ee5d55e0216158fed?source=rss",
+          "publishedOn": "2021-07-13T21:00:19.000Z",
+          "wordCount": 71,
+          "title": "コカイン使用疑いで来日中の外国人五輪スタッフ４人逮捕　丸川珠代五輪相「大会を傷つける誠に遺憾な行為」(スポーツ報知)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e0ee9f8212d30a4020cf1753d822f98b68dd1090?source=rss",
+          "author": null,
+          "description": "書道や習字でおなじみの「墨」が消滅の危機にさらされている。「墨を擦って文字を書く」機会が減っていく中で、墨の需要が縮小し、職人の後継者不足が深刻化している。さらに新型コロナウイルス禍で、墨業界の置か",
+          "link": "https://news.yahoo.co.jp/articles/e0ee9f8212d30a4020cf1753d822f98b68dd1090?source=rss",
+          "publishedOn": "2021-07-13T21:00:00.000Z",
+          "wordCount": 81,
+          "title": "「墨」を消滅危機から守りたい...クラファン230万円の大盛況　逆風のコロナ禍、立ち上がった職人の奮闘(J-CASTニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/011c2c2f9ceb9c5aee7892c0665c5954bf80ea0e?source=rss",
+          "author": null,
+          "description": "7月3日に静岡県熱海市伊豆山（いずさん）で起きた土石流災害。死者は10名に上るが、なかには命からがら助かった住民も。彼らはどのようにして生き延びることができたのか――\n\n　***",
+          "link": "https://news.yahoo.co.jp/articles/011c2c2f9ceb9c5aee7892c0665c5954bf80ea0e?source=rss",
+          "publishedOn": "2021-07-13T20:59:10.000Z",
+          "wordCount": 82,
+          "title": "熱海土石流、生き延びた人々が語る前日の“異変”と現場の惨状　「もし屋根が割れていなかったら…」(デイリー新潮)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e47dff73b5fba3180edf6911f4da98166db7ad61?source=rss",
+          "author": null,
+          "description": "■この先1週間の天気のポイント■\n　・西日本や東日本は天気急変注意\n　・関東などもまもなく梅雨明けへ\n　・週末から夏本番の暑さ　熱中症に警戒",
+          "link": "https://news.yahoo.co.jp/articles/e47dff73b5fba3180edf6911f4da98166db7ad61?source=rss",
+          "publishedOn": "2021-07-13T20:58:39.000Z",
+          "wordCount": 77,
+          "title": "週間天気　関東など梅雨明けへ　週末以降は各地で真夏の暑さに(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e93951ed090d8f36709e7ce02d8deae3c58cd8e7?source=rss",
+          "author": null,
+          "description": "ワクチン効果で重症者数も死者数も減り、医療が逼迫しなくなった。ようやく自粛要請も緩むかと思いきや、感染者数が増えているからと、五輪は無観客だ、再び緊急事態宣言だ、という声が沸き起こる。もはや不思議の",
+          "link": "https://news.yahoo.co.jp/articles/e93951ed090d8f36709e7ce02d8deae3c58cd8e7?source=rss",
+          "publishedOn": "2021-07-13T20:56:13.000Z",
+          "wordCount": 78,
+          "title": "コロナの「重症者・死亡者」は減少している事実　8月末にはワクチン接種も5割弱が完了(デイリー新潮)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0ae12d2c9f4075467dc80871f2e0b3fe620ea8b4?source=rss",
+          "author": null,
+          "description": "きょう14日(水)は、北海道や沖縄で概ね晴れるものの、九州から東北にかけては不安定な天気が続き、特に、午後は天気の急変に注意が必要だ。\n　日中の最高気温は、西日本を中心に30℃を超える所が多く、この",
+          "link": "https://news.yahoo.co.jp/articles/0ae12d2c9f4075467dc80871f2e0b3fe620ea8b4?source=rss",
+          "publishedOn": "2021-07-13T20:48:36.000Z",
+          "wordCount": 91,
+          "title": "【14日(水)の天気】九州～関東・東北にかけて不安定続く　特に午後は天気急変に注意　熱中症にも警戒を(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a0165fd567e7c9e78ab8df8b1c9d610a9a7172ad?source=rss",
+          "author": null,
+          "description": "東京五輪の開幕を控え、神奈川県内で競技が開催される会場の周辺では一部、交通規制が始まっている。県内競技は全て無観客が決まったものの、大会運営や関係者・選手の円滑な輸送を確保するためで、県は協力を呼び",
+          "link": "https://news.yahoo.co.jp/articles/a0165fd567e7c9e78ab8df8b1c9d610a9a7172ad?source=rss",
+          "publishedOn": "2021-07-13T20:31:01.000Z",
+          "wordCount": 76,
+          "title": "【東京五輪】神奈川・五輪会場付近で交通規制開始　競技は無観客、選手・関係者の輸送確保へ協力呼び掛け(カナロコ by 神奈川新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/48b9eb07b32d77516b29fac11772eed46d292c03?source=rss",
+          "author": null,
+          "description": "エンゼルスの大谷翔平投手（27）が出場した13日の「MLBオールスターゲーム2021」ホームランダービーに、故郷やスポンサー企業など列島も盛り上がった。\n\n　大谷の出身地である岩手県の岩手銀行・水沢",
+          "link": "https://news.yahoo.co.jp/articles/48b9eb07b32d77516b29fac11772eed46d292c03?source=rss",
+          "publishedOn": "2021-07-13T20:30:00.000Z",
+          "wordCount": 75,
+          "title": "地元岩手が!スポンサーが!大谷のホームランダービーに大興奮!(スポニチアネックス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0d99f20b8710cd5beae3b8d1db9b775ba6b62b32?source=rss",
+          "author": null,
+          "description": "30代男性の3人に1人が、50代だと4割が職場の人間関係について「相談できる相手がいない」――人材紹介会社「エイトシークエンス」（東京）が行った「コロナ禍の社内コミュニケーション課題に関する調査」で",
+          "link": "https://news.yahoo.co.jp/articles/0d99f20b8710cd5beae3b8d1db9b775ba6b62b32?source=rss",
+          "publishedOn": "2021-07-13T20:30:00.000Z",
+          "wordCount": 73,
+          "title": "30代男性で3人1人、50代だと4割以上が職場の人間関係で「相談できる相手がいない」(スポニチアネックス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bb4654a03cf9e393c505ac0e561f855b483f7ecf?source=rss",
+          "author": null,
+          "description": "・西日本や東日本は局地的な雷雨のおそれ\n・北日本は日本海側で日差し届く\n・沖縄は夏空継続も急な雨には注意\n\n今日14日(水)も日本列島の上空には寒気が居座り、全国的に大気の状態が不安定です。\n\n特に西",
+          "link": "https://news.yahoo.co.jp/articles/bb4654a03cf9e393c505ac0e561f855b483f7ecf?source=rss",
+          "publishedOn": "2021-07-13T20:26:42.000Z",
+          "wordCount": 79,
+          "title": "今日14日(水)の天気　西日本や東日本は局地的な激しい雷雨に注意(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/89f09c1b53a081cc9228a373a88b980454c193f3?source=rss",
+          "author": null,
+          "description": "西日本から東日本では、あす15日(木)にかけて雷を伴った非常に激しい雨が降り、大雨となる所がある見込み。土砂災害、低い土地の浸水、河川の増水や氾濫に警戒が必要だ。\n　また、落雷や竜巻などの激しい突風",
+          "link": "https://news.yahoo.co.jp/articles/89f09c1b53a081cc9228a373a88b980454c193f3?source=rss",
+          "publishedOn": "2021-07-13T20:25:23.000Z",
+          "wordCount": 85,
+          "title": "西日本～東日本　あす15日(木)にかけて局地的な激しい雷雨のおそれ　土砂災害などに警戒を(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/db96beb04a9742bad9c986e889c428e4dda2d129?source=rss",
+          "author": null,
+          "description": "酒々井～成田駅間で発生した人身事故の影響で、成田線は佐倉～成田駅間の運転を見合わせています。振替輸送を行っています。",
+          "link": "https://news.yahoo.co.jp/articles/db96beb04a9742bad9c986e889c428e4dda2d129?source=rss",
+          "publishedOn": "2021-07-13T20:10:00.000Z",
+          "wordCount": 64,
+          "title": "成田線で人身事故 一部運転見合わせ(レスキューナウニュース)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/b8c294baf7c1554fbf3c3df3a6978094710c2e3b?source=rss",
           "author": null,
@@ -25558,6 +25855,321 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/8eb23a0d780eef2e973e3b8e9442d73a85e1d88f?source=rss",
+          "author": null,
+          "description": "古河電工グループの中核商社である古河産業（本社・東京都港区、社長・横田敦彦氏）は2021年度の連結売上高で、前年度比2割増となる約1千億円を目指す。自動車・電子関連分野が引き続き堅調とみるほか医療関",
+          "link": "https://news.yahoo.co.jp/articles/8eb23a0d780eef2e973e3b8e9442d73a85e1d88f?source=rss",
+          "publishedOn": "2021-07-13T21:06:58.000Z",
+          "wordCount": 70,
+          "title": "古河産業、今期売上高2割増目指す。車・電子関連分野がけん引(鉄鋼新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/751b5d60fa56fd2c6aed9d681d26900240efa0a0?source=rss",
+          "author": null,
+          "description": "北海道地区大手リサイクル業の鈴木商会（本社・札幌市、社長・駒谷僚氏）は13日、釧路市の解体業者・木村工務店（社長・木村秀明氏）の全株式を取得し完全子会社化したと発表した。新体制では社長に駒谷社長が就",
+          "link": "https://news.yahoo.co.jp/articles/751b5d60fa56fd2c6aed9d681d26900240efa0a0?source=rss",
+          "publishedOn": "2021-07-13T21:06:52.000Z",
+          "wordCount": 67,
+          "title": "鈴木商会、釧路の解体業者を子会社化。リサイクル事業を一気通貫(鉄鋼新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1d02d7bcd798ca08c68e616aa5d442f7fb291fa5?source=rss",
+          "author": null,
+          "description": "【1959年式 ヂャイアント AA26F　Vol.2】\n\n【1】から続く\n\n　今回、保護指定するヂャイアントAA26Fは、シリーズの中核を担う1t積みのトラックだ。この個体の登録事項等証明書には初度登",
+          "link": "https://news.yahoo.co.jp/articles/1d02d7bcd798ca08c68e616aa5d442f7fb291fa5?source=rss",
+          "publishedOn": "2021-07-13T21:05:00.000Z",
+          "wordCount": 123,
+          "title": "広島から兵庫へ、温泉施設の中で展示されていた1台｜1959年式 ヂャイアント AA26F　Vol.2(Nosweb.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/054ed77bb1d9ba70d16a0f2e41703328f44efd0f?source=rss",
+          "author": null,
+          "description": "text：Felix Page（フェリックス・ペイジ）\ntranslator：Takuya Hayashi（林 汰久也）\n\n日本のVTホールディングスの傘下に入り、数年後にセブンの完全EVの発売を予定",
+          "link": "https://news.yahoo.co.jp/articles/054ed77bb1d9ba70d16a0f2e41703328f44efd0f?source=rss",
+          "publishedOn": "2021-07-13T21:05:00.000Z",
+          "wordCount": 96,
+          "title": "【英国メーカーの戦い方】ケータハム　元日産の幹部が語る、ブランドの未来　EVセブン(AUTOCAR JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4e399799a21fa31f7fd9d7879db63b6894b89652?source=rss",
+          "author": null,
+          "description": "精神疾患により医療機関にかかっている患者数は日本中で400万人を超えている。そして精神病床への入院患者数は約28万人、精神病床は約34万床あり、世界の5分の1を占めるとされる(数字は2017年時点)。",
+          "link": "https://news.yahoo.co.jp/articles/4e399799a21fa31f7fd9d7879db63b6894b89652?source=rss",
+          "publishedOn": "2021-07-13T21:01:46.000Z",
+          "wordCount": 72,
+          "title": "報徳会宇都宮病院に今も君臨する95歳社主の正体(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a37bd7b6c060a989d26cc7a3c8861d5c98e26639?source=rss",
+          "author": null,
+          "description": "WWI（World War 1、第1次世界大戦）では鉄、WWII（第2次世界大戦）では石油が戦争の帰趨を決める戦略物資だったと言えよう。\n\n　今後起こるかもしれないWWIII（第3次世界大戦）は先端",
+          "link": "https://news.yahoo.co.jp/articles/a37bd7b6c060a989d26cc7a3c8861d5c98e26639?source=rss",
+          "publishedOn": "2021-07-13T21:01:38.000Z",
+          "wordCount": 90,
+          "title": "日本に残された未開拓の「カネのなる木」を掘り起こせ！(JBpress)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6fea8bf8a6695a26ebc021f46fe7bc6f2db4bcbf?source=rss",
+          "author": null,
+          "description": "（桃田 健史:自動車ジャーナリスト）\n\n　日本の自動車メーカーは、このままではEVシフトのグローバルな流れに乗り遅れてしまうのではないか？　──そんな不安を感じさせるような発表が海外であった。",
+          "link": "https://news.yahoo.co.jp/articles/6fea8bf8a6695a26ebc021f46fe7bc6f2db4bcbf?source=rss",
+          "publishedOn": "2021-07-13T21:01:36.000Z",
+          "wordCount": 90,
+          "title": "日本とは別次元？ステランティスが発表した怒涛のEV戦略の中身(JBpress)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/570a83ae0cd73eca069683b802cbf46e185527b7?source=rss",
+          "author": null,
+          "description": "近年「働き方」が急速に変化していく中、フリーランスや起業など以前よりも可能性が広がっています。予約3年待ちの大人気起業コンサルタントである中山ゆう子さんの講座にも、30代後半から50歳前後の人が多く",
+          "link": "https://news.yahoo.co.jp/articles/570a83ae0cd73eca069683b802cbf46e185527b7?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 74,
+          "title": "40代・50代の「普通」や「当たり前」は武器になる！仕事を変える考え方(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0378dcccc8351c7aab2837d08992aba6f635c1ea?source=rss",
+          "author": null,
+          "description": "HR業界を中心に広く話題を集めている書籍『エンゲージメントカンパニー』（広瀬元義著）から特別にエッセンスを紹介していく連載第3回です。「アンリ・ジャール」という架空のワイン好き人物が、22人の多様な",
+          "link": "https://news.yahoo.co.jp/articles/0378dcccc8351c7aab2837d08992aba6f635c1ea?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 73,
+          "title": "新入社員が即戦力化する「オンボーディング」の秘訣(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/77351e751998d96b98ca5205a6f5cd18bbb4fd58?source=rss",
+          "author": null,
+          "description": "これまでは、「売上最大化、利益最大化」が常識だった。\nこれからは、「売上最小化、利益最大化」が常識になるかもしれない。\n「株価上昇率日本一（1164％）の超効率経営」\n「従業員一人あたり利益がトヨタ",
+          "link": "https://news.yahoo.co.jp/articles/77351e751998d96b98ca5205a6f5cd18bbb4fd58?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 105,
+          "title": "矢沢永吉に触発された「D to C」×「サブスクリプション」モデルとリピート率7割の秘密(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f6b11c520371f98a9a31e898a390680b393ed0ba?source=rss",
+          "author": null,
+          "description": "現在、テレビやYouTubeで圧倒的な人気を集める、ひろゆき氏。\n24万部の大ヒットを記録しているベストセラー『１％の努力』では、その考え方について深く掘り下げ、人生のターニングポイントでどのような",
+          "link": "https://news.yahoo.co.jp/articles/f6b11c520371f98a9a31e898a390680b393ed0ba?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 73,
+          "title": "ひろゆきが教える「嫌なことを忘れる画期的な方法・ベスト1」(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/99ae9364dd6af7dd673a91e8c5693a013a1baa1f?source=rss",
+          "author": null,
+          "description": "音響メーカー名門のオンキヨーホームエンターテイメント（オンキヨー）が8月1日、上場廃止になることが決定した。1946年創業で70年を超える老舗企業だったが、デジタル化の波に対応できず業績が悪化。債務",
+          "link": "https://news.yahoo.co.jp/articles/99ae9364dd6af7dd673a91e8c5693a013a1baa1f?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 76,
+          "title": "名門「オンキヨー」上場廃止の裏側、東京商工リサーチが解説(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2cfc217db8445c36e41c248e93c3544e305a034a?source=rss",
+          "author": null,
+          "description": "裸一貫で創業したロッテを、日韓を股に掛けた巨大コンツェルンにまで育て上げたカリスマ経営者、重光武雄。その経営哲学は、前回の連載で述べた2つの行動原則と4つの経営原則だった。とりわけ、「信頼される人に",
+          "link": "https://news.yahoo.co.jp/articles/2cfc217db8445c36e41c248e93c3544e305a034a?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 82,
+          "title": "ロッテ重光の経営戦略の要諦、「消費者が買いたくなるような値打ちのある“サービス”を」(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4b4165e5046c312b3eabd306bd28efe8ac9dc481?source=rss",
+          "author": null,
+          "description": "リモートワークが長期化している今、わかりあえない上司と部下の「モヤモヤ」は最高潮に達している。さらに、経営層からの数字のプレッシャーが高まる一方で、部下にはより細やかなマネジメントが求められる。仕事を",
+          "link": "https://news.yahoo.co.jp/articles/4b4165e5046c312b3eabd306bd28efe8ac9dc481?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 123,
+          "title": "他者を交えて対話する醍醐味はココにある！(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fb612366760eab35db6170ffd8b903dc40225f54?source=rss",
+          "author": null,
+          "description": "1970年に創業した日本最古のハンバーガーチェーン「ドムドムハンバーガー」をご存じだろうか。最盛期の1990年代には全国で400近い店舗を数えた。しかし徐々に店舗を減らし、現在は27店舗しかない「絶",
+          "link": "https://news.yahoo.co.jp/articles/fb612366760eab35db6170ffd8b903dc40225f54?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 85,
+          "title": "“日本一古い遊園地”や“ぞうの国”で新店舗をオープンした理由(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/10750c0d79c86c9ddd7a44b4a860f3a2a79e8b95?source=rss",
+          "author": null,
+          "description": "新型コロナウイルスのワクチン接種の進展で日本経済も21年度後半にかけて、経済活動正常化が期待できる。とはいえ、企業業績の回復には業種間格差、企業間格差が生じ、二極化している。連載『ダイヤモンド決算報",
+          "link": "https://news.yahoo.co.jp/articles/10750c0d79c86c9ddd7a44b4a860f3a2a79e8b95?source=rss",
+          "publishedOn": "2021-07-13T21:01:26.000Z",
+          "wordCount": 78,
+          "title": "予想純利益の減少率の大きい企業ランキング！5位はコスモエネルギーHD、4位はNEC、1位は？(ダイヤモンド・オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/80438e7b2ca12db8c18dae20415c42f15dfcdaf6?source=rss",
+          "author": null,
+          "description": "第2四半期（4－6月期）、ビットコイン（BTC）は6万488.99ドルの史上最高値を記録し、そこから46%安の3万5046.22ドルで四半期を終えた。この値下がりや他の要素から、CoinDeskは先週",
+          "link": "https://news.yahoo.co.jp/articles/80438e7b2ca12db8c18dae20415c42f15dfcdaf6?source=rss",
+          "publishedOn": "2021-07-13T21:00:20.000Z",
+          "wordCount": 71,
+          "title": "ビットコインの弱気相場は不吉なサインではない(CoinDesk Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4682638e09e135b1c287543169b2e3f07a4378e5?source=rss",
+          "author": null,
+          "description": "中長期の資産づくりで基本となるのが投資信託の積み立て。毎月の投信購入代金をクレジットカードで支払えば、ポイントも獲得できて、より効率的に投資できる。楽天証券が以前から楽天カードによる投信積み立てに対",
+          "link": "https://news.yahoo.co.jp/articles/4682638e09e135b1c287543169b2e3f07a4378e5?source=rss",
+          "publishedOn": "2021-07-13T21:00:00.000Z",
+          "wordCount": 76,
+          "title": "ポイント還元でお得なカード積み立て　SBI証券は半年間1％アップ(日経クロストレンド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a37a38383104c4bbcb7d09ffbd6c1cf0f0fa75e6?source=rss",
+          "author": null,
+          "description": "巣ごもり需要を捉えて、コロナ禍の2020年に歴代3番目に大きなブームとなった「ルービックキューブ」。40年以上前に発売された商品でありながら、今なおたびたびムーブメントを巻き起こし、学ぶべきことが多",
+          "link": "https://news.yahoo.co.jp/articles/a37a38383104c4bbcb7d09ffbd6c1cf0f0fa75e6?source=rss",
+          "publishedOn": "2021-07-13T21:00:00.000Z",
+          "wordCount": 75,
+          "title": "40年目にも大ブーム到来　ルービックキューブに学ぶ3世代攻略法(日経クロストレンド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/248e0daf4ce2262cb2797f13d0e54ba2f8cb6030?source=rss",
+          "author": null,
+          "description": "【ニューヨーク共同】13日のニューヨーク株式市場のダウ工業株30種平均は反落し、前日比107.39ドル安の3万4888.79ドルで取引を終えた。6月の米消費者物価指数が高水準となったことを受け、米景",
+          "link": "https://news.yahoo.co.jp/articles/248e0daf4ce2262cb2797f13d0e54ba2f8cb6030?source=rss",
+          "publishedOn": "2021-07-13T20:47:51.000Z",
+          "wordCount": 66,
+          "title": "NY株反落、107ドル安　インフレ懸念でリスク回避(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bf47b9dfc81e0a26af6e6888af6ef2f6707c0660?source=rss",
+          "author": null,
+          "description": "text：Kenichi Suzuki（鈴木ケンイチ）\neditor：Taro Ueno（上野太朗）\n\n世の中は脱炭素時代に走り出している。\n\n日本政府は、2050年のカーボンニュートラル（CO2排出",
+          "link": "https://news.yahoo.co.jp/articles/bf47b9dfc81e0a26af6e6888af6ef2f6707c0660?source=rss",
+          "publishedOn": "2021-07-13T20:45:00.000Z",
+          "wordCount": 96,
+          "title": "あなたのクルマ、乗り続けられる？　話題の液体燃料「eフューエル」とは(AUTOCAR JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/119399986e101683105a85d4beac491e57ba8be3?source=rss",
+          "author": null,
+          "description": "デアゴスティーニ・ジャパンは、本田技研工業のスーパースポーツ「NSX」2019年モデルが1/8スケールモデルで完成するマガジンシリーズ、週刊「Honda NSX」を8月17日より発売する。価格は創刊",
+          "link": "https://news.yahoo.co.jp/articles/119399986e101683105a85d4beac491e57ba8be3?source=rss",
+          "publishedOn": "2021-07-13T20:45:00.000Z",
+          "wordCount": 85,
+          "title": "デアゴスティーニ、週刊「Honda NSX」創刊 2019年モデルを1/8スケールのダイキャストモデルで再現(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a2deb4b7bcd6e230ba780dc1ca80585cad92f532?source=rss",
+          "author": null,
+          "description": "＜ダウ工業30種平均＞　　　　\n\n　　34888.79　　　　　\n\n　　前日比　－107.39",
+          "link": "https://news.yahoo.co.jp/articles/a2deb4b7bcd6e230ba780dc1ca80585cad92f532?source=rss",
+          "publishedOn": "2021-07-13T20:41:25.000Z",
+          "wordCount": 70,
+          "title": "NY株式　　13日終値　　　　(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bc3b744856edebb8e17bec141aae491690142d78?source=rss",
+          "author": null,
+          "description": "【ニューヨーク共同】13日のニューヨーク株式市場のダウ工業株30種平均は反落し、前日比107.39ドル安の3万4888.79ドルで取引を終えた。",
+          "link": "https://news.yahoo.co.jp/articles/bc3b744856edebb8e17bec141aae491690142d78?source=rss",
+          "publishedOn": "2021-07-13T20:34:39.000Z",
+          "wordCount": 65,
+          "title": "NY株反落、107ドル安(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/dc5bb4ed76c1ece33b4c04853bb4044f1a4ea120?source=rss",
+          "author": null,
+          "description": "世界的祭典は、「緊急事態」のさなかに開かれることとなった。\n\n　東京五輪開幕まで2週間を切った7月12日、東京都で4度目となる緊急事態宣言が発令された。期間は8月22日までを予定する。\n\n　都内の1",
+          "link": "https://news.yahoo.co.jp/articles/dc5bb4ed76c1ece33b4c04853bb4044f1a4ea120?source=rss",
+          "publishedOn": "2021-07-13T20:31:41.000Z",
+          "wordCount": 72,
+          "title": "4度目の宣言、「禁酒徹底」は二転三転で広まる混乱(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3747811951f44665c768087fe6e90ee3c5040dd0?source=rss",
+          "author": null,
+          "description": "酪農業の小笠原牧場（本社西尾市花蔵町西島１０４、小笠原正秀社長、電話０５６３・５２・１６４８）は、有機肥料の拡販に力を入れている。自社で飼育している乳牛など約４２０頭のふん尿を使用。牛ふんを水分調整",
+          "link": "https://news.yahoo.co.jp/articles/3747811951f44665c768087fe6e90ee3c5040dd0?source=rss",
+          "publishedOn": "2021-07-13T20:15:28.000Z",
+          "wordCount": 99,
+          "title": "明日を拓く経営　東海で頑張る中小企業　酪農業の小笠原牧場　地域で資源循環型農業確立　有機肥料を拡販　餌におからなど食品副産物利用　ふん全量使用へ(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/78acf9f0376609f376374a9042c03c5e4e5bac8e?source=rss",
+          "author": null,
+          "description": "納豆メーカーの小杉食品（本社桑名市能部花貝戸４０１、小杉悟社長、電話０５９４・３３・３７１０）は、介護食分野の参入に向けた納豆新製品の開発プロジェクトで、インターンシップの大学生が活躍している。学生",
+          "link": "https://news.yahoo.co.jp/articles/78acf9f0376609f376374a9042c03c5e4e5bac8e?source=rss",
+          "publishedOn": "2021-07-13T20:15:27.000Z",
+          "wordCount": 96,
+          "title": "小杉食品　介護食の新製品開発へ　インターンシップ生が活躍　ニーズ発掘　〝粘り強く〟(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/54225e831aae734c67a05f1f00ceb8e3ddb00069?source=rss",
+          "author": null,
+          "description": "大垣共立銀行は13日、企業や個人から譲り受けた余剰食品を施設や家庭に無償提供する活動を行う「フードバンクぎふ」（大垣市荒尾町、赤星守雄代表）と、フードバンク活動に関する連携協定を結んだ。これに基づい",
+          "link": "https://news.yahoo.co.jp/articles/54225e831aae734c67a05f1f00ceb8e3ddb00069?source=rss",
+          "publishedOn": "2021-07-13T20:15:26.000Z",
+          "wordCount": 91,
+          "title": "大垣共立銀　フードバンク活動を積極展開　推進団体と連携、３拠点で余剰食品収集(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/362789bbd50298b03019a46ac53e56883be5ba2b?source=rss",
+          "author": null,
+          "description": "安城市で東京五輪の事前合宿を行っているカナダ女子ソフトボール代表チームを食事でもてなそうと、安城市内の飲食店27店舗が日替わりで弁当を選手らに届けている。市から相談を受けた安城商工会議所青年部が飲食",
+          "link": "https://news.yahoo.co.jp/articles/362789bbd50298b03019a46ac53e56883be5ba2b?source=rss",
+          "publishedOn": "2021-07-13T20:15:25.000Z",
+          "wordCount": 93,
+          "title": "安城会議所青年部が呼び掛け　安城の〝食〟を五輪カナダ代表に　飲食店27店参画　生産者と飲食店つなぐ(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ad821108f5556525357fe4949d8d9b87e0977b78?source=rss",
+          "author": null,
+          "description": "生産設備向け部品加工の近藤ステンレス（本社豊明市新栄町６の13、近藤康男社長、電話０５６２・９７・１４２０）は、薄板専用の炭酸ガスレーザー加工機をこのほど導入した。新型コロナウイルスで受注が減少する",
+          "link": "https://news.yahoo.co.jp/articles/ad821108f5556525357fe4949d8d9b87e0977b78?source=rss",
+          "publishedOn": "2021-07-13T20:15:24.000Z",
+          "wordCount": 92,
+          "title": "近藤ステンレス　専用レーザー加工機導入　極薄板加工の新規受注狙う(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3168b92b92eae1f45081d40dd5888d9a57e65006?source=rss",
+          "author": null,
+          "description": "分譲住宅メーカーのウッドフレンズ（本社名古屋市）が13日発表した２０２１年５月期連結決算は、経常利益が前期比２・９倍の９億１５００万円だった。木製の外壁など利益率の高い独自商品が寄与した。売上高は０",
+          "link": "https://news.yahoo.co.jp/articles/3168b92b92eae1f45081d40dd5888d9a57e65006?source=rss",
+          "publishedOn": "2021-07-13T20:15:23.000Z",
+          "wordCount": 97,
+          "title": "決算を読む　ウッドフレンズ　21年５月期　独自商品寄与し経常益２．９倍　住宅建設調整で売上高は微減　今期は過去最高見込む(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6b78ca769afb24b01737e3736ba02a031f304b23?source=rss",
+          "author": null,
+          "description": "名古屋大学発ベンチャーで新規抗体医薬品の研究開発を手掛けるｉＢｏｄｙ（アイボディ、本社名古屋市千種区不老町１、天草陽（よう）社長、電話０５２・７５３・８６５４）は、大学の医学部と共同で、臓器・組織で",
+          "link": "https://news.yahoo.co.jp/articles/6b78ca769afb24b01737e3736ba02a031f304b23?source=rss",
+          "publishedOn": "2021-07-13T20:15:23.000Z",
+          "wordCount": 94,
+          "title": "名大発ベンチャーのｉＢｏｄｙ　固形がん治療薬開発へ　効率的な抗体取得技術活用　製薬企業と提携目指す(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/518864cc82a2714826f272b90d259a66ee3c0597?source=rss",
+          "author": null,
+          "description": "豊田合成は、除菌効果がある深紫外ＬＥＤ（発光ダイオード）を活用した製品を拡充する。昨年末に発売した第１弾の「空間除菌装置」を含め今年中に計５製品をそろえる。最終製品に限らず、来年までにＬＥＤ光源単品",
+          "link": "https://news.yahoo.co.jp/articles/518864cc82a2714826f272b90d259a66ee3c0597?source=rss",
+          "publishedOn": "2021-07-13T20:15:22.000Z",
+          "wordCount": 91,
+          "title": "豊田合成　ＬＥＤ除菌製品拡充　法人向け光源、水浄化ユニットも(中部経済新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a46b8eaafa7fb3c89843600d2f21cff0e8843853?source=rss",
+          "author": null,
+          "description": "中央最低賃金審議会（厚生労働相の諮問機関）の小委員会は14日、2021年度地域別最低賃金の水準について、労働者と経営者それぞれの代表と有識者が引き続き未明まで議論を続けたが、いったん打ち切り、同日午",
+          "link": "https://news.yahoo.co.jp/articles/a46b8eaafa7fb3c89843600d2f21cff0e8843853?source=rss",
+          "publishedOn": "2021-07-13T20:12:22.000Z",
+          "wordCount": 68,
+          "title": "最低賃金協議、午前10時再開へ　未明にいったん打ち切り(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d4892ee19d71e1e95c241bba075f96329ce98aa3?source=rss",
+          "author": null,
+          "description": "2021年度地域別最低賃金の水準について議論している中央最低賃金審議会の小委員会は14日未明、協議をいったん打ち切った。同日午前10時に再開する。",
+          "link": "https://news.yahoo.co.jp/articles/d4892ee19d71e1e95c241bba075f96329ce98aa3?source=rss",
+          "publishedOn": "2021-07-13T20:09:44.000Z",
+          "wordCount": 63,
+          "title": "最低賃金協議打ち切り、14日朝再開へ(共同通信)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/0ed6715b2c7b75872447597998220b10e5931282?source=rss",
           "author": null,
           "description": "“ホテルの深層”に迫る本連載では前回、人気ビジネスホテルとして知られる「ドーミーイン」にフォーカスし、そのアイデンティティーともいえる“大浴場”について深掘りした。今回は、大浴場の続きとしてコアなフ",
@@ -40586,6 +41198,51 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/ak2ie/items/bb3c79d2f34a6205b15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Twilioオンラインコンテスト2021の6月分に応募するために「PPAPTwilio - パスワードは電話で送ろう」を作りました。\nTwilioのCLI、Studio、Functions、Sync…",
+          "link": "https://qiita.com/ak2ie/items/bb3c79d2f34a6205b15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T13:08:21.000Z",
+          "wordCount": 426,
+          "title": "Twilioを使って電話でパスワードを伝えるシステムを作った"
+        },
+        {
+          "id": "https://qiita.com/bosenohito/items/86c9c467b05aca75c495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n\n\n突然ですがみなさん、最後に海外旅行に行ったのはいつですか？\n多くの方は1年以上海外旅行に行けていないのではないでしょうか？\n\n申し遅れました、Yunoと申します。\n【Twitterアカウン…",
+          "link": "https://qiita.com/bosenohito/items/86c9c467b05aca75c495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T10:36:15.000Z",
+          "wordCount": 364,
+          "title": "【個人開発】海外旅行になかなか行けないので、コロナ禍の渡航難易度を可視化するサービスを作ってみた。"
+        },
+        {
+          "id": "https://qiita.com/Osaifu-Crypto/items/b5fad10cfa242be7c27d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "仮想通貨トレードbotのオープンソースライブラリpybottersを利用して、バックテスト用のデータを保存するスクリプトです。本記事の内容はpybotters開発者のまちゅけんさんのDiscordで…",
+          "link": "https://qiita.com/Osaifu-Crypto/items/b5fad10cfa242be7c27d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T09:10:09.000Z",
+          "wordCount": 524,
+          "title": "pybottersでbybitの約定履歴と板情報をMongodbに保存するスクリプト"
+        },
+        {
+          "id": "https://qiita.com/rkiyose/items/1d9783889a97885b0e92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n業務でDjangoで作ったシステムのデータを暗号化してDBで保管するという\nタスクに携わったので、その方法を記事にしたいと思います。\n\nこの記事で触れること\n\n\nModelの値を暗号化してDB…",
+          "link": "https://qiita.com/rkiyose/items/1d9783889a97885b0e92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T08:51:34.000Z",
+          "wordCount": 439,
+          "title": "Django でモデルフィールドの値を暗号化してくれる EncryptedField を作成する方法"
+        },
+        {
+          "id": "https://qiita.com/mokichi/items/d46a82d1248cdbe47a2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Phoenix LiveViewをご存じない方へ\n\nWebアプリを開発するにあたって、リッチなUIを実現するためにReactやVue.jsでSPAを実装し、APIをGo等で実装するというように、フロ…",
+          "link": "https://qiita.com/mokichi/items/d46a82d1248cdbe47a2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T08:01:40.000Z",
+          "wordCount": 574,
+          "title": "[Elixir] Phoenix LiveViewのテストを書く"
+        },
+        {
           "id": "https://qiita.com/lilxyzw/items/3684d8f252ab1894773a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "先日私がリリースいたしましたUnity向けシェーダー「lilToon」についての話です。\n公開直後ながら既に多くのご支援をいただいており、心より感謝申し上げます。\n今回の記事はlilToon向けの話…",
@@ -40620,6 +41277,15 @@
           "publishedOn": "2021-07-13T01:26:16.000Z",
           "wordCount": 850,
           "title": "Customizing Your Own Nerves System (Nervesをカスタマイズする)"
+        },
+        {
+          "id": "https://qiita.com/ham0215/items/1276853af5c54867ca71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "最近、プロダクトを作って納品して終わりではなく、同じプロダクトを継続して開発していくことが多いと思います。\n私もその一人です。\nSIerとして開発していたときと比較して、継続して開発するようになって…",
+          "link": "https://qiita.com/ham0215/items/1276853af5c54867ca71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T23:59:53.000Z",
+          "wordCount": 329,
+          "title": "SIerだった私が1つのプロダクトを継続開発するようになって意識するようになったこと"
         },
         {
           "id": "https://qiita.com/e99h2121/items/df0b2ab119ad3248742e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -40667,6 +41333,15 @@
           "title": "プログラミング初心者が書いたMVCモデルについて"
         },
         {
+          "id": "https://qiita.com/kudota/items/419abc212de4be74fca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "PHP8.1からenumが使えるようになります\n\nPHP8.1は2021年11月25日リリース予定です。\n追加される新機能は以下を参考\nhttps://stitcher.io/blog/new-in…",
+          "link": "https://qiita.com/kudota/items/419abc212de4be74fca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T12:00:08.000Z",
+          "wordCount": 386,
+          "title": "PHP8.1でenumが使えるようになる！"
+        },
+        {
           "id": "https://qiita.com/rana_kualu/items/ae96400a0a6981eca64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "新潟←ちょっとこれを読んでみてください。\n\n読めましたね。\n\nではちょっと画面から目を離して、niigata←これを漢字で書いてみてください。\n\n8割くらいの人は書けなかったんじゃないかなと思います。\n\nと…",
@@ -40692,6 +41367,15 @@
           "publishedOn": "2021-07-12T08:41:41.000Z",
           "wordCount": 620,
           "title": "Hyperledger Fabric Private Chaincodeを動かしてみる"
+        },
+        {
+          "id": "https://qiita.com/Sugawara_Miti/items/e716ae41e80f69aabc4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは。現在、大学院生で自然言語処理の研究をしています。言語処理100本ノックの問題を解いたので、復習がてら載せていこうと思います。\n\n言語処理100本ノック\n\n第１章：準備運動\n\n00.文字列の逆順\n\n問題：文字列”stressed”の文字を逆に（末尾から先頭に向かって）並べた文字列を得よ…",
+          "link": "https://qiita.com/Sugawara_Miti/items/e716ae41e80f69aabc4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T04:01:55.000Z",
+          "wordCount": 619,
+          "title": "言語処理100本ノック 2020　第１章"
         },
         {
           "id": "https://qiita.com/ppt_msdg_maas/items/821f3de8e6d7656f4c07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
