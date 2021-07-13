@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210713/k10013137451000.html",
+          "author": null,
+          "description": "国税庁は13日、職員7人が新型コロナウイルスに感染したと発表しました。 いずれも今月上旬、3人以上の職場の飲み会に参加し、東京都のまん延防止等重点措置に基づく要請に従っていなかったということです。 国税庁によりますと、新型コロナウイルスに感染したのは、いずれも東京・霞が関で勤務し課税部に所属する20代か...",
+          "link": "https://www3.nhk.or.jp/news/html/20210713/k10013137451000.html",
+          "publishedOn": "2021-07-13T08:10:55.000Z",
+          "wordCount": 24,
+          "title": "国税庁職員 3人以上の飲み会に参加 7人が感染 | 新型コロナウイルス | NHKニュース"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210713/k10013137371000.html",
           "author": null,
           "description": "東京都は13日、都内で新たに830人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の火曜日より237人増え、24日連続で前の週の同じ曜日を上回りました。 また都は、感染が確認された2人が死亡したことを明らかにしました。 東京都は13日、都内で新たに10歳未満から90代までの男女合わせて830...",
@@ -29,6 +38,15 @@
           "publishedOn": "2021-07-13T07:52:10.000Z",
           "wordCount": 30,
           "title": "東京都 新型コロナ 2人死亡 830人感染 前週火曜日より237人増 | 新型コロナ 国内感染者数 | NHKニュース"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/13/news110.html",
+          "author": null,
+          "description": "セブン-イレブン・ジャパンが7月11日に始めたTwitterキャンペーンが波紋を呼んでいる。無料クーポンをプレゼントする企画だったが、応募のためには個人のTwitterアカウントと外部アプリを連携しようとすると過大な権限が要求されるため、不適切として批判の声が上がっていた。 セブン-イレブン・ジャパンが7月11日に始め...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/13/news110.html",
+          "publishedOn": "2021-07-13T06:53:23.000Z",
+          "wordCount": 145,
+          "title": "「権限要求多すぎ」──セブン-イレブンのTwitterキャンペーンに批判相次ぐ→中止に　なぜこうなったかは「確認中」 - ITmedia NEWS"
         },
         {
           "id": "https://contents.xj-storage.jp/xcontents/37600/20fd247e/72d9/4f24/a5e8/648cd95e6b26/140120210713466022.pdf",
@@ -2548,6 +2566,186 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/3ec1d4052f3383fe18c1eeb3782d54af69459c54?source=rss",
+          "author": null,
+          "description": "KADOKAWAは7月13日、映像や音楽などのサブスクリプション型サービスを契約する社員に対し、毎月2000円を支給する「サブスク手当」を1日から導入していると発表した。福利厚生の一環で、余暇の充実",
+          "link": "https://news.yahoo.co.jp/articles/3ec1d4052f3383fe18c1eeb3782d54af69459c54?source=rss",
+          "publishedOn": "2021-07-13T11:05:18.000Z",
+          "wordCount": 75,
+          "title": "KADOKAWAが「サブスク手当」導入、月2000円　映像や音楽など140サービスの利用者に支給(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6679b40e5facd9fc58e6e635f413874c8fc52bf6?source=rss",
+          "author": null,
+          "description": "ダイニングのインテリアにある「ソニー製品」に新型が登場する。\n\nソニーは7月13日、新型グラスサウンドスピーカー「LSPX-S3」を発表した。予想実売価格は3万9000円（税込）、8月6日発売予定。",
+          "link": "https://news.yahoo.co.jp/articles/6679b40e5facd9fc58e6e635f413874c8fc52bf6?source=rss",
+          "publishedOn": "2021-07-13T11:00:04.000Z",
+          "wordCount": 85,
+          "title": "在宅ワークの安らぎに。ソニーの「光がゆらぐスピーカー」を体験…違いは？(BUSINESS INSIDER JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/847cd520718ff7b3789cacfbe2017a68b465849f?source=rss",
+          "author": null,
+          "description": "楽天モバイルは7月4日に、Stand Alone方式5Gモバイルネットワークにおけるデータ通信の実証を、東京工業大学の協力のもと東京工業大学大岡山キャンパスで行い、成功したことを発表した。",
+          "link": "https://news.yahoo.co.jp/articles/847cd520718ff7b3789cacfbe2017a68b465849f?source=rss",
+          "publishedOn": "2021-07-13T11:00:00.000Z",
+          "wordCount": 90,
+          "title": "楽天モバイル、Stand Aloneの5Gモバイルネットワークでデータ通信の実証成功(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/29e02162292efb84d191e5de95ab8dc3e0eb39d5?source=rss",
+          "author": null,
+          "description": "野村総合研究所は、中国のICT分野で著名なシンクタンクである中国信息通信研究院（中国信通院）産業規画研究所との間で、「デジタル社会資本とスマートシティの国際共同研究協定」を5月に結び、共同研究プロジ",
+          "link": "https://news.yahoo.co.jp/articles/29e02162292efb84d191e5de95ab8dc3e0eb39d5?source=rss",
+          "publishedOn": "2021-07-13T11:00:00.000Z",
+          "wordCount": 79,
+          "title": "野村総合研究所、中国信息通信研究院と共同研究プロジェクトを開始(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ff1dd7a8ce1856dc497ccacd88104fac350a83cf?source=rss",
+          "author": null,
+          "description": "ダイアモンドヘッドは7月13日に、「ROOMMATE（ルームメイト）」ブランドから、「ROOMMATE 黒にんにく発酵器 RM-AZ1000H」をAmazon.co.jpにて発売した。価格は9357",
+          "link": "https://news.yahoo.co.jp/articles/ff1dd7a8ce1856dc497ccacd88104fac350a83cf?source=rss",
+          "publishedOn": "2021-07-13T11:00:00.000Z",
+          "wordCount": 84,
+          "title": "自宅で簡単ににんにく発酵！　「ROOMMATE 黒にんにく発酵器 RM-AZ1000H」(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e6630b32c0f8230287c58e31c7cf4f6f76026324?source=rss",
+          "author": null,
+          "description": "神社データベースサイト「カミムスビ」は7月12日、“オンライン賽銭”機能を巡る一連の炎上について、神社本庁に謝罪と経緯説明を行ったことを明らかにしました。併せて、関係者に向けて「ご心配ご迷惑をお掛け",
+          "link": "https://news.yahoo.co.jp/articles/e6630b32c0f8230287c58e31c7cf4f6f76026324?source=rss",
+          "publishedOn": "2021-07-13T10:59:05.000Z",
+          "wordCount": 77,
+          "title": "“オンライン賽銭”で物議をかもした「カミムスビ」、サイトの今後について発表　神社本庁にも経緯説明(ねとらぼ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/abbf111061021b93f5ea502dec54e5951d686da5?source=rss",
+          "author": null,
+          "description": "さまざまな種類がある「プログラミング言語」は、それぞれに特徴や使われる場面が異なり、どの言語のスキルを持っているかで企業からの需要や年収が変わってきます。\n\n　人材会社のパーソルキャリアが運営する「",
+          "link": "https://news.yahoo.co.jp/articles/abbf111061021b93f5ea502dec54e5951d686da5?source=rss",
+          "publishedOn": "2021-07-13T10:55:00.000Z",
+          "wordCount": 79,
+          "title": "ITエンジニアが学びたいプログラミング言語ランキング！　2位の「Java」を上回る1位は？ 【2020年調査】(ねとらぼ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/345bd505420c1f59c6bc1faff31fa12b0bcf21fa?source=rss",
+          "author": null,
+          "description": "Twitter Japanは7月13日、23日から開催予定の東京オリンピック・パラリンピックのデマ対策について、米Twitterが2020年の米大統領選で行ったものと同じ取り組みを行う可能性があると",
+          "link": "https://news.yahoo.co.jp/articles/345bd505420c1f59c6bc1faff31fa12b0bcf21fa?source=rss",
+          "publishedOn": "2021-07-13T10:42:26.000Z",
+          "wordCount": 88,
+          "title": "Twitter、東京五輪のデマ対策は「2020年の米大統領選に近い形」か(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/35e650a0c4133e24c4b5c277b448d87af858c0a5?source=rss",
+          "author": null,
+          "description": "民間気象会社の日本気象（大阪府大阪市）は7月13日、天気予報が外れると1万円が当たる気象予報サイト「FRAN」（フラン）の提供を始めた。同Webサイトで発表した天気予報がたくさん外れた地域のユーザー",
+          "link": "https://news.yahoo.co.jp/articles/35e650a0c4133e24c4b5c277b448d87af858c0a5?source=rss",
+          "publishedOn": "2021-07-13T10:40:56.000Z",
+          "wordCount": 78,
+          "title": "「天気予報が外れたら1万円が当たる」Webサイト、民間の気象会社がオープン　「天気予報が外れたおわびになれば」(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/79d6eb84ba54c704e95d32d4e6faeea380469e3c?source=rss",
+          "author": null,
+          "description": "LVMH ウォッチ・ジュエリー ジャパンは、腕時計ブランド「タグ・ホイヤー」と任天堂の長期的なコラボレーションを発表、「スーパーマリオ」をテーマにした限定モデル「タグ・ホイヤー コネクテッド×スーパー",
+          "link": "https://news.yahoo.co.jp/articles/79d6eb84ba54c704e95d32d4e6faeea380469e3c?source=rss",
+          "publishedOn": "2021-07-13T10:35:12.000Z",
+          "wordCount": 96,
+          "title": "タグ・ホイヤー×スーパーマリオ、一緒に運動できるスマートウォッチ(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/590c08f3695b8a6df580332072b756486a3e0db8?source=rss",
+          "author": null,
+          "description": "『劇場版「鬼滅の刃」無限列車編』が、フジテレビ系土曜プレミアムにて9月25日21時よりテレビ初放送されることが発表された。\n\n昨年10月に上映開始され、興行収入400億円超という歴史的大ヒットを記録し",
+          "link": "https://news.yahoo.co.jp/articles/590c08f3695b8a6df580332072b756486a3e0db8?source=rss",
+          "publishedOn": "2021-07-13T10:32:19.000Z",
+          "wordCount": 72,
+          "title": "『劇場版「鬼滅の刃」無限列車編』テレビ初放送が決定！ 9/25 21時より全編ノーカットで(PHILE WEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4cf5037f7e4af5414ae495f673653ebade5d4bd1?source=rss",
+          "author": null,
+          "description": "どうぞ付けっぱなしにしてください！\n\nってレベルで持つ。そんな超長寿命なスタミナ性を持った、ファーウェイのスマートウォッチ「HUAWEI WATCH 3」が発表されました。\n\nこれ、実物はまだ触れてい",
+          "link": "https://news.yahoo.co.jp/articles/4cf5037f7e4af5414ae495f673653ebade5d4bd1?source=rss",
+          "publishedOn": "2021-07-13T10:30:01.000Z",
+          "wordCount": 108,
+          "title": "HUAWEIのスマートウォッチは機能山盛りで最長14日持つ(ギズモード・ジャパン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2034061e3aeb50672b366f3e41915d4ed0bc33d4?source=rss",
+          "author": null,
+          "description": "ワークスモバイルジャパンとシスコシステムズ（シスコ）は7月13日、LINE WORKSとWebexが連携を開始したと発表した。今回の連携で、LINE WORKSのチャットからビデオ通話、資料共有とい",
+          "link": "https://news.yahoo.co.jp/articles/2034061e3aeb50672b366f3e41915d4ed0bc33d4?source=rss",
+          "publishedOn": "2021-07-13T10:30:00.000Z",
+          "wordCount": 88,
+          "title": "ワークスモバイルとシスコ、LINE WORKSとWebexの機能連携を開始(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f3e9c1b1df4b12c27e272e1d2eddf861be215d77?source=rss",
+          "author": null,
+          "description": "任天堂は7月13日、公式サイトで「Nintendo Switch 2021年 上半期ダウンロードランキング」を公開した。1位の「モンスターハンターライズ」、3位の「桃太郎電鉄 昭和 平成 令和も定番",
+          "link": "https://news.yahoo.co.jp/articles/f3e9c1b1df4b12c27e272e1d2eddf861be215d77?source=rss",
+          "publishedOn": "2021-07-13T10:29:19.000Z",
+          "wordCount": 103,
+          "title": "人狼ゲーム「Among Us」が2位に　任天堂の上半期ダウンロードランキング(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7cd039e3c04463c86c658832a59e41878a99c2be?source=rss",
+          "author": null,
+          "description": "米国の女性ゲームコレクターが、2つのギネス世界記録を樹立した。1つは、1，599にのぼる電子ゲームのコレクション記録、もう1つは、2，430のプレイ可能なゲームのコレクション記録だ。\n\n\n　米テキサ",
+          "link": "https://news.yahoo.co.jp/articles/7cd039e3c04463c86c658832a59e41878a99c2be?source=rss",
+          "publishedOn": "2021-07-13T10:26:39.000Z",
+          "wordCount": 76,
+          "title": "任天堂ゲームを“全て所持”する米ゲームコレクターが、新たに2つのギネス記録を樹立(リアルサウンド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/681a2b2ad66ac04fbbbfc160d8a7b1bf551f5e45?source=rss",
+          "author": null,
+          "description": "2021年放送開始予定のアニメ「『鬼滅の刃』遊郭編」の新キービジュアル、PVが公開。フジテレビをはじめとする全国30局で放送されることが発表された。\n\n本日7月13日、アニプレックスYouTubeチャ",
+          "link": "https://news.yahoo.co.jp/articles/681a2b2ad66ac04fbbbfc160d8a7b1bf551f5e45?source=rss",
+          "publishedOn": "2021-07-13T10:22:26.000Z",
+          "wordCount": 72,
+          "title": "「『鬼滅の刃』遊郭編」フジテレビはじめ全国30局で2021年放送開始。「無限列車編」の最終上映も決定(PHILE WEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2093367fdbef1f7dccc16488fcc222851a565d4c?source=rss",
+          "author": null,
+          "description": "アートスパークホールディングスが、株主優待制度の新設について発表しました。子会社のセルシスが販売するイラスト・マンガ制作ソフト「CLIP STUDIO PAINT EX（クリスタ）」を、次回の株主優",
+          "link": "https://news.yahoo.co.jp/articles/2093367fdbef1f7dccc16488fcc222851a565d4c?source=rss",
+          "publishedOn": "2021-07-13T10:20:05.000Z",
+          "wordCount": 88,
+          "title": "ペイントソフト「クリスタ」無料券が株主優待に登場　株を保有する間は無料で使用可能に(ねとらぼ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8311d2a2eb472a21b1c8b2e8481a4142b17bba63?source=rss",
+          "author": null,
+          "description": "書店のデジタルトランスフォーメーション（DX）を支援するベンチャー企業のX社（東京都港区）は7月13日、VRを使って書店を開業できるサービスの実証実験を15日から始めると発表した。開業に必要なのは1",
+          "link": "https://news.yahoo.co.jp/articles/8311d2a2eb472a21b1c8b2e8481a4142b17bba63?source=rss",
+          "publishedOn": "2021-07-13T10:17:19.000Z",
+          "wordCount": 79,
+          "title": "1坪あれば10万冊の書店のオーナーに？　“VR書店”の開業を支援するベンチャー(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0f0f62d61b4c4978c77dc0ca8236f1f0ba75d4be?source=rss",
+          "author": null,
+          "description": "先日、未開封の『ゼルダの伝説』や『スーパーマリオ64』のゲームが高額で落札されたニュースが世間を驚かせた。特に『スーパーマリオ64』に関しては、1億7000万円ほどで落札され、世界で最も高価なゲーム",
+          "link": "https://news.yahoo.co.jp/articles/0f0f62d61b4c4978c77dc0ca8236f1f0ba75d4be?source=rss",
+          "publishedOn": "2021-07-13T10:09:59.000Z",
+          "wordCount": 87,
+          "title": "未開封の『スーパーマリオ64』が1億7000万円で落札された裏で、なぜか『スカイリム』が600ドルで落札される(リアルサウンド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7b8c10f6b6631e30cbf912a91ba69fc8f13659e8?source=rss",
+          "author": null,
+          "description": "理化学研究所とエムティーアイの共同研究グループは、スーパーコンピュータ「富岳」を使い、首都圏において30秒ごとに更新する30分後までの超高速高性能降水予報のリアルタイム実証実験を7月20日から8月8日",
+          "link": "https://news.yahoo.co.jp/articles/7b8c10f6b6631e30cbf912a91ba69fc8f13659e8?source=rss",
+          "publishedOn": "2021-07-13T10:07:19.000Z",
+          "wordCount": 74,
+          "title": "「富岳」で30秒ごとのゲリラ豪雨予測。理研など(Impress Watch)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7de14fe92c6e7b658ca2b85e2541deb489fbb903?source=rss",
           "author": null,
@@ -9431,6 +9629,186 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/fac3cf5418cb4f980bde98763d63716b1fe193cc?source=rss",
+          "author": null,
+          "description": "国税庁の職員7人が飲酒を伴う3人以上の会食に参加して新型コロナウイルスに感染したことについて、加藤官房長官は「誠に遺憾だ」と述べ、国税庁に対応を指示しました。\n\n　東京都では「まん延防止等重点措置」",
+          "link": "https://news.yahoo.co.jp/articles/fac3cf5418cb4f980bde98763d63716b1fe193cc?source=rss",
+          "publishedOn": "2021-07-13T11:03:53.000Z",
+          "wordCount": 69,
+          "title": "加藤長官「誠に遺憾」国税庁職員3人以上の飲み会に(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4d87f89f7d7a118089d5cb917fa71d9a19996411?source=rss",
+          "author": null,
+          "description": "東京都医師会の尾崎治夫会長は13日の会見で、東京五輪・パラリンピック開催中の新型コロナ対策として「ステイホームオリンピック」の徹底を提言した。\n\n人流抑制の重要性を指摘し、「感染の今の勢いは止まらない",
+          "link": "https://news.yahoo.co.jp/articles/4d87f89f7d7a118089d5cb917fa71d9a19996411?source=rss",
+          "publishedOn": "2021-07-13T11:03:04.000Z",
+          "wordCount": 62,
+          "title": "「ステイホームオリンピック」の徹底　都医師会の尾崎会長が提言(日刊スポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6ab2d45390e96f900ded6a41226623deddb6aa3f?source=rss",
+          "author": null,
+          "description": "プレーリードッグのブイ君はフルーツが大好物。\n\n　至福のひと時です。ところがこの後、突然、逃走することに…。\n\n　この日、ブイ君がスイカをもらえたのは雑草の掃除をお手伝いしたから。\n\n　水分が多くお",
+          "link": "https://news.yahoo.co.jp/articles/6ab2d45390e96f900ded6a41226623deddb6aa3f?source=rss",
+          "publishedOn": "2021-07-13T11:02:47.000Z",
+          "wordCount": 75,
+          "title": "好物放り出し突如逃走？ブイくん、アブにビビった！(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4649eed1aa3122b389b557655dbd8c5fbff0cb63?source=rss",
+          "author": null,
+          "description": "コロナ禍で変化した働き方として、テレワーク（リモートワーク）を導入した企業も少なくないことだろう。\n\nそんな中、従業員や顧客の体験の実態を把握し、改善アクションに繋げていくためのプラットフォームなどを",
+          "link": "https://news.yahoo.co.jp/articles/4649eed1aa3122b389b557655dbd8c5fbff0cb63?source=rss",
+          "publishedOn": "2021-07-13T11:01:19.000Z",
+          "wordCount": 75,
+          "title": "在宅勤務で「ハイパフォーマーに業務が集中」…二極化はなぜ進む? 理由と対応策を聞いた(FNNプライムオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4683459152a62f5f5d290dbc228e13aaf7bc6d9a?source=rss",
+          "author": null,
+          "description": "加藤綾子キャスター:\n緊急事態宣言で国民が我慢を強いられる中、オリンピック開幕まであと10日となりました。\n\n榎並大二郎アナウンサー:\nそんな中、本格始動のIOCバッハ会長がまさかの言い間違いです。",
+          "link": "https://news.yahoo.co.jp/articles/4683459152a62f5f5d290dbc228e13aaf7bc6d9a?source=rss",
+          "publishedOn": "2021-07-13T11:01:19.000Z",
+          "wordCount": 78,
+          "title": "「最も重要なのはチャイニーズピープル（中国国民）」…バッハ会長 痛恨の言い間違い(FNNプライムオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ba788c1fa0a955adce1d067693cf0db15ca759ce?source=rss",
+          "author": null,
+          "description": "ネコをワクワクさせるおもちゃ、回転するネコじゃらしのようなものをネコが追い掛けて楽しむように設計されているはずなのですが…。\n\n　彼の名前はネコのシャオリン。年齢は推定10歳。\n\n　なぜ、これほどま",
+          "link": "https://news.yahoo.co.jp/articles/ba788c1fa0a955adce1d067693cf0db15ca759ce?source=rss",
+          "publishedOn": "2021-07-13T10:59:46.000Z",
+          "wordCount": 74,
+          "title": "“猫じゃらし”を見ても「無の境地」のにゃんこ(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6926f0cbb193088e7b2bba97286dbb61cbf353c3?source=rss",
+          "author": null,
+          "description": "河野太郎ワクチン担当相は１３日のＴＢＳテレビ番組で、希望する国民全員への新型コロナウイルスワクチンの接種完了時期について「極端なことを言えば、１０月半ばには打ち終わる」との見通しを示した。今後１日１２",
+          "link": "https://news.yahoo.co.jp/articles/6926f0cbb193088e7b2bba97286dbb61cbf353c3?source=rss",
+          "publishedOn": "2021-07-13T10:56:48.000Z",
+          "wordCount": 67,
+          "title": "希望者のワクチン接種「１０月半ばに終わる」河野担当相(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3a97248d9ab25e45c541ff9ed6fabe3c7564131c?source=rss",
+          "author": null,
+          "description": "立憲民主党は１３日の常任幹事会で、本多平直衆院議員（５６）＝比例北海道＝が「５０歳が１４歳と同意性交で捕まるのはおかしい」と党法務部会のワーキングチーム（ＷＴ）で発言した問題を受け、党員資格停止１年と",
+          "link": "https://news.yahoo.co.jp/articles/3a97248d9ab25e45c541ff9ed6fabe3c7564131c?source=rss",
+          "publishedOn": "2021-07-13T10:56:03.000Z",
+          "wordCount": 70,
+          "title": "立民、本多氏の公認見送りへ　後任に亀石氏ら浮上(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c4895560e3f25fde3c1186a9effe9bab87013fa2?source=rss",
+          "author": null,
+          "description": "お酒の提供停止を巡る金融機関からの働き掛けの問題について菅総理大臣にも事前に説明があったことが分かりました。この件を巡って菅総理は当初、西村経済再生担当大臣の発言を承知していないと話していました。",
+          "link": "https://news.yahoo.co.jp/articles/c4895560e3f25fde3c1186a9effe9bab87013fa2?source=rss",
+          "publishedOn": "2021-07-13T10:55:35.000Z",
+          "wordCount": 90,
+          "title": "西村大臣発言に閣内ドタバタ　与党からも批判(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e8c75d90fea0d1b72cba219e523db9fe0c1ff200?source=rss",
+          "author": null,
+          "description": "政府は１３日、新型コロナウイルス特別措置法に基づく休業要請などに従わない飲食店との取引を停止するよう酒類販売事業者に求めた通達を撤回する方針を固め、与党に伝えた。通達は内閣官房と国税庁が８日付で業界団",
+          "link": "https://news.yahoo.co.jp/articles/e8c75d90fea0d1b72cba219e523db9fe0c1ff200?source=rss",
+          "publishedOn": "2021-07-13T10:55:14.000Z",
+          "wordCount": 67,
+          "title": "政府「酒売るな」要請も撤回　西村氏陳謝(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/98b904285bc2f7ee92b67b4a920561085326f4fb?source=rss",
+          "author": null,
+          "description": "上方落語協会に所属する男性落語家からセクハラ被害を受けたとして、同協会所属の女性落語家が約780万円の損害賠償を求め、大阪地裁に提訴したことが13日、分かった。同日、地裁（徳増誠一裁判官）で第1回口",
+          "link": "https://news.yahoo.co.jp/articles/98b904285bc2f7ee92b67b4a920561085326f4fb?source=rss",
+          "publishedOn": "2021-07-13T10:54:23.000Z",
+          "wordCount": 67,
+          "title": "女性落語家がセクハラ提訴　上方落語の男性、争う姿勢(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e4adf9238e54a517d5759467ec61e85a8e9f26fb?source=rss",
+          "author": null,
+          "description": "三重大などは13日、愛知県美浜町の水族館「南知多ビーチランド」で飼育しているハンドウイルカが水中であくびするのを発見したと発表した。完全に水中で生活をする哺乳類での観察は世界初だとしている。12日付",
+          "link": "https://news.yahoo.co.jp/articles/e4adf9238e54a517d5759467ec61e85a8e9f26fb?source=rss",
+          "publishedOn": "2021-07-13T10:49:45.000Z",
+          "wordCount": 71,
+          "title": "三重大、イルカのあくび初発見　水中で、定義変える可能性(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bba910852da3454d713d06b86b2e1c1bb00155fd?source=rss",
+          "author": null,
+          "description": "長崎市の端島炭坑（通称・軍艦島）など「明治日本の産業革命遺産」の世界文化遺産登録後の日本政府の措置をめぐり、国連教育科学文化機関（ユネスコ）世界遺産委員会が朝鮮人労働者をめぐる表示が不十分だとして改善",
+          "link": "https://news.yahoo.co.jp/articles/bba910852da3454d713d06b86b2e1c1bb00155fd?source=rss",
+          "publishedOn": "2021-07-13T10:47:46.000Z",
+          "wordCount": 67,
+          "title": "軍艦島関係者に落胆と憤り　ユネスコの朝鮮人労働展示の改善要求(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7f91d97aca040c75de504c0933730e547c0d8173?source=rss",
+          "author": null,
+          "description": "東京オリンピックを巡って、日本の対応に不満を漏らす海外の選手も出てきました。日本に到着したセーリングの中国代表チームが新型コロナウイルスの感染対策が不十分だと訴えていることが分かりました。\n\n　10",
+          "link": "https://news.yahoo.co.jp/articles/7f91d97aca040c75de504c0933730e547c0d8173?source=rss",
+          "publishedOn": "2021-07-13T10:45:31.000Z",
+          "wordCount": 81,
+          "title": "五輪・中国チーム「感染対策に穴」ホテル対応に苦言(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6eae045188e71a37b86881689e6f1fa9652e077b?source=rss",
+          "author": null,
+          "description": "（澤口実歩アナウンサー）\n「私は大谷選手と同じ岩手県出身です(同郷というのが申し訳ないほど遠い存在なのですが・・・笑)。年齢は大谷選手の1学年下で、高校時代に岩手県の球場アナウンスのお手伝いをしていた",
+          "link": "https://news.yahoo.co.jp/articles/6eae045188e71a37b86881689e6f1fa9652e077b?source=rss",
+          "publishedOn": "2021-07-13T10:44:36.000Z",
+          "wordCount": 87,
+          "title": "【緊急コラム】エンゼルス・大谷翔平選手と同郷の読売テレビ・澤口アナと見たホームラン競争！ キーワードは“野球愛”と”岩手愛“(読売テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/67f5719595afb38abc71f2e8ae98a212260d38f9?source=rss",
+          "author": null,
+          "description": "14日（水）は、西日本から東北の広い範囲で天気の急変にご注意下さい。東海から西では、30℃を超える真夏日となる見込みで、熱中症にご注意下さい。",
+          "link": "https://news.yahoo.co.jp/articles/67f5719595afb38abc71f2e8ae98a212260d38f9?source=rss",
+          "publishedOn": "2021-07-13T10:42:48.000Z",
+          "wordCount": 79,
+          "title": "【動画】14日の天気 - 大気不安定 広範囲で雷雨に　広く真夏日予想 熱中症にも注意（13日19時更新）(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c0770eb530e3eeefd3d68fbf9bf3efaa8bb05108?source=rss",
+          "author": null,
+          "description": "自民党の議員連盟「街の酒屋さんを守る国会議員の会」（田中和徳会長）は13日、国会内で緊急総会を開き、酒類販売業者への財政支援拡充を求める要望書をまとめた。新型コロナウイルス対策を巡り、販売業者に対し",
+          "link": "https://news.yahoo.co.jp/articles/c0770eb530e3eeefd3d68fbf9bf3efaa8bb05108?source=rss",
+          "publishedOn": "2021-07-13T10:39:11.000Z",
+          "wordCount": 68,
+          "title": "酒類販売業へ支援拡充要望　自民議連、西村氏発言受け(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2e540c1800fd0f52c2fd55647d3ecb8897e11198?source=rss",
+          "author": null,
+          "description": "4日連続のゲリラ雷雨となりました。\n\n　昼のニュースの中継が終わった直後のことでした。13日正午前、東京・中央区の選手村の前ですが、急に大粒の雨が降ってきました。15分ほど経つと雨は弱まったものの、",
+          "link": "https://news.yahoo.co.jp/articles/2e540c1800fd0f52c2fd55647d3ecb8897e11198?source=rss",
+          "publishedOn": "2021-07-13T10:38:34.000Z",
+          "wordCount": 76,
+          "title": "4日連続ゲリラ雷雨…冠水も　関東で不安定な天気(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b3a58646c3df70980d31ddf5a9682089cd006cdb?source=rss",
+          "author": null,
+          "description": "将棋の最年少2冠、藤井聡太王位（棋聖＝18）に挑戦者の豊島将之竜王（叡王＝31）が先勝した、「お～いお茶杯第62期王位戦7番勝負第2局」（北海道旭川市「花月会館」）は13日午後6時、後手の藤井が42手",
+          "link": "https://news.yahoo.co.jp/articles/b3a58646c3df70980d31ddf5a9682089cd006cdb?source=rss",
+          "publishedOn": "2021-07-13T10:37:40.000Z",
+          "wordCount": 61,
+          "title": "藤井聡太王位が豊島竜王と長考合戦！午後７手しか進まず、第２局初日封じ手(日刊スポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1ab935ee9e3c049587e803911cb056aed1379b09?source=rss",
+          "author": null,
+          "description": "愛知県の大村知事へのリコール運動を巡る署名偽造事件で逮捕・起訴された事務局長の田中孝博被告（60）が13日保釈されました。\n\n\n　田中被告は13日午後3時半すぎ、黒いシャツ姿で勾留先の中村警察署を出",
+          "link": "https://news.yahoo.co.jp/articles/1ab935ee9e3c049587e803911cb056aed1379b09?source=rss",
+          "publishedOn": "2021-07-13T10:37:02.000Z",
+          "wordCount": 78,
+          "title": "リコール署名偽装事件　事務局長の田中孝博被告を保釈　報道陣の質問には答えず(メ〜テレ（名古屋テレビ）)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a2d1592ac6fb310d4141e14274898e4e9570f2b9?source=rss",
           "author": null,
@@ -24315,6 +24693,231 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/0cab2e4b5438ab54fd707257cfad8f92c7ca57f0?source=rss",
+          "author": null,
+          "description": "どんなに過酷な状況であっても、誠心誠意向き合っていれば、必ず報いがある。\n\nそんな願いを体現したような、一生懸命仕事に取り組んでいる1人の青年のエピソードが話題になっている。",
+          "link": "https://news.yahoo.co.jp/articles/0cab2e4b5438ab54fd707257cfad8f92c7ca57f0?source=rss",
+          "publishedOn": "2021-07-13T11:05:40.000Z",
+          "wordCount": 70,
+          "title": "クラファンがもたらす社会連鎖、毎日27キロ歩いて仕事に向かう20歳青年に589万円相当の支援(FINDERS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/29728be187cc1d3b33bea936f14aba004da6ad87?source=rss",
+          "author": null,
+          "description": "アウディは、2024年に登場するアウディの新たなフラッグシップとなるハイテクEVのデザインを決定し、9月に開催されるミュンヘン・モーターショーでコンセプトカー「Grand Sphere（グランド・スフ",
+          "link": "https://news.yahoo.co.jp/articles/29728be187cc1d3b33bea936f14aba004da6ad87?source=rss",
+          "publishedOn": "2021-07-13T11:05:00.000Z",
+          "wordCount": 99,
+          "title": "【高級車A8の後継に】アウディ、次期旗艦モデル　9月にコンセプト公開予定　高度な自動運転技術搭載(AUTOCAR JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2e06f02b7917109fead38725ee211228ec44c4d4?source=rss",
+          "author": null,
+          "description": "6月22日、スウェーデンの首都ストックホルムにあるスウェーデン行政裁判所は、中国の通信機器最大手、華為技術(ファーウェイ)による上訴を棄却する判決を下した。\n\n　ファーウェイは、スウェーデン郵便電気",
+          "link": "https://news.yahoo.co.jp/articles/2e06f02b7917109fead38725ee211228ec44c4d4?source=rss",
+          "publishedOn": "2021-07-13T11:01:42.000Z",
+          "wordCount": 74,
+          "title": "スウェーデン裁判所「ファーウェイ排除」を追認(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f1eb0052412b1f7d4c5f5a27b3bc5d81d3890bbc?source=rss",
+          "author": null,
+          "description": "日産『ノート』をベースにボディをワイド化し、高級感を高めた『ノートオーラ』。日産は「『感性品質』『美・機能』『先進感』の3つにこだわり開発した、『少し先の未来』を感じさせる先進的な新型コンパクトカー」",
+          "link": "https://news.yahoo.co.jp/articles/f1eb0052412b1f7d4c5f5a27b3bc5d81d3890bbc?source=rss",
+          "publishedOn": "2021-07-13T11:00:03.000Z",
+          "wordCount": 91,
+          "title": "【日産 ノートオーラ】3ナンバー化でパワーアップ、デザインは上質を表現［詳細画像］(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1e0f17e234cdf7757b4ed1b09156aee06dfb6107?source=rss",
+          "author": null,
+          "description": "トヨタのプリウス・プリウスPHVが一部改良、また同時にプリウスには特別仕様車「BlackEdition」が登場した。\n\n　また先日このコーナーeKクロス/eKクロススペースのオプションキャンペーンを",
+          "link": "https://news.yahoo.co.jp/articles/1e0f17e234cdf7757b4ed1b09156aee06dfb6107?source=rss",
+          "publishedOn": "2021-07-13T11:00:00.000Z",
+          "wordCount": 89,
+          "title": "プリウスに特別仕様車「Black Edition」登場!!!D:5の10万円プレゼントCPほか 最新新型情報たちを大放出!!!(ベストカーWeb)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0f673fa789298b2de32d17e6576deab4eeef65f3?source=rss",
+          "author": null,
+          "description": "エアバスは、現地時間7月20日から25日にロシアで開催される航空ショー「MAKS」（国際航空宇宙サロン）に、A350 XWBのうち長胴型のA350-1000を出展する。A350-1000はロシア初公",
+          "link": "https://news.yahoo.co.jp/articles/0f673fa789298b2de32d17e6576deab4eeef65f3?source=rss",
+          "publishedOn": "2021-07-13T10:57:00.000Z",
+          "wordCount": 78,
+          "title": "エアバス、露航空ショーにA350-1000初出展　飛行展示も(Aviation Wire)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e7e20cc0218b4babc91f1d8859670c7ad60c64f0?source=rss",
+          "author": null,
+          "description": "劇場版「鬼滅の刃」無限列車編の地上波初放送が決定。フジテレビ系土曜プレミアムにて、9月25日夜9時より放送する。エンディングまでを含めた全編ノーカットでの放送となる。放送後には無限列車編から続く物語と",
+          "link": "https://news.yahoo.co.jp/articles/e7e20cc0218b4babc91f1d8859670c7ad60c64f0?source=rss",
+          "publishedOn": "2021-07-13T10:44:28.000Z",
+          "wordCount": 76,
+          "title": "劇場版「鬼滅の刃」無限列車編、9月25日地上波初放送(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9e696eaff849f62f2d0007dabd5d15b85b9bb492?source=rss",
+          "author": null,
+          "description": "この連載をまとめた『カラー版　東京で見つける江戸』（平凡社新書）が刊行された。著者・香原斗志によるベスト・江戸スポットを紹介する。",
+          "link": "https://news.yahoo.co.jp/articles/9e696eaff849f62f2d0007dabd5d15b85b9bb492?source=rss",
+          "publishedOn": "2021-07-13T10:40:31.000Z",
+          "wordCount": 80,
+          "title": "東京に残る、訪れるべき江戸の名建築、私的ベストテン──東京でみつける江戸 最終回(GQ JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/16378e84f708a6d7d19ba7019023553b086b8e34?source=rss",
+          "author": null,
+          "description": "ファーウェイ・ジャパンは7月13日、スマートウォッチ「HUAWEI WATCH 3」、完全ワイヤレスイヤホン「HUAWEI FreeBuds 4」、スマートオーディオグラス「SMART LANG」「S",
+          "link": "https://news.yahoo.co.jp/articles/16378e84f708a6d7d19ba7019023553b086b8e34?source=rss",
+          "publishedOn": "2021-07-13T10:40:23.000Z",
+          "wordCount": 107,
+          "title": "大量発表のファーウェイの新製品、「HUAWEI WATCH 3」「HUAWEI FreeBuds 4」などファーストタッチレポート(GetNavi web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/60c034b4994631faf04942706c9a06ae5b5020dd?source=rss",
+          "author": null,
+          "description": "ベントレーが2021年7月6日に新型「フライングスパーハイブリッド」を発表したことは記憶に新しい。ここで、公開されたフライングスパーハイブリッドの写真を見て、背景の建築物を含むロケーションが気になっ",
+          "link": "https://news.yahoo.co.jp/articles/60c034b4994631faf04942706c9a06ae5b5020dd?source=rss",
+          "publishedOn": "2021-07-13T10:40:20.000Z",
+          "wordCount": 83,
+          "title": "ベントレーがマッカランとタッグ！ クルマとウイスキーの新たなコラボとは？(くるまのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/65b5b38ac62603027152d491ea266a333763370a?source=rss",
+          "author": null,
+          "description": "Apple Musicは7500万曲以上の作品が“聴き放題”で楽しめる、アップルの定額制音楽配信サービスです。ミュージックビデオの視聴も可能なほか、インターネットラジオ「Apple Music 1」の",
+          "link": "https://news.yahoo.co.jp/articles/65b5b38ac62603027152d491ea266a333763370a?source=rss",
+          "publishedOn": "2021-07-13T10:38:21.000Z",
+          "wordCount": 92,
+          "title": "Apple Musicの「空間オーディオ」とは何か？ 7つのキホンを徹底解説(GetNavi web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/943328f369d8c6835f85337ba9973caf14e421c2?source=rss",
+          "author": null,
+          "description": "【瀋陽＝三塚聖平】中国税関総署が１３日発表した６月の貿易統計（ドル建て）によると、輸出は前年同月比３２・２％増の２８１４億ドル（約３１兆円）だった。新型コロナウイルスの世界的な流行による影響を強く受け",
+          "link": "https://news.yahoo.co.jp/articles/943328f369d8c6835f85337ba9973caf14e421c2?source=rss",
+          "publishedOn": "2021-07-13T10:35:00.000Z",
+          "wordCount": 66,
+          "title": "中国、世界経済回復で６月の輸出は３２％増(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8cfa95ed95435527a2195e0a8a5c22bc1ba7812c?source=rss",
+          "author": null,
+          "description": "TVアニメ「鬼滅の刃」遊郭編の第1弾キービジュアルとPVが解禁された。2021年放送開始予定で、全国30局で放送するという。また、『劇場版「鬼滅の刃」無限列車編』が9月25日にテレビ放送される事も明ら",
+          "link": "https://news.yahoo.co.jp/articles/8cfa95ed95435527a2195e0a8a5c22bc1ba7812c?source=rss",
+          "publishedOn": "2021-07-13T10:31:39.000Z",
+          "wordCount": 106,
+          "title": "「鬼滅の刃」遊郭編、PVとキービジュアル公開。2021年放送開始(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fcd805006d7649e171bbbaf0748785e9684d7c38?source=rss",
+          "author": null,
+          "description": "良品計画は、医薬品や健康情報の提供などを含む“健康領域”に参入する。第一弾として7月20日に、新潟・上越市で運営する世界最大級の店舗「無印良品 直江津」（約5830平方メートル）内に、「まちの保健室」",
+          "link": "https://news.yahoo.co.jp/articles/fcd805006d7649e171bbbaf0748785e9684d7c38?source=rss",
+          "publishedOn": "2021-07-13T10:30:28.000Z",
+          "wordCount": 74,
+          "title": "「無印良品」内に調剤薬局がオープン　「クオール薬局」と組み健康領域に参入(WWDJAPAN.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d260f09cfacab05b86f671b98abc5b689cc61af5?source=rss",
+          "author": null,
+          "description": "自動運転技術の最前線情報をお届けする本連載、第19回となる今回は「トロッコ問題」について。たとえば自動運転技術が搭載されているクルマの前方に幼稚園児の列が歩いていて、咄嗟にハンドルを切ればクルマは谷",
+          "link": "https://news.yahoo.co.jp/articles/d260f09cfacab05b86f671b98abc5b689cc61af5?source=rss",
+          "publishedOn": "2021-07-13T10:30:00.000Z",
+          "wordCount": 81,
+          "title": "究極の自動運転技術は\"トロッコ問題\"にどう対応するのか？【自律自動運転の未来 第19回】(ベストカーWeb)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/71a6573e313029241d732c4e8b808956066a16ce?source=rss",
+          "author": null,
+          "description": "山梨県の特定非営利活動法人（ＮＰＯ法人）が、県有林の木材を使った紙ストロー事業を急拡大させようとしている。令和２年の実績に対し、今年は出荷と販売量を約４倍に拡大させる計画だ。森林の管理・保全の国際認証",
+          "link": "https://news.yahoo.co.jp/articles/71a6573e313029241d732c4e8b808956066a16ce?source=rss",
+          "publishedOn": "2021-07-13T10:30:00.000Z",
+          "wordCount": 78,
+          "title": "高級ブランド「シャネル」が採用！　山梨県の紙ストロー、一気に攻勢(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8147f3cb94b4a2b2ab3fa66b91969b9867a76047?source=rss",
+          "author": null,
+          "description": "渋谷教育学園渋谷中学・高校（渋渋　東京・渋谷）、同幕張中学・高校（渋幕　千葉市）の両校を創立した田村哲夫校長（85）。東京大学など国内の難関大学のほか、海外大に合格する生徒も増えている。校長ブログの第",
+          "link": "https://news.yahoo.co.jp/articles/8147f3cb94b4a2b2ab3fa66b91969b9867a76047?source=rss",
+          "publishedOn": "2021-07-13T10:30:00.000Z",
+          "wordCount": 77,
+          "title": "渋渋出身の医学部アスリート、「おんぶの女子柔道選手」に学ぶ自己肯定感の高め方(NIKKEI STYLE)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9a4bba3b3b6deaf13d85d529da68811014e72662?source=rss",
+          "author": null,
+          "description": "7月13日、フォルクスワーゲン・グループ・ジャパンは、ビッグマイナーチェンジを受けた新型「アルテオン」の日本仕様を発表した。",
+          "link": "https://news.yahoo.co.jp/articles/9a4bba3b3b6deaf13d85d529da68811014e72662?source=rss",
+          "publishedOn": "2021-07-13T10:22:57.000Z",
+          "wordCount": 82,
+          "title": "新型フォルクスワーゲン・アルテオン上陸！ 美しきシューティングブレークも設定へ(GQ JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3965957d9d55bfcc5b41b1f0b068cb637e20a929?source=rss",
+          "author": null,
+          "description": "日本マクドナルドは7月14日から、「チキンマックナゲット 15ピース(ソース3個付き)」を、通常税込580円のところ、30%オフの特別価格“税込390円”で販売する。8月31日までの期間限定。\n\n「チ",
+          "link": "https://news.yahoo.co.jp/articles/3965957d9d55bfcc5b41b1f0b068cb637e20a929?source=rss",
+          "publishedOn": "2021-07-13T10:21:20.000Z",
+          "wordCount": 71,
+          "title": "チキンマックナゲット15ピースが30%オフ390円、ルイジアナホットソース・たまり醤油ソースを復刻/日本マクドナル創業50周年キャンペーン第2弾(食品産業新聞社ニュースWEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c126936e5c1ce9df067189018f25f56867fc6e67?source=rss",
+          "author": null,
+          "description": "スターバックスコーヒージャパンは、6月30日から一斉発売している「47JIMOTOフラペチーノ」の1つとして滋賀県のパートナー（従業員）が考えた「滋賀 びわブルー シトラスクリームフラペチーノ」を滋",
+          "link": "https://news.yahoo.co.jp/articles/c126936e5c1ce9df067189018f25f56867fc6e67?source=rss",
+          "publishedOn": "2021-07-13T10:20:51.000Z",
+          "wordCount": 79,
+          "title": "スターバックス「47JIMOTOフラペチーノ」 滋賀県限定品は、琵琶湖に映るキラキラと輝く夕日を表現したフラペチーノ(食品新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3fc23eff1353c3af993087f47d0470ffa72569c3?source=rss",
+          "author": null,
+          "description": "子ども向け職業体験施設「キッザニア」が2022年夏に福岡県にオープンします。\n\n　2022年に開業予定の「三井ショッピングパーク ららぽーと福岡」（福岡市）のテナントとして出店予定。「キッザニア東京",
+          "link": "https://news.yahoo.co.jp/articles/3fc23eff1353c3af993087f47d0470ffa72569c3?source=rss",
+          "publishedOn": "2021-07-13T10:20:10.000Z",
+          "wordCount": 75,
+          "title": "「キッザニア」が福岡にオープンへ　2022年夏予定(ねとらぼ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/936203221fa6f1c8e296f485a1390c031ea240cc?source=rss",
+          "author": null,
+          "description": "2021年7月13日、日産自動車は「NV200バネット」のエンジンをはじめ各種に渡る一部仕様の変更を発表。同日より販売が開始された。\n\nその利便性の高さで、ビジネスシーンや日常使い、レジャーユースなど",
+          "link": "https://news.yahoo.co.jp/articles/936203221fa6f1c8e296f485a1390c031ea240cc?source=rss",
+          "publishedOn": "2021-07-13T10:20:08.000Z",
+          "wordCount": 76,
+          "title": "日産「NV200バネット」に一部仕様変更。燃費性能に加え各種使い勝手の向上が図られた(Webモーターマガジン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c378065f74d182c0432d46e3763934ce05b422fa?source=rss",
+          "author": null,
+          "description": "text：Jack Phillips（ジャック・フィリップス）\nphoto：Max Edleston（マックス・エドレストン）\ntranslation：Kenji Nakajima（中嶋健治）\n　\n箱",
+          "link": "https://news.yahoo.co.jp/articles/c378065f74d182c0432d46e3763934ce05b422fa?source=rss",
+          "publishedOn": "2021-07-13T10:15:00.000Z",
+          "wordCount": 102,
+          "title": "【チャーミングな元祖SUV】ジープCJ-7　トヨタ・ランドクルーザー FJ40　2台を乗り比べ　前編(AUTOCAR JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ebc0040b0576b0d04f46f10739f8fa95180f3a31?source=rss",
+          "author": null,
+          "description": "去年20周年を迎えた人気スニーカー「BAPE STA」の新コレクション「BAPE SK8 STA COLLECTION（ベイプ・スケート・スタ・コレクション）」が登場する。7月16日に公式オンラインス",
+          "link": "https://news.yahoo.co.jp/articles/ebc0040b0576b0d04f46f10739f8fa95180f3a31?source=rss",
+          "publishedOn": "2021-07-13T10:14:16.000Z",
+          "wordCount": 89,
+          "title": "A BATHING APEの「BAPE STA」から新スニーカーがドロップ！(GQ JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b322562c60012e1db65d9cbef1b2fba0b9349eb7?source=rss",
+          "author": null,
+          "description": "BMWは、2000年に「X5」からSAV（スポーツ アクティビティ ビークル、一般的にいうところのSUV）の展開をスタートさせ、SAC（スポーツ アクティビティ クーペ）の「X6」、そしてXモデル",
+          "link": "https://news.yahoo.co.jp/articles/b322562c60012e1db65d9cbef1b2fba0b9349eb7?source=rss",
+          "publishedOn": "2021-07-13T10:10:52.000Z",
+          "wordCount": 138,
+          "title": "黒すぎるBMW「X5／X6／X7」三兄弟が登場！ 艶消しブラックが人気(くるまのニュース)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/4e7a58b0f41f1ea1d117d16a52222c253c714155?source=rss",
           "author": null,
