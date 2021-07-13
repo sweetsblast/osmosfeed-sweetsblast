@@ -193,6 +193,15 @@
           "title": "信号機倒壊の原因は “犬の尿” 県警科捜研調査 三重 鈴鹿 | NHKニュース"
         },
         {
+          "id": "https://jbpress.ismedia.jp/articles/-/66011",
+          "author": null,
+          "description": "「ビーガンで育てられた赤ちゃんが栄養失調で死亡」 このような痛ましいニュースが定期的に世界中を駆け巡る。そのたびに「ビーガン＝栄養不足」との認識が「健康説」を強く脇に追いやって、世の中に浸透していく。 事件の詳細を見てみれば、そこにはビーガン以前の問題があることがすぐに分かる。ガリガリに痩せ、栄養...",
+          "link": "https://jbpress.ismedia.jp/articles/-/66011",
+          "publishedOn": "2021-07-12T20:14:49.000Z",
+          "wordCount": 308,
+          "title": "ビーガンの息子（小5）は十分な栄養素を取れているのか？ 心配になった母がある日の献立を元に必要な栄養素を計算してみた(1/5) | JBpress (ジェイビープレス)"
+        },
+        {
           "id": "https://www.tokyo-np.co.jp/article/116226",
           "author": null,
           "description": "財務省の決裁文書改ざん問題で自殺した近畿財務局の元職員赤木俊夫さん＝当時（５４）＝が改ざん過程をまとめた「赤木ファイル」を巡る大阪地裁での訴訟で、妻雅子さん（５０）側は１２日、国側が提出した文書から一部のメール記録が欠落しているとして、全ての文書を提出したかどうかを確認するよう地裁に申し立てた。 ...",
@@ -2494,6 +2503,231 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/3a63a424c8fd1f782403cc349e62eb5060ad2d5b?source=rss",
+          "author": null,
+          "description": "大日本印刷株式会社（以下、DNP）は13日、ローカル5Gに対応したSIMカード「DNP SIM for ローカル5G」について、特定の通信機器のみでSIMカードが利用できるよう制御する「ペアリング」",
+          "link": "https://news.yahoo.co.jp/articles/3a63a424c8fd1f782403cc349e62eb5060ad2d5b?source=rss",
+          "publishedOn": "2021-07-13T08:05:41.000Z",
+          "wordCount": 93,
+          "title": "DNP、ローカル5G向けSIMカードの機能・サービスを拡充、特定の通信機器に利用を制限する機能などを追加(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/32d8367ca57a6baa1e0dc09b2c8b2c649506da82?source=rss",
+          "author": null,
+          "description": "Intelは7月27日6時（日本時間）から、オンラインイベント「Intel Accelerated」を開催する。同社が3月23日（米国太平洋時間）に発表した「IDM 2.0」に向けた取り組みの一環と",
+          "link": "https://news.yahoo.co.jp/articles/32d8367ca57a6baa1e0dc09b2c8b2c649506da82?source=rss",
+          "publishedOn": "2021-07-13T08:05:04.000Z",
+          "wordCount": 91,
+          "title": "Intelがオンライン発表会「Intel Accelerated」を7月27日6時（日本時間）から開催　半導体生産のロードマップを披露か(ITmedia PC USER)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f2b42125c4e1b7042b653436de27d429787d6f73?source=rss",
+          "author": null,
+          "description": "Microsoft（マイクロソフト）が6月24日（米国太平洋夏時間）、「Windows 11（ウィンドウズイレブン）」を発表しました。現在の「Windows 10（ウィンドウズテン）」の後継となるO",
+          "link": "https://news.yahoo.co.jp/articles/f2b42125c4e1b7042b653436de27d429787d6f73?source=rss",
+          "publishedOn": "2021-07-13T08:00:06.000Z",
+          "wordCount": 118,
+          "title": "「Windows 11」が2021年秋に登場　どんなパソコンで動く？　パソコンは今買ってもいい？(Fav-Log by ITmedia)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d24f2e680b81d43825afd6558bbe7ee075f3ed76?source=rss",
+          "author": null,
+          "description": "一般的にはあまり知られていない2つの企業が、先進運転支援システム（ADAS）のための新しい深度測定方法を評価するために提携し、2020年代半ばの製品化を目指している。日本の日立アステモは、サンフランシ",
+          "link": "https://news.yahoo.co.jp/articles/d24f2e680b81d43825afd6558bbe7ee075f3ed76?source=rss",
+          "publishedOn": "2021-07-13T08:00:00.000Z",
+          "wordCount": 73,
+          "title": "日立アステモが実用化目指す、LiDARを超えるセンシング技術(Forbes JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/486a0a17189c01ff7558b02ff9aa39119b7db417?source=rss",
+          "author": null,
+          "description": "ウォッチガード・テクノロジー・ジャパン（ウォッチガード）は7月12日、四半期ごとに発行している「インターネットセキュリティレポート」の最新版（21年第1四半期）を発表した\n\n最新版レポートによると、",
+          "link": "https://news.yahoo.co.jp/articles/486a0a17189c01ff7558b02ff9aa39119b7db417?source=rss",
+          "publishedOn": "2021-07-13T08:00:00.000Z",
+          "wordCount": 73,
+          "title": "ウォッチガード、21年第1四半期インターネットセキュリティレポートを発表(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6ab03898608280d6cfb58cd4eb85a06d405d9fe6?source=rss",
+          "author": null,
+          "description": "ニラックスは、同社が運営するブッフェレストラン「グランブッフェ」「エクスブルー」「ブッフェダイナー」などの43店舗で、台湾グルメが堪能できる「台湾美食フェア ～行ったつもりで食べたいわん～」を7月1",
+          "link": "https://news.yahoo.co.jp/articles/6ab03898608280d6cfb58cd4eb85a06d405d9fe6?source=rss",
+          "publishedOn": "2021-07-13T08:00:00.000Z",
+          "wordCount": 68,
+          "title": "グランブッフェなど43店舗で「台湾グルメ」の食べ放題が新登場！(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5e81207ae4d4ec346402dc10a482e46a9f3175d5?source=rss",
+          "author": null,
+          "description": "Skyは、ウェブサイト上のバーチャルイベント「Sky Technology Fair Virtual 2021」を7月12日に開幕した。開催期間は9月10日まで。\n\n\n\n　今回のイベントでは、DXや",
+          "link": "https://news.yahoo.co.jp/articles/5e81207ae4d4ec346402dc10a482e46a9f3175d5?source=rss",
+          "publishedOn": "2021-07-13T07:57:00.000Z",
+          "wordCount": 99,
+          "title": "Sky、オンラインイベント「Sky Technology Fair Virtual 2021」が開幕(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/15fafcc9e671d180d005bbd723cef803dcede509?source=rss",
+          "author": null,
+          "description": "ビックカメラは、PlayStation 5（PS5）の予約販売申し込み受付を、本日7月20日よりビックカメラ.comにて開始した。申し込み期間は明日7月14日の20:59まで。\n\nビックカメラ.com",
+          "link": "https://news.yahoo.co.jp/articles/15fafcc9e671d180d005bbd723cef803dcede509?source=rss",
+          "publishedOn": "2021-07-13T07:52:48.000Z",
+          "wordCount": 87,
+          "title": "ビックカメラ.com、「PS5」抽選販売を開始。7/14 20:59まで(PHILE WEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3f09dd7d690c425d5cc1a104fa9486f0a9c32f28?source=rss",
+          "author": null,
+          "description": "AIベンチャーのSpectee（東京都千代田区）は7月12日、鹿児島県薩摩川内市で10日に発生した河川氾濫を受け、AIを使って浸水範囲を可視化した同市の地図を公開した。同社が開発している、SNSに投",
+          "link": "https://news.yahoo.co.jp/articles/3f09dd7d690c425d5cc1a104fa9486f0a9c32f28?source=rss",
+          "publishedOn": "2021-07-13T07:52:19.000Z",
+          "wordCount": 76,
+          "title": "水害の範囲を5分で推測・地図化、AIがSNSの画像を分析　氾濫被害の鹿児島県で(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b32d992b6a5364e445984de24386c5fbb2669def?source=rss",
+          "author": null,
+          "description": "QNAP正規代理店のフォースメディアは、QNAP NAS用拡張エンクロージャーの新機種として、デュアルコントローラー搭載の高可用性に優れたSAS 12Gb/s接続ストレージ拡張エンクロージャー「TL",
+          "link": "https://news.yahoo.co.jp/articles/b32d992b6a5364e445984de24386c5fbb2669def?source=rss",
+          "publishedOn": "2021-07-13T07:49:00.000Z",
+          "wordCount": 82,
+          "title": "フォースメディア、デュアルコントローラー搭載のQNAP NAS用拡張エンクロージャー(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5d968ff603b20375c09ea47bd4d2ba05fdb58ab0?source=rss",
+          "author": null,
+          "description": "KOTO PLANNINGは7月10日、11日にみなとみらい BUKATSUDO ホールにて「iPhoneケース展2021 -つながる、つながり-」を開催した。\n\n　ソーシャルディスタンスを守るため",
+          "link": "https://news.yahoo.co.jp/articles/5d968ff603b20375c09ea47bd4d2ba05fdb58ab0?source=rss",
+          "publishedOn": "2021-07-13T07:47:30.000Z",
+          "wordCount": 85,
+          "title": "iPhoneケース展2021、リアルイベントで開催　アーティスト作品を展示(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/357883ac4ef9489a7c1a4cc367867ebf4e74d43e?source=rss",
+          "author": null,
+          "description": "ITGマーケティング株式会社は、PCIe Express 3.0 x4接続のSamsung製1TB M.2 NVMe SSD「980」にAOTECH製NVMe外付けケース「AOKM2NVME-U31",
+          "link": "https://news.yahoo.co.jp/articles/357883ac4ef9489a7c1a4cc367867ebf4e74d43e?source=rss",
+          "publishedOn": "2021-07-13T07:34:20.000Z",
+          "wordCount": 95,
+          "title": "Samsung製M.2 SSD「980」にUSB変換ケースバンドルモデル(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/305cf52c881a4f8b430a6e6b82efcbe39038580d?source=rss",
+          "author": null,
+          "description": "ひな（@hi36987）さんがTwitterで、本格的なスフレパンケーキのつくりかたを紹介したところ、1万3千回以上リツイートされ、5万7千回を超える「いいね」が集まりました。リプライ欄では「すごい…",
+          "link": "https://news.yahoo.co.jp/articles/305cf52c881a4f8b430a6e6b82efcbe39038580d?source=rss",
+          "publishedOn": "2021-07-13T07:32:09.000Z",
+          "wordCount": 89,
+          "title": "この配合がふわっふわの決め手か～！ 厚みがハンパないふわしゅわスフレに「お店のパンケーキみたい」(BuzzFeed Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d205d19b431298cef4aca9176fd4d941d9a0f74a?source=rss",
+          "author": null,
+          "description": "東京オリンピック・パラリンピックの表彰台は、3Dプリンタで作られた――制作プロジェクトを統括した田中浩也教授が所属する慶応義塾大学が7月12日、詳細を発表した。\n\n　金・銀・銅メダルの受賞者が立つ五",
+          "link": "https://news.yahoo.co.jp/articles/d205d19b431298cef4aca9176fd4d941d9a0f74a?source=rss",
+          "publishedOn": "2021-07-13T07:31:06.000Z",
+          "wordCount": 74,
+          "title": "東京五輪の表彰台は、3Dプリンタで作られた(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/41d91a1c7840525f9e704d9c2d0a88f259510520?source=rss",
+          "author": null,
+          "description": "ヤフーは7月13日、新型コロナワクチンの接種証明書「ワクチンパスポート」などのキーワードを「Yahoo!検索」で検索したユーザーを、新たに開設した特設ページへ誘導する取り組みを始めた。\n\n　ポータル",
+          "link": "https://news.yahoo.co.jp/articles/41d91a1c7840525f9e704d9c2d0a88f259510520?source=rss",
+          "publishedOn": "2021-07-13T07:30:34.000Z",
+          "wordCount": 78,
+          "title": "ヤフー、「ワクチンパスポート」の特設ページ開設　「Yahoo!検索」からの誘導も(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/91f61f01c975a44d555146f776ec9f73fa56337e?source=rss",
+          "author": null,
+          "description": "SCSKは、自社の新型コロナウイルスワクチン職域接種予約システムを約10日間で立ち上げた。構築には同社の「S-Cred+（エス クレド プラス）プラットフォーム」と、そのベースとなっているAmazo",
+          "link": "https://news.yahoo.co.jp/articles/91f61f01c975a44d555146f776ec9f73fa56337e?source=rss",
+          "publishedOn": "2021-07-13T07:30:00.000Z",
+          "wordCount": 89,
+          "title": "SCSK、自社のワクチン職域接種予約システムをAWSに構築(ZDNet Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/543c1c1cfc5bd61c05ce88c6c9b00da3833e7ad3?source=rss",
+          "author": null,
+          "description": "KDDIは、7月20日～8月31日に「たぬきの大恩返し 夏」を開催。au／UQ mobileユーザー以外も参加できる。\n\n　本キャンペーンでは、加盟店の支払いにau PAY（コード支払い）を利用する",
+          "link": "https://news.yahoo.co.jp/articles/543c1c1cfc5bd61c05ce88c6c9b00da3833e7ad3?source=rss",
+          "publishedOn": "2021-07-13T07:26:29.000Z",
+          "wordCount": 111,
+          "title": "au PAYが「たぬきの大恩返し 夏」開催　Pontaポイントの最大10％還元など(ITmedia Mobile)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/daa318950616b31dcbc92d73515b5927667cacbe?source=rss",
+          "author": null,
+          "description": "アシックスは、シューズの3Dデータとテクスチャーデータを制作し、NFT付きのデジタルデータとして限定数量をオークションで販売する。オークションの収益は今後提供されるプログラムを通じてアーティストに還元",
+          "link": "https://news.yahoo.co.jp/articles/daa318950616b31dcbc92d73515b5927667cacbe?source=rss",
+          "publishedOn": "2021-07-13T07:24:46.000Z",
+          "wordCount": 83,
+          "title": "アシックス、シューズ3Dデータをオークションで販売。収益還元施策も(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/38e467865e164fc2cb4113968cdca7b0d66fafdf?source=rss",
+          "author": null,
+          "description": "クラウドキャスト株式会社は13日、法人用プリペイドカード一体型ペイメント管理サービス「Staple（ステイプル）」とMicrosoft Teamsとを連携させるアプリケーション「Staple for",
+          "link": "https://news.yahoo.co.jp/articles/38e467865e164fc2cb4113968cdca7b0d66fafdf?source=rss",
+          "publishedOn": "2021-07-13T07:24:00.000Z",
+          "wordCount": 93,
+          "title": "クラウドキャストの経費精算サービス「Staple」、Microsoft Teamsのチャット機能を用いたワークフロー(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1c1eb5135ac9b86b0b1bd5c3a60e1a0b84b4883c?source=rss",
+          "author": null,
+          "description": "メタップスは7月13日、同日開催の取締役会において、同社の持分法適用関連会社であるpringの全株式をGoogleに譲渡すると決定したと発表した。\n\n　pringは、メタップス、みずほフィナンシャル",
+          "link": "https://news.yahoo.co.jp/articles/1c1eb5135ac9b86b0b1bd5c3a60e1a0b84b4883c?source=rss",
+          "publishedOn": "2021-07-13T07:21:00.000Z",
+          "wordCount": 79,
+          "title": "Google、スマホ決済「pring」を買収--メタップスが正式発表(CNET Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/da71ee1daf5a6f828dac6616e1067057d404baa3?source=rss",
+          "author": null,
+          "description": "スクウェア・エニックスは同社が提供するゲーム『OCTOPATH TRAVELER（オクトパストラベラー） 大陸の覇者』にて、前作『オクトパストラベラー』の発売3周年キャンペーンを開催。さらに、前作主人",
+          "link": "https://news.yahoo.co.jp/articles/da71ee1daf5a6f828dac6616e1067057d404baa3?source=rss",
+          "publishedOn": "2021-07-13T07:20:00.000Z",
+          "wordCount": 145,
+          "title": "『オクトパストラベラー 大陸の覇者』前作の主人公の1人「プリムロゼ」が登場！(アスキー)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e9149acd87a52fa1eb9bb7ba507dadba0143a5d2?source=rss",
+          "author": null,
+          "description": "7月13日、Googleがpringの株式取得に向けた契約を締結した。\n\n　pringの親会社であるメタップスが、pringの全株主をGoogleに譲渡する。その他の大株主であるミロク情報サービスと",
+          "link": "https://news.yahoo.co.jp/articles/e9149acd87a52fa1eb9bb7ba507dadba0143a5d2?source=rss",
+          "publishedOn": "2021-07-13T07:19:33.000Z",
+          "wordCount": 77,
+          "title": "Google、スマホ送金サービスの「pring」を買収(ITmedia Mobile)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4e06d3cdab4ebdbb7f5b58d2a7c519bbae17e8a6?source=rss",
+          "author": null,
+          "description": "米Appleの開発者会議「WWDC 2017」でも紹介された86歳のプログラマー、若宮正子さんに、Excelを使ったお絵描きを教わる──小学生向けのオンラインセミナーを提供するスコップ（東京都港区）",
+          "link": "https://news.yahoo.co.jp/articles/4e06d3cdab4ebdbb7f5b58d2a7c519bbae17e8a6?source=rss",
+          "publishedOn": "2021-07-13T07:17:53.000Z",
+          "wordCount": 79,
+          "title": "86歳プログラマーに教わる“Excelお絵描き”　小学生向けオンライン教室が夏開催(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f8b2f366c2e5c423676e053da0243edb13c846dd?source=rss",
+          "author": null,
+          "description": "米Gartnerの調査によると、2021年第2四半期のPC出荷台数は7,160万台となり、前年同期と比較して4.6%増となったことがわかった。なお、この数字にはChromebookを含んでおらず、こ",
+          "link": "https://news.yahoo.co.jp/articles/f8b2f366c2e5c423676e053da0243edb13c846dd?source=rss",
+          "publishedOn": "2021-07-13T07:13:09.000Z",
+          "wordCount": 74,
+          "title": "全世界のPC出荷は引き続き増加。半導体不足で今後は需要が鈍化の可能性も(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cd3ea1938504978dac1782d2eb2a46c204cc715b?source=rss",
+          "author": null,
+          "description": "理化学研究所と情報・システム研究機構、情報通信研究機構、大阪大学、エムティーアイら共同研究グループは、スーパーコンピューター「富岳」を活用し、首都圏において30秒ごとに更新する30分後までの、超高速",
+          "link": "https://news.yahoo.co.jp/articles/cd3ea1938504978dac1782d2eb2a46c204cc715b?source=rss",
+          "publishedOn": "2021-07-13T07:07:39.000Z",
+          "wordCount": 78,
+          "title": "「富岳」を用いたリアルタイム降水予報の実証実験を実施、理研らの共同研究グループ(Impress Watch)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/82513e3b82e06fb5cf2b8c057802cb74ed73500a?source=rss",
           "author": null,
@@ -8747,6 +8981,285 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/05cd9a0588f4fd77086bf90cb8a13dfdb151695a?source=rss",
+          "author": null,
+          "description": "「おい、何してんねん、おまえ」「何してんねんて!」\n\nこれは、自動車が盗難される瞬間をとらえた映像。盗まれたのは人気のスポーツカー。めざまし8は逃走中とみられる車の映像を新たに入手。その行方に迫ります",
+          "link": "https://news.yahoo.co.jp/articles/05cd9a0588f4fd77086bf90cb8a13dfdb151695a?source=rss",
+          "publishedOn": "2021-07-13T08:09:30.000Z",
+          "wordCount": 90,
+          "title": "「おい!何してんねん」目の前で人気の愛車「RX-7 FD3S」盗難…逃走中とみられる新映像入手(FNNプライムオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a02853270a2d38c015aefd70ccd2d7938288ecda?source=rss",
+          "author": null,
+          "description": "西日本から東北では14日（水）にかけて雷を伴った非常に激しい雨が降り、大雨となる所がある見込み。土砂災害に厳重に警戒すると共に、低い土地の浸水、河川の増水や氾濫に警戒が必要だ。",
+          "link": "https://news.yahoo.co.jp/articles/a02853270a2d38c015aefd70ccd2d7938288ecda?source=rss",
+          "publishedOn": "2021-07-13T08:08:15.000Z",
+          "wordCount": 79,
+          "title": "14日（水）も大気不安定　局地的な雷雨のおそれ　土砂災害に厳重警戒を(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e6d39a5a25a5992cd574e69bf708169147682390?source=rss",
+          "author": null,
+          "description": "東京電力福島第1原発事故の処理水などに含まれる放射性物質トリチウムについて、敷地内に残留すると推定される全量を1カ月間で海洋放出した場合でも、日本海や太平洋中央部での濃度上昇はごくわずかで、検知不能",
+          "link": "https://news.yahoo.co.jp/articles/e6d39a5a25a5992cd574e69bf708169147682390?source=rss",
+          "publishedOn": "2021-07-13T08:07:55.000Z",
+          "wordCount": 67,
+          "title": "トリチウム濃度は検知不可能　処理水放出、日本海で試算(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0dfffa114602ca4322a9e5f3b4a7343ae988683e?source=rss",
+          "author": null,
+          "description": "東京都は13日、新型コロナウイルスの感染者が新たに830人報告されたと発表した。前の週の同じ曜日を上回るのは24日連続。直近7日間を平均した1日当たりの新規感染者数は790.6人となり、前週比は13",
+          "link": "https://news.yahoo.co.jp/articles/0dfffa114602ca4322a9e5f3b4a7343ae988683e?source=rss",
+          "publishedOn": "2021-07-13T08:07:07.000Z",
+          "wordCount": 64,
+          "title": "東京830人感染2人死亡　新型コロナ(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/95bec6c0d2b7c986c88cbec0ca41b866b7afbe37?source=rss",
+          "author": null,
+          "description": "生きていれば理不尽を感じる瞬間は誰にでもあるはず。それは人間だけではなく動物の世界でも同じのよう。そんな犬と猫の動画がTwitter上で話題となっている。\n\n　投稿主は、犬・ユキちゃん（4）と猫・し",
+          "link": "https://news.yahoo.co.jp/articles/95bec6c0d2b7c986c88cbec0ca41b866b7afbe37?source=rss",
+          "publishedOn": "2021-07-13T08:03:57.000Z",
+          "wordCount": 76,
+          "title": "約280万再生超え！理不尽な猫パンチに犬がとった行動「懐の深さ見習いたい」の声(ABEMA TIMES)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/96698bd7d75489acc4afde14d41d110ef7ce7bea?source=rss",
+          "author": null,
+          "description": "四国や近畿から東北の梅雨明けも近いでしょう。ただ、今年は夏をもたらす高気圧には特徴があり、雨の降り方に注意が必要な日がしばらく続きそうです。",
+          "link": "https://news.yahoo.co.jp/articles/96698bd7d75489acc4afde14d41d110ef7ce7bea?source=rss",
+          "publishedOn": "2021-07-13T08:03:41.000Z",
+          "wordCount": 78,
+          "title": "今週後半には全国的に夏に　梅雨明けしても急な雷など雨の降り方に注意「2週間天気」(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/aaaaa2c5d8cc3b1d988cc17aa7751f328c95cd5c?source=rss",
+          "author": null,
+          "description": "気が付けば、1年以上続いているマスク生活。私たちの意識で大きく変わったのが…“匂い”。「マスクしているとわからないから他人の匂いを気にすることがなくなった」という声や「香水をつけても、そんなに意味がな",
+          "link": "https://news.yahoo.co.jp/articles/aaaaa2c5d8cc3b1d988cc17aa7751f328c95cd5c?source=rss",
+          "publishedOn": "2021-07-13T08:02:54.000Z",
+          "wordCount": 79,
+          "title": "【特集】コロナ禍で人気高まる「香水」 集中力UPや認知症予防にも！活用広がる “香りのチカラ”を解明(読売テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4c7c680c9d306784de693fe21911cd1098e080d4?source=rss",
+          "author": null,
+          "description": "いまスーパーマーケット「成城石井」では、夏向きのグルメがたくさん登場!\nそこで、成城石井のシェフが開発・製造する「“自家製”商品の月間売れ筋ランキング」を紹介!",
+          "link": "https://news.yahoo.co.jp/articles/4c7c680c9d306784de693fe21911cd1098e080d4?source=rss",
+          "publishedOn": "2021-07-13T08:01:24.000Z",
+          "wordCount": 93,
+          "title": "暑い季節にオススメ!成城石井の自家製グルメランキング　ダントツ1位は月19万個も売れたあれだった(FNNプライムオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/33986e9d8cf03abb782f927985eae40768eb50db?source=rss",
+          "author": null,
+          "description": "経済学者で同志社大学大学院教授の浜矩子さんの「AERA」巻頭エッセイ「eyes」をお届けします。時事問題に、経済学的視点で切り込みます。\n\n＊　　＊　　＊\n　東京オリンピックの開幕がすぐそこまで迫っ",
+          "link": "https://news.yahoo.co.jp/articles/33986e9d8cf03abb782f927985eae40768eb50db?source=rss",
+          "publishedOn": "2021-07-13T08:00:00.000Z",
+          "wordCount": 90,
+          "title": "浜矩子「見たくないものは見ない　その決断が我々を惨劇の流砂につれていく」〈AERA〉(AERA dot.)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9f2ef5a3944fef7d6229317c5b481b1b72e092c5?source=rss",
+          "author": null,
+          "description": "いわゆる仮想通貨=暗号資産へのウソの投資話を持ちかけ、現金をだまし取ったとして男4人が逮捕された詐欺事件では、被害総額が60億円あまりとみられています。被害が広がった背景には、巧妙な勧誘方法がありま",
+          "link": "https://news.yahoo.co.jp/articles/9f2ef5a3944fef7d6229317c5b481b1b72e092c5?source=rss",
+          "publishedOn": "2021-07-13T07:58:08.000Z",
+          "wordCount": 100,
+          "title": "嘘の投資話で総額60億円余…『OZプロジェクト』被害急拡大に“2つの理由” 弁護士「手口長けている」(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/eeb938cbb2a664463a181db42674063875d265ae?source=rss",
+          "author": null,
+          "description": "東京都は１３日、新型コロナウイルスの感染者が新たに８３０人報告されたと発表した。死者は２人だった。",
+          "link": "https://news.yahoo.co.jp/articles/eeb938cbb2a664463a181db42674063875d265ae?source=rss",
+          "publishedOn": "2021-07-13T07:57:22.000Z",
+          "wordCount": 65,
+          "title": "新型コロナ、東京都で８３０人(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ea2dc7e99452d2406215d770127b42bfcce634e9?source=rss",
+          "author": null,
+          "description": "■ 天気のポイント ■\n・西～東日本は局地的な雷雨のおそれ\n・北日本は日本海側で日差し届く\n・沖縄は夏空継続も急な雨には注意\n\n明日14日(水)も日本列島の上空には寒気が居座り、全国的に大気の状態が不",
+          "link": "https://news.yahoo.co.jp/articles/ea2dc7e99452d2406215d770127b42bfcce634e9?source=rss",
+          "publishedOn": "2021-07-13T07:57:18.000Z",
+          "wordCount": 80,
+          "title": "明日14日(水)の天気　西日本や東日本は局地的な雷雨のおそれ(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e623ec5bd16bf41f33a842e47395d414737dfe9c?source=rss",
+          "author": null,
+          "description": "東京都新宿区の明治神宮外苑で平成２８年、アートイベントで展示中だった木製のジャングルジムのオブジェが燃えて幼稚園の男児＝当時（５）＝が死亡した火災で、重過失致死傷罪に問われた建設業の男（２３）と大学院",
+          "link": "https://news.yahoo.co.jp/articles/e623ec5bd16bf41f33a842e47395d414737dfe9c?source=rss",
+          "publishedOn": "2021-07-13T07:56:33.000Z",
+          "wordCount": 69,
+          "title": "５歳児死亡のオブジェ火災、元学生に有罪判決　東京地裁(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ee3e01a1993b135ac0665ea9b1ad44ac9f2c9ccd?source=rss",
+          "author": null,
+          "description": "【有本香の以読制毒】\n\n　先々週の本コラムで、自民党幹事長室からのクレームらしき「通知書」に返信をしたが、先方からは何ら反応はない。理由は、静岡県熱海市で起きた土石流災害対応での多忙ではなく、この１",
+          "link": "https://news.yahoo.co.jp/articles/ee3e01a1993b135ac0665ea9b1ad44ac9f2c9ccd?source=rss",
+          "publishedOn": "2021-07-13T07:56:00.000Z",
+          "wordCount": 89,
+          "title": "自民党の「再赤化」に警戒せよ！　都議選敗北でうごめき始めた面々…“９０年代の愚”を繰り返すのか？(夕刊フジ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b4b33ee459e676a14b537008640571f6b7d76dd4?source=rss",
+          "author": null,
+          "description": "【ギモン解消！！ワクチン接種Ｑ＆Ａ】\n\n　ワクチン接種を促すために、各地で接種者を対象としたお得なサービスが実施されている。今回は、関西地方を中心に飲食を楽しめる特典を紹介する。\n\n　自衛隊が大規模",
+          "link": "https://news.yahoo.co.jp/articles/b4b33ee459e676a14b537008640571f6b7d76dd4?source=rss",
+          "publishedOn": "2021-07-13T07:56:00.000Z",
+          "wordCount": 71,
+          "title": "各地で接種者を対象としたお得なサービス　神戸では「フカヒレ」付き宿泊プラン(夕刊フジ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d39efc4cb08e83f57a4d00070eb42dbfb1ae1d5e?source=rss",
+          "author": null,
+          "description": "【令和を変える！関西の発想力】\n\n　フレイルという言葉をご存じでしょうか。高齢になるほどに体が衰え、要介護状態に陥るまでの「だんだん弱っていく状態」を表す言葉で、日本語なら「虚弱」に当たるとか。なん",
+          "link": "https://news.yahoo.co.jp/articles/d39efc4cb08e83f57a4d00070eb42dbfb1ae1d5e?source=rss",
+          "publishedOn": "2021-07-13T07:56:00.000Z",
+          "wordCount": 79,
+          "title": "参加すると健康になる「フレイル予防ツアー」　兵庫・神姫バス、専門ガイド養成(夕刊フジ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/91581a9874662be2d6c90e59f5b830f05dd20405?source=rss",
+          "author": null,
+          "description": "国内の新型コロナウイルスワクチン接種は１２日時点で６０００万回を突破し、６５歳以上の１回接種率は約７６％、２回接種率は約４７％に達した。高齢者の感染や重症化の減少傾向は顕著だが、置き去りの感があるの",
+          "link": "https://news.yahoo.co.jp/articles/91581a9874662be2d6c90e59f5b830f05dd20405?source=rss",
+          "publishedOn": "2021-07-13T07:56:00.000Z",
+          "wordCount": 78,
+          "title": "働き盛りの後回しは妥当か　４０～５０代はワクチン“置き去り世代”　接種６０００万回突破も「重症者が増えたら社会崩壊を招く」(夕刊フジ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f96b8b79e6cd472b65093908e613505dfffedf27?source=rss",
+          "author": null,
+          "description": "【今から始めよう！７０代まで働く健康術】\n\n　気温が上昇してくると、喉の乾きを感じやすい。口の中がネバネバしたようになり、同時に口臭が気になることはないだろうか。食後の歯磨きも欠かさず、洗口剤を活用",
+          "link": "https://news.yahoo.co.jp/articles/f96b8b79e6cd472b65093908e613505dfffedf27?source=rss",
+          "publishedOn": "2021-07-13T07:56:00.000Z",
+          "wordCount": 87,
+          "title": "歯磨きだけでは取れない歯「周病菌のバイオフィルム」　口臭が気になったら歯科医に相談を(夕刊フジ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/851df172339eb441018bf39753e650e424520c0d?source=rss",
+          "author": null,
+          "description": "【東洋医学でコロナ「最終対策」　漢方薬の歴史は疫病対策から始まった】\n\n　長引くコロナ禍で、運動不足に悩まされている人は多いだろう。\n\n　そうした運動不足解消法を東洋医学的視点からアドバイスしている",
+          "link": "https://news.yahoo.co.jp/articles/851df172339eb441018bf39753e650e424520c0d?source=rss",
+          "publishedOn": "2021-07-13T07:56:00.000Z",
+          "wordCount": 91,
+          "title": "運動不足解消に「２種類のスクワット」　足腰の弱い人は椅子につかまりながら(夕刊フジ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/51973c3b72cb806d8d005529598ea605f0dfacd3?source=rss",
+          "author": null,
+          "description": "岸信夫防衛相は１２日、核抑止力を担当する米戦略軍のチャールズ・リチャード司令官と防衛省で会談した。習近平国家主席率いる中国共産党政権は、軍事的覇権拡大を進めており、核兵器開発も加速させている。「平和",
+          "link": "https://news.yahoo.co.jp/articles/51973c3b72cb806d8d005529598ea605f0dfacd3?source=rss",
+          "publishedOn": "2021-07-13T07:56:00.000Z",
+          "wordCount": 80,
+          "title": "五輪直前に“日米防衛連携強化”の理由　岸防衛相と米司令官が会談　「同盟の絆」強調　識者「中国の横暴許さない強い覚悟」(夕刊フジ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/67256e2af08387ac2b1d1120c7d54944cd5e6975?source=rss",
+          "author": null,
+          "description": "【底辺キャバ嬢の盛り場より愛を込めて】\n\n　６月２０日、９都道府県に出されていた緊急事態宣言が解除され、東京や大阪などの７都道府県では７月１１日までの蔓延（まんえん）防止等重点措置に移行した。その中",
+          "link": "https://news.yahoo.co.jp/articles/67256e2af08387ac2b1d1120c7d54944cd5e6975?source=rss",
+          "publishedOn": "2021-07-13T07:56:00.000Z",
+          "wordCount": 71,
+          "title": "感染防止が難しい沖縄の飲食店事情　休業要請にも関わらず…夜な夜な“ビーチパーティー開催”(夕刊フジ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b47cf39fcda721eca4b03c9d1e1216db75406e26?source=rss",
+          "author": null,
+          "description": "首都圏や北海道、福島県の会場で無観客開催となった東京五輪だが、宮城、茨城、静岡の各県の会場では、貴重な「有観客」で実施される。だが、実際に何人観客を入れられるのか、戸惑いを隠せない自治体関係者もいる",
+          "link": "https://news.yahoo.co.jp/articles/b47cf39fcda721eca4b03c9d1e1216db75406e26?source=rss",
+          "publishedOn": "2021-07-13T07:56:00.000Z",
+          "wordCount": 72,
+          "title": "五輪「有観客」開催も何人入れる？　宮城、茨城、静岡…「大会関係者」に戸惑う自治体(夕刊フジ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/baaec13d81c24435b72fa81cbd4f6c238c4cfe32?source=rss",
+          "author": null,
+          "description": "愛知県の大村知事へのリコール運動を巡る署名偽造事件で起訴された、リコール団体の事務局長・田中孝博被告(60)が13日午後、保釈されました。\n\n　愛知県警中村署に身柄が置かれていた田中被告は午後3時半",
+          "link": "https://news.yahoo.co.jp/articles/baaec13d81c24435b72fa81cbd4f6c238c4cfe32?source=rss",
+          "publishedOn": "2021-07-13T07:55:50.000Z",
+          "wordCount": 79,
+          "title": "起訴されたリコール団体事務局長を保釈 愛知県知事リコール巡る署名偽造事件 地裁が検察側の準抗告を棄却(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/05590ed3c64cb3a10a2c9c46f5aefacc0a1204e1?source=rss",
+          "author": null,
+          "description": "三重県鈴鹿市の交差点で２月、鉄製の歩行者用信号柱が倒れる事故があり、三重県警は、犬の尿が繰り返し掛けられたことで柱の根元の腐食が進んだ可能性が高いとする調査結果を１３日までにまとめた。現場周辺は犬の散",
+          "link": "https://news.yahoo.co.jp/articles/05590ed3c64cb3a10a2c9c46f5aefacc0a1204e1?source=rss",
+          "publishedOn": "2021-07-13T07:55:45.000Z",
+          "wordCount": 65,
+          "title": "犬の尿で鉄製信号柱倒壊か　三重県警調査結果(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5737267f0b83eb0cd4bf687383f1f99a2ec09948?source=rss",
+          "author": null,
+          "description": "東京都は13日、新型コロナウイルスの感染者が新たに830人報告され、2人が死亡したと発表した。",
+          "link": "https://news.yahoo.co.jp/articles/5737267f0b83eb0cd4bf687383f1f99a2ec09948?source=rss",
+          "publishedOn": "2021-07-13T07:55:22.000Z",
+          "wordCount": 62,
+          "title": "東京で新たに830人感染2人死亡(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/346ebb114ada541bd8596925cbb339029f25bfe4?source=rss",
+          "author": null,
+          "description": "16:44頃、東府中駅で発生した人身事故の影響で、京王線(飛田給～府中駅間)・京王競馬場線は運転を見合わせています。振替輸送を行っています。",
+          "link": "https://news.yahoo.co.jp/articles/346ebb114ada541bd8596925cbb339029f25bfe4?source=rss",
+          "publishedOn": "2021-07-13T07:55:00.000Z",
+          "wordCount": 62,
+          "title": "京王線で人身事故 一部運転見合わせ(レスキューナウニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e434769c37fd154d7cf1ffc5d03c583e6efa43f9?source=rss",
+          "author": null,
+          "description": "前橋市の群馬大学で高さ20メートル以上の杉の木が倒れ、車7台が下敷きになりました。突風が原因とみられています。\n\n　12日午後2時半ごろ、前橋市の群馬大学昭和キャンパスの職員駐車場で巨大な木が倒れま",
+          "link": "https://news.yahoo.co.jp/articles/e434769c37fd154d7cf1ffc5d03c583e6efa43f9?source=rss",
+          "publishedOn": "2021-07-13T07:53:29.000Z",
+          "wordCount": 77,
+          "title": "突風？で巨木が倒れ車7台下敷き　前橋・群馬大(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a9c88b0f3da78f4e9694d66e412c4176182b1d5d?source=rss",
+          "author": null,
+          "description": "北朝鮮による拉致被害者の曽我ひとみさん（６２）＝新潟県佐渡市＝が１３日、新潟市中央区の新潟青陵大学で講演し、「母は今年９０歳になり、あまり時間がない。世界でたった一人の母がどうしているのか知りたい」と",
+          "link": "https://news.yahoo.co.jp/articles/a9c88b0f3da78f4e9694d66e412c4176182b1d5d?source=rss",
+          "publishedOn": "2021-07-13T07:52:47.000Z",
+          "wordCount": 68,
+          "title": "曽我ひとみさん、母への思い語る　「今年９０歳。時間あまりない」(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cce2c528c5adfc327cff5721fb7626c3de20759d?source=rss",
+          "author": null,
+          "description": "【ソウル共同】韓国外務省の李相烈アジア太平洋局長は13日、在韓国日本大使館の相馬弘尚総括公使を呼び、2021年版の防衛白書で島根県の竹島（韓国名・独島）の領有権を主張したと抗議、即時撤回を求めた。",
+          "link": "https://news.yahoo.co.jp/articles/cce2c528c5adfc327cff5721fb7626c3de20759d?source=rss",
+          "publishedOn": "2021-07-13T07:50:01.000Z",
+          "wordCount": 71,
+          "title": "竹島の記述で韓国抗議　防衛白書、日本公使らに(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/02668dad6a98fba4a3820d0dfcb0184a7a09bc01?source=rss",
+          "author": null,
+          "description": "宮崎県内では13日、新たに3人が新型コロナウイルスに感染したことが明らかになった。累計感染者数は3107人。",
+          "link": "https://news.yahoo.co.jp/articles/02668dad6a98fba4a3820d0dfcb0184a7a09bc01?source=rss",
+          "publishedOn": "2021-07-13T07:47:53.000Z",
+          "wordCount": 65,
+          "title": "【速報】宮崎県で3人感染　新型コロナ(西日本新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/061f17262cc1ebcad836b7b94924c55a9271fc3b?source=rss",
+          "author": null,
+          "description": "東京都は今日7月13日、新型コロナウイルスの感染者が新たに830人、死者が2人確認されたと明らかにした。",
+          "link": "https://news.yahoo.co.jp/articles/061f17262cc1ebcad836b7b94924c55a9271fc3b?source=rss",
+          "publishedOn": "2021-07-13T07:46:22.000Z",
+          "wordCount": 72,
+          "title": "【速報】東京の新たな感染者830人(ニッポン放送)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/b733834254112e6aad109ac9037d04d1d4930303?source=rss",
           "author": null,
@@ -22921,6 +23434,222 @@
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/487daa622fe90278e4b64a072c535224a1a8b8f3?source=rss",
+          "author": null,
+          "description": "2021年7月13日16時現在、新型コロナウイルスの影響を受けた倒産〈法的整理または事業停止（銀行取引停止処分は対象外）、負債1000万円未満および個人事業者を含む〉は全国に1754件（法的整理16",
+          "link": "https://news.yahoo.co.jp/articles/487daa622fe90278e4b64a072c535224a1a8b8f3?source=rss",
+          "publishedOn": "2021-07-13T08:08:52.000Z",
+          "wordCount": 71,
+          "title": "新型コロナウイルス関連倒産は1754件～東京都の倒産が400件に～(帝国データバンク)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/50c9c8b6fc83e7aaeed9d43aa51a937b26a28f40?source=rss",
+          "author": null,
+          "description": "米グーグルは13日、スマートフォンの送金・決済アプリを展開する資金移動業者「pring（プリン）」（東京）を買収すると発表した。買収額は非公表。巨大ITが日本で金融サービスを拡大する。ITを活用した",
+          "link": "https://news.yahoo.co.jp/articles/50c9c8b6fc83e7aaeed9d43aa51a937b26a28f40?source=rss",
+          "publishedOn": "2021-07-13T08:08:41.000Z",
+          "wordCount": 70,
+          "title": "グーグル、東京の送金アプリ買収　日本で金融サービス拡大(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fba60eebe64515987d498a2b2a1f19333632dff3?source=rss",
+          "author": null,
+          "description": "日本コカ・コーラは13日、オリンピック・パラリンピックのワールドワイドパートナーとして東京 2020 オリンピック・パラリンピックの開会式のアスリートパレードで各国や地域の名前を掲げながら各選手団を",
+          "link": "https://news.yahoo.co.jp/articles/fba60eebe64515987d498a2b2a1f19333632dff3?source=rss",
+          "publishedOn": "2021-07-13T08:08:38.000Z",
+          "wordCount": 92,
+          "title": "東京2020オリンピック開会式　選手団を先導する50名を決定　多様なプロフィールを持つ人たち選出　日本コカ・コーラ(食品新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a1aaf008260ab25eb296736ee71ce26aa949d987?source=rss",
+          "author": null,
+          "description": "アメリカでもっとも人気のあるカーレース「NASCAR（ナスカー）」の「カップ」、「Xfinity（エクスフィニティ）」、「Camping World Truck（トラック）」という3大カテゴリーのう",
+          "link": "https://news.yahoo.co.jp/articles/a1aaf008260ab25eb296736ee71ce26aa949d987?source=rss",
+          "publishedOn": "2021-07-13T08:04:27.000Z",
+          "wordCount": 92,
+          "title": "HREタンドラ、5位フィニッシュでプレイオフ進出を決める！【2021NASCARトラックシリーズ第13戦】(Auto Messe Web)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/65444dbb2a45392d95a08a62e183f4f96e118280?source=rss",
+          "author": null,
+          "description": "『96時間』シリーズ（2008年～）で“リベンジ・アクション”の礎を築いたリーアム・ニーソンが、最新作『ファイナル・プラン』で再び悪人たちと対峙。しかし今回は、一見普通の初老男性が秘めた“殺しのスキル",
+          "link": "https://news.yahoo.co.jp/articles/65444dbb2a45392d95a08a62e183f4f96e118280?source=rss",
+          "publishedOn": "2021-07-13T08:04:15.000Z",
+          "wordCount": 79,
+          "title": "リーアム・ニーソンが“恋”のために過去を精算する爆破の達人を熱演『ファイナル・プラン』(バイクのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8953d4cc71189c50a8791a757ee13d5a1e67e34d?source=rss",
+          "author": null,
+          "description": "ソラシドエア（SNJ/6J）は7月13日、新規授業として陸送と航空輸送を自社で担う小口貨物輸送を9月上旬をめどに始めると発表した。当初は本社のある宮崎と首都圏を結び、地元の生鮮品などを扱う。\n\n　小",
+          "link": "https://news.yahoo.co.jp/articles/8953d4cc71189c50a8791a757ee13d5a1e67e34d?source=rss",
+          "publishedOn": "2021-07-13T08:04:00.000Z",
+          "wordCount": 82,
+          "title": "ソラシド、陸空一環の小口貨物参入　9月から宮崎－首都圏(Aviation Wire)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9be8215443cfda095841515597db92c055b959c0?source=rss",
+          "author": null,
+          "description": "ソニーグループの創業者の一人、盛田昭夫。グローバル型企業経営の先駆者でもある彼の経営者人生は、井深大との「因縁」によって始まった。研究者としても経営者としても類いまれな才能を持った盛田はいかにしてソ",
+          "link": "https://news.yahoo.co.jp/articles/9be8215443cfda095841515597db92c055b959c0?source=rss",
+          "publishedOn": "2021-07-13T08:03:46.000Z",
+          "wordCount": 81,
+          "title": "脱・日本企業を目指し、ソニーをブランド化した盛田昭夫の執念(日経ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/21a0973347dbdb4392722655a53f2764ef610348?source=rss",
+          "author": null,
+          "description": "フィンテックは以前から将来的な市場拡大が期待されてきたが、2020年コロナウイルス感染拡大による“非接触型” ニーズから、イノベーションが加速している。\n自動車保険においてもフィンテックにより、より安",
+          "link": "https://news.yahoo.co.jp/articles/21a0973347dbdb4392722655a53f2764ef610348?source=rss",
+          "publishedOn": "2021-07-13T08:01:42.000Z",
+          "wordCount": 72,
+          "title": "日本人がほぼ知らない「格安保険」の最新トレンド(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d6c923ad7f3935b01ed5ec9c88ad2cb6872dcfa7?source=rss",
+          "author": null,
+          "description": "星野リゾートは、全国に展開する温泉旅館ブランド「界」の18施設目となる“星野リゾート 界 別府”を、大分県の別府温泉にグランドオープンした。九州では“星野リゾート 界 阿蘇”“星野リゾート 界 霧島”",
+          "link": "https://news.yahoo.co.jp/articles/d6c923ad7f3935b01ed5ec9c88ad2cb6872dcfa7?source=rss",
+          "publishedOn": "2021-07-13T08:00:50.000Z",
+          "wordCount": 86,
+          "title": "「星野リゾート 界 別府」がグランドオープン　源泉とアロマオイルを使った“温泉ミスト作り”など“体験”も充実(WWDJAPAN.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/491ebe72f71d3c35934f3a28c3f837976962e393?source=rss",
+          "author": null,
+          "description": "2011年9月、トヨタはピクシススペースを発表し、販売を開始した。発売から10年が経過したが、ピクシスシリーズは5車種にとどまり、トヨタの軽自動車販売には勢いがない。\n\n　ホンダのNシリーズ、日産の",
+          "link": "https://news.yahoo.co.jp/articles/491ebe72f71d3c35934f3a28c3f837976962e393?source=rss",
+          "publishedOn": "2021-07-13T08:00:00.000Z",
+          "wordCount": 77,
+          "title": "トヨタはなぜ軽自動車を売っているのに作らないのか(ベストカーWeb)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2ef2cac3a74e45c8b0c059ba25b4acbfcfdecd2c?source=rss",
+          "author": null,
+          "description": "ロッテは7月20日、人気アニメ「エヴァンゲリオン」とのコラボ商品として、アイス「クーリッシュ L.C.L ICE スポーツドリンク味」と、ガム「ACUO スリムボトル」をコンビニなど限定で発売する。",
+          "link": "https://news.yahoo.co.jp/articles/2ef2cac3a74e45c8b0c059ba25b4acbfcfdecd2c?source=rss",
+          "publishedOn": "2021-07-13T07:45:34.000Z",
+          "wordCount": 84,
+          "title": "エヴァンゲリオン“L.C.L”アイス「クーリッシュ L.C.L ICE スポーツドリンク味」発売、コラボパッケージ「ACUO スリムボトル」ガムも/ロッテ(食品産業新聞社ニュースWEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/73e783ab30355574056a6874858e656b651c4353?source=rss",
+          "author": null,
+          "description": "イベントスペースの開発・運営を行うクロススペース（東京都新宿区）は、マイクロアドデジタルサイネージ（東京都渋谷区）、ユニカ（東京都新宿区）に共同運営を委託したクロス新宿ビジョンで、「巨大3D猫」の本",
+          "link": "https://news.yahoo.co.jp/articles/73e783ab30355574056a6874858e656b651c4353?source=rss",
+          "publishedOn": "2021-07-13T07:45:22.000Z",
+          "wordCount": 77,
+          "title": "「巨大3D猫」のクロス新宿ビジョン、本放映開始　猫動画は露出を増やす方針(ITmedia ビジネスオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fcb7a957b667e59609fb5e72a083bbb66f0b3d70?source=rss",
+          "author": null,
+          "description": "都市開発が進む渋谷駅に新たなランドマークが誕生しました。\n\n　15日から開業する東急の「ヒカリエデッキ」は、渋谷駅と東側のエリアを結ぶ全長190メートルの歩行者専用通路です。\n\n　これまで渋谷駅から",
+          "link": "https://news.yahoo.co.jp/articles/fcb7a957b667e59609fb5e72a083bbb66f0b3d70?source=rss",
+          "publishedOn": "2021-07-13T07:41:39.000Z",
+          "wordCount": 72,
+          "title": "渋谷駅東口に新歩行者デッキ誕生　利便性が向上(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bd6863ee6de550102280138454fd535e7523c14f?source=rss",
+          "author": null,
+          "description": "レクサスの北米法人は、2021年7月15日から19日から米・シカゴで開催されるシカゴオートショー2021で、新型「NX」（2022年モデル）を初公開するとともに、「IS 500パフォーマンスローンチ",
+          "link": "https://news.yahoo.co.jp/articles/bd6863ee6de550102280138454fd535e7523c14f?source=rss",
+          "publishedOn": "2021-07-13T07:40:55.000Z",
+          "wordCount": 104,
+          "title": "レクサスのイケメンSUV 新型「NX」がシカゴオートショーで初公開！ 最強の「IS」など高級モデル登場(くるまのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/610ae449e24e1bef113af9940fa9b8bf2f14d68b?source=rss",
+          "author": null,
+          "description": "公道を走る際には「原付」に分類される電動キックボード、その特例的な走行を可能にする実証実験が、新たに福島県南相馬市で2021年7月から開始されました。\n\n　これは、電動キックボードの販売事業者である",
+          "link": "https://news.yahoo.co.jp/articles/610ae449e24e1bef113af9940fa9b8bf2f14d68b?source=rss",
+          "publishedOn": "2021-07-13T07:31:00.000Z",
+          "wordCount": 85,
+          "title": "電動キックボード「ヘルメット任意」実証実験が新たに地方で開始 販売事業者が行う意義(乗りものニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0ebd428ebb10c8348eee7e0a3502fcfd93f0bb6f?source=rss",
+          "author": null,
+          "description": "スターバックスコーヒージャパンは、6月30日から一斉発売している「47JIMOTOフラペチーノ」の1つとして三重県のパートナー（従業員）が考えた「三重 伊勢茶＆シトラスやに！ フラペチーノ」を三重県",
+          "link": "https://news.yahoo.co.jp/articles/0ebd428ebb10c8348eee7e0a3502fcfd93f0bb6f?source=rss",
+          "publishedOn": "2021-07-13T07:30:12.000Z",
+          "wordCount": 80,
+          "title": "スターバックス「47JIMOTOフラペチーノ」　三重県限定のフラペチーノは、伊勢茶、シトラス、ホイップクリームの味わいが特徴(食品新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a68fb9c5d7aa8a239c162885d1749606fd09aed1?source=rss",
+          "author": null,
+          "description": "アクティブは、新型『ハヤブサ』用各種カスタムパーツなど、新商品を発表した。\n\n◆新型ハヤブサ用カスタムパーツ\n\n・アクラポビッチ 政府認証マフラー（一般公道使用可）\n\nJMCAにて排出ガス規制と音量規",
+          "link": "https://news.yahoo.co.jp/articles/a68fb9c5d7aa8a239c162885d1749606fd09aed1?source=rss",
+          "publishedOn": "2021-07-13T07:30:03.000Z",
+          "wordCount": 93,
+          "title": "アクティブ、新型『ハヤブサ』用各種カスタムパーツなど発売(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/caf2a6f746fd3a6c94dcaaee251132a35f854efb?source=rss",
+          "author": null,
+          "description": "米グーグルは13日、スマートフォンの送金アプリを手掛ける「pring（プリン）」（東京）を買収すると発表した。買収額は非公表。日本で金融サービスを拡大する。",
+          "link": "https://news.yahoo.co.jp/articles/caf2a6f746fd3a6c94dcaaee251132a35f854efb?source=rss",
+          "publishedOn": "2021-07-13T07:21:55.000Z",
+          "wordCount": 66,
+          "title": "米グーグル、送金アプリ運営会社を買収(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d731761485f7d8bdc233fa963f21c91134c4eb33?source=rss",
+          "author": null,
+          "description": "7月16日に日本銀行は、気候変動対応投資支援オペの骨子素案を発表する。気候変動リスク対応に資する民間銀行の投融資をバックファイナンスすることで、気候変動問題に関与していくことになる。しかし、社債の中で",
+          "link": "https://news.yahoo.co.jp/articles/d731761485f7d8bdc233fa963f21c91134c4eb33?source=rss",
+          "publishedOn": "2021-07-13T07:17:40.000Z",
+          "wordCount": 64,
+          "title": "日本銀行はグリーンボンドを買入れるか(NRI研究員の時事解説)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4a01a8d44304de808d106965a0e0189cf4311697?source=rss",
+          "author": null,
+          "description": "高性能なスポーツカーやラグジュアリーなクーペを除くと、2ドア（3ドア）のモデルは激減してしまいました。\n\n　当然ながら使い勝手という点で2ドア車は不利で、とくに実用的なモデルで2ドア車がヒットするこ",
+          "link": "https://news.yahoo.co.jp/articles/4a01a8d44304de808d106965a0e0189cf4311697?source=rss",
+          "publishedOn": "2021-07-13T07:10:59.000Z",
+          "wordCount": 88,
+          "title": "使い勝手よりもデザイン重視？ ユニークな2ドア車3選(くるまのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/819f5443eadd96acfac0d254abfdc90647360fe3?source=rss",
+          "author": null,
+          "description": "日本自動車販売協会連合会（自販連）が発表した2021年上期（1―6月）の中古車登録台数は、前年同期比4・2％増の195万9730台と、4年ぶりのプラスとなった。前年は新型コロナウイルス感染症拡大による",
+          "link": "https://news.yahoo.co.jp/articles/819f5443eadd96acfac0d254abfdc90647360fe3?source=rss",
+          "publishedOn": "2021-07-13T07:10:13.000Z",
+          "wordCount": 69,
+          "title": "4年ぶり増加の「中古車」登録、伸びがさらに期待できるワケ(ニュースイッチ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6a90cac092890491f9e38196d3d640af41304819?source=rss",
+          "author": null,
+          "description": "機能性表示食品を現在摂取している割合は16.6％であることが、消費者庁が公表した2020年度の「食品表示に関する消費者意向調査」報告書でわかった。\n\n　調査は消費者庁の委託を受けてネオマーケティング",
+          "link": "https://news.yahoo.co.jp/articles/6a90cac092890491f9e38196d3d640af41304819?source=rss",
+          "publishedOn": "2021-07-13T07:10:08.000Z",
+          "wordCount": 75,
+          "title": "機能性表示食品、「現在摂取」約 17 ％(健康産業速報)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cd7c3afccff34dad70ba01c2d3fd9b59905f7b45?source=rss",
+          "author": null,
+          "description": "2021年上半期（1-6月）の飲食料品卸売業倒産（負債1000万円以上）は、106件（前年同期比22.6％減）だった。上半期では過去30年間で最少を記録した。コロナ禍の時短営業・休業要請などで主要取",
+          "link": "https://news.yahoo.co.jp/articles/cd7c3afccff34dad70ba01c2d3fd9b59905f7b45?source=rss",
+          "publishedOn": "2021-07-13T07:08:23.000Z",
+          "wordCount": 80,
+          "title": "飲食料品卸売業の上半期倒産は106件で2年ぶりに減少、コロナ関連倒産は3割で高止まり(東京商工リサーチ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e3b37bc863c0d6639473eba76de7542310f4991c?source=rss",
+          "author": null,
+          "description": "三洋化成工業は13日、京都の酒造会社と組み、匂いを定量化するセンサーの共同研究を進めると発表した。日本酒の品質安定や新商品開発に取り組み、2022年の実用化を目指す。日本酒だけでなく他の食品や医療分",
+          "link": "https://news.yahoo.co.jp/articles/e3b37bc863c0d6639473eba76de7542310f4991c?source=rss",
+          "publishedOn": "2021-07-13T07:05:56.000Z",
+          "wordCount": 71,
+          "title": "酒造りに匂いセンサー活用　三洋化成、酒造会社と研究(共同通信)"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/3594ccff3b150014959f1147b67d0fb8c9ebefff?source=rss",
           "author": null,
           "description": "「個性的な輸入車に乗ってみたい！」という想いがある人にとって、ルノーは気になるブランドのひとつだろう。独自のキャラクターが際立つカングーをはじめ、キャプチャー、メガーヌ、ルーテシア、トゥインゴと、ルノ",
@@ -36541,6 +37270,69 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/lilxyzw/items/3684d8f252ab1894773a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "先日私がリリースいたしましたUnity向けシェーダー「lilToon」についての話です。\n公開直後ながら既に多くのご支援をいただいており、心より感謝申し上げます。\n今回の記事はlilToon向けの話…",
+          "link": "https://qiita.com/lilxyzw/items/3684d8f252ab1894773a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T06:06:50.000Z",
+          "wordCount": 418,
+          "title": "【Unity】lilToonのTipsなど"
+        },
+        {
+          "id": "https://qiita.com/wokamoto/items/bb8511c54e8b0ecf70a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "WordPress でサイト運営しているとデータが溜まってきて、SQLクエリのパフォーマンスが落ちることがありますよね。\n\nそういう時は、RDS の Performance Insights や、My…",
+          "link": "https://qiita.com/wokamoto/items/bb8511c54e8b0ecf70a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T05:12:31.000Z",
+          "wordCount": 412,
+          "title": "[WordPress][MySQL] クエリパフォーマンスが落ちてきたときに設定すると良いインデックス"
+        },
+        {
+          "id": "https://qiita.com/Nabetani/items/1d2fcea654da1b1ab9a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは何？\n\nruby の数値の等値 という記事の冒頭に軽い気持ちで書いた C 言語の話が面白かったのでここに記す。\n\n基礎知識\n\nUsual arithmetic conversions\n\nC89 だか…",
+          "link": "https://qiita.com/Nabetani/items/1d2fcea654da1b1ab9a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T02:52:32.000Z",
+          "wordCount": 1342,
+          "title": "浮動小数点数の呪われた世界（x87 と C/C++)"
+        },
+        {
+          "id": "https://qiita.com/kikuzo/items/f632e6b51098cdbd6e8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は何？（この項目のみ訳者独自記述）\n\nこの記事は、Nerves公式ドキュメントの「Customizing Your Own Nerves System v1.7.9」の章の日本語訳です。対象…",
+          "link": "https://qiita.com/kikuzo/items/f632e6b51098cdbd6e8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-13T01:26:16.000Z",
+          "wordCount": 850,
+          "title": "Customizing Your Own Nerves System (Nervesをカスタマイズする)"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/df0b2ab119ad3248742e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "表題のとおりだが、Wikiについて。\n\nhttps://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD\n\n\nウィキ（Wiki）とは、不特定多数のユーザー…",
+          "link": "https://qiita.com/e99h2121/items/df0b2ab119ad3248742e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T21:12:09.000Z",
+          "wordCount": 409,
+          "title": "Wikiとは何なのか、何でないのか - 社内Wiki運営のための参考文献"
+        },
+        {
+          "id": "https://qiita.com/yuki_doi/items/8fd465825ae7dc30a41c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021年4月18日(日)に実施された「令和3年度春期 ネットワークスペシャリスト試験(NW試験)」に合格しました！勉強方法や特に勉強になった過去問などを紹介したいと思います。\n\n経歴\n\n\n社会人4年目\n\n\n…",
+          "link": "https://qiita.com/yuki_doi/items/8fd465825ae7dc30a41c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T15:08:05.000Z",
+          "wordCount": 372,
+          "title": "【合格体験記】令和3年度春期 ネットワークスペシャリスト"
+        },
+        {
+          "id": "https://qiita.com/179Bell/items/0c15cb4f8ea3f3b948d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n初学者の個人的なまとめ記事に近く、だいぶ読みづらい点があると思いますがご了承ください。\n\nWebサーバーとWebクライアント\n\nWebページはハイパーテキスト（HTML）というハイパーリンク…",
+          "link": "https://qiita.com/179Bell/items/0c15cb4f8ea3f3b948d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T13:24:10.000Z",
+          "wordCount": 439,
+          "title": "HTTPはステートレス？？セッションとは？？Cookieとは？"
+        },
+        {
           "id": "https://qiita.com/hibit/items/89b900f91c7a0ce46b3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "対象読者：将来国を建設したいが、国旗を考えるのは面倒くさいという人\n\n　他に誰かやっていると思ったら、ちょっと検索した範囲では見つからなかったのでやってみました。国旗をGANで作れないかという実験です…",
@@ -36548,6 +37340,42 @@
           "publishedOn": "2021-07-12T12:21:03.000Z",
           "wordCount": 944,
           "title": "GANで国旗を作る"
+        },
+        {
+          "id": "https://qiita.com/seiwaman/items/aebc200727a7f03d600a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n現在私はPHPとLaravelを学んでいるのですが、そのLaravelの中で重要となってくるのが\n「MVCモデル」と呼ばれる考え方です。\n\n拙いですが自分の備忘録として他の方の記事などを参…",
+          "link": "https://qiita.com/seiwaman/items/aebc200727a7f03d600a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T12:09:36.000Z",
+          "wordCount": 306,
+          "title": "プログラミング初心者が書いたMVCモデルについて"
+        },
+        {
+          "id": "https://qiita.com/rana_kualu/items/ae96400a0a6981eca64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "新潟←ちょっとこれを読んでみてください。\n\n読めましたね。\n\nではちょっと画面から目を離して、niigata←これを漢字で書いてみてください。\n\n8割くらいの人は書けなかったんじゃないかなと思います。\n\nと…",
+          "link": "https://qiita.com/rana_kualu/items/ae96400a0a6981eca64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T11:25:44.000Z",
+          "wordCount": 882,
+          "title": "【PHP8.1】読めるけど書けないプロパティが作れるようになる"
+        },
+        {
+          "id": "https://qiita.com/decoch/items/77d7aa0808b741d9163c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Notion APIが公開されたので非公式のRubyクライアント「notion_ruby」をオープンソースで公開しました。\n\nnotion_ruby\n\nソースコードは公開しているので Issue / P…",
+          "link": "https://qiita.com/decoch/items/77d7aa0808b741d9163c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T10:48:57.000Z",
+          "wordCount": 382,
+          "title": "Notion の APIライブラリ「notion_ruby」の使い方"
+        },
+        {
+          "id": "https://qiita.com/ikegawa-koshi/items/39c98779ad8696b78816?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n株式会社日立製作所 研究開発グループ サービスコンピューティング研究部の池川です。\nBlockchainに関する研究をしており、特にHyperledgerが管理するOSSを使っています。\n\n本記事では、Hyperledger Fabric Private Chaincodeの紹介とサンプルを使った実行例について説明します…",
+          "link": "https://qiita.com/ikegawa-koshi/items/39c98779ad8696b78816?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-12T08:41:41.000Z",
+          "wordCount": 620,
+          "title": "Hyperledger Fabric Private Chaincodeを動かしてみる"
         },
         {
           "id": "https://qiita.com/ppt_msdg_maas/items/821f3de8e6d7656f4c07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -36593,6 +37421,15 @@
           "publishedOn": "2021-07-11T18:26:18.000Z",
           "wordCount": 385,
           "title": "ESP32(M5StickC)でWPSを使うと設定ファイルも必要ないし便利ですよ"
+        },
+        {
+          "id": "https://qiita.com/Issei_401/items/6f442acb021deffa7c2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n「スッキリわかるSQL入門」で学習した内容をこちらにまとめます。\n\n今回はマスターするだけでSQLのほとんどの処理が実現できる4大命令について記載します。\n\n何か気づいた点等ございましたら、…",
+          "link": "https://qiita.com/Issei_401/items/6f442acb021deffa7c2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-11T15:00:06.000Z",
+          "wordCount": 510,
+          "title": "【SQL】4大命令ってなんだっけ？"
         },
         {
           "id": "https://qiita.com/h1day/items/fb3738737731d5b17ed5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -36827,6 +37664,15 @@
           "publishedOn": "2021-07-10T12:39:10.000Z",
           "wordCount": 641,
           "title": "Livebook Lチカをイゴかす (Elixir)"
+        },
+        {
+          "id": "https://qiita.com/Lycolia/items/784ce2f180665ce0a9a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Create Next App で生成される Next.js のプロジェクトは CRA で生成される内容と比べると不親切なので、快適に開発できるようにしようという内容です\nZero Config？そ…",
+          "link": "https://qiita.com/Lycolia/items/784ce2f180665ce0a9a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-10T12:00:02.000Z",
+          "wordCount": 1151,
+          "title": "快適に開発できるNext.jsの環境を作る"
         },
         {
           "id": "https://qiita.com/yakimeron/items/7c635a6cee4a564ba25e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
