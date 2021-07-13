@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210714/k10013138021000.html",
+          "author": null,
+          "description": "東京オリンピック・パラリンピックのボランティアに支給されているユニフォームなどが、インターネット上のサイトに販売目的で相次いで出品されていることがわかりました。大会の組織委員会は「規約に反する行為で極めて遺憾だ」としています。 東京オリンピック・パラリンピックの競技会場で活動する大会ボランティアに...",
+          "link": "https://www3.nhk.or.jp/news/html/20210714/k10013138021000.html",
+          "publishedOn": "2021-07-13T21:24:20.000Z",
+          "wordCount": 24,
+          "title": "五輪・パラ ボランティアへの支給品 ネットに出品相次ぐ | オリンピック・パラリンピック | NHKニュース"
+        },
+        {
           "id": "https://www.tokyo-np.co.jp/article/116505",
           "author": null,
           "description": "新型コロナウイルスのワクチン接種を巡る混乱で、河野太郎行政改革担当相が１３日の記者会見で自らの不手際を認めた。自治体で相次ぐ接種予約の停止を巡り「もう少し早く供給量を示し予約（ペース）を落としてもらう必要があった」と語り、自治体の接種加速が予想を上回っていたことを認め、陳謝した。",
@@ -47,6 +56,15 @@
           "publishedOn": "2021-07-13T13:10:29.000Z",
           "wordCount": 166,
           "title": "「みんなで外せば怖くない！」ノーマスク集団が「車両ジャック」予告　京阪電鉄「社内で対応検討」: J-CAST ニュース【全文表示】"
+        },
+        {
+          "id": "https://dot.asahi.com/dot/2021071300051.html",
+          "author": null,
+          "description": "「西村大臣と河野大臣の危なっかしい発言が続き、世論を揺るがしている。政権は大丈夫か…」 【写真】二階幹事長が推すポスト菅の大穴はこの人 こう不安そうに話すのは、自民党の閣僚経験者だ。 緊急事態宣言中に酒類の提供停止に応じない飲食店に対し、取引金融機関から働き掛けてもらうという「圧力」発言が大炎上し、...",
+          "link": "https://dot.asahi.com/dot/2021071300051.html",
+          "publishedOn": "2021-07-13T13:08:09.000Z",
+          "wordCount": 204,
+          "title": "圧力発言で”西村大臣の乱”「菅首相らも打ち合わせに出席」河野大臣のワクチン弁明に自治体が怒り　 (1/4) 〈dot.〉｜AERA dot. (アエラドット)"
         },
         {
           "id": "https://news.yahoo.co.jp/byline/nishidamasaki/20210713-00245869/",
@@ -155,6 +173,15 @@
           "publishedOn": "2021-07-13T08:48:17.000Z",
           "wordCount": 203,
           "title": "酒類提供禁止めぐり、二階氏が苦言「事前に党に相談を」：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www.nikkansports.com/baseball/mlb/news/202107130000426.html",
+          "author": null,
+          "description": "ホームランダービーで盛り上がる陰で、米国の人気コメンテーターがエンゼルス大谷翔平投手（27）に関して不適切発言をし、大炎上する騒動に発展した。 ESPNの番組「ファスト・テイク」に出演し過激な発言で人気を博しているスティーブン・A・スミス氏が、12日の番組内で大谷について言及。「MLBの顔になる選手が、通訳が...",
+          "link": "https://www.nikkansports.com/baseball/mlb/news/202107130000426.html",
+          "publishedOn": "2021-07-13T08:46:16.000Z",
+          "wordCount": 402,
+          "title": "大谷翔平への不適切発言が炎上　米人気コメンテーター「史上最悪コメント」 - ＭＬＢ : 日刊スポーツ"
         },
         {
           "id": "https://togetter.com/li/1744321",
@@ -317,6 +344,15 @@
           "publishedOn": "2021-07-13T03:40:23.000Z",
           "wordCount": 277,
           "title": "「排除ベンチ」抵抗した制作者が突起に仕込んだ「せめてもの思い」"
+        },
+        {
+          "id": "https://ledge.ai/nexer-whiteningnote/",
+          "author": null,
+          "description": "TOP > Article Theme > 人工知能（AI）ニュース > 虫歯の要因は「両親の虫歯の有無」が1位、「現在の歯磨き回数」は因果関係確認できず AI活用で調査 株式会社NEXERは、男女3000人を対象にした「虫歯の要因」に関する調査結果を発表した。本調査ではAI（機械学習）を活用し、虫歯になりやすい行動・要因を分析している。...",
+          "link": "https://ledge.ai/nexer-whiteningnote/",
+          "publishedOn": "2021-07-13T03:29:55.000Z",
+          "wordCount": 145,
+          "title": "虫歯の要因は「両親の虫歯の有無」が1位、「現在の歯磨き回数」は因果関係確認できず AI活用で調査 | Ledge.ai"
         },
         {
           "id": "https://febri.jp/topics/tomino-higuchi-1/",
@@ -2791,6 +2827,114 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/484574d54a17f32cdf03ee68b3a0ea0d9bc8bfad?source=rss",
+          "author": null,
+          "description": "産業能率大学（総合研究所）は、2021年度「新入社員の会社生活調査」の結果を発表した。1990年度から継続して実施しており今年で32回目。今回は、2021年に入社した新入社員144人に、就職活動、働く",
+          "link": "https://news.yahoo.co.jp/articles/484574d54a17f32cdf03ee68b3a0ea0d9bc8bfad?source=rss",
+          "publishedOn": "2021-07-13T23:06:01.000Z",
+          "wordCount": 66,
+          "title": "2021年度の新入社員、就職活動「大変だった」84.0％。氷河期を超えて過去最高に【産能大調べ】(Web担当者Forum)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fd631e618c703f5e912feb9b113d5c1406b2a359?source=rss",
+          "author": null,
+          "description": "近年、ECを通じた販売施策を強化している花王。ブランド認知が高い商品は大手モールで、これから世に出していく新興ブランドは自社ECサイトでなど、ブランドのステージに応じて戦略的にチャネルを使いわけている",
+          "link": "https://news.yahoo.co.jp/articles/fd631e618c703f5e912feb9b113d5c1406b2a359?source=rss",
+          "publishedOn": "2021-07-13T23:01:03.000Z",
+          "wordCount": 87,
+          "title": "花王のEC戦略。共創パートナーとの連携、デジタル販路拡大策と今後の展望(ネットショップ担当者フォーラム)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f8ee2169c51bbf42a2305e5b00c1e7d6eae40da7?source=rss",
+          "author": null,
+          "description": "6月23日に経営のバトンが柴田幸生社長に引き継がれて新体制がスタートしたエレコム。創業者の葉田順治会長は、今後はグループ全体を俯瞰するポジションからエレコムの成長をサポートする。葉田会長、柴田社長、",
+          "link": "https://news.yahoo.co.jp/articles/f8ee2169c51bbf42a2305e5b00c1e7d6eae40da7?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 144,
+          "title": "海外市場に再進出してブレイクスルーする――エレコム 葉田順治会長(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a1c9ea263551a5bc6dbfb330345a48332c3f8ead?source=rss",
+          "author": null,
+          "description": "デジサート・ジャパン合同会社（以下、デジサート）は13日、認証済みブランドロゴをメールに表示するBIMI（Brand Indicators for Message Identification）規格",
+          "link": "https://news.yahoo.co.jp/articles/a1c9ea263551a5bc6dbfb330345a48332c3f8ead?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 75,
+          "title": "デジサート、認証済みのロゴをメールに付加できるBIMI規格に準拠した認証マーク証明書を発行開始(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b6a51970fb28c4da0e35ab812888d7b44229e94d?source=rss",
+          "author": null,
+          "description": "リカー・イノベーションは7月12日に、同社が運営するお酒のオンラインストア「KURAND（クランド）」公式Twitterで実施した「夏のお酒事情」に関する調査結果を発表した。同調査は、7月2日21時",
+          "link": "https://news.yahoo.co.jp/articles/b6a51970fb28c4da0e35ab812888d7b44229e94d?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 68,
+          "title": "夏に飲みたいお酒は“スパークリング”、KURAND調査でわかった「夏のお酒事情」(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a59028fe626b26041463f0e20aeeb53a374b7105?source=rss",
+          "author": null,
+          "description": "Googleが報道機関との関係をめぐってまたしても矢面に立たされている。仏競争当局は現地時間7月13日、同社が報道機関各社との交渉に「誠意を持って」臨まなかったとして、5億ユーロ（約650億円）の罰",
+          "link": "https://news.yahoo.co.jp/articles/a59028fe626b26041463f0e20aeeb53a374b7105?source=rss",
+          "publishedOn": "2021-07-13T22:47:00.000Z",
+          "wordCount": 78,
+          "title": "グーグル、仏当局から5億ユーロの罰金--報道機関との著作権交渉をめぐって(CNET Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/02593893465b1f524866d3eddc6abf5b48aea64f?source=rss",
+          "author": null,
+          "description": "損害保険ジャパンとSOMPOグループのプライムアシスタンスは7月9日、モーション・インテリジェンスが開発した、スマートフォンなどを使用しながら車を運転する「ながら運転」の防止ソリューションサービスを7",
+          "link": "https://news.yahoo.co.jp/articles/02593893465b1f524866d3eddc6abf5b48aea64f?source=rss",
+          "publishedOn": "2021-07-13T22:45:03.000Z",
+          "wordCount": 66,
+          "title": "スマホの「ながら運転」を防止　損保ジャパンがソリューションを提供(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/292c9b4d241054edf91f24ed76668c7209965769?source=rss",
+          "author": null,
+          "description": "日本マクドナルドは7月14日に創業50周年キャンペーンの第2弾を開始。8月31日までの期間限定で「チキンマックナゲット 15ピース」を30％OFFで提供する。\n\n\n\n　「チキンマックナゲット 15ピ",
+          "link": "https://news.yahoo.co.jp/articles/292c9b4d241054edf91f24ed76668c7209965769?source=rss",
+          "publishedOn": "2021-07-13T22:30:00.000Z",
+          "wordCount": 64,
+          "title": "本日からマクドナルドでナゲット15ピースが30％OFF！　創業50周年キャンペーン第2弾(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c3624c2d1203492780aaf7fe34d5aa201fb0ef7f?source=rss",
+          "author": null,
+          "description": "「BCNランキング」2021年6月28日から7月4日の日次集計データによると、有機ELテレビの実売台数ランキングは以下の通りとなった。\n\n1位　VIERA TH-55HZ1000（パナソニック）\n2",
+          "link": "https://news.yahoo.co.jp/articles/c3624c2d1203492780aaf7fe34d5aa201fb0ef7f?source=rss",
+          "publishedOn": "2021-07-13T22:30:00.000Z",
+          "wordCount": 94,
+          "title": "今売れてる有機ELテレビTOP10、55型のVIERAとBRAVIAが人気　2021/7/14(BCN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c769a37938352844fadf450ee2bc8247fbcdf1f5?source=rss",
+          "author": null,
+          "description": "流れるプールで使ってみたい！プールで回転寿司気分を味わえる「スシローコラボ浮き輪」が誕生！！\n\nドウシシャはあきんどスシローとコラボレーションし、おうちでも楽しめるスシローコラボ浮き輪を発売した。",
+          "link": "https://news.yahoo.co.jp/articles/c769a37938352844fadf450ee2bc8247fbcdf1f5?source=rss",
+          "publishedOn": "2021-07-13T22:12:07.000Z",
+          "wordCount": 82,
+          "title": "回っているのは寿司ではなく自分!?プールで回転寿司気分を味わえるドウシシャの「スシローコラボ浮き輪」(＠ＤＩＭＥ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3416f0429e3d5d78ac567367adf616269366e513?source=rss",
+          "author": null,
+          "description": "モバイルメッセージングサービス事業のオランダCM.comの日本法人、CM.com Japanは、メール形式でSMSを配信する同社のサービス「Mail SMS」で、クラウドサービス事業のインターパークが",
+          "link": "https://news.yahoo.co.jp/articles/3416f0429e3d5d78ac567367adf616269366e513?source=rss",
+          "publishedOn": "2021-07-13T22:11:01.000Z",
+          "wordCount": 68,
+          "title": "CM.comのSMS配信サービス「Mail SMS」が顧客管理システム「サスケ」から配信可能に(Web担当者Forum)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9bd224586ccf78c75957a37a35516ec717a78e78?source=rss",
+          "author": null,
+          "description": "米Adobeは7月13日（現地時間）、同社製品に関する月例のセキュリティ情報を発表した。今回は「Adobe Illustrator」や「Adobe Acrobat/Reader」など5製品が対象とな",
+          "link": "https://news.yahoo.co.jp/articles/9bd224586ccf78c75957a37a35516ec717a78e78?source=rss",
+          "publishedOn": "2021-07-13T22:08:10.000Z",
+          "wordCount": 166,
+          "title": "「Illustrator」や「Acrobat」「Acrobat Reader」などに致命的な脆弱性(Impress Watch)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/932723c0ed8d366a170c9592528f433ef76b121f?source=rss",
           "author": null,
@@ -10313,6 +10457,123 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/2f5a643274ade34439cc12f94146e20c0d6209d5?source=rss",
+          "author": null,
+          "description": "満州国建国、五・一五事件など、日本の政治権力が大きく変動しはじめた1932年(昭和7年)。愛知県名古屋市で世にも奇妙な猟奇殺人事件が発生した。\n\n　「首なし娘事件」または「陰獣事件」、「陰獣倉吉事件",
+          "link": "https://news.yahoo.co.jp/articles/2f5a643274ade34439cc12f94146e20c0d6209d5?source=rss",
+          "publishedOn": "2021-07-13T23:01:54.000Z",
+          "wordCount": 81,
+          "title": "19歳女性の「首なし遺体」が発見され…おぞましい「陰獣事件」の凄惨すぎる現場(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/991f029f481835f014f949f7cb6b7f54b9ef2b80?source=rss",
+          "author": null,
+          "description": "静岡県熱海市の土石流は「盛り土」の崩壊で起きた“人災”の可能性が高まっている。さらに今回の熱海だけでなく、一昨年の台風19号で12人の死者・行方不明者を出した宮城県丸森町や、昨年7月の豪雨で大きな被",
+          "link": "https://news.yahoo.co.jp/articles/991f029f481835f014f949f7cb6b7f54b9ef2b80?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 89,
+          "title": "増加する土砂災害　専門家らが訴える法整備「熱海は非常に大きな教訓」〈週刊朝日〉(AERA dot.)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4dc07d6e45b4640e45f25e137702e2f1131c1363?source=rss",
+          "author": null,
+          "description": "米国の経済学者ロバート・ゴードンが2012年に、米国の（世界の）経済成長は終わったのではないかという趣旨の論文を発表して話題になったことがある。一人当たりGDPの成長率は第2次産業革命の恩恵を受けた",
+          "link": "https://news.yahoo.co.jp/articles/4dc07d6e45b4640e45f25e137702e2f1131c1363?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 72,
+          "title": "日本経済の現状変革には何が必要なのか――『変貌する日本のイノベーション・システム』編者が語る(Book Bang)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/daa4699e4915c5e3348e9446a552a1caf5e9f0e5?source=rss",
+          "author": null,
+          "description": "東京都議選で自民党が都議会第一党に返り咲いたが、獲得議席は伸び悩んだ。菅首相では総選挙は戦えない。そんな危機感が党内にまん延している。AERA 2021年7月19日号から。",
+          "link": "https://news.yahoo.co.jp/articles/daa4699e4915c5e3348e9446a552a1caf5e9f0e5?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 84,
+          "title": "自民党、選挙で“負けすぎ”で窮地　菅首相は「選挙の顔として失格」内部の声も〈AERA〉(AERA dot.)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/da2e873dc632f1328f534d2ded802b1eba294e51?source=rss",
+          "author": null,
+          "description": "米ミネソタ州ミネアポリス郊外のバーンズビル市の池や湖で違法に放流されたと見られる金魚が巨大化。AP通信によれば、水質調査を行っていた調査員が今月初めに10匹を発見していたが、12日には18匹が発見さ",
+          "link": "https://news.yahoo.co.jp/articles/da2e873dc632f1328f534d2ded802b1eba294e51?source=rss",
+          "publishedOn": "2021-07-13T22:56:06.000Z",
+          "wordCount": 73,
+          "title": "米ミネアポリス郊外で巨大金魚が急増して問題化　体長46センチ＆重さ1・8キロ級が続々(スポニチアネックス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8c752463d8309ea3ddf13786bdd642e8620aadc0?source=rss",
+          "author": null,
+          "description": "環境省と気象庁は、今日14日(水)を対象として熱中症警戒アラートを、島根県、福岡県、大分県、熊本県、沖縄本島地方と八重山地方に発表しました。\n\n今日も西日本を中心に厳しい暑さとなります。熱中症に警戒を",
+          "link": "https://news.yahoo.co.jp/articles/8c752463d8309ea3ddf13786bdd642e8620aadc0?source=rss",
+          "publishedOn": "2021-07-13T22:43:12.000Z",
+          "wordCount": 74,
+          "title": "福岡県や熊本県などに熱中症警戒アラート　万全な熱中症対策を(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2b62857240e9df8630c1d614b1954aefa250a419?source=rss",
+          "author": null,
+          "description": "きょうも広く大気の状態が不安定になります。沖縄は、夏空が広がり、真夏の暑さ。九州から東北にかけては、日差しが届く所が多くなりますが、天気急変に要注意です。急な雨や雷にお気を付けください。特に、関東や静",
+          "link": "https://news.yahoo.co.jp/articles/2b62857240e9df8630c1d614b1954aefa250a419?source=rss",
+          "publishedOn": "2021-07-13T22:38:46.000Z",
+          "wordCount": 77,
+          "title": "動画解説　7月14日(水)　朝のウェザーニュース　お天気キャスター解説(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/922c9b60c76afd5f393e8b979aa73a486b3011f7?source=rss",
+          "author": null,
+          "description": "きょう14日（水）も全国的に不安定な天気が続きます。\n　特に午後はあちらこちらで雨や雷雨となり、激しく降る所もありそうです。\n　落雷や突風、ひょう、土砂災害などに注意・警戒が必要です。",
+          "link": "https://news.yahoo.co.jp/articles/922c9b60c76afd5f393e8b979aa73a486b3011f7?source=rss",
+          "publishedOn": "2021-07-13T22:36:45.000Z",
+          "wordCount": 92,
+          "title": "【動画】14日の天気 - 続く大気不安定　急な雷雨に注意　広い範囲に雷注意報（14日7時更新）(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b5b42352cdb7dc7b8ce89bdf44cbf42178628b0b?source=rss",
+          "author": null,
+          "description": "きょう14日(水)も九州から関東を中心に大気の状態が不安定。午後は滝のような「非常に激しい雨」の降る所も。土砂災害や低い土地の浸水、川の増水に警戒を。",
+          "link": "https://news.yahoo.co.jp/articles/b5b42352cdb7dc7b8ce89bdf44cbf42178628b0b?source=rss",
+          "publishedOn": "2021-07-13T22:36:14.000Z",
+          "wordCount": 84,
+          "title": "14日　局地的に大雨　滝のような「非常に激しい雨」も　土砂災害や道路冠水のおそれ(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/824cd47d95657b9b606df80900b4d38561aab339?source=rss",
+          "author": null,
+          "description": "愛知県岡崎市のコンビニで7月1日、現金およそ8万円を奪って逃げたとして全国に指名手配されていた20歳の無職の男が大阪市内で逮捕されました。\n\n　逮捕されたのは住所不定・無職の岡田裕也容疑者(20)で",
+          "link": "https://news.yahoo.co.jp/articles/824cd47d95657b9b606df80900b4d38561aab339?source=rss",
+          "publishedOn": "2021-07-13T22:32:40.000Z",
+          "wordCount": 78,
+          "title": "全国指名手配の20歳男逮捕…コンビニで店員に刃物突き付け「金を入れろ」現金8万円奪って逃げた疑い(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/43ed42ec7fcc17bd8c1bbc8cdfc2a57e4b2afb07?source=rss",
+          "author": null,
+          "description": "今日14日(水)も上空の寒気の影響で大気の状態が不安定です。広範囲でゲリラ豪雨が発生するおそれがあります。\n\n特に関東から近畿にかけてが激しい雷雨になりやすく、道路冠水や低地の浸水、落雷や突風、ひょう",
+          "link": "https://news.yahoo.co.jp/articles/43ed42ec7fcc17bd8c1bbc8cdfc2a57e4b2afb07?source=rss",
+          "publishedOn": "2021-07-13T22:24:15.000Z",
+          "wordCount": 75,
+          "title": "今日も激しい雷雨に警戒　道路冠水や突風、ひょうなどのおそれ(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7d5ebdd506be3e7abdeb99c1bc240510b1593c93?source=rss",
+          "author": null,
+          "description": "13日愛知県豊川市の交差点で、患者を搬送中の救急車と軽乗用車が衝突し、軽乗用車の運転手が軽いケガをしました。\n\n　13日午後6時半ごろ、豊川市小坂井町の宮下交差点で、患者を救急搬送していた新城市消防",
+          "link": "https://news.yahoo.co.jp/articles/7d5ebdd506be3e7abdeb99c1bc240510b1593c93?source=rss",
+          "publishedOn": "2021-07-13T22:21:54.000Z",
+          "wordCount": 80,
+          "title": "患者を搬送中の救急車が交差点で軽乗用車が衝突 相手の運転手がケガ 患者の病院への到着15分程度遅れる(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c361b98ff8d1851a734e6561748f3ab837a3971a?source=rss",
+          "author": null,
+          "description": "将棋の王位戦七番勝負第2局が7月13、14日の2日間に渡って行われている。藤井聡太王位（棋聖、18）と豊島将之竜王（叡王、31）という、現在のプロ将棋界における超トップ棋士同士の対局は、多くの関係者",
+          "link": "https://news.yahoo.co.jp/articles/c361b98ff8d1851a734e6561748f3ab837a3971a?source=rss",
+          "publishedOn": "2021-07-13T22:11:04.000Z",
+          "wordCount": 73,
+          "title": "タイトル経験者・広瀬章人八段も緊張する初の正立会人「最も緊張するのが封じ手の開封です」(ABEMA TIMES)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/50efefeff94a142e84dbb2f92a873da956226c9f?source=rss",
           "author": null,
@@ -26250,6 +26511,330 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/6dc1e31dc273ffa97d838ec6ef01432cb7b7f10a?source=rss",
+          "author": null,
+          "description": "高速道路の休憩施設、サービスエリア（SA）ではなくパーキングエリア（PA）には、ボリュームたっぷりで食べ応えのあるメニューが充実している、というイメージがありますが、じつは朝食向けのメニューを提供し",
+          "link": "https://news.yahoo.co.jp/articles/6dc1e31dc273ffa97d838ec6ef01432cb7b7f10a?source=rss",
+          "publishedOn": "2021-07-13T23:05:25.000Z",
+          "wordCount": 72,
+          "title": "ガッツリ系だけじゃない!? 東名高速「中井PA」で食す朝の「PA飯」　バイクで行く高速道路グルメ(バイクのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/62ac00a114f3125ffb3e0349dd9eb31ffa8f70c3?source=rss",
+          "author": null,
+          "description": "ドライバーにとってカーナビは頼れる相棒。知らない土地もスイスイ走れて、スムーズに目的地まで到着できるのは心強い限りですが、それだけに動作はなるべくキビキビしたものを選びたいものです。\n\nセイワのポータ",
+          "link": "https://news.yahoo.co.jp/articles/62ac00a114f3125ffb3e0349dd9eb31ffa8f70c3?source=rss",
+          "publishedOn": "2021-07-13T23:05:00.000Z",
+          "wordCount": 77,
+          "title": "スマホのようなサクサク操作で縦表示ができる快適「ポータブルカーナビ」(＆GP)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7a10519222e4c48054447328ac0c1fa4501cd356?source=rss",
+          "author": null,
+          "description": "チャット感覚でお金を「おくる、もらう、払う、チャージする、もどす、投げ銭する」ことができる送金アプリ「pring」を運営しているpringの株式を保有する国内3社が、米Googleから、pringの",
+          "link": "https://news.yahoo.co.jp/articles/7a10519222e4c48054447328ac0c1fa4501cd356?source=rss",
+          "publishedOn": "2021-07-13T23:02:24.000Z",
+          "wordCount": 62,
+          "title": "メタップス・ミロク情報サービス・日本ガス、プリン株式をGoogleへ売却(MONEYzine)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9fc4d2c5b6147514fbe215ea38fb6c0c5bfc631f?source=rss",
+          "author": null,
+          "description": "デジタル人民元は、中国の中央銀行である中国人民銀行が発行するデジタル通貨である。指定された事業者の参加のもと、一般向けに運用、償還されるもので、簡単に言えば紙幣や硬貨をデジタル化させたものである。デジ",
+          "link": "https://news.yahoo.co.jp/articles/9fc4d2c5b6147514fbe215ea38fb6c0c5bfc631f?source=rss",
+          "publishedOn": "2021-07-13T23:02:05.000Z",
+          "wordCount": 97,
+          "title": "【特集】知っておくべきデジタル人民元の基礎と現状(36Kr Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0880816c5d203bf19195d66b3f6d79427795a230?source=rss",
+          "author": null,
+          "description": "米連邦準備制度理事会（FRB）は政策金利の引き上げを23年末まで行わないというのが従来のスタンスでしたが、6月の米連邦公開市場委員会（FOMC）では23年中に前倒しとなったためタカ派（金融政策の引締め",
+          "link": "https://news.yahoo.co.jp/articles/0880816c5d203bf19195d66b3f6d79427795a230?source=rss",
+          "publishedOn": "2021-07-13T23:01:21.000Z",
+          "wordCount": 76,
+          "title": "文学的表現で語られるFOMC議事要旨(幻冬舎ゴールドオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/57cdb31769300684aa0468cec77d6d882162d68b?source=rss",
+          "author": null,
+          "description": "世界中の人々の生活を大きく変えた、新型コロナウイルス感染症。現在も新規感染者が増加している国がある一方で、コロナ以前の「もとどおりの生活」を取り戻している国もあるなど、「回復力」の差は広がるばかりです",
+          "link": "https://news.yahoo.co.jp/articles/57cdb31769300684aa0468cec77d6d882162d68b?source=rss",
+          "publishedOn": "2021-07-13T23:01:21.000Z",
+          "wordCount": 72,
+          "title": "遅れる日本のワクチン接種…米国の「トランプ政権時」と類似点(幻冬舎ゴールドオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9042801ff1c61734e89fc8891a748989f4b3692f?source=rss",
+          "author": null,
+          "description": "相続税の申告手続きは、複雑そうなイメージからか、不安を覚える人が多いようですが、基本的な流れに沿って準備・作業を進めれば大きな混乱はきたしません。ただし、相続財産の定義については、相続人の認識が甘いと",
+          "link": "https://news.yahoo.co.jp/articles/9042801ff1c61734e89fc8891a748989f4b3692f?source=rss",
+          "publishedOn": "2021-07-13T23:01:21.000Z",
+          "wordCount": 77,
+          "title": "相続税の調査…課税当局が目を光らせる「名義預金」の存在(幻冬舎ゴールドオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/30f78754adde43d12aa8c3af21c9e2a42d32c56c?source=rss",
+          "author": null,
+          "description": "「ルイ・ヴィトン（LOUIS VUITTON）」「ディオール（DIOR）」「フェンディ（FENDI）」などを擁するLVMH モエ ヘネシー・ルイ ヴィトン（LVMH MOET HENNESSY LOU",
+          "link": "https://news.yahoo.co.jp/articles/30f78754adde43d12aa8c3af21c9e2a42d32c56c?source=rss",
+          "publishedOn": "2021-07-13T23:00:31.000Z",
+          "wordCount": 84,
+          "title": "LVMH、サステナビリティの新たな研究施設を2025年にオープン(WWDJAPAN.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4dda38ff707f950abc7ac068a118257ecd8fe3d0?source=rss",
+          "author": null,
+          "description": "株式会社ワイドトレードは、LeofotoのノートPC用トレイ「LCH-2」を7月10日に発売した。希望小売価格は1万2,375円（税込）。\n\nアルミ製のノートパソコン用トレイ。外形寸法は横39×奥行2",
+          "link": "https://news.yahoo.co.jp/articles/4dda38ff707f950abc7ac068a118257ecd8fe3d0?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 88,
+          "title": "Leofoto、三脚やライトスタンドを作業台にできる「ノートPC用トレイ」。1.2万円(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/87d45b25a1c8e2114f1dda7f12bebfdd8aba7446?source=rss",
+          "author": null,
+          "description": "岡本純子。「伝説の家庭教師」と呼ばれるエグゼクティブ・スピーチコーチにして、コミュニケーション戦略研究家である。これまでに1000人を超える社長や企業幹部に、秘伝のコミュニケーションノウハウを伝授。そ",
+          "link": "https://news.yahoo.co.jp/articles/87d45b25a1c8e2114f1dda7f12bebfdd8aba7446?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 83,
+          "title": "【公開】幹部1000人のプレゼンを変えた「世界最高のスピーチコーチング」(Forbes JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7a956644ef4f14cf406f78ed725236e369df3085?source=rss",
+          "author": null,
+          "description": "■ 「サウンティーナ」から13年\n\n2008年に発売された、無指向性スピーカー「Sountina」をご記憶だろうか。有機ガラス管を振動させて音を出すという新方式の大型スピーカーだ。ソニー本社に行く機会",
+          "link": "https://news.yahoo.co.jp/articles/7a956644ef4f14cf406f78ed725236e369df3085?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 136,
+          "title": "第3世代でさらに完成度UP! ソニー、グラスサウンドスピーカー「LSPX-S3」(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8e9b39fbf000eaf41124e828d32642c7c642ce96?source=rss",
+          "author": null,
+          "description": "正式名称「全国企業短期経済観測調査」、いわゆる日銀短観の6月調査の概要が7月1日に公表された（回答期間：5月27日～6月30日）。企業のセンチメント、売り上げ・収益・設備投資計画、為替相場の想定、物",
+          "link": "https://news.yahoo.co.jp/articles/8e9b39fbf000eaf41124e828d32642c7c642ce96?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 78,
+          "title": "企業の動きを示す「ちょっとマニアックな統計」2つ(日経ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/11ac4d90a7567a9d2347a9114676c8a331eb74a6?source=rss",
+          "author": null,
+          "description": "【新華社合肥7月10日】中国の電気自動車（EV）メーカー、上海蔚来汽車（NIO）は7日、ドイツの第三者認証機関テュフ・ラインランドの上海支社から、欧州連合（EU）加盟国での販売や運営に必要となる認証証",
+          "link": "https://news.yahoo.co.jp/articles/11ac4d90a7567a9d2347a9114676c8a331eb74a6?source=rss",
+          "publishedOn": "2021-07-13T23:00:00.000Z",
+          "wordCount": 65,
+          "title": "中国EVメーカー「NIO」の充電設備、EU認証取得(36Kr Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2a22b4c0ab3ccbc3ad08eaad693a74599d52b8ab?source=rss",
+          "author": null,
+          "description": "【ワシントン共同】バイデン米政権は13日、中国新疆ウイグル自治区にサプライチェーン（供給網）がある企業に対して、人権侵害や強制労働に関わる恐れがあると警告した。トランプ前政権が昨年7月に出した同様の",
+          "link": "https://news.yahoo.co.jp/articles/2a22b4c0ab3ccbc3ad08eaad693a74599d52b8ab?source=rss",
+          "publishedOn": "2021-07-13T22:59:27.000Z",
+          "wordCount": 67,
+          "title": "米、ウイグル取引企業に警告　「違法の恐れ」、圧力強化(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ff9fbdf57497fe49ae1fd6cf431346cb2694a85d?source=rss",
+          "author": null,
+          "description": "＜ナスダック＞　　　　　　　　\n\n　　14677.65　　　　　\n\n　　前日比　　－55.59",
+          "link": "https://news.yahoo.co.jp/articles/ff9fbdf57497fe49ae1fd6cf431346cb2694a85d?source=rss",
+          "publishedOn": "2021-07-13T22:51:26.000Z",
+          "wordCount": 67,
+          "title": "ナスダック　13日終値　　　　(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1d675d49ec6706660b990cf89ab97fc45e2a482f?source=rss",
+          "author": null,
+          "description": "国民年金基金という言葉をお聞きになったことがあるでしょうか？\n\nこれは、国民年金しか受給できない自営業やフリーランスの方の公的年金を補うための制度です。同じ目的の制度としては、iDeCoが圧倒的に有名",
+          "link": "https://news.yahoo.co.jp/articles/1d675d49ec6706660b990cf89ab97fc45e2a482f?source=rss",
+          "publishedOn": "2021-07-13T22:50:22.000Z",
+          "wordCount": 96,
+          "title": "国民年金基金とiDeCoはどう違う？ その利用価値とは(ファイナンシャルフィールド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2c26866ca2868e25d464452eaa2bb3475026f3d6?source=rss",
+          "author": null,
+          "description": "モスバーガーを展開するモスフードサービスは7月15日、『モスのスパイスサマー』と題し、こだわりのスパイスを使ったハンバーガー「クール スパイストマト」をはじめとした3品を、全国のモスバーガー店舗(一部",
+          "link": "https://news.yahoo.co.jp/articles/2c26866ca2868e25d464452eaa2bb3475026f3d6?source=rss",
+          "publishedOn": "2021-07-13T22:50:08.000Z",
+          "wordCount": 70,
+          "title": "モスのスパイスサマー「クールスパイストマト」「ホットスパイスモスチキン」発売、生レモン1個入り「まるごと!レモンのクラフトコーラ」も/モスバーガー(食品産業新聞社ニュースWEB)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5405dce12c9c077d25dc31746f02ffd0a5285d53?source=rss",
+          "author": null,
+          "description": "クラウド監視カメラのスタートアップ、セーフィー（東京・品川）が新型コロナウイルス下で導入企業数を増やしている。販売を委託する代理店営業を担当するのが本多桃子さん（27）だ。競合企業から転職し、3年で担",
+          "link": "https://news.yahoo.co.jp/articles/5405dce12c9c077d25dc31746f02ffd0a5285d53?source=rss",
+          "publishedOn": "2021-07-13T22:47:00.000Z",
+          "wordCount": 88,
+          "title": "監視カメラの代理店販売、3年で10倍　27歳の女性営業の必勝術　競合を徹底研究(NIKKEI STYLE)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/db15962d08f27b42cfc332eeebd1889fd382911b?source=rss",
+          "author": null,
+          "description": "「元気が出ない」「希望が持てない」というときは「メンタルでなんとかしようとするのではなく、まずは動いてみる。そんな具体的なノウハウが必要です」。自律神経研究の第一人者としてプロスポーツ選手、アスリート",
+          "link": "https://news.yahoo.co.jp/articles/db15962d08f27b42cfc332eeebd1889fd382911b?source=rss",
+          "publishedOn": "2021-07-13T22:47:00.000Z",
+          "wordCount": 77,
+          "title": "集中力が高まるのは午前中　勝負の時間は無駄にしない(NIKKEI STYLE)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5c6247a1fa0abcc1b44b999e887bdbe44c9fb9dc?source=rss",
+          "author": null,
+          "description": "Hello everyone!　英語講師の神林サリーです。日本で生まれて育った日本人はネーティブにはなれませんよね。でもね、バイリンガル（2言語話者）にはなれるのです。 わたくしの講座のコンセプトは「",
+          "link": "https://news.yahoo.co.jp/articles/5c6247a1fa0abcc1b44b999e887bdbe44c9fb9dc?source=rss",
+          "publishedOn": "2021-07-13T22:47:00.000Z",
+          "wordCount": 83,
+          "title": "英語の時制は日記でトレーニング　実況中継・思い出・予定を書いていこう(NIKKEI STYLE)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3779e8565fb1fd3c4a3fca772fa61c095e280d38?source=rss",
+          "author": null,
+          "description": "スウェーデンのファストファッションブランドH&Mでは、2021年5月末までの6カ月で売上が急激に回復した。店舗営業が段階的に再開したのに伴うかたちだ。これは、マス向けブランドにとって実店舗がいまだに大",
+          "link": "https://news.yahoo.co.jp/articles/3779e8565fb1fd3c4a3fca772fa61c095e280d38?source=rss",
+          "publishedOn": "2021-07-13T22:45:00.000Z",
+          "wordCount": 72,
+          "title": "H&amp;Mのグローバル売上が回復、けん引役は米国、中国は23%減(Forbes JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9a7277744af5b452b1660109ce011400a2aa46a8?source=rss",
+          "author": null,
+          "description": "月面産業ビジョン協議会は2021年7月13日、東京都内で会見を開き、将来の月面産業で国内企業が勝ち残るための方策として産業界の6つの「決意」と政府への7つの「提言」を中核とする「月面産業ビジョン：P",
+          "link": "https://news.yahoo.co.jp/articles/9a7277744af5b452b1660109ce011400a2aa46a8?source=rss",
+          "publishedOn": "2021-07-13T22:40:05.000Z",
+          "wordCount": 91,
+          "title": "「Planet 6.0」に向けた民間主導の月面産業ビジョン、2021年内にロードマップも(MONOist)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/eb483341804f7134da22cd8cdcf074fdaa4febde?source=rss",
+          "author": null,
+          "description": "----------\n数年前、日本でも「アマゾン銀行」が誕生するとささやかれた。実際、GAFAは金融業界を虎視眈々と狙っているという。Googleは日本での金融に本格参入という報道もされている。\nしか",
+          "link": "https://news.yahoo.co.jp/articles/eb483341804f7134da22cd8cdcf074fdaa4febde?source=rss",
+          "publishedOn": "2021-07-13T22:32:01.000Z",
+          "wordCount": 77,
+          "title": "日本人は知らない…ウォール街や兜町を揺るがす金融ベンチャー「コインベース」の驚異(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/71805f49ff428a7bfe2ae977a6f6a2554062e007?source=rss",
+          "author": null,
+          "description": "「温室効果ガスの排出を2050年までに実質ゼロとし、脱炭素社会を実現する」\n\n　菅義偉首相は昨年11月のG20サミットでこう宣言し、世界的な脱炭素の流れに遅れまい、という姿勢を国内外にアピールした。",
+          "link": "https://news.yahoo.co.jp/articles/71805f49ff428a7bfe2ae977a6f6a2554062e007?source=rss",
+          "publishedOn": "2021-07-13T22:31:55.000Z",
+          "wordCount": 75,
+          "title": "「脱炭素」ブームのウラで、いま世界で起きている「本当にヤバすぎる真実」(現代ビジネス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6250c5a5060015ff7a48ac3091841a76bb39dff3?source=rss",
+          "author": null,
+          "description": "『日本の人事部 人事白書2021』から、「戦略人事」の調査結果の一部をご紹介します。",
+          "link": "https://news.yahoo.co.jp/articles/6250c5a5060015ff7a48ac3091841a76bb39dff3?source=rss",
+          "publishedOn": "2021-07-13T22:30:55.000Z",
+          "wordCount": 74,
+          "title": "人事の半数が経営に関わるポジションを目指している【人事白書調査レポート2021】(日本の人事部)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/76ac22378a3829bc99ea5b14eb6edd1a5c7b0d6f?source=rss",
+          "author": null,
+          "description": "最近、学生たちと話していて、全員が理解に苦しんでいるニュースがあった。7月5日、財務省が発表した2020年度の税収が、前年比4.1％増の60兆8216億円で、過去最高になったというものだ。\n\nコロナ禍",
+          "link": "https://news.yahoo.co.jp/articles/76ac22378a3829bc99ea5b14eb6edd1a5c7b0d6f?source=rss",
+          "publishedOn": "2021-07-13T22:30:00.000Z",
+          "wordCount": 81,
+          "title": "なぜコロナ禍で税収が「過去最高」になったのか？　生活実感とのズレを紐解く(Forbes JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a20ae0d814403bfd29e8af35bfbb2bbafda65e27?source=rss",
+          "author": null,
+          "description": "投資に興味のある人が増えています。「よく分からない」「やはり損をするのは嫌」などの理由で、一歩前に踏み出せないでいる人もいらっしゃると思います。\n\n比較的初心者でも始めやすいツールとして「つみたてNI",
+          "link": "https://news.yahoo.co.jp/articles/a20ae0d814403bfd29e8af35bfbb2bbafda65e27?source=rss",
+          "publishedOn": "2021-07-13T22:22:50.000Z",
+          "wordCount": 75,
+          "title": "“投資は分からないから始められない”から脱出！(ファイナンシャルフィールド)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0ff08eb5a8964077cf1aea819709e0de3b5c6aa4?source=rss",
+          "author": null,
+          "description": "アメリカにある「U.S.Army Armor & Cavalry Collection（アメリカ陸軍装甲騎兵コレクション）」は2021年7月8日（木）、公式TWITTER（ツイッター）におい",
+          "link": "https://news.yahoo.co.jp/articles/0ff08eb5a8964077cf1aea819709e0de3b5c6aa4?source=rss",
+          "publishedOn": "2021-07-13T22:20:00.000Z",
+          "wordCount": 77,
+          "title": "アメリカ本土の旧軍「九五式軽戦車」自走できる状態にまで復活！(乗りものニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1623897a32cf00eb4caff84f427194bf6026b252?source=rss",
+          "author": null,
+          "description": "【ニューヨーク共同】13日のニューヨーク外国為替市場の円相場は午後5時現在、前日比28銭円安ドル高の1ドル＝110円58～68銭をつけた。ユーロは1ユーロ＝1.1772～82ドル、130円26～36",
+          "link": "https://news.yahoo.co.jp/articles/1623897a32cf00eb4caff84f427194bf6026b252?source=rss",
+          "publishedOn": "2021-07-13T22:19:39.000Z",
+          "wordCount": 64,
+          "title": "NY円、110円後半(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9949b1ef0ca4c4cec1d5f300d90267f176540521?source=rss",
+          "author": null,
+          "description": "マツダは、製造領域での工場やオフィスのグリーン化推進の一環として、同社初となる太陽光発電設備の稼働を7月13日より開始した。\n\n広島本社工場に設置した太陽光発電設備は、発電能力1.1MW。同工場で生産",
+          "link": "https://news.yahoo.co.jp/articles/9949b1ef0ca4c4cec1d5f300d90267f176540521?source=rss",
+          "publishedOn": "2021-07-13T22:15:03.000Z",
+          "wordCount": 72,
+          "title": "マツダ、太陽光発電設備を本社工場に導入…MX-30 EV の充電などに供給(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9e05a3783d153823c0eb7633f9f85dc52583208a?source=rss",
+          "author": null,
+          "description": "暗号資産教育プラットフォームの「クリプト・ヘッド」の最新調査によると、暗号資産が広まる準備が整っている国ランキングのトップに立ったのは米国だ。\n\nこの調査では、暗号資産の普及に影響するさまざまな要素を",
+          "link": "https://news.yahoo.co.jp/articles/9e05a3783d153823c0eb7633f9f85dc52583208a?source=rss",
+          "publishedOn": "2021-07-13T22:15:00.000Z",
+          "wordCount": 74,
+          "title": "「暗号資産を売買できるATM」、最も普及しているのは米国(Forbes JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/17ba63e1662b015b91e31ba7365130d4ca238b6e?source=rss",
+          "author": null,
+          "description": "ケインズは著書『一般理論』を通してマクロ経済学を生んだことで知られる。しかし一時期、彼の経済学はもう古びたものとして扱われるようになっていた。背景にある理論の変遷や、ケインズの経済学から見た日本経済",
+          "link": "https://news.yahoo.co.jp/articles/17ba63e1662b015b91e31ba7365130d4ca238b6e?source=rss",
+          "publishedOn": "2021-07-13T22:11:49.000Z",
+          "wordCount": 73,
+          "title": "アベノミクスはケインズ的な経済政策だった？　『一般理論』から読み解く日本経済一般理論』から読み解く日本経済(中央公論)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8fc3bb002e64297c9bb4c6077895230edbe9165a?source=rss",
+          "author": null,
+          "description": "世界的なトレンドとなっているSUVですが、日本も例外ではなく、ほとんどのメーカーが主力モデルとしてSUVをラインナップしています。\n　\n　なぜSUVは人気となり、その人気はいつまで続くのでしょうか。",
+          "link": "https://news.yahoo.co.jp/articles/8fc3bb002e64297c9bb4c6077895230edbe9165a?source=rss",
+          "publishedOn": "2021-07-13T22:10:26.000Z",
+          "wordCount": 107,
+          "title": "もう「SUVブーム」とは呼べない？ いまや世界のスタンダード！ SUV人気はいつまで続く？(くるまのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/297016243e8ae66355d00456b5125c06367e4de0?source=rss",
+          "author": null,
+          "description": "Tesla（テスラ）といえば、EV業界の王者や自動車業界のディスラプター（破壊者）として知られ、現CEOのイーロン・マスクの発言はあらゆる業界に影響をもたらすほどの存在感を発揮しています。しかし、実",
+          "link": "https://news.yahoo.co.jp/articles/297016243e8ae66355d00456b5125c06367e4de0?source=rss",
+          "publishedOn": "2021-07-13T22:10:16.000Z",
+          "wordCount": 109,
+          "title": "【図解】テスラは何がどうすごいのか、「自動車業界の破壊者」のビジネスを徹底分析(ビジネス＋IT)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/488e6c40fd699b5a67d0b83c9524d1e0e1d67685?source=rss",
+          "author": null,
+          "description": "2021年秋に日本での発売を予定している新型11代目ホンダ・シビックハッチバック。先代モデルから進化したポイントは数多く挙げられるが、そのなかでも一目見てすぐに変わったとわかるのが、インテリアだろう",
+          "link": "https://news.yahoo.co.jp/articles/488e6c40fd699b5a67d0b83c9524d1e0e1d67685?source=rss",
+          "publishedOn": "2021-07-13T22:09:31.000Z",
+          "wordCount": 88,
+          "title": "まるで別モノのように大変化！　11代目シビックのインテリアへの入魂っぷりを直撃取材(WEB CARTOP)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5b8db48b9b4bf96bfd12126798e4412b20c1d1f1?source=rss",
+          "author": null,
+          "description": "ボルボXC90に設定された特別仕様「B5 AWD テイラードウール エディション」は、環境低減に積極的なボルボらしいモデルだった。100％天然で生分解性があるウールフェルトを使って仕立てられたシートを",
+          "link": "https://news.yahoo.co.jp/articles/5b8db48b9b4bf96bfd12126798e4412b20c1d1f1?source=rss",
+          "publishedOn": "2021-07-13T22:08:05.000Z",
+          "wordCount": 118,
+          "title": "ボルボ XC90 B5 テイラードウール エディションのシートは最上級ファブリック【ボルボのSUV特集】(Webモーターマガジン)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/23798440385169ea263295426191c3cdd088eedb?source=rss",
           "author": null,
