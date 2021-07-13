@@ -2,10 +2,794 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T06:11:53.605Z</updated>
+    <updated>2021-07-13T07:08:45.443Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[飼い主の心、犬知らず…。人間の思惑なんて知ったこっちゃない犬の写真が笑える！(BuzzFeed Japan)]]></title>
+        <id>https://news.yahoo.co.jp/articles/82513e3b82e06fb5cf2b8c057802cb74ed73500a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/82513e3b82e06fb5cf2b8c057802cb74ed73500a?source=rss"/>
+        <updated>2021-07-13T07:05:30.000Z</updated>
+        <summary type="html"><![CDATA[飼い主の心犬知らず…な場面を撮った1枚の写真が話題です。
+
+犬さん（@sss_inu）がTwitterに写真を投稿したところ、6000回以上リツイートされ、5.7万を超える「いいね」が集まりました。]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かわぐちかいじ氏製作のポスター、ワクチン接種呼びかける(NEWSポストセブン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b733834254112e6aad109ac9037d04d1d4930303?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b733834254112e6aad109ac9037d04d1d4930303?source=rss"/>
+        <updated>2021-07-13T07:05:17.000Z</updated>
+        <summary type="html"><![CDATA[『沈黙の艦隊』『ジパング』や昨年映画化された『空母いぶき』で多くの愛読者を持つ漫画家のかわぐちかいじ氏は、東京都小金井市に40年以上住んでいる。現在、同市は新型コロナウイルスのワクチン接種をハイペース]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[交通の便がいいファン待望の都心ディーラー！　ルノー世田谷が移転してリニューアルオープン(WEB CARTOP)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3594ccff3b150014959f1147b67d0fb8c9ebefff?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3594ccff3b150014959f1147b67d0fb8c9ebefff?source=rss"/>
+        <updated>2021-07-13T07:04:57.000Z</updated>
+        <summary type="html"><![CDATA[「個性的な輸入車に乗ってみたい！」という想いがある人にとって、ルノーは気になるブランドのひとつだろう。独自のキャラクターが際立つカングーをはじめ、キャプチャー、メガーヌ、ルーテシア、トゥインゴと、ルノ]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[橋下徹氏、バッハ会長の「中国の…」言い間違いに「こんなの政治家が言ったら本当にアウトですから」(スポーツ報知)]]></title>
+        <id>https://news.yahoo.co.jp/articles/138ad6ed60a719d39a0175946576e59ca8e4090b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/138ad6ed60a719d39a0175946576e59ca8e4090b?source=rss"/>
+        <updated>2021-07-13T07:04:21.000Z</updated>
+        <summary type="html"><![CDATA[１３日放送のＴＢＳ系情報番組「ゴゴスマ」（月～金曜・午後１時５５分）では、来日中のＩＯＣ・トーマス・バッハ会長がこの日、五輪組織委の橋本聖子会長と都内で面会し、準備状況を絶賛したものの「最も大事なの]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】１３日新型コロナ感染者数　愛知県７０人　岐阜県９人　三重県１０人(CBCテレビ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ccca982497d7b4bfe3c9aa3b2e66811ca5103824?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ccca982497d7b4bfe3c9aa3b2e66811ca5103824?source=rss"/>
+        <updated>2021-07-13T07:04:02.000Z</updated>
+        <summary type="html"><![CDATA[東海３県が１３日に発表した新型コロナウイルスの感染者数は、合わせて８９人でした。　　
+　　
+　愛知県は７０人で、このうち名古屋市が１５人、岡崎市が２人、一宮市が２人、豊田市が４人、豊橋市が９人で、そ]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民、通学バス導入提言へ　八街市児童死傷事故受け(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/43e530e2d57e4198567995705c176071377050d5?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/43e530e2d57e4198567995705c176071377050d5?source=rss"/>
+        <updated>2021-07-13T07:03:54.000Z</updated>
+        <summary type="html"><![CDATA[自民党は13日の政調審議会で、スクールバスの導入などを柱とする通学路の安全確保に向けた緊急提言をまとめた。千葉県八街市で下校中の小学生5人が大型トラックにはねられて死傷した事故を受けた対応。近く政府]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ケイブが「東方Project」の新作ゲーム開発を発表　「当社の極意を全て注ぎ込んだ完全新作として」(ねとらぼ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5c3885a10753f25c7f8e8e9fcada50ee5b75f1ac?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5c3885a10753f25c7f8e8e9fcada50ee5b75f1ac?source=rss"/>
+        <updated>2021-07-13T07:03:08.000Z</updated>
+        <summary type="html"><![CDATA[ゲームメーカーのケイブは7月13日、同人ゲーム「東方Project」のIP許諾を受けた新作タイトル開発について発表しました。プレスリリースによると、2022年ごろの配信を予定しているとのこと。]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女川原発で硫化水素吸い込み7人体調不良(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d40cfb0fb4bd2f4fbfda6b697808244c44a4e30c?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d40cfb0fb4bd2f4fbfda6b697808244c44a4e30c?source=rss"/>
+        <updated>2021-07-13T07:02:17.000Z</updated>
+        <summary type="html"><![CDATA[宮城県の東北電力女川原発で12日、廃棄物処理建屋にあるタンク内の硫化水素が別の建屋に漏れ、吸い込んだ作業員7人が体調不良となったことが13日、分かった。東北電が発表した。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チベット東南部を貫く「拉林鉄道」開通の背景(東洋経済オンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a573683fc371c87461651bb90ff9b1feeff039c5?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a573683fc371c87461651bb90ff9b1feeff039c5?source=rss"/>
+        <updated>2021-07-13T07:01:43.000Z</updated>
+        <summary type="html"><![CDATA[6月25日、中国四川省の省都の成都とチベット自治区の区都のラサを結ぶ「川蔵鉄道」の1区間となる「拉林鉄道」(ラサ─ニンティ間)が営業運転を開始した。これはチベット自治区の東南部に開通した初の鉄道路線]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒冷渦がゆっくりと西に移動　明日は関東から近畿で雷雨注意(ウェザーニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6a66ceb15a5801fb999a79d52d531e78df771303?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6a66ceb15a5801fb999a79d52d531e78df771303?source=rss"/>
+        <updated>2021-07-13T07:01:36.000Z</updated>
+        <summary type="html"><![CDATA[明日14日(水)は寒冷渦の移動により、雷雨になりやすい地域が少し変化します。関東から近畿にかけてが最も注意が必要です。
+
+明日も気圧配置に大きな変化はありません。梅雨前線の活動は弱まって、日本付近では]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海軍、航空業界「失敗ゼロ」が求められる組織に学ぶリスク管理(幻冬舎ゴールドオンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/138dcaa59609d0061f510f6a305d2b72d818bb59?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/138dcaa59609d0061f510f6a305d2b72d818bb59?source=rss"/>
+        <updated>2021-07-13T07:01:23.000Z</updated>
+        <summary type="html"><![CDATA[正しい情報が経営層まで共有され、情報に基づく判断のできる組織は「安全文化」がつくられていると言えます。情報に基づく文化を構成する4つの文化である、(1)報告し続ける文化、(2)正義の文化、(3)柔軟な]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[整理が苦手な人の味方　「適当に物を入れるだけ」の収納ボックス活用術(マネーポストWEB)]]></title>
+        <id>https://news.yahoo.co.jp/articles/cead40456e1f96881c8734832a40d856a1612a42?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/cead40456e1f96881c8734832a40d856a1612a42?source=rss"/>
+        <updated>2021-07-13T07:00:22.000Z</updated>
+        <summary type="html"><![CDATA[長く続く巣ごもり生活の間に家の整理をする人が増えている。そんな人たちの強い味方となっているのが収納ボックス。たとえば無印良品の「頑丈収納ボックス」は、外遊びブームで人気に火が付き、2018年以降、毎]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MotoGP日本GPの他にオーストラリアGPもコロナウイルスの影響で中止と発表(バイクのニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7cd011b6d837e54d9ac2dc30dd4f001c22f0c77d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7cd011b6d837e54d9ac2dc30dd4f001c22f0c77d?source=rss"/>
+        <updated>2021-07-13T07:00:08.000Z</updated>
+        <summary type="html"><![CDATA[国際モーターサイクルリズム連盟（FIM）は、『MotoGP世界選手権』の2021年シーズン開催日程に関し、国際ロードレーシングチーム連盟（IRTA）、ドルナスポーツと共に、10月22日から24日にフ]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レクサス NX 新型、米国仕様車を発表へ…シカゴモーターショー2021(レスポンス)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c2ed9d4b06e25955c7ca91b8c3106cbd8e9091a6?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c2ed9d4b06e25955c7ca91b8c3106cbd8e9091a6?source=rss"/>
+        <updated>2021-07-13T07:00:03.000Z</updated>
+        <summary type="html"><![CDATA[レクサスは7月12日、米国で7月15日に開幕するシカゴモーターショー2021において、新型『NX』 （Lexus NX）の米国仕様車を初公開すると発表した。
+
+◆新デザインのスピンドルグリル
+
+新型N]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日産、「NV200バネット」を一部仕様向上 燃費性能や利便性がアップ(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/8eadf335c6c69973afebb498cc03eb2f3dc49edb?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/8eadf335c6c69973afebb498cc03eb2f3dc49edb?source=rss"/>
+        <updated>2021-07-13T07:00:02.000Z</updated>
+        <summary type="html"><![CDATA[■ ユーザーの要望も反映して、装備を向上
+
+　日産自動車は7月13日、ビジネスシーンやデイリーユース、レジャーユースなど幅広いシーンでの使い勝手のよさが特徴の「NV200バネット」を一部仕様向上して発]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ご当地グルメの金沢カレー「チャンピオンカレー」が監修した「コーンスナック」(BCN)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fd3cb34a192aa20084ecf14f36f89e6c8a1a78c7?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fd3cb34a192aa20084ecf14f36f89e6c8a1a78c7?source=rss"/>
+        <updated>2021-07-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[チャンピオンカレーは7月13日、食品卸業者のトモシアホールディングスのグループ会社である旭フレッシュが7月26日に数量限定で発売するコーンスナック「コーンスナック 金沢カレー味 85g」を監修したと]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企業の人事は新卒・中途採用で「裏アカ」までチェック？　特定率88％の「特定サービス」が急伸！〈dot.〉(AERA dot.)]]></title>
+        <id>https://news.yahoo.co.jp/articles/8ecc7c5a8b20ca11241600ff2c9e21ae54fd081a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/8ecc7c5a8b20ca11241600ff2c9e21ae54fd081a?source=rss"/>
+        <updated>2021-07-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[誰もがSNSのアカウントを持つようになった現代。就職、転職活動では、企業人事の9割が採用候補者のSNSをチェックしているという（就職情報サイト「キャリch」調べ）。「裏アカウント」と呼ばれる匿名のア]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TELASAとFilmarksが連携、作品検索からTELASA視聴が手軽に(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/0e18e88bc0aa6d2f5aefb2768489b03425b834e4?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/0e18e88bc0aa6d2f5aefb2768489b03425b834e4?source=rss"/>
+        <updated>2021-07-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[動画配信サービスのTELASAは、映像レビューアプリ/サービス「Filmarks(フィルマークス)」との連携12日より開始。これにより、テレビ朝日の人気番組を始めとするドラマ、アニメ、特撮に加え、国内]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国、個人情報登録100万人以上の企業の海外上場で審査義務付けへ(36Kr Japan)]]></title>
+        <id>https://news.yahoo.co.jp/articles/015c9406b309f1c4c5399e6e6a10c0c49c26d883?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/015c9406b309f1c4c5399e6e6a10c0c49c26d883?source=rss"/>
+        <updated>2021-07-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【新華社北京7月10日】中国国家インターネット情報弁公室は10日、「サイバーセキュリティー審査弁法（修正案意見募集稿）」について意見公募を開始した。同弁法は、ユーザー100万人以上の個人情報を把握する]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレワーク活用広がる…動く職場『オフィスカー』注文殺到し納車に半年以上 フル稼働で2台目検討の会社も(東海テレビ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/04b2946382f09604c35038572985a9dfeffdc261?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/04b2946382f09604c35038572985a9dfeffdc261?source=rss"/>
+        <updated>2021-07-13T06:59:53.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍のアウトドアレジャーブームに加え、テレワークの場としても活用が広がっているキャンピングカーが人気となっています。国内の市場は年々右肩上がりで、この10年間で約2.8倍になりました。
+
+　広い]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻生氏「一般的なお願い」酒取引停止の要請撤回せず(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/e39e99a7108f1e86979ea16e9d6f8b393b109463?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/e39e99a7108f1e86979ea16e9d6f8b393b109463?source=rss"/>
+        <updated>2021-07-13T06:57:03.000Z</updated>
+        <summary type="html"><![CDATA[麻生財務大臣は酒の販売事業者に対して、酒の提供を続ける飲食店との取引をやめるよう要請したことについて、撤回しない考えを示しました。
+
+　麻生財務大臣：「法的根拠は基本的にないと思いますけどね。酒類販]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「梅雨明け」どうなる　水曜も九州～関東甲信で激しい雨の恐れ　不安定な状態まだ続く(tenki.jp)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3a58bb172432e7bbdc8c92f44c15f0c5e0353411?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3a58bb172432e7bbdc8c92f44c15f0c5e0353411?source=rss"/>
+        <updated>2021-07-13T06:56:40.000Z</updated>
+        <summary type="html"><![CDATA[あす14日も大気の非常に不安定な状態が続き、九州から関東甲信を中心に所々で雨雲や雷雲が発達するでしょう。激しい雨の降る所もありそうです。16日(金)ごろまで雷雲の発生しやすい状態が続きますが、17日(]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNSでワクチン接種の体験漫画が話題。接種後の変化「安心感が大きい」(週刊SPA!)]]></title>
+        <id>https://news.yahoo.co.jp/articles/657d4b250a69581458b58e5bdc5fff57d76bfd77?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/657d4b250a69581458b58e5bdc5fff57d76bfd77?source=rss"/>
+        <updated>2021-07-13T06:55:06.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの新規感染者数が再び拡大している。東京都では、4度目の緊急事態宣言が出される。感染拡大の防止に効果があると言われているのが、ワクチン接種だ。
+
+　高齢者や医療従事者のほか、職域接種]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドン引きされないSNS、中年男性が気をつけるべき3原則とは(週刊SPA!)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ae38e7d994c3c2d9c8f094f7fe5600c24a79ce5c?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ae38e7d994c3c2d9c8f094f7fe5600c24a79ce5c?source=rss"/>
+        <updated>2021-07-13T06:54:03.000Z</updated>
+        <summary type="html"><![CDATA[コロナにより、ますます存在感を増し、いまやビジネスでもプライベートでも欠かすことのできない「SNS」。だからこそ、今後は“見る”専門ではなく“発信”することが重要になる。食わず嫌いから脱却し、未来を切]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ケンカ原因で「教室出禁」 元中学生が足立区を提訴「授業を受ける権利、奪われた」(弁護士ドットコムニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ac490702e82ce8b6fef98fa56473344bf15df8dd?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ac490702e82ce8b6fef98fa56473344bf15df8dd?source=rss"/>
+        <updated>2021-07-13T06:54:00.000Z</updated>
+        <summary type="html"><![CDATA[学ラン姿の男子生徒が校門の前で"締め出し"を食らっている――。そんな様子を撮影した動画が2019年1月、ツイッターに投稿されて、当時話題になった。
+
+この動画の生徒は、東京都足立区立の中学に通っていた]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミニ四駆、ハイパーヨーヨーetc.大人も夢中の90年代コロコロホビー(週刊SPA!)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ab602a3f1ed24e35f31e111204fca662b64c11ab?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ab602a3f1ed24e35f31e111204fca662b64c11ab?source=rss"/>
+        <updated>2021-07-13T06:53:03.000Z</updated>
+        <summary type="html"><![CDATA[―［得する！使える！ガジェット裏マニュアル］―]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元乃木坂46・堀未央奈が主演ドラマを通して思う恋愛＆結婚観(週刊SPA!)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2c86e378e6c6ab7df447843086293b606d8ab448?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2c86e378e6c6ab7df447843086293b606d8ab448?source=rss"/>
+        <updated>2021-07-13T06:52:03.000Z</updated>
+        <summary type="html"><![CDATA[グラフィックデザイナーとして家計を支えながら家事までこなす愛妻家・田川暢。彼はある日、愛する妻・藍子の不倫に気づいてしまう。さらに、藍子の悪女ぶりも発覚して……。
+
+　そんな、不倫“サレタガワ”の夫]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[橋下徹氏が指摘　小池百合子都知事は「むしろオリンピックの責任者なのに菅さんを防弾チョッキにした」(スポーツ報知)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d469cb46d7d636dbf0f13ce30a74ea342c9bf9b4?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d469cb46d7d636dbf0f13ce30a74ea342c9bf9b4?source=rss"/>
+        <updated>2021-07-13T06:51:33.000Z</updated>
+        <summary type="html"><![CDATA[１３日放送のＴＢＳ系情報番組「ゴゴスマ」（月～金曜・午後１時５５分）では、菅義偉首相の支持率が各種世論調査で低下していることを報じた。
+
+　コメンテーターで出演した元大阪府知事で弁護士の橋下徹氏は「]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リコール事務局長を保釈(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/43983854fba450ba6c91a9d6cfd85063116958fe?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/43983854fba450ba6c91a9d6cfd85063116958fe?source=rss"/>
+        <updated>2021-07-13T06:50:57.000Z</updated>
+        <summary type="html"><![CDATA[愛知県知事へのリコール運動を巡る署名偽造事件で、地方自治法違反の罪に問われた運動事務局長田中孝博被告（60）が13日、勾留先の県警中村署から保釈された。名古屋地裁が9日に保釈を認める決定をした。保釈]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熱海土石流、2本立てで検証　発生原因と行政対応、静岡知事(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3b21fa1aa147a7d5c7b640a5c147ca511fd404ea?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3b21fa1aa147a7d5c7b640a5c147ca511fd404ea?source=rss"/>
+        <updated>2021-07-13T06:50:19.000Z</updated>
+        <summary type="html"><![CDATA[静岡県の川勝平太知事は13日の記者会見で、熱海市の大規模土石流に関し、土石流が発生した原因と、起点の土地に盛り土をした神奈川県小田原市の不動産管理会社（清算）への行政対応を、2本立てで検証すると明ら]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都鉄道博物館 クル144・クモル145 展示・引退イベント(鉄道コム)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ee31c795c4edad0706d4ed89b542e232160cba4e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ee31c795c4edad0706d4ed89b542e232160cba4e?source=rss"/>
+        <updated>2021-07-13T06:49:00.000Z</updated>
+        <summary type="html"><![CDATA[京都鉄道博物館は、同館の「車両のしくみ／車両工場」エリア（本館1階）にて、配給車「クル144-15」「クモル145-1015」を展示。展示期間は、2021年8月6日（金）～18日（水）。6日14:30]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都鉄道博物館 クル144・クモル145 車両貸切見学会(鉄道コム)]]></title>
+        <id>https://news.yahoo.co.jp/articles/98f14184cd1952e282d29d43044158b01d8b3485?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/98f14184cd1952e282d29d43044158b01d8b3485?source=rss"/>
+        <updated>2021-07-13T06:49:00.000Z</updated>
+        <summary type="html"><![CDATA[京都鉄道博物館は、配給車「クル144-15」「クモル145-1015」の特別展示にあわせ、車両貸切見学イベントを開催。開催期間は、2021年8月12日（木）～17日（火）。開催時間は各日10:30～1]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下村氏、ワクチン不足は「風評」　自治体反発も(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/68540410daf4ccdd960589a4f2fc6f41ce671805?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/68540410daf4ccdd960589a4f2fc6f41ce671805?source=rss"/>
+        <updated>2021-07-13T06:48:38.000Z</updated>
+        <summary type="html"><![CDATA[自民党の下村博文政調会長は13日、党の新型コロナウイルス感染症対策本部などの合同会議で、ワクチン供給に関し「足らないという風評が広がっていることも事実だ」と述べた。不足を訴える自治体が反発する可能性]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビートソニック、トヨタ純正ディスプレイオーディオ装着車用スピーカー出力取リ出しケーブル「BH10」(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4dd65aa87f3f066dc681143b22b1d870332be6f1?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4dd65aa87f3f066dc681143b22b1d870332be6f1?source=rss"/>
+        <updated>2021-07-13T06:48:31.000Z</updated>
+        <summary type="html"><![CDATA[ビートソニックは、「アルファード」「ヤリス」「RAV4」などトヨタ純正ディスプレイオーディオ装着車からスピーカー出力を取り出すケーブル「BH10」を6月29日より発売した。価格は3500円（税別）。]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナで状況が二転三転…選手村の警備責任者が意気込み「選手たちの安全を守ることに変わりはない」(ABEMA TIMES)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f001b1ecfd85a873440463540387921768925893?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f001b1ecfd85a873440463540387921768925893?source=rss"/>
+        <updated>2021-07-13T06:47:30.000Z</updated>
+        <summary type="html"><![CDATA[東京大会の選手村を守る警備の責任者が、コロナで二転三転する状況への対応の難しさを明かした上で、過去に例を見ない警備の成功に向けて意気込みを語った。
+
+　元警視庁の機動隊長・高元常司さん（62）は2年]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次の11インチiPad Proと新型MacBook AirはミニLED採用か(ITmedia NEWS)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5b63e22b498a77a4947ca138f3a07ee78aeba6ab?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5b63e22b498a77a4947ca138f3a07ee78aeba6ab?source=rss"/>
+        <updated>2021-07-13T06:47:18.000Z</updated>
+        <summary type="html"><![CDATA[TF International Securitiesのアナリストであるミン＝チー・クオ氏が、Appleは、Liquid Retina XDRを2022年発売のiPad Pro 11-inch (4]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベッドメイク代行サブスク。月1回のシーツ交換が2千円(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f4513210dea0d2d4378972a292e10cc642aa49de?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f4513210dea0d2d4378972a292e10cc642aa49de?source=rss"/>
+        <updated>2021-07-13T06:45:34.000Z</updated>
+        <summary type="html"><![CDATA[家事代行サービスを提供するベアーズは、「シーツ交換とベッドメイクを一生手放せちゃうサブスクリプション」の受付を、7月13日に開始した。料金は月額2,200円(税別2,000円)、および別途交通費917]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20年余前から毎年のように発生…『土石流の街』の今 砂防ダム増設や移住先整備も最も重要な「防災意識」(東海テレビ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/bdec2991628fa7b4a9c839e13dbe36ee13d775b2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/bdec2991628fa7b4a9c839e13dbe36ee13d775b2?source=rss"/>
+        <updated>2021-07-13T06:45:12.000Z</updated>
+        <summary type="html"><![CDATA[静岡県熱海市で7月3日に発生した大規模な土石流で、改めて土砂災害の恐ろしさを痛感させられましたが、三重県いなべ市もかつて毎年のように土石流の被害を受けていました。
+
+　度重なる土石流の発生を受け、木]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年の企業IT投資実績に大きな変化なし--IDC調査(ZDNet Japan)]]></title>
+        <id>https://news.yahoo.co.jp/articles/befdd61a1195b24619fa6a9389ef696aca342c2e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/befdd61a1195b24619fa6a9389ef696aca342c2e?source=rss"/>
+        <updated>2021-07-13T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[IDC Japanは、国内企業のIT投資動向に関する調査の結果を発表した。2020年度の国内企業のIT支出実績は、全体では前年度比で「変わらない」とする企業が6割を超え、前年度からの大きな変化が見ら]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[介護福祉士、20年度の平均年収は292万円 - 社会福祉振興・試験センター調査(医療介護ＣＢニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fe5948400ab1515ebbc0bb2bd99c187cfa5fdbfa?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fe5948400ab1515ebbc0bb2bd99c187cfa5fdbfa?source=rss"/>
+        <updated>2021-07-13T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[社会福祉振興・試験センターは9日、社会福祉士、介護福祉士、精神保健福祉士の有資格者を対象に実施した2020年度の就労状況調査の結果について、速報版を公表した。調査によると、福祉・介護・医療の分野で働]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR西日本の「配給電車」クモル145形・クル144形引退決まる 京都鉄道博物館で最後の展示(乗りものニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/77705957fe8c680e91cd2a04919b423301ba1eca?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/77705957fe8c680e91cd2a04919b423301ba1eca?source=rss"/>
+        <updated>2021-07-13T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[京都鉄道博物館は2021年7月13日（火）、JR西日本が保有する、「配給電車」と呼ばれるクモル145形・クル144形の特別展示を8月6日（金）から8月18日（水）まで実施することを発表しました。]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】リコール署名偽造事件　事務局長の田中孝博被告を保釈　一言も話さず車で立ち去る(メ〜テレ（名古屋テレビ）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/926c778090656a2f98ed185b040a873b44236108?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/926c778090656a2f98ed185b040a873b44236108?source=rss"/>
+        <updated>2021-07-13T06:44:01.000Z</updated>
+        <summary type="html"><![CDATA[愛知県の大村知事へのリコール運動を巡る署名偽造事件で逮捕・起訴された田中孝博被告（60）の保釈をめぐり、裁判所の保釈決定に対して検察側が準抗告をしていましたが、13日、裁判所がこれを棄却し、田中被告が]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[総務省、利用者アンケート結果から「新料金プランで年間約4300億円の国民負担を軽減」(ITmedia Mobile)]]></title>
+        <id>https://news.yahoo.co.jp/articles/09629ca96f021fdb672ed84ca379a199725b17e2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/09629ca96f021fdb672ed84ca379a199725b17e2?source=rss"/>
+        <updated>2021-07-13T06:43:56.000Z</updated>
+        <summary type="html"><![CDATA[総務省、7月9日に開催した審議会「競争ルールの検証に関するWG（第22回）」において、「試算で年間約4300億円の国民負担を軽減した」と発表した。
+
+　大手キャリア3社がオンライン限定の中容量、低価]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSD換装に必要なすべてが揃ったキット、エレコムから(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ebfa7f19eae79c0cc76f24c31bed084cffedbb71?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ebfa7f19eae79c0cc76f24c31bed084cffedbb71?source=rss"/>
+        <updated>2021-07-13T06:43:46.000Z</updated>
+        <summary type="html"><![CDATA[エレコム株式会社は、M.2 SSDとSSD換装に必要な外付け用ケース/ケーブル/データコピーソフトをまとめた「ESD-IM2」シリーズを発売した。SSDの容量は256GB/512GB/1TBの3種類]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丸亀製麺、7種のおかず入り「こどもうどん弁当」を7月21日発売。TOKIO国分太一さんも開発参加(PHILE WEB)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2eb7ba45332b68ceb066e7c217486a684bf3de0f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2eb7ba45332b68ceb066e7c217486a684bf3de0f?source=rss"/>
+        <updated>2021-07-13T06:43:41.000Z</updated>
+        <summary type="html"><![CDATA[丸亀製麺は、持ち帰り専用メニュー 「丸亀こどもうどん弁当」を7月21日より数量限定で発売する。うどんの量は2種類が用意され、「にこにこ1/2玉サイズ」が450円、「もりもり1玉サイズ」が550円（どち]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】大分県で1人感染　新型コロナ(西日本新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ccf80105c439a601c4a12960bb77561e71864be4?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ccf80105c439a601c4a12960bb77561e71864be4?source=rss"/>
+        <updated>2021-07-13T06:43:29.000Z</updated>
+        <summary type="html"><![CDATA[大分県などは13日、新たに1人の新型コロナウイルス感染を発表した。新規感染者の公表は2日連続。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仙台発の夜行新幹線が幻に…JR東日本が東京オリンピック2020臨時列車計画を変更(レスポンス)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b75ec40fdea41afc3a09a4d3802ef294b16f79c7?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b75ec40fdea41afc3a09a4d3802ef294b16f79c7?source=rss"/>
+        <updated>2021-07-13T06:42:35.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本は7月13日、東京オリンピック2020向けの臨時列車運行計画を変更すると発表した。
+
+7月9日には1都3県での無観客開催決定を受けて首都圏21線区での運行中止が発表されていたが、これに加えて]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[犬の尿で信号柱倒壊か、三重　県警調査、根元が腐敗(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/9d2147e0487a0db52c18a15f09ef23f018c688f8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/9d2147e0487a0db52c18a15f09ef23f018c688f8?source=rss"/>
+        <updated>2021-07-13T06:39:54.000Z</updated>
+        <summary type="html"><![CDATA[三重県鈴鹿市の交差点で2月、鉄製の歩行者用信号柱が倒れる事故があり、県警は、犬の尿が繰り返し掛けられたことで柱の根元の腐食が進んだ可能性が高いとする調査結果を13日までにまとめた。現場周辺は犬の散歩]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民・世耕氏、西村氏発言「現場の声を聞き対応を」(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2e09616aee0fe1041db489e6cad9a89ca2fe5170?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2e09616aee0fe1041db489e6cad9a89ca2fe5170?source=rss"/>
+        <updated>2021-07-13T06:39:03.000Z</updated>
+        <summary type="html"><![CDATA[自民党の世耕弘成参院幹事長は１３日の記者会見で、西村康稔経済再生担当相が新型コロナウイルス特別措置法に基づく休業要請に応じない飲食店に金融機関を通じて協力を求めると発言したことに関し「西村氏本人も反省]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上野動物園の双子パンダ「黒色模様さらに濃くはっきり」ともに健康状態良好(日刊スポーツ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/447dfec076517b3cbab1ba3c4d0d0282a39c1eac?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/447dfec076517b3cbab1ba3c4d0d0282a39c1eac?source=rss"/>
+        <updated>2021-07-13T06:34:54.000Z</updated>
+        <summary type="html"><![CDATA[東京・上野動物園は13日、雄と雌と分かった双子のジャイアントパンダの赤ちゃんについて「目の回り、耳、肩から前足、後ろ足などに黒い毛が生え始め、黒色模様がさらに濃くはっきりとしてきた」と発表した。ともに]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「条例改正も検討」と静岡知事(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ce2420c8c62354fd7b821e4d5a3289823d18caf8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ce2420c8c62354fd7b821e4d5a3289823d18caf8?source=rss"/>
+        <updated>2021-07-13T06:34:48.000Z</updated>
+        <summary type="html"><![CDATA[静岡県の川勝平太知事は記者会見で、熱海市の大規模土石流の起点に盛り土をした不動産管理会社が、何度も行政指導を受けながら不適切行為を繰り返した点に触れ、「条例を厳しくすることも検討する」と述べた。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪選手、今月２６０１人が入国　１人コロナ陽性(産経新聞)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7c9bb64be29d506f75706582404526debf7d5451?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7c9bb64be29d506f75706582404526debf7d5451?source=rss"/>
+        <updated>2021-07-13T06:34:23.000Z</updated>
+        <summary type="html"><![CDATA[丸川珠代五輪相は１３日の記者会見で、２３日の東京五輪開幕を前に、１日から１２日までに６９カ国・地域の選手団計２６０１人が入国し、そのうち新型コロナウイルスの陽性者は３日に判明したセルビア選手１人だった]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】愛知県知事のリコール署名偽造事件　田中事務局長が保釈される(CBCテレビ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/97374719a1236ffd8c82da8b8e449f1dd8208e69?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/97374719a1236ffd8c82da8b8e449f1dd8208e69?source=rss"/>
+        <updated>2021-07-13T06:34:02.000Z</updated>
+        <summary type="html"><![CDATA[愛知県の大村秀章知事のリコール運動をめぐる署名偽造事件で、地方自治法違反の罪で起訴された、田中孝博事務局長が保釈されました。
+
+　保釈されたのは、リコール団体の事務局長で、元・愛知県議会議員の田中孝]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[橋下徹氏、緊急事態宣言で「毎日、感染者数とか人流とかで大騒ぎする社会からは脱却しなきゃいけない」(スポーツ報知)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d9b5c2d4224e5e22bb5497408a97e47933b09a1b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d9b5c2d4224e5e22bb5497408a97e47933b09a1b?source=rss"/>
+        <updated>2021-07-13T06:31:15.000Z</updated>
+        <summary type="html"><![CDATA[１３日放送のＴＢＳ系情報番組「ゴゴスマ」（月～金曜・午後１時５５分）では、４度目の緊急事態宣言発出も都内の繁華街などで人流が減らない現状を報じた。
+
+　この件について、コメンテーターで出演した元大阪]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猫ちゃんゴージャスすぎ！冬になると体毛が大変身、ビフォーアフターがすごい！(BuzzFeed Japan)]]></title>
+        <id>https://news.yahoo.co.jp/articles/dc57c7ac48926182d004caf96296dc75f5095773?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/dc57c7ac48926182d004caf96296dc75f5095773?source=rss"/>
+        <updated>2021-07-13T06:30:08.000Z</updated>
+        <summary type="html"><![CDATA[夏と冬で大変身する猫ちゃんの写真が話題です。
+
+かいつけさん（@KRAUSER_MKM1000）がTwitterに写真を投稿したところ、6000回以上リツイートされ、2万を超える「いいね」が集まりまし]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[指向性スピーカー付きスマートグラス「HUAWEI×GENTLE MONSTER Eyewear II」の一般販売が始まる　税込み約4.4万円(ITmedia Mobile)]]></title>
+        <id>https://news.yahoo.co.jp/articles/296acb68d8b55f84239f243547a9bd1e90b217e0?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/296acb68d8b55f84239f243547a9bd1e90b217e0?source=rss"/>
+        <updated>2021-07-13T06:30:06.000Z</updated>
+        <summary type="html"><![CDATA[ファーウェイ・ジャパンは7月13日から、スマートグラス「HUAWEI ×GENTLE MONSTER Eyewear II」の一般販売を開始した。サングラスタイプ「SMART LANG」と、度なしメ]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デンソーテン、小規模事業者向けタクシー支援システムに乗務員が配車対応できる新機能(レスポンス)]]></title>
+        <id>https://news.yahoo.co.jp/articles/35b834527a5165fd5df462d2b8eb29c965d5cbc5?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/35b834527a5165fd5df462d2b8eb29c965d5cbc5?source=rss"/>
+        <updated>2021-07-13T06:30:03.000Z</updated>
+        <summary type="html"><![CDATA[デンソーテンは、小規模のタクシー事業者向け新世代タクシー支援システムに、タブレット端末から配車ができる「どこでも配車機能」を搭載した新モデル「タイプ-C」を2021年夏より発売する。
+
+MaaSという]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マキタ、充電式でもハイパワーな草刈機。40mlエンジン同等(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/964000b98c74bbc6ec993c1a341df83108b02f7f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/964000b98c74bbc6ec993c1a341df83108b02f7f?source=rss"/>
+        <updated>2021-07-13T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[マキタは、最大出力を40mlエンジンと同等のハイパワーを実現した「充電式草刈機 MUR012G」を発売した。価格は97,000円(税別)。なおバッテリーと充電器は別売。使用可能なバッテリーは、「BL4]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「3A」対「2F」：総選挙に向けた自民党の暗闘(nippon.com)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1de2d807458c6f501224295af62655d19413003a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1de2d807458c6f501224295af62655d19413003a?source=rss"/>
+        <updated>2021-07-13T06:28:07.000Z</updated>
+        <summary type="html"><![CDATA[与良 正男]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、送金アプリ「pring」を買収(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c4968f9de4e753e7f18be9fd5d27efb7418247ab?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c4968f9de4e753e7f18be9fd5d27efb7418247ab?source=rss"/>
+        <updated>2021-07-13T06:27:47.000Z</updated>
+        <summary type="html"><![CDATA[送金アプリ「pring」のGoogleへの売却が決定した。pringの親会社であるメタップスらが発表し、Googleも株式会社pringの全株式取得のための契約に合意したことを認めている。株式譲渡実行]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国税庁の職員7人感染　飲酒を伴う夜の会食に参加(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/aedf8bfd3ca7c5282f036a9b9c5ab1403eb46a90?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/aedf8bfd3ca7c5282f036a9b9c5ab1403eb46a90?source=rss"/>
+        <updated>2021-07-13T06:26:32.000Z</updated>
+        <summary type="html"><![CDATA[国税庁が緊急の記者会見を開き、職員7人が新型コロナウイルスに感染したことを明らかにしました。7人は飲酒を伴う夜の会食に参加していたということです。
+
+　国税庁によりますと、10日から12日までに課税]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、スマホ送金「pring」を買収(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5363f85cb2d3a09e4503e676f053c73b388d6e10?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5363f85cb2d3a09e4503e676f053c73b388d6e10?source=rss"/>
+        <updated>2021-07-13T06:25:32.000Z</updated>
+        <summary type="html"><![CDATA[米グーグルが、スマートフォン向け送金アプリ「pring」を運営するpring社の全株式を取得する。
+
+　グーグル広報は、「グーグルは株式会社pring の全株式を取得するための契約に合意しました」と]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三重県や山口県などで35℃以上の猛暑日　来週は暑さレベルアップする所も(tenki.jp)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1222748ed3242da81dde75ea3beab309d762200a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1222748ed3242da81dde75ea3beab309d762200a?source=rss"/>
+        <updated>2021-07-13T06:25:23.000Z</updated>
+        <summary type="html"><![CDATA[13日、日本列島は暖かい空気に覆われています。15時までの最高気温は、三重県桑名市で35.4℃、山口県山口市で35.1℃など、35℃以上の猛暑日になりました。]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、pring買収公表　日本の金融市場に足がかり(ITmedia ビジネスオンライン)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7f1f236da297da8bedcd1ee81c7148d6f3918557?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7f1f236da297da8bedcd1ee81c7148d6f3918557?source=rss"/>
+        <updated>2021-07-13T06:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Googleによる決済サービススタートアップpring（東京都港区）の買収が正式に公表された。pring株式の45.3%を保有するメタップスが明らかにした。
+
+　メタップスは保有株を49億2100万]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「権限要求多すぎ」──セブン-イレブンのTwitterキャンペーンに批判相次ぐ→中止に　なぜこうなったかは「確認中」(ITmedia NEWS)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2ddb2fb717e90502018a9f6e88178786f4479bfc?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2ddb2fb717e90502018a9f6e88178786f4479bfc?source=rss"/>
+        <updated>2021-07-13T06:23:02.000Z</updated>
+        <summary type="html"><![CDATA[セブン-イレブン・ジャパンが7月11日に始めたTwitterキャンペーンが波紋を呼んでいる。社名にちなんだ「セブン-イレブンの日」として無料クーポンをプレゼントする企画だったが、応募のためには個人の]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファーウェイ、国内ディスプレイ市場参入。34型ゲーミングと28型4K(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1baa3c553af98dc42480d848b54c06b12edcf7c8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1baa3c553af98dc42480d848b54c06b12edcf7c8?source=rss"/>
+        <updated>2021-07-13T06:22:36.000Z</updated>
+        <summary type="html"><![CDATA[ファーウェイ・ジャパンは、34型ゲーミングディスプレイや、ワイヤレス対応・アスペクト比3:2の4Kディスプレイなど3製品を8月20日より順次発売する。市場想定価格は19,980円から89,800円。同]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャープ、「映画前売券付きブロマイド」のコンビニ印刷サービス。第1弾は「マクロス」新作映画(PHILE WEB)]]></title>
+        <id>https://news.yahoo.co.jp/articles/8ddc9a5234251dc9a4b27e15ba0921ebb74d2e8a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/8ddc9a5234251dc9a4b27e15ba0921ebb74d2e8a?source=rss"/>
+        <updated>2021-07-13T06:19:52.000Z</updated>
+        <summary type="html"><![CDATA[シャープマーケティングジャパン（株）は、（株）イードと提携し、コンビニエンスストアのマルチコピー機を活用した「映画前売券付きブロマイド」のプリントサービスを、8月2日より順次開始する。価格は1,900]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“中古おもちゃ”高騰　定価30倍も！新たな資産に？(テレビ朝日系（ANN）)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7ca763d17617ca9fa73424c2d0b621f1a9cb728a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7ca763d17617ca9fa73424c2d0b621f1a9cb728a?source=rss"/>
+        <updated>2021-07-13T06:18:45.000Z</updated>
+        <summary type="html"><![CDATA[6000円で買ったものが30倍の価格に…。懐かしのおもちゃが今、異常な値上がりを見せているのです。
+
+■“超合金”が定価30倍！ゲームは3倍以上
+
+　“超合金”が、18万円で販売されています。定価が]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東証続伸、149円高　米株上昇受け、利益確定売りも(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/33ebb73e966118c52f9cd19c68eb8ddd8a71696c?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/33ebb73e966118c52f9cd19c68eb8ddd8a71696c?source=rss"/>
+        <updated>2021-07-13T06:14:57.000Z</updated>
+        <summary type="html"><![CDATA[13日の東京株式市場の日経平均株価（225種）は続伸した。朝方は、前日の米株式市場の上昇を受け幅広い銘柄が買われた。ただ午後に入ると当面の利益を確定させる売りが出て、上値は重かった。
+
+　終値は前日]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファーウェイ、4K対応・3：2比率の28.2型ディスプレイ「MateView」。8万9,800円(Impress Watch)]]></title>
+        <id>https://news.yahoo.co.jp/articles/9bc73112539c04736499147cbb59887f22cb21c7?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/9bc73112539c04736499147cbb59887f22cb21c7?source=rss"/>
+        <updated>2021-07-13T06:13:20.000Z</updated>
+        <summary type="html"><![CDATA[華為技術日本株式会社（ファーウェイ・ジャパン）は、デスクトップモニター「HUAWEI MateView」を8月20日に発売する。価格はオープン。店頭予想価格は税込8万9,800円。
+
+ノートPCの「H]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gmail、なりすまし対策で送信元アイコンに企業ロゴ表示を可能に(ITmedia NEWS)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fcbf557f8157f3149ca2cdf4106ec30c8945c2f8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fcbf557f8157f3149ca2cdf4106ec30c8945c2f8?source=rss"/>
+        <updated>2021-07-13T06:13:10.000Z</updated>
+        <summary type="html"><![CDATA[米Googleは7月12日（現地時間）、Gmailの受信箱に表示する送信者のアイコンとして、企業ロゴを表示できるようにしたと発表した。BIMI（Brand Indicators for Messag]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新宿の巨大猫　“渋谷のハチ公”狙う？(ITmedia NEWS)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7030f21e28a04b106661298a1474d0f1f8b4609e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7030f21e28a04b106661298a1474d0f1f8b4609e?source=rss"/>
+        <updated>2021-07-13T06:11:45.000Z</updated>
+        <summary type="html"><![CDATA[都心のターミナル・新宿駅東口に突如現れた“巨大猫”が話題をさらっている。駅前広場から見えるビル屋上の巨大ディスプレイに、巨大な猫の3D映像が登場。その迫力とかわいらしい姿・声が見た人を驚かせ、国内だ]]></summary>
+        <author>
+            <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[駐在員54％が景気上昇を予想　アジア、ワクチン接種に期待(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fe21880add120174eae85d1fdcd682c99843feca?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fe21880add120174eae85d1fdcd682c99843feca?source=rss"/>
+        <updated>2021-07-13T06:10:16.000Z</updated>
+        <summary type="html"><![CDATA[共同通信グループのNNAがアジアの日系企業駐在員らを対象に実施した調査で、駐在する国・地域の2021年下半期（7～12月）の景気は上半期より上昇するとの回答が54.2％だったことが13日、明らかにな]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タグ・ホイヤー コネクテッド×スーパーマリオ リミテッドエディション──ゲーム感覚で楽しめる世界限定2000本！(GQ JAPAN)]]></title>
         <id>https://news.yahoo.co.jp/articles/4352d719bf6be7a8399778a1cf4dd857c6db07dd?source=rss</id>
@@ -289,6 +1073,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IOCのバッハ会長「最も大事なのはチャイニーズピープル」痛恨の言い間違い - ライブドアニュース]]></title>
+        <id>https://news.livedoor.com/article/detail/20523663/</id>
+        <link href="https://news.livedoor.com/article/detail/20523663/"/>
+        <updated>2021-07-13T05:47:45.000Z</updated>
+        <summary type="html"><![CDATA[国際オリンピック委員会（ＩＯＣ）の会長が１３日、都内で・パラリンピック組織委員会の橋本聖子会長と面会した。 ２３日の五輪開幕に向けて、８日に来日したバッハ会長は９日から１１日の３日間の隔離期間を終え、行動規制期間に入った。用務先を指定した形での活動は可能となったため、この日から始動した。「来日から...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[大臣自ら4度目宣言の効果に？「何もしないよりは」(テレビ朝日系（ANN）)]]></title>
         <id>https://news.yahoo.co.jp/articles/a1d55dfd383cd05dc12478d2cce4659b29e9a998?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/a1d55dfd383cd05dc12478d2cce4659b29e9a998?source=rss"/>
@@ -454,6 +1248,16 @@ JR西日本では、宍道駅（島根県松江市）と備後落合駅（広島
         <summary type="html"><![CDATA[YouTubeは日本での「YouTubeショート」を開始した。スマホでキャッチーなショート動画を撮影から編集、投稿まで簡単にできるYouTubeの新機能（ベータ版）。]]></summary>
         <author>
             <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッハ会長痛恨　日本人と中国人を言い間違い「最も大事なのはチャイニーズピープル」（デイリースポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/51efa0c4a79e388fce00edb8f1d5be5105424cf2</id>
+        <link href="https://news.yahoo.co.jp/articles/51efa0c4a79e388fce00edb8f1d5be5105424cf2"/>
+        <updated>2021-07-13T05:28:09.000Z</updated>
+        <summary type="html"><![CDATA[国際オリンピック委員会（ＩＯＣ）のトーマス・バッハ会長が１３日、都内で東京五輪・パラリンピック組織委員会の橋本聖子会長と面会した。 ２３日の五輪開幕に向けて、８日に来日したバッハ会長は９日から１１日の３日間の隔離期間を終え、行動規制期間に入った。用務先を指定した形での活動は可能となったため、この日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -4421,6 +5225,16 @@ YouTube ショートは、スマホでキャッチーなショート動画を撮
         <summary type="html"><![CDATA[米Googleは7月12日（現地時間）、「Googleドライブ」のファイル同期サービス「バックアップと同期」を「パソコン版Googleドライブ」に移行するスケジュールを発表した。9月末には「バックア]]></summary>
         <author>
             <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクロールに連動するアニメーションを実装する時は、JSのIntersection Observerを使用すると簡単に実装できる | コリス]]></title>
+        <id>https://coliss.com/articles/build-websites/operation/javascript/animate-on-scroll-using-intersectionobserver.html</id>
+        <link href="https://coliss.com/articles/build-websites/operation/javascript/animate-on-scroll-using-intersectionobserver.html"/>
+        <updated>2021-07-13T00:37:15.000Z</updated>
+        <summary type="html"><![CDATA[スクロールに連動するアニメーションはIntersection Observerを使用すると、簡単に実装できます。カードUIがスクロールしてビューポートに表示されると、カード内の要素がアニメーションするUIを実装する方法を紹介します。 ライブラリなどは必要なく、数行のJavaScriptで簡単に実装できます。 Animate on scroll using ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
