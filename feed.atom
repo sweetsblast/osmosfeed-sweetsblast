@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T18:11:15.642Z</updated>
+    <updated>2021-07-13T19:07:42.648Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[路上で19歳女性に「虫がついてるよ」…スカート内にスマホ入れカメラ向けたか 市文化芸術課勤務の男逮捕(東海テレビ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/15430ea075aa3b073a622aa6154988c0af453158?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/15430ea075aa3b073a622aa6154988c0af453158?source=rss"/>
+        <updated>2021-07-13T18:52:09.000Z</updated>
+        <summary type="html"><![CDATA[愛知県の東海市役所職員の男が6月27日、女性のスカートの中にスマートフォンを入れカメラを向けたとして逮捕されました。
+
+　警察によりますと、逮捕されたのは東海市役所の文化芸術課に勤務する酒井悠吾容疑]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為替相場　　14日（日本時間　3時）(共同通信)]]></title>
         <id>https://news.yahoo.co.jp/articles/37bbe0afc70e3e5308caf5c5dc44a854d137f0f2?source=rss</id>
