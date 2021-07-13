@@ -22,6 +22,24 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.asahi.com/articles/ASP7F6RGWP7FUTIL069.html",
+          "author": null,
+          "description": "JR東日本は13日、新宿駅の社員11人が新型コロナウイルスに感染したと発表した。11人は、みどりの窓口での切符発売のほか、改札やホームでの案内業務などを担当している。業務中はマスクを着けて接客していたという。利用客との濃厚接触はなく、現時点で列車運行に影響はないという。 同社によると、6日～13日の間に20代...",
+          "link": "https://www.asahi.com/articles/ASP7F6RGWP7FUTIL069.html",
+          "publishedOn": "2021-07-13T11:56:13.000Z",
+          "wordCount": 216,
+          "title": "JR新宿駅の社員11人がコロナ感染　感染経路は不明 [新型コロナウイルス]：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/116469",
+          "author": null,
+          "description": "東京五輪・パラリンピックで来日した選手を除く関係者が入国後１４日以内でも宿泊所外のコンビニなどを利用できる特例を巡り、組織委員会が利用状況を調査・記録しないことが分かった。１３日の野党会合で内閣官房が明らかにした。議員たちは「誰がいつどこに行ったのか記録がなければ、新型コロナウイルスが広がっても...",
+          "link": "https://www.tokyo-np.co.jp/article/116469",
+          "publishedOn": "2021-07-13T11:05:20.000Z",
+          "wordCount": 309,
+          "title": "オリパラ関係者のコンビニ・飲食店利用　政府は「調査せず」　野党は「コロナ経路たどれず」と批判：東京新聞 TOKYO Web"
+        },
+        {
           "id": "https://togetter.com/li/1744321",
           "author": null,
           "description": "一太郎がWordに負け低迷してると思ってたジャストシステムのこの数年右肩上がりでしかも給与が最強クラスで不死鳥のごとく復活してた。 それにしても、みんなジャストシステム好きだなｗ",
@@ -29,6 +47,15 @@
           "publishedOn": "2021-07-13T08:33:37.000Z",
           "wordCount": 500,
           "title": "Just Systemが一太郎負けて最近低迷してるかと思いきや株価も上がって給与も最高水準だった - Togetter"
+        },
+        {
+          "id": "https://nazology.net/archives/92600",
+          "author": null,
+          "description": "Credit:canva 全ての画像を見る プラスチックは、自然の中で分解されるのに非常に時間がかかるため、環境中に残留するマイクロプラスチックが大きな環境問題となっています。 そこで最近は、分解可能なプラスチックに関する研究が数多く報告されています。 そんな中国、華中科技大学 （かちゅうかぎだいがく）は、太陽と...",
+          "link": "https://nazology.net/archives/92600",
+          "publishedOn": "2021-07-13T08:29:08.000Z",
+          "wordCount": 368,
+          "title": "実験失敗から「日光で消えるプラスチック」が開発される！　たった1週間で分解可能 - ナゾロジー"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210713/k10013137451000.html",
@@ -164,6 +191,15 @@
           "publishedOn": "2021-07-13T03:12:02.000Z",
           "wordCount": 78,
           "title": "母子手帳は「親子手帳」じゃだめ？　父親たちの問題提起（朝日新聞デジタル） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://twitter.com/unkotaberuno/status/1413617257712812032",
+          "author": null,
+          "description": "空気が変わった瞬間、三浦瑠麗氏、東浩紀氏、宮沢孝幸氏、小林よしのり氏、萬田緑平氏、木村盛世氏、倉持麟太郎氏、永江一石氏、森田洋之氏他、冷静だった方々にお仕事の依頼が来るでしょう。この1年5ヶ月のバカ騒動はこれから総括すべきです。た… https://t.co/0Ryaxml1lQ",
+          "link": "https://twitter.com/unkotaberuno/status/1413617257712812032",
+          "publishedOn": "2021-07-13T03:04:45.000Z",
+          "wordCount": 196,
+          "title": "中川淳一郎 on Twitter: \"空気が変わった瞬間、三浦瑠麗氏、東浩紀氏、宮沢孝幸氏、小林よしのり氏、萬田緑平氏、木村盛世氏、倉持麟太郎氏、永江一石氏、森田洋之氏他、冷静だった方々にお仕事の依頼が来るでしょう。この1年5ヶ月のバカ騒動はこれから総括すべきです。た… https://t.co/0Ryaxml1lQ\""
         },
         {
           "id": "https://mainichi.jp/articles/20210713/k00/00m/040/041000c",
@@ -2611,6 +2647,69 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/92744f319a596c4f7a83d6f75c0aab7ec7c5cd8a?source=rss",
+          "author": null,
+          "description": "80PLUS GOLD認証を取得したSFX電源に新モデルが登場、LIAN LIの「SP750」が16日(金)に発売予定だ。容量は750Wで、販売価格は14,990円。\n\n■ 低負荷時はファンの回転を",
+          "link": "https://news.yahoo.co.jp/articles/92744f319a596c4f7a83d6f75c0aab7ec7c5cd8a?source=rss",
+          "publishedOn": "2021-07-13T15:05:00.000Z",
+          "wordCount": 86,
+          "title": "750Wのフルモジュラー式SFX電源が16日に発売、80PLUS GOLD認証(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/352c683df29efda5fc63cc653f8d594eb598defe?source=rss",
+          "author": null,
+          "description": "ツイッタージャパン（Twitter Japan）は、開催を直前に控えた東京オリンピック・パラリンピックに関して、メディア向けのオンラインラウンドテーブルを開催した。\n\n　ラウンドテーブルで紹介された",
+          "link": "https://news.yahoo.co.jp/articles/352c683df29efda5fc63cc653f8d594eb598defe?source=rss",
+          "publishedOn": "2021-07-13T15:00:00.000Z",
+          "wordCount": 104,
+          "title": "ツイッタージャパンの中の人が語る、Twitter×東京オリンピックについて(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/55f73018a60941fcf07bbdbf9ce447a5d2f2082b?source=rss",
+          "author": null,
+          "description": "エリクソン・ジャパンは13日に、エリクソンが発表した「2021年6月付のエリクソンモビリティレポート」に関するブリーフィングをメディア向けに開催し、エリクソン・ジャパン チーフ・テクノロジー・オフィ",
+          "link": "https://news.yahoo.co.jp/articles/55f73018a60941fcf07bbdbf9ce447a5d2f2082b?source=rss",
+          "publishedOn": "2021-07-13T15:00:00.000Z",
+          "wordCount": 104,
+          "title": "5年後に世界のモバイル契約の4割が5Gに、エリクソンモビリティレポート(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/89900a3adfa39666c8ca3b0589ae5fe982099c21?source=rss",
+          "author": null,
+          "description": "LINEは、 スマートフォン専用のリサーチプラットフォーム「LINEリサーチ」において、四半期ごとに若年層（全国15～24歳までの男女）の流行を調査している。今回は、2021年上半期の調査分として、",
+          "link": "https://news.yahoo.co.jp/articles/89900a3adfa39666c8ca3b0589ae5fe982099c21?source=rss",
+          "publishedOn": "2021-07-13T15:00:00.000Z",
+          "wordCount": 93,
+          "title": "LINEの若者流行調査、上半期1位は「呪術廻戦」(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d6c39d96328704ec414d99ec1dda4dac60c60360?source=rss",
+          "author": null,
+          "description": "総務省は、「競争ルールの検証に関する報告書2021（案）」に対するパブリックコメントの募集を7月14日から開始する。期間は8月17日まで。\n\n　同報告書（案）は、2019年の改正電気通信事業法の効果",
+          "link": "https://news.yahoo.co.jp/articles/d6c39d96328704ec414d99ec1dda4dac60c60360?source=rss",
+          "publishedOn": "2021-07-13T15:00:00.000Z",
+          "wordCount": 77,
+          "title": "総務省、競争ルールの検証に関する報告書2021（案）にパブリックコメント募集(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/353b55930d85a10b488a46baf9495e7875dabfbf?source=rss",
+          "author": null,
+          "description": "NTTドコモは、東京2020オリンピック競技大会のチケットを賞品とした3キャンペーンに関して、ユーザー対応を検討していると発表した。同大会の競技セッションが、1都3県などで無観客となる決定を受けたも",
+          "link": "https://news.yahoo.co.jp/articles/353b55930d85a10b488a46baf9495e7875dabfbf?source=rss",
+          "publishedOn": "2021-07-13T15:00:00.000Z",
+          "wordCount": 87,
+          "title": "ドコモ、オリンピック無観客化を受けてチケットキャンペーン対応を検討(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c6a68bc24ef27d45b48da9e7336fa8437276478a?source=rss",
+          "author": null,
+          "description": "ソウイジャパンは、3eeブランドのカナル型イヤホン「UAG 01」を、7月16日より発売する。価格はオープンだが、税込1,480円前後での実売が予想される。\n\nUAG 01は “高音質をお手軽価格で”",
+          "link": "https://news.yahoo.co.jp/articles/c6a68bc24ef27d45b48da9e7336fa8437276478a?source=rss",
+          "publishedOn": "2021-07-13T15:00:00.000Z",
+          "wordCount": 92,
+          "title": "3ee、約1,480円のエントリーイヤホン「UAG 01」。3カラーを展開(PHILE WEB)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/b710616d90d260670cfc33b37eb97f133f6d8dd8?source=rss",
           "author": null,
@@ -9800,6 +9899,42 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/5ad9600fa90a46de0963027cc5a2224df270fc2b?source=rss",
+          "author": null,
+          "description": "今年の7月から9月に、全国で、どれだけゲリラ雷雨が発生するのか予測したデータが公開されました。ウェザーニュースによりますと、全国で約7万5000回発生する予想となっていて、去年に比べ2割も増えていると",
+          "link": "https://news.yahoo.co.jp/articles/5ad9600fa90a46de0963027cc5a2224df270fc2b?source=rss",
+          "publishedOn": "2021-07-13T14:30:10.000Z",
+          "wordCount": 84,
+          "title": "“ゲリラ雷雨”予測最前線　地上458メートルに(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5d551c86c92605350a37fec38a53f357ec4a2989?source=rss",
+          "author": null,
+          "description": "IOC＝国際オリンピック委員会のバッハ会長が来日後、初めて大会組織委員会を訪れ、橋本会長と会談しました。\n橋本会長：「さまざまな問題があるが、日々、連携を取りながら解決に向けて努力している」\nバッハ会",
+          "link": "https://news.yahoo.co.jp/articles/5d551c86c92605350a37fec38a53f357ec4a2989?source=rss",
+          "publishedOn": "2021-07-13T14:30:08.000Z",
+          "wordCount": 74,
+          "title": "五輪選手入国ピーク…民間企業バブル作る新たな試み(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7172d23ddbad0abd1ca0923283d3df829ffd3cd7?source=rss",
+          "author": null,
+          "description": "13日は朝から、広い範囲でゲリラ雷雨になりました。\n\n千葉県内では、1時間に30ミリを超す激しい雨で冠水。床上浸水の被害も出ました。\n\nクリーニング店従業員：「土のうを越えて水が床上に入ってきた。7月",
+          "link": "https://news.yahoo.co.jp/articles/7172d23ddbad0abd1ca0923283d3df829ffd3cd7?source=rss",
+          "publishedOn": "2021-07-13T14:30:06.000Z",
+          "wordCount": 77,
+          "title": "「数年に一度」の大雨も…広範囲で“ゲリラ雷雨”(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0b571b0e918507b16b4e20b256ba2dba8a34337f?source=rss",
+          "author": null,
+          "description": "東京電力の柏崎刈羽原発でセキュリティー設備の故障が見つかった問題で、原子力規制委員会は東京電力の本社を立ち入り検査しました。\n\n　原子力規制庁追加検査チーム長・金子修一氏：「（小早川社長の）当時の関",
+          "link": "https://news.yahoo.co.jp/articles/0b571b0e918507b16b4e20b256ba2dba8a34337f?source=rss",
+          "publishedOn": "2021-07-13T14:25:00.000Z",
+          "wordCount": 75,
+          "title": "東京電力本社を立ち入り検査　セキュリティー不備で(テレビ朝日系（ANN）)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7ac3801fe1af8a5bc1ce3bbcf9060d5a4b8f1712?source=rss",
           "author": null,
@@ -25251,6 +25386,42 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b6ae22e64cd800b6a19786d9b50ecf44fbc9b409?source=rss",
+          "author": null,
+          "description": "株式会社近鉄百貨店が、株主優待の制度を一部変更することを、2021年7月13日の16時に発表した。\n\n　近鉄百貨店の株主優待は、毎年8月末と2月末時点の株主に実施されており、内容は「100株以上を保",
+          "link": "https://news.yahoo.co.jp/articles/b6ae22e64cd800b6a19786d9b50ecf44fbc9b409?source=rss",
+          "publishedOn": "2021-07-13T15:06:04.000Z",
+          "wordCount": 134,
+          "title": "近鉄百貨店(8244)、株主優待を一部変更！ レストラン割引率が5％⇒10％、割引券の枚数も倍増されたほか、キャッシュレス決済でも優待カードが利用可に！(ダイヤモンド・ザイ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/880cf113369474222fea9d7a115749889170a05f?source=rss",
+          "author": null,
+          "description": "E・Jホールディングス(2153)は、2022年5月期の配当を前期比で「増配」とする予想を、2021年7月13日の15時30分に発表した。これにより、E・Jホールディングスの配当利回り(予想)は2.",
+          "link": "https://news.yahoo.co.jp/articles/880cf113369474222fea9d7a115749889170a05f?source=rss",
+          "publishedOn": "2021-07-13T14:35:59.000Z",
+          "wordCount": 164,
+          "title": "E・Jホールディングス、5期連続の「増配」を発表し、配当利回り3.6％に！ 年間配当は5年で3倍超に増加、2022年5月期は前期比5円増の「1株あたり40円」に！(ダイヤモンド・ザイ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7a02aa155ed3c396239a1a73b80e110230d8d167?source=rss",
+          "author": null,
+          "description": "内閣官房コロナ対策室は13日夜、国税庁酒税課と連名で、休業要請に応じない飲食店への酒類販売停止を求める依頼を廃止する文書を出しました。酒の販売業者に対して、取引停止を求めている依頼について、撤回したと",
+          "link": "https://news.yahoo.co.jp/articles/7a02aa155ed3c396239a1a73b80e110230d8d167?source=rss",
+          "publishedOn": "2021-07-13T14:30:09.000Z",
+          "wordCount": 62,
+          "title": "『酒の取引停止』要請を正式撤回(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/05c76fddd8921b98244ac669f5c6534bea831895?source=rss",
+          "author": null,
+          "description": "【ニューヨーク共同】13日のニューヨーク株式市場のダウ工業株30種平均は反落し、午前10時現在は前日比87.12ドル安の3万4909.06ドルをつけた。ハイテク株主体のナスダック総合指数は12.57",
+          "link": "https://news.yahoo.co.jp/articles/05c76fddd8921b98244ac669f5c6534bea831895?source=rss",
+          "publishedOn": "2021-07-13T14:29:42.000Z",
+          "wordCount": 62,
+          "title": "NY株、反落(共同通信)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/c352103d5702108372b4daa41050e199f1c25d46?source=rss",
           "author": null,
