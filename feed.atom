@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T17:17:19.341Z</updated>
+    <updated>2021-07-13T18:11:15.642Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[為替相場　　14日（日本時間　3時）(共同通信)]]></title>
+        <id>https://news.yahoo.co.jp/articles/37bbe0afc70e3e5308caf5c5dc44a854d137f0f2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/37bbe0afc70e3e5308caf5c5dc44a854d137f0f2?source=rss"/>
+        <updated>2021-07-13T18:01:20.000Z</updated>
+        <summary type="html"><![CDATA[3時現在　　　　　　　　　　
+
+　1ドル＝　　　　　　　　　　
+
+　　　110円62銭～　　　　
+
+　　　　　　110円63銭　　
+
+　　前日比　　－0円26銭　　
+
+　1ユーロ＝]]></summary>
+        <author>
+            <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東武スカイツリーラインで人身事故 運転再開(レスキューナウニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/33a0f21907bbd87599731f2b385f4438fd8c2daf?source=rss</id>
@@ -310,6 +330,16 @@ UAG 01は “高音質をお手軽価格で”]]></summary>
 歴史に名を馳せる天才、レオナルド・ダ・ヴィンチの家系図を再解析した結果、690年に渡る21世代の男系家系図ができあがりました。そして、遺伝子を受け継ぐ存命]]></summary>
         <author>
             <name>IT - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「みんなで外せば怖くない！」ノーマスク集団が「車両ジャック」予告　京阪電鉄「社内で対応検討」: J-CAST ニュース【全文表示】]]></title>
+        <id>https://www.j-cast.com/2021/07/13416116.html?p=all</id>
+        <link href="https://www.j-cast.com/2021/07/13416116.html?p=all"/>
+        <updated>2021-07-13T13:10:29.000Z</updated>
+        <summary type="html"><![CDATA[「コロナは茶番」だと主張するツイッターユーザーが、ノーマスクで京阪電車の1車両をジャックしないかと呼びかけ、物議を醸している。 京阪電鉄側は、この呼びかけを認識しているとし、「社内で対応を検討している」と言う。他の乗客への迷惑となり得る行為だが、乗車を排除できないのだろうか。 京都市内のデモに参加す...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -1808,6 +1838,16 @@ translation：Kenji Nakajima（中嶋健治）
 「チ]]></summary>
         <author>
             <name>経済 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活保護世帯のエアコン　自治体間で支給状況に30倍の格差 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210713/k00/00m/040/236000c</id>
+        <link href="https://mainichi.jp/articles/20210713/k00/00m/040/236000c"/>
+        <updated>2021-07-13T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[関西地方のケースワーカーや研究者でつくる「生活保護情報グループ」が、政令市、中核市、特別区（東京23区）の計105自治体の生活保護世帯に対するエアコン購入費の支給状況を調べたところ、自治体間で約30倍の格差があることが分かった。国は熱中症予防のため2018年度から、エアコンの購入費用を支給することを認めるよ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
