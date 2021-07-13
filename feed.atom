@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T16:14:21.959Z</updated>
+    <updated>2021-07-13T17:17:19.341Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/index.html"/>
     <link rel="self" href="https://sweetsblast.github.io/osmosfeed-sweetsblast/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東武スカイツリーラインで人身事故 運転再開(レスキューナウニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/33a0f21907bbd87599731f2b385f4438fd8c2daf?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/33a0f21907bbd87599731f2b385f4438fd8c2daf?source=rss"/>
+        <updated>2021-07-13T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[北越谷～大袋駅間で発生した人身事故の影響で、東武スカイツリーラインは北越谷～南栗橋駅間の下り線(南栗橋方面行)の運転を見合わせていましたが、01:43頃、運転を再開しました。なお、ダイヤが乱れています]]></summary>
+        <author>
+            <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大谷翔平選手に現地ファンも大興奮 14日はオールスターゲーム「特別ルール」「二刀流」出場に注目集まる(ABEMA TIMES)]]></title>
         <id>https://news.yahoo.co.jp/articles/4b8a8d40f5b911d8673511b2023fc09ec5b078b6?source=rss</id>
@@ -887,6 +897,16 @@ translation：Kenji Nakajima（中嶋健治）
 　低く垂れこめた雲から伸びる、2本の不気味な太い渦。渦の根本は、しぶきを上げ、海水を巻き上げているの]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[急募 - 東横インでも使える静かな楽器]]></title>
+        <id>https://anond.hatelabo.jp/20210713082801</id>
+        <link href="https://anond.hatelabo.jp/20210713082801"/>
+        <updated>2021-07-13T11:36:40.000Z</updated>
+        <summary type="html"><![CDATA[ビジネスホテルでも楽しめる楽器募集中。 家でギターやるからトラベラーズのエレキギターが候補だけど、別の楽器にチャレンジしたい気持ちもある。 - 条件5万円まで。 東横インでもセーフな楽器が良い。 出張なので、持ち運びに便利なのが良い。 - 経緯出張で何日もホテルに泊まることが多い コロナでウロウロできない ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
@@ -4530,6 +4550,16 @@ JMCAにて排出ガス規制と音量規]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[待望のアップデート] VSCodeの内蔵ターミナルがエディタと同様に扱えるようになりました！ | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/202107-vscode-terminal-on-edit-area/</id>
+        <link href="https://dev.classmethod.jp/articles/202107-vscode-terminal-on-edit-area/"/>
+        <updated>2021-07-13T07:22:06.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR まずはこいつをみてくれ。 左右に分割されたエディタウインドウに、テキストエディタとターミナルが並んでいるのがお分かりになられるでしょうか！！ なにそれ？ これは、先日リリースされた Version 1.58 (June 2021) に含まれる以下のアップデートによるものです。 Terminals in the editor area Terminals can ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[米グーグル、送金アプリ運営会社を買収(共同通信)]]></title>
         <id>https://news.yahoo.co.jp/articles/caf2a6f746fd3a6c94dcaaee251132a35f854efb?source=rss</id>
         <link href="https://news.yahoo.co.jp/articles/caf2a6f746fd3a6c94dcaaee251132a35f854efb?source=rss"/>
@@ -5009,6 +5039,16 @@ JMCAにて排出ガス規制と音量規]]></summary>
         <summary type="html"><![CDATA[静岡県の川勝平太知事は13日の記者会見で、熱海市の大規模土石流に関し、土石流が発生した原因と、起点の土地に盛り土をした神奈川県小田原市の不動産管理会社（清算）への行政対応を、2本立てで検証すると明ら]]></summary>
         <author>
             <name>国内 - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高齢者接種、7月末完了「ほぼ達成」　一足先に総務相 [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7F527ZP7FULFA00C.html</id>
+        <link href="https://www.asahi.com/articles/ASP7F527ZP7FULFA00C.html"/>
+        <updated>2021-07-13T06:49:20.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスのワクチン接種で、自治体での加速化を担う武田良太総務相は13日の閣議後会見で、菅義偉首相が掲げた「7月末までに高齢者接種を終わらせる」との目標について、7月末を前に一足早く「達成できている」との認識を示した。 首相官邸のホームページによると、11日時点で1回目の接種を終えた高齢者は2701...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
