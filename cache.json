@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://anond.hatelabo.jp/20210713223549",
+          "author": null,
+          "description": "心優しい青年だった俺は、社会と労働によって歪められてしまった。今なら声を大にして言える。働いたら負け。 仕事のできない人間は攻撃してもいいと思うようになったこっちも迷惑被ってるんだから別にいいと思う。あわよくば消えていただきたい。 他人とのコミュニケーションを避けるようになった話しててイライラする...",
+          "link": "https://anond.hatelabo.jp/20210713223549",
+          "publishedOn": "2021-07-13T13:36:16.000Z",
+          "wordCount": 106,
+          "title": "社会人になって数年で歪んだ俺の価値観10選"
+        },
+        {
           "id": "https://www.j-cast.com/2021/07/13416116.html?p=all",
           "author": null,
           "description": "「コロナは茶番」だと主張するツイッターユーザーが、ノーマスクで京阪電車の1車両をジャックしないかと呼びかけ、物議を醸している。 京阪電鉄側は、この呼びかけを認識しているとし、「社内で対応を検討している」と言う。他の乗客への迷惑となり得る行為だが、乗車を排除できないのだろうか。 京都市内のデモに参加す...",
@@ -65,6 +74,24 @@
           "publishedOn": "2021-07-13T11:05:20.000Z",
           "wordCount": 309,
           "title": "オリパラ関係者のコンビニ・飲食店利用　政府は「調査せず」　野党は「コロナ経路たどれず」と批判：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210713191732",
+          "author": null,
+          "description": "サウザン・ドレッシングとは、マヨネーズをベースにビネガーやケチャップなどを加え、みじん切りにしたピクルスや玉ねぎを混ぜこんだドレッシングのことを言う。 正式名称は「サウザンド・アイランド・ドレッシング」である。 英語ではThousand Island Dressingと書く。 Thousand Islandとは、アメリカとカナダの国境に...",
+          "link": "https://anond.hatelabo.jp/20210713191732",
+          "publishedOn": "2021-07-13T10:47:04.000Z",
+          "wordCount": 128,
+          "title": "なぜサウザン・ドレッシングは「サウザン」なのか"
+        },
+        {
+          "id": "https://www.gamespark.jp/article/2021/07/13/110319.html",
+          "author": null,
+          "description": "2週間で約5,000件の好意的レビューが投稿。",
+          "link": "https://www.gamespark.jp/article/2021/07/13/110319.html",
+          "publishedOn": "2021-07-13T10:29:13.000Z",
+          "wordCount": 200,
+          "title": "悩殺サキュバスARPG『She Will Punish Them』HDオーバーホール後にプレイヤー激増！ | Game*Spark - 国内・海外ゲーム情報サイト"
         },
         {
           "id": "https://mainichi.jp/articles/20210713/k00/00m/040/236000c",
@@ -9962,6 +9989,33 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b8c294baf7c1554fbf3c3df3a6978094710c2e3b?source=rss",
+          "author": null,
+          "description": "3度目の宇宙長期滞在のミッションから帰国した野口聡一宇宙飛行士（56）が13日、日刊スポーツ新聞社のインタビューに応じ、開会式が10日後に迫った東京五輪・パラリンピックへの期待や思いを語った。",
+          "link": "https://news.yahoo.co.jp/articles/b8c294baf7c1554fbf3c3df3a6978094710c2e3b?source=rss",
+          "publishedOn": "2021-07-13T20:00:21.000Z",
+          "wordCount": 77,
+          "title": "宇宙飛行士・野口聡一さん「3000ｍ障害とか面白い」五輪に期待のエール(日刊スポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/11785b51d5b1b60cb8b7365eeab39fd00a17ebe4?source=rss",
+          "author": null,
+          "description": "お～いお茶杯第６２期王位戦七番勝負第２局第１日（１３日、北海道旭川市「花月会館」）藤井聡太王位（１８）＝棋聖＝が棋聖位に続く防衛に向け、豊島将之二冠（３１）＝竜王・叡王＝の挑戦を受ける戦い。初日から激",
+          "link": "https://news.yahoo.co.jp/articles/11785b51d5b1b60cb8b7365eeab39fd00a17ebe4?source=rss",
+          "publishedOn": "2021-07-13T20:00:00.000Z",
+          "wordCount": 67,
+          "title": "藤井王位、４２手目を封じ終了　初日から激しい主導権争い／将棋(サンケイスポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b8868511746968341b0265ce564e1296f23cf069?source=rss",
+          "author": null,
+          "description": "13日午後に始まった今年度の最低賃金の引き上げの目安を決める審議は、労働者側と使用者側で意見の隔たりが大きく決着せず、14日に持ち越しとなりました。\n\n　最低賃金は現在全国平均で902円で、政府は骨",
+          "link": "https://news.yahoo.co.jp/articles/b8868511746968341b0265ce564e1296f23cf069?source=rss",
+          "publishedOn": "2021-07-13T19:30:44.000Z",
+          "wordCount": 82,
+          "title": "最低賃金　決着せず持ち越し　14日再開(テレビ朝日系（ANN）)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/15430ea075aa3b073a622aa6154988c0af453158?source=rss",
           "author": null,
@@ -25503,6 +25557,24 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/0ed6715b2c7b75872447597998220b10e5931282?source=rss",
+          "author": null,
+          "description": "“ホテルの深層”に迫る本連載では前回、人気ビジネスホテルとして知られる「ドーミーイン」にフォーカスし、そのアイデンティティーともいえる“大浴場”について深掘りした。今回は、大浴場の続きとしてコアなフ",
+          "link": "https://news.yahoo.co.jp/articles/0ed6715b2c7b75872447597998220b10e5931282?source=rss",
+          "publishedOn": "2021-07-13T20:05:04.000Z",
+          "wordCount": 75,
+          "title": "「大浴場」だけじゃないドーミーインのこだわり　店舗数拡大でも維持する「水風呂」と「朝食」の質(ITmedia ビジネスオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4884647ec37f40cc4ccd3c323ca89390cae740c8?source=rss",
+          "author": null,
+          "description": "ようやく世界的にワクチン接種が進みつつあるものの、いまだ収束は見えない新型コロナ。とはいえ、すでにあらゆる産業が壊滅的なダメージを受けており、このままでは国家そのものに悪影響が及ぶ懸念すらある。いつ",
+          "link": "https://news.yahoo.co.jp/articles/4884647ec37f40cc4ccd3c323ca89390cae740c8?source=rss",
+          "publishedOn": "2021-07-13T19:31:41.000Z",
+          "wordCount": 69,
+          "title": "欧州鉄道「ワクチン接種後」の国境越え現地ルポ 4カ国通過、証明書はチェックなし…大丈夫？(東洋経済オンライン)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/37bbe0afc70e3e5308caf5c5dc44a854d137f0f2?source=rss",
           "author": null,
