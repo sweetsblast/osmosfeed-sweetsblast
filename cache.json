@@ -22,6 +22,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://togetter.com/li/1744709",
+          "author": null,
+          "description": "リンク www.ncd-ri.co.jp イメージシステム | カラー戦略の専門家 | NCD-WEB | 色彩心理・生活者研究・トレンド分析の日本カラーデザイン研究所 日本カラーデザイン研究所はオリジナルのカラーシステム「HUE&TONEシステム」やイメージ分析システム「イメージスケール」を開発、発展させてきました。 61 users かたおか＠...",
+          "link": "https://togetter.com/li/1744709",
+          "publishedOn": "2021-07-14T00:04:19.000Z",
+          "wordCount": 456,
+          "title": "配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter"
+        },
+        {
           "id": "https://www.asahi.com/articles/ASP7F6HLTP7FULFA013.html",
           "author": null,
           "description": "三菱電機の検査不正問題をめぐり、引責辞任を表明した杉山武史社長が13日、社内向けのメッセージを出した。グループの信頼を回復する最後のチャンスだとして、原因や同様の事例の有無についての調査に協力するよう要請した。不正行為を自ら申告した社員は、懲戒処分の対象外にするとした。 三菱電機の広報はメッセージを...",
@@ -2926,6 +2935,96 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/it.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/it?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/8c669ad66d6c8a304b282b2fef07c73ab2a14944?source=rss",
+          "author": null,
+          "description": "ZMPとNTTドコモは7月13日、歩行速ロボ三兄弟と5G通信を組み合わせた新たなロボットビジネスの創出にむけた協業検討で基本合意したと発表した。\n\n本協業最初の具体的な取り組みとして、ドコモはZMPが",
+          "link": "https://news.yahoo.co.jp/articles/8c669ad66d6c8a304b282b2fef07c73ab2a14944?source=rss",
+          "publishedOn": "2021-07-14T02:15:03.000Z",
+          "wordCount": 67,
+          "title": "ZMP×ドコモ、5Gを活用したロボットビジネス創出へ(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ba670c2151911a25c7752e740baa0e88699ff676?source=rss",
+          "author": null,
+          "description": "決済・送金サービスのpring（プリン）をグーグルが買収することが正式発表された。\n\npringの大株主（持株比率45.3%）のメタップスは7月13日、同社が保有する全株式を譲渡すると公表した。プレス",
+          "link": "https://news.yahoo.co.jp/articles/ba670c2151911a25c7752e740baa0e88699ff676?source=rss",
+          "publishedOn": "2021-07-14T02:15:01.000Z",
+          "wordCount": 78,
+          "title": "グーグルが買収した日本の決済ベンチャー「pring」、狙いは(BUSINESS INSIDER JAPAN)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/44fb31dc186ad3a8a8c85964f99969c961bb343a?source=rss",
+          "author": null,
+          "description": "仏LVMH傘下のスイス腕時計メーカーTAG Heuerが7月10日に発表した、任天堂のゲーム「スーパーマリオブラザーズ」とのコラボ腕時計は日本で15日に発売される。限定2000本で価格は税込みで25",
+          "link": "https://news.yahoo.co.jp/articles/44fb31dc186ad3a8a8c85964f99969c961bb343a?source=rss",
+          "publishedOn": "2021-07-14T02:12:59.000Z",
+          "wordCount": 75,
+          "title": "タグ・ホイヤー×スーパーマリオのコラボ時計は「Wear OS」搭載で25万8000円(ITmedia NEWS)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/aefd586c7f36bcc05614ead2d259f3efa06d794f?source=rss",
+          "author": null,
+          "description": "窓の杜から\nダウンロード\n\n　Mozillaは7月13日（米国時間）、デスクトップ向け「Firefox」の最新版v90.0を正式公開した。「Firefox 90」では、Windows版にバックグラウン",
+          "link": "https://news.yahoo.co.jp/articles/aefd586c7f36bcc05614ead2d259f3efa06d794f?source=rss",
+          "publishedOn": "2021-07-14T02:08:58.000Z",
+          "wordCount": 87,
+          "title": "「Firefox 90」が安定版に ～Windows版がバックグラウンドアップデートに対応(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2e20e0c9f610980735de06c51598c21b79e94b1a?source=rss",
+          "author": null,
+          "description": "シャープマーケティングジャパンは、イードと連携し、コンビニエンスストアのマルチコピー機で提供するコンテンツサービスを活用した「映画前売券付きブロマイド」のプリントサービスを開始する。\n\n同サービスは、",
+          "link": "https://news.yahoo.co.jp/articles/2e20e0c9f610980735de06c51598c21b79e94b1a?source=rss",
+          "publishedOn": "2021-07-14T02:04:06.000Z",
+          "wordCount": 72,
+          "title": "コンビニのコピー機で「映画前売券付きブロマイド」(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e6f0b329579fed8e3e2453da467a08db19acbc9f?source=rss",
+          "author": null,
+          "description": "生まれながらにして色覚障害（1型3色覚）があったお父さんに、はじめて「色覚補正メガネ」をかけてもらった動画が感動的です。今までの景色とはまるで違う、色彩にあふれた世界に驚き喜ぶリアクションが、色の魅",
+          "link": "https://news.yahoo.co.jp/articles/e6f0b329579fed8e3e2453da467a08db19acbc9f?source=rss",
+          "publishedOn": "2021-07-14T01:58:37.000Z",
+          "wordCount": 81,
+          "title": "色覚障害があるお父さんに「色が見えるメガネ」をプレゼントした動画が感動的　「緑色だ……いろんな緑色がある……！」(ねとらぼ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1964f15d5aaa5b5ceb18c9129d0d8d860601be89?source=rss",
+          "author": null,
+          "description": "米メジャーリーグのYouTube公式チャンネルで、14日朝（日本時間）のオールスターゲームのハイライトが順次、公開されている。ゲーム開始時に選手たちがフィールドに揃った場面に続いて、大谷翔平選手（ロ",
+          "link": "https://news.yahoo.co.jp/articles/1964f15d5aaa5b5ceb18c9129d0d8d860601be89?source=rss",
+          "publishedOn": "2021-07-14T01:54:35.000Z",
+          "wordCount": 70,
+          "title": "MLB、オールスター先発の大谷翔平のピッチングをYouTubeで公開(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f25d5f337b35c6badfadf94c56b713d1ca0f6456?source=rss",
+          "author": null,
+          "description": "株式会社センチュリーは、ノートPCの画面に取り付けて使用するクリップ式スマートフォンホルダー「CRC-CLP01BK」を7月中旬に発売する。価格は1,480円。\n\n　ノートPCのベゼル部分に取り付け",
+          "link": "https://news.yahoo.co.jp/articles/f25d5f337b35c6badfadf94c56b713d1ca0f6456?source=rss",
+          "publishedOn": "2021-07-14T01:54:28.000Z",
+          "wordCount": 73,
+          "title": "ノートPCのベゼルにスマホを固定できるクリップ(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b8f98193de02871f669ce3ab1f2cdc4d77127f66?source=rss",
+          "author": null,
+          "description": "Amazonの創業者Jeff Bezos氏は、同氏が設立した宇宙開発企業Blue Originのロケット「New Shepard」で宇宙に行く承認を正式に得た。米連邦航空局（FAA）は米国時間7月1",
+          "link": "https://news.yahoo.co.jp/articles/b8f98193de02871f669ce3ab1f2cdc4d77127f66?source=rss",
+          "publishedOn": "2021-07-14T01:53:00.000Z",
+          "wordCount": 93,
+          "title": "Blue Origin、有人宇宙飛行の認可取得--ベゾス氏らが7月20日に搭乗へ(CNET Japan)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/985f0a8b7e0d1833db96c8df02779fa6229c098f?source=rss",
+          "author": null,
+          "description": "Facebook傘下の写真共有アプリInstagramが、アカウントの安全性を維持するための新機能「Security Checkup」を発表した。アカウントがハッキングされた可能性がある場合に、ユー",
+          "link": "https://news.yahoo.co.jp/articles/985f0a8b7e0d1833db96c8df02779fa6229c098f?source=rss",
+          "publishedOn": "2021-07-14T01:51:00.000Z",
+          "wordCount": 82,
+          "title": "Instagramの新セキュリティ機能、ハッキングされたアカウントを保護できるよう支援(CNET Japan)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/b146ce93903c5bae60c80b6e055f1f40c4f464be?source=rss",
           "author": null,
@@ -10772,6 +10871,195 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/domestic.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/domestic?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/7a87c4565ffbe9c8727862518429f08afb392b8e?source=rss",
+          "author": null,
+          "description": "【ソウル共同】韓国政府は14日、新型コロナウイルスの13日の新規感染確認者が1615人となり、過去最多を更新したと発表した。\n\n　インド由来の変異株「デルタ株」の割合が増えている。感染者の多いソウル",
+          "link": "https://news.yahoo.co.jp/articles/7a87c4565ffbe9c8727862518429f08afb392b8e?source=rss",
+          "publishedOn": "2021-07-14T02:17:23.000Z",
+          "wordCount": 68,
+          "title": "韓国の感染者が最多更新　首都圏はオンライン授業に(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/264098b50e160e89583cf54fd8626192648f7ccd?source=rss",
+          "author": null,
+          "description": "立憲民主党の安住淳国対委員長は14日、自民党の森山裕国対委員長と国会内で会談し、西村康稔経済再生担当相の辞任を要求した。森山氏は「二階俊博幹事長に報告する」と述べるにとどめた。",
+          "link": "https://news.yahoo.co.jp/articles/264098b50e160e89583cf54fd8626192648f7ccd?source=rss",
+          "publishedOn": "2021-07-14T02:16:37.000Z",
+          "wordCount": 61,
+          "title": "野党、自民に西村担当相辞任を要求(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2d645c567acf3825cd4e71a581f45df792e626a9?source=rss",
+          "author": null,
+          "description": "バブル景気の1991年に年12億円余りだった売上高が、2018年には3億円程度に減少。シェア7割の梵鐘メーカーが6月下旬、経営破綻した。ジャーナリストで僧侶の鵜飼秀徳氏は「戦時下、梵鐘などの鋳型仏具は",
+          "link": "https://news.yahoo.co.jp/articles/2d645c567acf3825cd4e71a581f45df792e626a9?source=rss",
+          "publishedOn": "2021-07-14T02:16:27.000Z",
+          "wordCount": 73,
+          "title": "誰が「お寺の鐘」を殺したのか…シェア7割メーカー破綻で考える\"政治家と隣近所\"のエゴ(プレジデントオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/eb402600e76ada0cf01e44db7f3f3cf4ea0f25bf?source=rss",
+          "author": null,
+          "description": "建物130棟が流され、28人もの死者・行方不明者を出した静岡県熱海市の土石流災害。この災害でも明らかになったように、ハザードマップで危険性は指摘できても、いつ災害が発生するかを予測することはできない。",
+          "link": "https://news.yahoo.co.jp/articles/eb402600e76ada0cf01e44db7f3f3cf4ea0f25bf?source=rss",
+          "publishedOn": "2021-07-14T02:16:24.000Z",
+          "wordCount": 92,
+          "title": "橋下徹「熱海土石流で判明、ゼロリスクの災害対策は限界だ」(プレジデントオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a68fb79c1fd910f7811950df248eef98ef0353ea?source=rss",
+          "author": null,
+          "description": "12日夜、愛知県豊橋市で酒を飲んで車を運転して事故を起こしたうえ、ケガ人を放置してそのまま逃げたとしてトルコ人の男が逮捕されました。\n\n　逮捕されたのは、トルコ国籍で北名古屋市に住む会社役員・タネル",
+          "link": "https://news.yahoo.co.jp/articles/a68fb79c1fd910f7811950df248eef98ef0353ea?source=rss",
+          "publishedOn": "2021-07-14T02:15:20.000Z",
+          "wordCount": 75,
+          "title": "酒飲んで車運転し対向車と衝突…相手にケガさせ逃走か トルコ国籍の男「日本語分からないので離れただけ」(東海テレビ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/190fb185687b0cfef3341274a25f5a7858ea5701?source=rss",
+          "author": null,
+          "description": "8月の横浜市長選（8月8日告示、22日）で、一部から擁立論が浮上していた自民党参院議員の三原じゅん子厚労副大臣（56）が、出馬しない意向を周囲に伝えたことが14日、関係者への取材で分かった。\n\n三原氏",
+          "link": "https://news.yahoo.co.jp/articles/190fb185687b0cfef3341274a25f5a7858ea5701?source=rss",
+          "publishedOn": "2021-07-14T02:14:26.000Z",
+          "wordCount": 68,
+          "title": "三原じゅん子氏は横浜市長選に出馬せず　擁立論浮上も支援者に伝える(日刊スポーツ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a242fc661ba76f582499cb0e96d702e99aa6aab0?source=rss",
+          "author": null,
+          "description": "1月の埼玉県戸田市議選に「スーパークレイジー君」の名前で初当選した後、市内に居住実態がなかったとして、市選挙管理委員会に当選無効とされた西本誠氏（34）が14日、当選無効の決定を支持した県選管の裁決",
+          "link": "https://news.yahoo.co.jp/articles/a242fc661ba76f582499cb0e96d702e99aa6aab0?source=rss",
+          "publishedOn": "2021-07-14T02:07:43.000Z",
+          "wordCount": 70,
+          "title": "当選無効の取り消し求め提訴　「クレイジー君」、東京高裁に(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ce8703d7280057db620228c8e02cb019728308ca?source=rss",
+          "author": null,
+          "description": "「丙午（ひのえうま）に生まれた女は気が強く、男を食い殺す」──日本には古くからそんな言い伝えがある。丙午は合計60種類ある干支の1つで、順番は43番目にあたる。60年に1度だけめぐってくる干支であり、",
+          "link": "https://news.yahoo.co.jp/articles/ce8703d7280057db620228c8e02cb019728308ca?source=rss",
+          "publishedOn": "2021-07-14T02:05:37.000Z",
+          "wordCount": 81,
+          "title": "同い年の紀子さまと小室佳代さん　2人が歩んだバブル崩壊後の重苦しい時代(NEWSポストセブン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6a5625efefebb00b934257d4952216ca9e97e6e2?source=rss",
+          "author": null,
+          "description": "徳島県つるぎ町家賀地区の住民らで組織する「家賀再生プロジェクト」は、藍の栽培を通した地域おこし活動に取り組む。世界農業遺産に認定された「にし阿波の急傾斜地農耕システム」を活用して化学肥料、農薬を使わ",
+          "link": "https://news.yahoo.co.jp/articles/6a5625efefebb00b934257d4952216ca9e97e6e2?source=rss",
+          "publishedOn": "2021-07-14T02:05:34.000Z",
+          "wordCount": 81,
+          "title": "「食べる藍」免疫向上、抗菌作用も　世界農業遺産の農法で栽培　徳島(日本農業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/77d3178ffea35a230adab2702db4f2afb3afd07f?source=rss",
+          "author": null,
+          "description": "NHK大河ドラマ『青天を衝け』で何かと話題の渋沢栄一。じつに500社以上の会社の創業や運営に携わったことは知られているが、日本のビール会社の黎明期にも深く関わっていたという。\n\n　***",
+          "link": "https://news.yahoo.co.jp/articles/77d3178ffea35a230adab2702db4f2afb3afd07f?source=rss",
+          "publishedOn": "2021-07-14T02:03:48.000Z",
+          "wordCount": 80,
+          "title": "渋沢栄一とビール　「キリン」「サッポロ」で果たした重要な役割　飛鳥山邸での要人接待(デイリー新潮)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4730b44184c58aeef303535220c4305c9c8da0c1?source=rss",
+          "author": null,
+          "description": "今年も静岡県熱海市で発生した土石流で甚大な被害が出るなど、7月には豪雨災害が多発する。梅雨が明けると熱中症への懸念が高まる。気象庁の観測データによると、実際に降水量、気温ともにここ数十年で大きく上昇し",
+          "link": "https://news.yahoo.co.jp/articles/4730b44184c58aeef303535220c4305c9c8da0c1?source=rss",
+          "publishedOn": "2021-07-14T02:03:01.000Z",
+          "wordCount": 68,
+          "title": "豪雨、猛暑日が近年大幅に増加：7月は要警戒(nippon.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/100cca60b7c0c9c88e92b9af05bbb7a3ec957914?source=rss",
+          "author": null,
+          "description": "小学校の校庭に、突然現れた“あるもの”が話題になっています。\n\n　兵庫県三田市立高平小学校の校庭で、6年生11人が棒を使って何かを描いています。\n\n　棒で下書きした上に白線を引いていくと、完成したの",
+          "link": "https://news.yahoo.co.jp/articles/100cca60b7c0c9c88e92b9af05bbb7a3ec957914?source=rss",
+          "publishedOn": "2021-07-14T02:02:36.000Z",
+          "wordCount": 79,
+          "title": "小学校の校庭に…実物大の“大仏”！コロナ収束願い(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8d34b28cc1ade3cdfa6b5492d884df2659bf3859?source=rss",
+          "author": null,
+          "description": "なぜ自分が学級担任なのか－。福岡県内にある公立小の常勤講師、カオリさんは今も納得できない。\n\n　4月に働き始める前、校長に「学級担任はできません」と口頭で伝えていた。業務と育児の両立を考えての要望だ",
+          "link": "https://news.yahoo.co.jp/articles/8d34b28cc1ade3cdfa6b5492d884df2659bf3859?source=rss",
+          "publishedOn": "2021-07-14T02:02:00.000Z",
+          "wordCount": 81,
+          "title": "穴埋めで突然担任に…“休憩ゼロ秒”で働く日々　「気力は、もはやない」(西日本新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e22ee3f0b1b45e6ab5b1f99e8b481a09128f720f?source=rss",
+          "author": null,
+          "description": "西村担当相は、衆院内閣委で辞任の意向を問われ「私の責務は感染拡大を抑えることと経済回復だ。そのために全力を挙げることで責任を果たしていきたい」と述べて否定した。",
+          "link": "https://news.yahoo.co.jp/articles/e22ee3f0b1b45e6ab5b1f99e8b481a09128f720f?source=rss",
+          "publishedOn": "2021-07-14T02:01:56.000Z",
+          "wordCount": 61,
+          "title": "西村氏、大臣辞任は否定(共同通信)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9729cce0c76f1ef2a3d03579ba8979ba15f36c59?source=rss",
+          "author": null,
+          "description": "きょう14日（水）午前、新潟地方気象台は、北陸が梅雨明けしたとみられると発表した。\n\n　平年に比べて9日早く、昨年に比べて18日早い梅雨明けとなった。北陸ではこれから週末、週明けにかけて、山沿いを中",
+          "link": "https://news.yahoo.co.jp/articles/9729cce0c76f1ef2a3d03579ba8979ba15f36c59?source=rss",
+          "publishedOn": "2021-07-14T02:01:37.000Z",
+          "wordCount": 106,
+          "title": "北陸が梅雨明け　平年より9日早い(ウェザーマップ)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/163d1e8495818a4528bf3181a37d344689cc4e35?source=rss",
+          "author": null,
+          "description": "きょう14日、気象庁は「北陸が梅雨明けしたとみられる」と発表しました。平年より9日早い梅雨明けです。",
+          "link": "https://news.yahoo.co.jp/articles/163d1e8495818a4528bf3181a37d344689cc4e35?source=rss",
+          "publishedOn": "2021-07-14T02:01:26.000Z",
+          "wordCount": 77,
+          "title": "北陸　梅雨明け　平年より9日早く(tenki.jp)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/80f3c1cab4d2f8adbcfe4a41c9cb505b2e8a3c63?source=rss",
+          "author": null,
+          "description": "今日7月14日(水)11時、気象台は北陸地方が梅雨明けしたとみられると発表しました。平年より9日早く、昨年より18日早い梅雨明けです。\n\n北陸では今年の梅雨入りが平年より遅かったこともあり、梅雨期間は",
+          "link": "https://news.yahoo.co.jp/articles/80f3c1cab4d2f8adbcfe4a41c9cb505b2e8a3c63?source=rss",
+          "publishedOn": "2021-07-14T02:01:09.000Z",
+          "wordCount": 123,
+          "title": "北陸地方が梅雨明け　平年より9日早く、今年は近畿や関東甲信よりも早い(ウェザーニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/70a8ed8102d9cfd522e4f3aa90fcc2cb5321dcdb?source=rss",
+          "author": null,
+          "description": "そもそも「不倫をいけないもの」だと考える人がいることは理解しているが、現実に「不倫している人がいる」のも真実。不倫に陥ってしまったとき、どういう言動をとるのかは人それぞれで、善悪の判断はできない。【",
+          "link": "https://news.yahoo.co.jp/articles/70a8ed8102d9cfd522e4f3aa90fcc2cb5321dcdb?source=rss",
+          "publishedOn": "2021-07-14T02:00:07.000Z",
+          "wordCount": 72,
+          "title": "不倫相手と密会した夜、自宅に帰ると…　不惑の恋を終わらせた“マネキン人形”と妻の“居直り”(デイリー新潮)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fd79dea6664c98746a09559015040f09da83d7bc?source=rss",
+          "author": null,
+          "description": "6日、新潟市内で記録されたドライブレコーダーの映像です。\n\n　渋滞により、中途半端な場所に止まることになれば、他の車の迷惑になる。そう思いながら見つめる交差点で、対向する右折車が“信じられない行動”",
+          "link": "https://news.yahoo.co.jp/articles/fd79dea6664c98746a09559015040f09da83d7bc?source=rss",
+          "publishedOn": "2021-07-14T01:59:42.000Z",
+          "wordCount": 74,
+          "title": "「いまだにこんな運転…」車が歩道60mも走行　新潟(テレビ朝日系（ANN）)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/11ad3a463980c77fc901d6f326bc9de96d8a2b7b?source=rss",
+          "author": null,
+          "description": "西村康稔（にしむら・やすとし）経済再生担当相は１４日午前、衆院内閣委員会の閉会中審査で、新型コロナウイルス特別措置法に基づく休業要請などに従わない飲食店との取引停止を酒類販売事業者に求めた通達の廃止を",
+          "link": "https://news.yahoo.co.jp/articles/11ad3a463980c77fc901d6f326bc9de96d8a2b7b?source=rss",
+          "publishedOn": "2021-07-14T01:48:59.000Z",
+          "wordCount": 67,
+          "title": "西村担当相「酒売るな」通達撤回し陳謝　辞任は否定(産経新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/052dcc09933079102f5aec7c4bd661baeadb26ec?source=rss",
+          "author": null,
+          "description": "将棋の最年少2冠、藤井聡太王位（棋聖＝18）に挑戦者の豊島将之竜王（叡王＝31）が先勝して迎えた、「第62期王位戦7番勝負第2局」は14日午前9時、北海道旭川市「花月会館」で2日目が始まった。2日制初",
+          "link": "https://news.yahoo.co.jp/articles/052dcc09933079102f5aec7c4bd661baeadb26ec?source=rss",
+          "publishedOn": "2021-07-14T01:48:51.000Z",
+          "wordCount": 62,
+          "title": "藤井聡太王位の封じ手は「６五同角」豊島竜王との王位戦第２局２日目開始(日刊スポーツ)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/c050a63dc73316a6815ba0657accf5b859686138?source=rss",
           "author": null,
@@ -27231,6 +27519,258 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/categories/business.xml",
       "siteUrl": "https://news.yahoo.co.jp/categories/business?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/e05f5499d6d99a74c33c912751f2227e00a5e181?source=rss",
+          "author": null,
+          "description": "IT資産管理ツールを提供するIvanti Software（東京都千代田区）は、サイバー攻撃に関する実態調査を発表した。調査によると、日本企業の約50％が「1年以内に自社がフィッシングやランサムウェ",
+          "link": "https://news.yahoo.co.jp/articles/e05f5499d6d99a74c33c912751f2227e00a5e181?source=rss",
+          "publishedOn": "2021-07-14T02:17:10.000Z",
+          "wordCount": 75,
+          "title": "日本企業の5割「自社がサイバー攻撃を受けた」　攻撃数の増加を実感(ITmedia ビジネスオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5be4406cd8ada3230c53f2a0c5e0bf7495250cb3?source=rss",
+          "author": null,
+          "description": "社員に競争を煽ったり無理をさせたりしないのに、しっかり業績を伸ばす会社は何が違うのか。これは就活や転職活動中の人にも必須の視点だ。連載「社員を追い詰めない“脱力系”企業」第1回は「しない経営」で10期",
+          "link": "https://news.yahoo.co.jp/articles/5be4406cd8ada3230c53f2a0c5e0bf7495250cb3?source=rss",
+          "publishedOn": "2021-07-14T02:16:33.000Z",
+          "wordCount": 70,
+          "title": "「人当たりの良さで採用と出世が決まる」ワークマンには\"凡人しかいない\"は本当なのか(プレジデントオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/470ebdf63de8b4e5b1c00bc339629c102ed79fc3?source=rss",
+          "author": null,
+          "description": "「自分は仕事がデキる」と思っている人が、勘違いしがちなことがある。経営コンサルタントの高松智史さんは「そういう人を『TASKバカ』という。最初に『作業・期限・担当』を考えようとする人たちだ。その前に、",
+          "link": "https://news.yahoo.co.jp/articles/470ebdf63de8b4e5b1c00bc339629c102ed79fc3?source=rss",
+          "publishedOn": "2021-07-14T02:16:31.000Z",
+          "wordCount": 73,
+          "title": "自分はデキると勘違いするバカほど「タスクを整理しましょう」と言い出す(プレジデントオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3776e307f3c2f216519f59e054c0c6d33ac4c938?source=rss",
+          "author": null,
+          "description": "日本製鉄は13日、7月契約（8月生産）の店売り向けH形鋼の販売価格を前月比でトン5000円引き上げると発表した。物件（プロジェクト）向けについても国内外の需給動向を踏まえ価格引き上げを行う方針。過去最",
+          "link": "https://news.yahoo.co.jp/articles/3776e307f3c2f216519f59e054c0c6d33ac4c938?source=rss",
+          "publishedOn": "2021-07-14T02:16:27.000Z",
+          "wordCount": 64,
+          "title": "日本製鉄　H形鋼　店売り7契5000円上げ(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f730bbbb124f2bde8d4762e4aa3a73611ca1cbb1?source=rss",
+          "author": null,
+          "description": "JFEスチールは13日、目視検査などを代替する人間の視覚認知に基づく画像処理技術を世界で初めてオンライン検査に適用した「テクスチャ（模様）解析型表面検査装置」を開発・実用化したと発表した。すでに西日本",
+          "link": "https://news.yahoo.co.jp/articles/f730bbbb124f2bde8d4762e4aa3a73611ca1cbb1?source=rss",
+          "publishedOn": "2021-07-14T02:15:24.000Z",
+          "wordCount": 62,
+          "title": "JFE　鋼板表面、目視検査を自動化(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ebb630baf2fab1017c71f7f3105292712fd66b20?source=rss",
+          "author": null,
+          "description": "経済産業省がまとめた2021年第2四半期（7―9月）の見通しによると、特殊鋼熱間圧延鋼材需要は前期比5・6％増の485万トンと2四半期ぶりに増える。自動車、建産機需要回復などで内外需とも回復する。新型",
+          "link": "https://news.yahoo.co.jp/articles/ebb630baf2fab1017c71f7f3105292712fd66b20?source=rss",
+          "publishedOn": "2021-07-14T02:14:21.000Z",
+          "wordCount": 63,
+          "title": "特殊鋼需要、7―9月5.6％増485万トン(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d2c37f70b16536b97ad3f924a102d38bc16b6243?source=rss",
+          "author": null,
+          "description": "中国の6月の鋼材輸出量は645万8000トンと前月から22・5％増え、2カ月ぶりに増加した。前年同月比74・5％増と7カ月連続増。輸出税還付撤廃から除外された冷延コイルや亜鉛めっき鋼板の輸出が維持され",
+          "link": "https://news.yahoo.co.jp/articles/d2c37f70b16536b97ad3f924a102d38bc16b6243?source=rss",
+          "publishedOn": "2021-07-14T02:13:04.000Z",
+          "wordCount": 66,
+          "title": "中国6月鋼材輸出　前月比2割増646万トン　国内市況の下落映す(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c71d5b6c3c34038503c9bd07041445f8e6180575?source=rss",
+          "author": null,
+          "description": "鉄スクラップのH2と上級品の価格差が一段と広がっている。H2は割高感から輸出成約が難航しているのに対し、上級品の需給はひっ迫。鋼材需要の急回復で、国内外の高炉メーカーや特殊鋼メーカーが引き合いを強めて",
+          "link": "https://news.yahoo.co.jp/articles/c71d5b6c3c34038503c9bd07041445f8e6180575?source=rss",
+          "publishedOn": "2021-07-14T02:11:42.000Z",
+          "wordCount": 63,
+          "title": "鉄スクラップ　H2・上級品の値差拡大(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/54674b41fc032c8704c49b752adffa10e5e7a1c0?source=rss",
+          "author": null,
+          "description": "人工知能（AI）経営を展開する上で、避けて通れないのが倫理上やコンプライアンスの問題だ。AIは企業経営に多くのメリットをもたらす反面、プライバシー侵害や事故の責任など、リスクが表面化した場合に大打撃",
+          "link": "https://news.yahoo.co.jp/articles/54674b41fc032c8704c49b752adffa10e5e7a1c0?source=rss",
+          "publishedOn": "2021-07-14T02:10:35.000Z",
+          "wordCount": 73,
+          "title": "活用方針や監査体制、AIに欠かせぬ「説明責任」(日経BizGate)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bd7751fb692980dae113834864a02d35acfb1984?source=rss",
+          "author": null,
+          "description": "警察車両というと、白と黒のパトカーをよく見かけますが、普通のクルマのような外観で、一見パトカーと認識できない捜査車両が「覆面パトカー」です。\n\n　覆面パトカーは、「交通取締用」「捜査用」「警察用」に",
+          "link": "https://news.yahoo.co.jp/articles/bd7751fb692980dae113834864a02d35acfb1984?source=rss",
+          "publishedOn": "2021-07-14T02:10:32.000Z",
+          "wordCount": 86,
+          "title": "エアロにスーチャー!? スポーティすぎる「覆面パトカー」は逆に気づかれない！ 本気仕様の取締パトとは(くるまのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/46c42a57d3dc2cd3af95abbbe4ca82f1e275d999?source=rss",
+          "author": null,
+          "description": "冷間圧造用（CH）鋼線、磨棒鋼メーカーの大手、宮崎精鋼は、自動車向けを中心に需要の高まりが顕著なCH鋼線の増産を視野に、知多工場（愛知県東海市元浜町）の伸線能力を足元の月間9000トンから1万トン水準",
+          "link": "https://news.yahoo.co.jp/articles/46c42a57d3dc2cd3af95abbbe4ca82f1e275d999?source=rss",
+          "publishedOn": "2021-07-14T02:10:32.000Z",
+          "wordCount": 63,
+          "title": "宮崎精鋼・知多工場　伸線能力、月1万トンへ(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3369417316b46acfc0b24ebb6439b76b1610350b?source=rss",
+          "author": null,
+          "description": "住友電気工業は13日、米KMXテクノロジーと水処理の膜蒸留開発に関する基本合意書を締結したと発表した。PTFEポアフロン中空糸膜を使った新たな膜蒸留技術の開発と製品化を進める。鉱山排水からのレアアース",
+          "link": "https://news.yahoo.co.jp/articles/3369417316b46acfc0b24ebb6439b76b1610350b?source=rss",
+          "publishedOn": "2021-07-14T02:09:07.000Z",
+          "wordCount": 61,
+          "title": "住友電工　レアアース回収技術開発(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0fd2e26666e227ca5cb6dd788639953467c1cee8?source=rss",
+          "author": null,
+          "description": "三協立山は13日、2024年5月期までの新たな中期経営計画と31年5月期に向けた長期ビジョン「VISION2030」を発表した。新中計では、24年5月期の売上高3300億円、営業利益90億円を目指す。",
+          "link": "https://news.yahoo.co.jp/articles/0fd2e26666e227ca5cb6dd788639953467c1cee8?source=rss",
+          "publishedOn": "2021-07-14T02:08:19.000Z",
+          "wordCount": 61,
+          "title": "三協立山　営業益90億円目指す(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a77ac3bef5e6ba4da0dcd2851ee7a542922c3e1b?source=rss",
+          "author": null,
+          "description": "ハーレーダビッドソンは7月13日（現地時間）、新型モーターサイクル「スポーツスター S（SPORTSTER S）」をワールドプレミアした。日本での価格は、車体色のビビッドブラックが185万8000円",
+          "link": "https://news.yahoo.co.jp/articles/a77ac3bef5e6ba4da0dcd2851ee7a542922c3e1b?source=rss",
+          "publishedOn": "2021-07-14T02:07:35.000Z",
+          "wordCount": 104,
+          "title": "ハーレーダビッドソン、新型モデル「スポーツスター S」世界初公開(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/980125da071f0493b4d2d18d4603d4689e20e4f2?source=rss",
+          "author": null,
+          "description": "電子情報技術産業協会（JEITA）がこのほど発表した2020年度の電子部品グローバル統計によると、日本メーカーの総出荷額（海外生産分を含む）は前年比1％増の3兆7460億円と、3年ぶりの増加だった。国",
+          "link": "https://news.yahoo.co.jp/articles/980125da071f0493b4d2d18d4603d4689e20e4f2?source=rss",
+          "publishedOn": "2021-07-14T02:07:28.000Z",
+          "wordCount": 62,
+          "title": "電子部品出荷額　20年度3年ぶり増(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0863978cffbfeb721e83949bd7c3418335a9e885?source=rss",
+          "author": null,
+          "description": "経済産業省が13日発表した2021年度第2四半期（7―9月）の鋼材需要見通しによると、出荷等相当粗鋼需要量は前期実績見込み比1・2％増の2469万トンと5四半期連続で増える。内需は製造業中心に回復し、",
+          "link": "https://news.yahoo.co.jp/articles/0863978cffbfeb721e83949bd7c3418335a9e885?source=rss",
+          "publishedOn": "2021-07-14T02:06:14.000Z",
+          "wordCount": 65,
+          "title": "粗鋼需要7―9月予測　5四期連続増2469万トン(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/46e956ed82c8218b9e40e4385d9f617048250032?source=rss",
+          "author": null,
+          "description": "（株）ステアウェイ（TDB企業コード：989931969、東京都杉並区下井草2-10-22）は、7月7日に東京地裁より破産手続き開始決定を受けた。\n破産管財人は大江耕治弁護士（東京都千代田区麹町4-",
+          "link": "https://news.yahoo.co.jp/articles/46e956ed82c8218b9e40e4385d9f617048250032?source=rss",
+          "publishedOn": "2021-07-14T02:05:17.000Z",
+          "wordCount": 71,
+          "title": "映画『愛の渦』制作会社のステアウェイが破産(帝国データバンク)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fc28f9a0fbed03c4cdee255bef32175c82853f9f?source=rss",
+          "author": null,
+          "description": "東京製鉄は13日、8月契約分の鋼材販売価格（店売り向け）について、厚板を前月比でトン当たり5000円、条鋼品種を同3000円引き上げると発表した。薄板類は販価を据え置いた。厚板は4カ月連続で、条鋼品種",
+          "link": "https://news.yahoo.co.jp/articles/fc28f9a0fbed03c4cdee255bef32175c82853f9f?source=rss",
+          "publishedOn": "2021-07-14T02:04:50.000Z",
+          "wordCount": 63,
+          "title": "東京製鉄8月契約販価、厚板5000円・条鋼3000円上げ　薄板類は据え置き(日刊産業新聞)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/479803e0f4b0801c43bec4d1879dd068d0e7c200?source=rss",
+          "author": null,
+          "description": "高いスポーツ性とスマートなルックス、日常での扱いやすさも兼ね備えたのが、ヤマハのYZF-Rシリーズのアンダー400クラス。「毎日乗れるスーパーバイク」をコンセプトに開発されたのが「YZF-R3 AB",
+          "link": "https://news.yahoo.co.jp/articles/479803e0f4b0801c43bec4d1879dd068d0e7c200?source=rss",
+          "publishedOn": "2021-07-14T02:03:47.000Z",
+          "wordCount": 76,
+          "title": "ヤマハのスーパースポーツ「YZF-R3  ABS」に乗ってみた！(バイクのニュース)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/220c8f65fb82cf448a3ce5d42cc06cc1381270f1?source=rss",
+          "author": null,
+          "description": "アメリカでは人口の約半数の48％が新型コロナワクチン接種を完了し、最低1回は接種した大人の割合は7割近くに達した。一見、マスクなしの日常が完全に戻ってきたように見えるが、そんな「ワクチン後の世界」で",
+          "link": "https://news.yahoo.co.jp/articles/220c8f65fb82cf448a3ce5d42cc06cc1381270f1?source=rss",
+          "publishedOn": "2021-07-14T02:01:44.000Z",
+          "wordCount": 69,
+          "title": "あまりに複雑「ワクチン後の世界」の人付き合い(東洋経済オンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e95ac96bfd5f4e5714e4f021a43f8ee7e93d7bd0?source=rss",
+          "author": null,
+          "description": "競争の苛烈さで知られている「美容業界」へ飛び込んだ、証券会社元ディーラー。なんとか軌道に乗せた美容室経営も、コロナ禍で一変。度重なる緊急事態宣言の発令で客足が戻らない。日に日に経営状況が悪化し、従業員",
+          "link": "https://news.yahoo.co.jp/articles/e95ac96bfd5f4e5714e4f021a43f8ee7e93d7bd0?source=rss",
+          "publishedOn": "2021-07-14T02:01:20.000Z",
+          "wordCount": 75,
+          "title": "緊急事態宣言で予約は真っ白…コロナ禍直撃の「美容室」の実録(幻冬舎ゴールドオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7bdd3aae641019bc4122ae6b9eac811ef7a18389?source=rss",
+          "author": null,
+          "description": "日々発表される統計や調査の結果を読み解けば、経済、健康、教育など、さまざまな一面がみえてきます。今回、焦点をあてるのは「会社員の生涯賃金」。新卒から定年までに手にする給料、総額はいくらいになるのでしょ",
+          "link": "https://news.yahoo.co.jp/articles/7bdd3aae641019bc4122ae6b9eac811ef7a18389?source=rss",
+          "publishedOn": "2021-07-14T02:01:20.000Z",
+          "wordCount": 103,
+          "title": "会社員の「生涯賃金」…業種格差「2億8000万円」という哀しい現実(幻冬舎ゴールドオンライン)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/22950ec8c4ec66adc55fe01f2f318f04d966bc53?source=rss",
+          "author": null,
+          "description": "ユニクロ（UNIQLO）のグラフィックTシャツブランド「UT」は、Tシャツをキャンバスとして自由な発想でグラフィックやメッセージなどを表現するデザインコンペティション「UTグランプリ（UT GRAND",
+          "link": "https://news.yahoo.co.jp/articles/22950ec8c4ec66adc55fe01f2f318f04d966bc53?source=rss",
+          "publishedOn": "2021-07-14T02:00:40.000Z",
+          "wordCount": 87,
+          "title": "ユニクロのTシャツコンペは“ピーナッツ”がテーマ　入賞デザインは全世界で販売(WWDJAPAN.com)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d24f6956cf9b042c10d017e6d3ee4f008251dd34?source=rss",
+          "author": null,
+          "description": "東京ばな奈ワールドは、関越道・三芳パーキングエリア（下り線）にて『東京ばな奈ソフトクリーム』を7月15日から8月31日までの期間限定で販売する。\n\n「東京ばな奈ワールド」は1991年、“新しい時代の東",
+          "link": "https://news.yahoo.co.jp/articles/d24f6956cf9b042c10d017e6d3ee4f008251dd34?source=rss",
+          "publishedOn": "2021-07-14T02:00:03.000Z",
+          "wordCount": 68,
+          "title": "お土産にできない東京ばな奈…ソフトクリームが期間限定で登場　関越道・三芳PA(レスポンス)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/782e29dbc91fd4213e053240be60dd1a601616bc?source=rss",
+          "author": null,
+          "description": "このところ、高速道路の料金を改定する動きが目立っている。\n\n　すでに決定済みの東京オリンピック・パラリンピック(以下五輪)開催期間中の首都高速特別料金はともかくとしても、その後も都市高速、一般高速道",
+          "link": "https://news.yahoo.co.jp/articles/782e29dbc91fd4213e053240be60dd1a601616bc?source=rss",
+          "publishedOn": "2021-07-14T02:00:00.000Z",
+          "wordCount": 90,
+          "title": "負担ばっかり増えてないか?? 高速道路の料金が最近何かおかしい(ベストカーWeb)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d5892f142e96f810b695db806dcd7a9bb7d9194a?source=rss",
+          "author": null,
+          "description": "■ 復活したサファリラリーで、1-2フィニッシュを達成したトヨタ\n\n　6月24日～27日にかけて開催されたWRC（世界ラリー選手権）第6戦「サファリ・ラリー・ケニア」。19年ぶりに復活したサファリラリ",
+          "link": "https://news.yahoo.co.jp/articles/d5892f142e96f810b695db806dcd7a9bb7d9194a?source=rss",
+          "publishedOn": "2021-07-14T01:51:42.000Z",
+          "wordCount": 144,
+          "title": "トヨタのアフリカビジネスを担当する豊田通商アフリカ本部COO 今井斗志光氏にサファリラリー優勝の意義とアフリカ市場について聞く(Impress Watch)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3ae6c17fadfa568fddc2cf2d5f4d39e2ecb3731f?source=rss",
+          "author": null,
+          "description": "CDC（米疾病対策センター）は5月、新型コロナウイルスに対するワクチンの接種を完了した者は、地域の法律や規則でマスクの着用が義務づけられている場合を除き、屋内でのマスク着用を不要とする新たな指針を発表",
+          "link": "https://news.yahoo.co.jp/articles/3ae6c17fadfa568fddc2cf2d5f4d39e2ecb3731f?source=rss",
+          "publishedOn": "2021-07-14T01:51:01.000Z",
+          "wordCount": 88,
+          "title": "マスク 着用方針ついて、小売従業員 4人に「本音」を訊いた ： ワクチン接種が進む 米国の現場(DIGIDAY［日本版］)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2812f2b7f99775056a43c266ccdedc5ca93a4bfc?source=rss",
+          "author": null,
+          "description": "利用者減少を受けて今年１０月から在来線の減便を検討しているＪＲ西日本に対して、関西広域連合が沿線住民への配慮を求める要望書を提出しました。\n\n　ＪＲ西日本は、新型コロナウイルスによる利用者の減少を受",
+          "link": "https://news.yahoo.co.jp/articles/2812f2b7f99775056a43c266ccdedc5ca93a4bfc?source=rss",
+          "publishedOn": "2021-07-14T01:48:00.000Z",
+          "wordCount": 67,
+          "title": "“在来線減便”検討するＪＲ西日本に関西広域連合が要望書「コロナ終息で元の本数に」(MBSニュース)"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/2b8add52992375dc87b023082a51c06530a6f8a1?source=rss",
           "author": null,
